@@ -1,0 +1,45 @@
+{
+  "name": "gfw-api-settings",
+  "version": "1.0.0",
+  "description": "REST API to obtain global GFW platform settings",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlobalFishingWatch/api-settings.git"
+  },
+  "author": "Global Fishing Watch",
+  "bugs": {
+    "url": "https://github.com/GlobalFishingWatch/api-settings/issues"
+  },
+  "homepage": "https://github.com/GlobalFishingWatch/api-settings#readme",
+  "engines": {
+    "node": "~6.2"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "start": "per-env",
+    "start:production": "node src/index.js",
+    "start:development": "nodemon --inspect=0.0.0.0 -e js,yaml src/index.js",
+    "test": "eslint src"
+  },
+  "dependencies": {
+    "@google-cloud/datastore": "^3.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-winston": "^3.0.1",
+    "lodash": "^4.17.4",
+    "nodemon": "^1.18.6",
+    "per-env": "^1.0.2",
+    "swagger-tools": "^0.10.1",
+    "winston": "^3.0.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.17.0"
+  }
+}

@@ -1,0 +1,161 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: Vessel Events
+  description: |
+    The GFW Settings API exposes settings and metadata about the GFW platform. This comes in 2 flavours: global settings, such as service discovery, and dataset metadata.
+
+
+definitions:
+
+  Dataset:
+    type: object
+    required:
+      - id
+      - canonicalName
+      - pipeline
+      - eventsTable
+      - tracksTable
+      - vesselsTable
+      - vesselIndex
+      - supportedEventTypes
+    properties:
+      id:
+        type: string
+        description: |
+          Dynamic identifier
+      canonicalName:
+        type: string
+        description: |
+          Canonical name for this dataset. You can store a reference to the canonical name and use it as an id to always access the same dataset
+      pipeline:
+        type: string
+        description: |
+          Name of the pipeline which generated this dataset.
+      eventsTable:
+        type: string
+        description: |
+          Table in the central api database which contains the indexed events of this dataset.
+      tracksTable:
+        type: string
+        description: |
+          Table in the PostGIS api database which contains the indexed vessel tracks for this dataset.
+      vesselsTable:
+        type: string
+        description: |
+          Table in the PostGIS api database which contains the segment to vessel mapping for this dataset.
+      vesselIndex:
+        type: string
+        description: |
+          Index in the ElasticSearch server which contains the vessel information index for this dataset.
+      supportedEventTypes:
+        type: array
+        description: |
+          List of event types supported by this dataset.
+        items:
+          type: string
+
+  ValidationError:
+    type: object
+    required:
+      - fields
+      - general
+    properties:
+      fields:
+        type: array
+        items:
+          type: object
+          required:
+            - field
+            - errors
+          properties:
+            field:
+              type: string
+            errors:
+              type: array
+              items:
+                type: object
+                required:
+                  - code
+                  - description
+                properties:
+                  code:
+                    type: string
+                  description:
+                    type: string
+      general:
+        type: array
+        items:
+          type: object
+          required:
+            - code
+            - description
+          properties:
+            code:
+              type: string
+            description:
+              type: string
+
+responses:
+  BadRequest:
+    description: |
+      Bad request. Invalid or wrong parameters were provided.
+    schema:
+      $ref: '#/definitions/ValidationError'
+
+  Unauthorized:
+    description: |
+      Unauthorized, either the api key is invalid or expired.
+
+  NotFound:
+    description: |
+      Not found. Either the dataset does not exist, or the specific entity
+      which was requested does not exist.
+
+paths:
+  "/datasets":
+    get:
+      summary: |
+        Obtains a list of available datasets
+      description: |
+        Obtains a summary of all the available datasets, including only fully-qualified identifiers for each dataset.
+      produces: 
+        - application/json
+      responses:
+        '200':
+          description: |
+            Expected response to a successful request.
+          schema:
+            type: array
+            description: |
+              List of dataset identifiers
+            items:
+              $ref: '#/definitions/Dataset'
+
+  "/datasets/{dataset}":
+    get:
+      summary: |
+        Obtains detailed dataset information
+      description: |
+        Obtains detailed information about a specific dataset.
+      produces:
+        - application/json
+      parameters:
+        - name: dataset
+          in: path
+          description: |
+            Name of the dataset you want to query
+          required: true
+          type: string
+      responses:
+        '200':
+          description: |
+            Expected response to a successful request.
+          schema:
+            $ref: '#/definitions/Dataset'
+        '401':
+          $ref: '#/responses/Unauthorized'
+        '400':
+          $ref: '#/responses/BadRequest'
+        '404':
+          $ref: '#/responses/NotFound'
