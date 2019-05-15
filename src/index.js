@@ -12,6 +12,7 @@ const start = async () => {
     const swaggerMiddleware = await swagger;
     const app = express();
 
+    app.enable("trust proxy");
     app.use(logMiddleware.logger());
     app.use(cors.simple());
     app.use(swaggerMiddleware.swaggerMetadata());

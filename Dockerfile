@@ -1,14 +1,11 @@
 ################################################################################
 # Base dependencies
 ################################################################################
-FROM gcr.io/google_appengine/nodejs AS dependencies
+FROM node:10 AS dependencies
 
 # Setup the project directory
 RUN mkdir -p /opt/project
 WORKDIR /opt/project
-
-# Setup nodejs
-RUN install_node 10.15.3
 
 # Setup application dependencies
 copy package*.json /opt/project/
@@ -25,5 +22,6 @@ RUN npm --unsafe-perm install --only development
 ################################################################################
 # Productive environment
 ################################################################################
+FROM dependencies AS production
 # Setup the application code
 COPY src /opt/project/src

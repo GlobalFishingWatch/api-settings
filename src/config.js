@@ -27,16 +27,15 @@ module.exports = {
   log: {
     level: entry({
       key: "LOG_LEVEL",
-      doc:
-        "Logging level. In increasing amount of logs: error, warn, info, verbose, debug, silly",
-      defaults: { development: "debug", production: "warn" },
+      doc: "Logging level.",
+      defaults: { all: "debug" },
       required: true
     })
   },
 
   server: {
     host: entry({
-      key: "SERVER_HOST",
+      key: "HOST",
       doc: "Protocol, host and port where the server is exposed to clients.",
       defaults: { development: "http://localhost:8080" },
       required: true
@@ -50,7 +49,7 @@ module.exports = {
     }),
 
     protocol: entry({
-      key: "SERVER_PROTOCOL",
+      key: "PROTOCOL",
       doc: "Protocol by which the server is exposed to clients.",
       defaults: { development: "http", production: "https" },
       required: true
@@ -77,7 +76,7 @@ module.exports = {
       namespace: entry({
         key: "GCLOUD_DATASTORE_NAMESPACE",
         doc:
-          'Namespace to scope all datastore operations to. On development this should be set to something unique to the user, such as "andres--events-api"',
+          'Namespace to scope all datastore operations to. On development this should be set to something unique to the user, such as "andres--api"',
         required: true
       })
     }
