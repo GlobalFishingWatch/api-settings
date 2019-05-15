@@ -60,7 +60,7 @@ module.exports = {
   gcloud: {
     datastore: {
       projectId: entry({
-        key: "GCLOUD_PROJECTID_DATASTORE",
+        key: "GCLOUD_DATASTORE_PROJECTID",
         doc: "Google cloud platform project id for the datastore services.",
         defaults: { development: "world-fishing-827" },
         required: true
