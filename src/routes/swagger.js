@@ -4,8 +4,4 @@ module.exports = app => {
   app.get("/openapi.json", (req, res) => {
     res.json(api);
   });
-
-  app.get("/error", () => {
-    throw new Error("Invalid frumbulator");
-  });
 };

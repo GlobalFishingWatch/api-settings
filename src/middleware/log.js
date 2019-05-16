@@ -40,7 +40,7 @@ module.exports = {
       const stack = err.stack || "(no stack trace)";
       const logMessage = [`uncaught exception ${message}:`, stack].join("\n");
       log.error(logMessage);
-      next();
+      next(err);
     };
   }
 };
