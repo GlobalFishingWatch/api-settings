@@ -12,9 +12,6 @@
     "url": "https://github.com/GlobalFishingWatch/api-settings/issues"
   },
   "homepage": "https://github.com/GlobalFishingWatch/api-settings#readme",
-  "engines": {
-    "node": "~6.2"
-  },
   "main": "src/index.js",
   "scripts": {
     "start": "per-env",
