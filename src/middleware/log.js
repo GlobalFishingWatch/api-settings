@@ -1,4 +1,3 @@
-const expressWinston = require("express-winston");
 const url = require("url");
 const log = require("../data/log");
 

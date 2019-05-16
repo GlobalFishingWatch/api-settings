@@ -6,7 +6,6 @@ services:
       context: .
       target: development
     env_file: ./dev/env
-    command: npm start
     volumes:
       - "./src:/opt/project/src"
       - "./spec:/opt/project/spec"

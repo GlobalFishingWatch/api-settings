@@ -7,6 +7,9 @@ FROM node:10 AS dependencies
 RUN mkdir -p /opt/project
 WORKDIR /opt/project
 
+# Setup default command
+CMD ["npm", "start"]
+
 # Setup application dependencies
 copy package*.json /opt/project/
 RUN npm --unsafe-perm install --only production
