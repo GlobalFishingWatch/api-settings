@@ -12,6 +12,7 @@ services:
       - "./package.json:/opt/project/package.json"
       - "./.eslintrc.js:/opt/project/.eslintrc.js"
       - "./dev:/opt/project/dev"
+      - "~/.config/gcloud:/root/.config/gcloud"
     ports:
       - "8080:8080"
       - "9229:9229"

@@ -44,7 +44,7 @@ module.exports = {
     port: entry({
       key: "PORT",
       doc: "Port on which the server is exposed to clients.",
-      defaults: { all: 8080 },
+      defaults: { development: 8080 },
       required: true
     }),
 
@@ -63,14 +63,6 @@ module.exports = {
         doc: "Google cloud platform project id for the datastore services.",
         defaults: { development: "world-fishing-827" },
         required: true
-      }),
-
-      keyFilename: entry({
-        key: "GCLOUD_KEY_FILENAME",
-        doc:
-          "Location of the json key file for authorizing with the datastore services",
-        defaults: { development: "/opt/project/dev/key.json" },
-        required: false
       }),
 
       namespace: entry({
