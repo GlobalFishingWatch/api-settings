@@ -1,0 +1,16 @@
+steps:
+  # Run tests
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ["build", "--target", "development", "-t", "gfw/api-settings:development", "."]
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ["run", "gfw/api-settings:development", "npm", "test"]
+
+  # Push production image to GCR
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ["build", "--target", "production", "-t", "gcr.io/world-fishing-827/github.com/globalfishingwatch/api-settings:$COMMIT_SHA", "."]
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ["push", "gcr.io/world-fishing-827/github.com/globalfishingwatch/api-settings:$COMMIT_SHA" ]
+
+  # Deploy to the appropriate environment
+  - name: 'gcr.io/cloud-builders/gcloud'
+    args: ['beta', 'run', 'deploy', '$_RUN_SERVICE_NAME', '--image', 'gcr.io/$PROJECT_ID/api-settings:$COMMIT_SHA', '--region', '$_RUN_REGION']
