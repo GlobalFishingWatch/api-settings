@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: Vessel Events
+  title: Settings
   description: |
     The GFW Settings API exposes settings and metadata about the GFW platform. This comes in 2 flavours: global settings, such as service discovery, and dataset metadata.
 
