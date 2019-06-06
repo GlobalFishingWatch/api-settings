@@ -1,4 +1,5 @@
 const express = require("express");
+const compression = require("compression");
 const log = require("./data/log");
 const swagger = require("./middleware/swagger");
 const cors = require("./middleware/cors");
@@ -14,6 +15,7 @@ const start = async () => {
 
     app.enable("trust proxy");
     app.use(logMiddleware.logger());
+    app.use(compression());
     app.use(cors.simple());
     app.use(swaggerMiddleware.swaggerMetadata());
     app.use(swaggerMiddleware.swaggerValidator());
