@@ -8,6 +8,48 @@ info:
 
 definitions:
 
+  PlatformSettings:
+    type: object
+    required:
+      - services
+    properties:
+      services:
+        type: object
+        required:
+          - pelagos
+          - vessels
+          - events
+          - auth
+          - settings
+        properties:
+          pelagos:
+            $ref: '#/definitions/PlatformService'
+          vessels:
+            $ref: '#/definitions/PlatformService'
+          events:
+            $ref: '#/definitions/PlatformService'
+          auth:
+            $ref: '#/definitions/PlatformService'
+          settings:
+            $ref: '#/definitions/PlatformService'
+
+  PlatformService:
+    type: object
+    required:
+      - server
+      - openAPI
+    properties:
+      server:
+        type: string
+        description: |
+          Protocol, host and port for the server of this service.
+        example: "http://service.api.globalfishingwatch.org"
+      openAPI:
+        type: string
+        description: |
+          Path, relative to the server root, where the OpenAPI document resides.
+        example: "api/v2/openapi.json"
+
   Dataset:
     type: object
     required:
@@ -113,6 +155,21 @@ responses:
       which was requested does not exist.
 
 paths:
+  "/platform":
+    get:
+      summary: |
+        Obtains a document which describes the platform endpoints.
+      description: |
+        Obtains a document which lists all the endoints for the services in the platform.
+      produces:
+        - application/json
+      responses:
+        '200':
+          description: |
+            Expected response to a successful request.
+          schema:
+            $ref: '#/definitions/PlatformSettings'
+
   "/datasets":
     get:
       summary: |

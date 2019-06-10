@@ -24,6 +24,98 @@ module.exports = greenpeace.sanitizeEnvironment(environments, {
     })
   },
 
+  services: {
+    pelagos: {
+      server: greenpeace.entry({
+        key: "API_PELAGOS_SERVER",
+        doc: "Protocol, host and port for the pelagos API.",
+        defaults: {
+          development: "https://api-dot-world-fishing-827.appspot.com"
+        },
+        required: true
+      }),
+
+      openAPI: greenpeace.entry({
+        key: "API_PELAGOS_OPENAPI",
+        doc: "Path to the OpenAPI spec for the pelagos API.",
+        defaults: { all: "api/v2" },
+        required: true
+      })
+    },
+
+    vessels: {
+      server: greenpeace.entry({
+        key: "API_VESSELS_SERVER",
+        doc: "Protocol, host and port for the vessels API.",
+        defaults: {
+          development: "https://vessels.api.dev.globalfishingwatch.org"
+        },
+        required: true
+      }),
+
+      openAPI: greenpeace.entry({
+        key: "API_VESSELS_OPENAPI",
+        doc: "Path to the OpenAPI spec for the vessels API.",
+        defaults: { all: "openapi.json" },
+        required: true
+      })
+    },
+
+    events: {
+      server: greenpeace.entry({
+        key: "API_EVENTS_SERVER",
+        doc: "Protocol, host and port for the events API.",
+        defaults: {
+          development: "https://events.api.dev.globalfishingwatch.org"
+        },
+        required: true
+      }),
+
+      openAPI: greenpeace.entry({
+        key: "API_EVENTS_OPENAPI",
+        doc: "Path to the OpenAPI spec for the events API.",
+        defaults: { all: "openapi.json" },
+        required: true
+      })
+    },
+
+    auth: {
+      server: greenpeace.entry({
+        key: "API_AUTH_SERVER",
+        doc: "Protocol, host and port for the auth API.",
+        defaults: {
+          development: "https://auth.api.dev.globalfishingwatch.org"
+        },
+        required: true
+      }),
+
+      openAPI: greenpeace.entry({
+        key: "API_AUTH_OPENAPI",
+        doc: "Path to the OpenAPI spec for the auth API.",
+        defaults: { all: "openapi.json" },
+        required: true
+      })
+    },
+
+    settings: {
+      server: greenpeace.entry({
+        key: "API_SETTINGS_SERVER",
+        doc: "Protocol, host and port for the settings API.",
+        defaults: {
+          development: "https://settings.api.dev.globalfishingwatch.org"
+        },
+        required: true
+      }),
+
+      openAPI: greenpeace.entry({
+        key: "API_SETTINGS_OPENAPI",
+        doc: "Path to the OpenAPI spec for the settings API.",
+        defaults: { all: "openapi.json" },
+        required: true
+      })
+    }
+  },
+
   server: {
     host: greenpeace.entry({
       key: "HOST",
