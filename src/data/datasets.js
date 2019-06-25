@@ -28,11 +28,20 @@ module.exports = {
       .then(queryResults => queryResults[0].map(datastoreEntityToDataset));
   },
 
-  get(id) {
+  async get(id) {
     const actualId = this.fullyQualifiedId(id);
     const key = datastore.key([datasetKind, actualId]);
-    return datastore
-      .get(key)
-      .then(queryResult => datastoreEntityToDataset(queryResult[0]));
+    const result = await datastore.get(key);
+    return result[0];
+  },
+
+  async getMultiple(ids) {
+    const keys = ids
+      .map(id => this.fullyQualifiedId(id))
+      .map(id => datastore.key([datasetKind, id]));
+
+    const result = await datastore.get(keys);
+
+    return result[0].map(datastoreEntityToDataset);
   }
 };

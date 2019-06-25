@@ -1,47 +1,41 @@
 const datasets = require("../data/datasets");
 const log = require("../data/log");
 
-const loadDataset = async (req, res, next) => {
-  try {
-    const datasetId = req.swagger.params.dataset.value;
-
-    log.debug(`Loading dataset ${datasetId}`);
-    const dataset = await datasets.get(datasetId);
-    if (!dataset) {
-      log.debug(`Dataset ${datasetId} does not exist`);
-      return res.sendStatus(404);
-    }
-    req.dataset = dataset;
-    return next();
-  } catch (err) {
-    return next(err);
-  }
-};
-
 module.exports = app => {
   app.get("/datasets", async (req, res, next) => {
     try {
-      const result = await datasets.list();
-      return res.json(result);
+      const ids = req.swagger.params.ids.value;
+
+      if (ids && ids.length > 0) {
+        log.debug(`Requesting specific datasets ${ids}`);
+        const results = await datasets.getMultiple(ids);
+        if (!results || results.length < ids.length) {
+          log.debug(`Requesting unexisting dataset in ${ids}`);
+          return res.sendStatus(404);
+        }
+
+        return res.json(results);
+      }
+
+      log.debug("Requesting all datasets");
+      const results = await datasets.list();
+      return res.json(results);
     } catch (error) {
       return next(error);
     }
   });
 
-  app.get("/datasets/:dataset", loadDataset, async (req, res, next) => {
+  app.get("/datasets/:dataset", async (req, res, next) => {
     try {
-      const datasetId = req.swagger.params.dataset.value;
+      const id = req.swagger.params.dataset.value;
 
-      log.debug(`Loading dataset ${datasetId}`);
-      const dataset = await datasets.get(datasetId);
-      if (!dataset) {
-        log.debug(`Dataset ${datasetId} does not exist`);
+      log.debug(`Loading dataset ${id}`);
+      const result = await datasets.get(id);
+      if (!result) {
+        log.debug(`Dataset ${id} does not exist`);
         return res.sendStatus(404);
       }
-      return res.json({
-        name: req.swagger.params.dataset.value,
-        ...dataset
-      });
+      return res.json(result);
     } catch (error) {
       return next(error);
     }
