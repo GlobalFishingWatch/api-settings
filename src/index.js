@@ -1,4 +1,6 @@
 const express = require("express");
+const helmet = require("helmet");
+const compression = require("compression");
 const log = require("./data/log");
 const swagger = require("./middleware/swagger");
 const cors = require("./middleware/cors");
@@ -13,7 +15,9 @@ const start = async () => {
     const app = express();
 
     app.enable("trust proxy");
+    app.use(helmet());
     app.use(logMiddleware.logger());
+    app.use(compression());
     app.use(cors.simple());
     app.use(swaggerMiddleware.swaggerMetadata());
     app.use(swaggerMiddleware.swaggerValidator());
