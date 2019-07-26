@@ -44,14 +44,15 @@ module.exports = app => {
 
   app.get("/datasets/:dataset/config", async (req, res, next) => {
     try {
-      // const id = req.swagger.params.dataset.value;
+      const id = req.swagger.params.dataset.value;
 
-      // log.debug(`Loading dataset ${id}`);
-      // const result = await datasets.get(id);
-      // if (!result) {
-      //   log.debug(`Dataset ${id} does not exist`);
-      //   return res.sendStatus(404);
-      // }
+      log.debug(`Loading dataset ${id}`);
+      const result = await datasets.get(id);
+      if (!result) {
+        log.debug(`Dataset ${id} does not exist`);
+        return res.sendStatus(404);
+      }
+      log.debug("Requesting dataset config");
       const config = await configData.get()
       return res.json(config);
     } catch (error) {
