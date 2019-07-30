@@ -1,14 +1,19 @@
-const flagsData = require("./flags");
-const rfmosData = require("./rfmos");
-const portsData = require("./ports");
+const flagsData = require('./flags');
+const rfmosData = require('./rfmos');
+const portsData = require('./ports');
 
 module.exports = {
   async get() {
-    return {
-      ports: await portsData.get(),
-      rfmos: await rfmosData.get(),
-      flagStates: await flagsData.get(),
-      flagStateGroups: await flagsData.getGroups(),
+    try {
+      const [ports, rfmos, flagStates, flagStateGroups] = await Promise.all([
+        portsData.get(),
+        rfmosData.get(),
+        flagsData.get(),
+        flagsData.getGroups()
+      ]);
+      return { ports, rfmos, flagStates, flagStateGroups };
+    } catch(error) {
+      log.error(`Error getting config: ${error}`);
     }
   }
 };
