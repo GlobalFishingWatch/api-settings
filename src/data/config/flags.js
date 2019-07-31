@@ -2,1100 +2,1111 @@ module.exports = {
   async get() {
     return [
       {
-        "id": "ABW",
-        "label": "Aruba"
+        id: "ABW",
+        label: "Aruba"
       },
       {
-        "id": "AFG",
-        "label": "Afghanistan"
+        id: "AFG",
+        label: "Afghanistan"
       },
       {
-        "id": "AGO",
-        "label": "Angola"
+        id: "AGO",
+        label: "Angola"
       },
       {
-        "id": "AIA",
-        "label": "Anguilla"
+        id: "AIA",
+        label: "Anguilla"
       },
       {
-        "id": "ALA",
-        "label": "Åland Islands"
+        id: "ALA",
+        label: "Åland Islands"
       },
       {
-        "id": "ALB",
-        "label": "Albania"
+        id: "ALB",
+        label: "Albania"
       },
       {
-        "id": "AND",
-        "label": "Andorra"
+        id: "AND",
+        label: "Andorra"
       },
       {
-        "id": "ARE",
-        "label": "United Arab Emirates"
+        id: "ARE",
+        label: "United Arab Emirates"
       },
       {
-        "id": "ARG",
-        "label": "Argentina"
+        id: "ARG",
+        label: "Argentina"
       },
       {
-        "id": "ARM",
-        "label": "Armenia",
-        "alias": "Hayastan"
+        id: "ARM",
+        label: "Armenia",
+        alias: "Hayastan"
       },
       {
-        "id": "ASM",
-        "label": "American Samoa",
-        "alias": "Amerika Sāmoa"
+        id: "ASM",
+        label: "American Samoa",
+        alias: "Amerika Sāmoa"
       },
       {
-        "id": "ATA",
-        "label": "Antarctica"
+        id: "ATA",
+        label: "Antarctica"
       },
       {
-        "id": "ATF",
-        "label": "French Southern and Antarctic Lands",
-        "alias": "Terres australes et antarctiques françaises"
+        id: "ATF",
+        label: "French Southern and Antarctic Lands",
+        alias: "Terres australes et antarctiques françaises"
       },
       {
-        "id": "ATG",
-        "label": "Antigua and Barbuda"
+        id: "ATG",
+        label: "Antigua and Barbuda"
       },
       {
-        "id": "AUS",
-        "label": "Australia"
+        id: "AUS",
+        label: "Australia"
       },
       {
-        "id": "AUT",
-        "label": "Austria",
-        "alias": "Österreich"
+        id: "AUT",
+        label: "Austria",
+        alias: "Österreich"
       },
       {
-        "id": "AZE",
-        "label": "Azerbaijan",
-        "alias": "Azərbaycan"
+        id: "AZE",
+        label: "Azerbaijan",
+        alias: "Azərbaycan"
       },
       {
-        "id": "BDI",
-        "label": "Burundi"
+        id: "BDI",
+        label: "Burundi"
       },
       {
-        "id": "BEL",
-        "label": "Belgium",
-        "alias": ["België", "Belgique", "Belgien"]
+        id: "BEL",
+        label: "Belgium",
+        alias: ["België", "Belgique", "Belgien"]
       },
       {
-        "id": "BEN",
-        "label": "Benin"
+        id: "BEN",
+        label: "Benin"
       },
       {
-        "id": "BFA",
-        "label": "Burkina Faso"
+        id: "BFA",
+        label: "Burkina Faso"
       },
       {
-        "id": "BGD",
-        "label": "Bangladesh"
+        id: "BGD",
+        label: "Bangladesh"
       },
       {
-        "id": "BGR",
-        "label": "Bulgaria",
-        "alias": "Bǎlgariya"
+        id: "BGR",
+        label: "Bulgaria",
+        alias: "Bǎlgariya"
       },
       {
-        "id": "BHR",
-        "label": "Bahrain",
-        "alias": "Baḥrayn"
+        id: "BHR",
+        label: "Bahrain",
+        alias: "Baḥrayn"
       },
       {
-        "id": "BHS",
-        "label": "Bahamas"
+        id: "BHS",
+        label: "Bahamas"
       },
       {
-        "id": "BIH",
-        "label": "Bosnia and Herzegovina",
-        "alias": "Hercegovina"
+        id: "BIH",
+        label: "Bosnia and Herzegovina",
+        alias: "Hercegovina"
       },
       {
-        "id": "BLM",
-        "label": "Saint Barthélemy"
+        id: "BLM",
+        label: "Saint Barthélemy"
       },
       {
-        "id": "SHN",
-        "label": "Saint Helena Ascension and Tristan da Cunha"
+        id: "SHN",
+        label: "Saint Helena Ascension and Tristan da Cunha"
       },
       {
-        "id": "BLR",
-        "label": "Belarus"
+        id: "BLR",
+        label: "Belarus"
       },
       {
-        "id": "BLZ",
-        "label": "Belize"
+        id: "BLZ",
+        label: "Belize"
       },
       {
-        "id": "BMU",
-        "label": "Bermuda"
+        id: "BMU",
+        label: "Bermuda"
       },
       {
-        "id": "BOL",
-        "label": "Bolivia"
+        id: "BOL",
+        label: "Bolivia"
       },
       {
-        "id": "BES",
-        "label": "Caribbean Netherlands",
-        "alias": "Caribisch Nederland"
+        id: "BES",
+        label: "Caribbean Netherlands",
+        alias: "Caribisch Nederland"
       },
       {
-        "id": "BRA",
-        "label": "Brazil",
-        "alias": "Brasil"
+        id: "BRA",
+        label: "Brazil",
+        alias: "Brasil"
       },
       {
-        "id": "BRB",
-        "label": "Barbados"
+        id: "BRB",
+        label: "Barbados"
       },
       {
-        "id": "BRN",
-        "label": "Brunei"
+        id: "BRN",
+        label: "Brunei"
       },
       {
-        "id": "BTN",
-        "label": "Bhutan",
-        "alias": "Druk Gyal Khap"
+        id: "BTN",
+        label: "Bhutan",
+        alias: "Druk Gyal Khap"
       },
       {
-        "id": "BVT",
-        "label": "Bouvet Island"
+        id: "BVT",
+        label: "Bouvet Island"
       },
       {
-        "id": "BWA",
-        "label": "Botswana"
+        id: "BWA",
+        label: "Botswana"
       },
       {
-        "id": "CAF",
-        "label": "Central African Republic",
-        "alias": ["Ködörösêse tî Bêafrîka", "République centrafricaine"]
+        id: "CAF",
+        label: "Central African Republic",
+        alias: ["Ködörösêse tî Bêafrîka", "République centrafricaine"]
       },
       {
-        "id": "CAN",
-        "label": "Canada"
+        id: "CAN",
+        label: "Canada"
       },
       {
-        "id": "CCK",
-        "label": "Cocos (Keeling) Islands"
+        id: "CCK",
+        label: "Cocos (Keeling) Islands"
       },
       {
-        "id": "CHE",
-        "label": "Switzerland",
-        "alias": ["Schweizerische", "Suisse", "Svizzera", "Svizra", "Helvetica"]
+        id: "CHE",
+        label: "Switzerland",
+        alias: ["Schweizerische", "Suisse", "Svizzera", "Svizra", "Helvetica"]
       },
       {
-        "id": "CHL",
-        "label": "Chile"
+        id: "CHL",
+        label: "Chile"
       },
       {
-        "id": "CHN",
-        "label": "China",
-        "alias": "Zhōnghuá Rénmín Gònghéguó"
+        id: "CHN",
+        label: "China",
+        alias: "Zhōnghuá Rénmín Gònghéguó"
       },
       {
-        "id": "CIV",
-        "label": "Ivory Coast",
-        "alias": "Côte d'Ivoire"
+        id: "CIV",
+        label: "Ivory Coast",
+        alias: "Côte d'Ivoire"
       },
       {
-        "id": "CMR",
-        "label": "Cameroon",
-        "alias": "Cameroun"
+        id: "CMR",
+        label: "Cameroon",
+        alias: "Cameroun"
       },
       {
-        "id": "COD",
-        "label": "DR Congo",
-        "alias": "Kôngo"
+        id: "COD",
+        label: "DR Congo",
+        alias: "Kôngo"
       },
       {
-        "id": "COG",
-        "label": "Republic of the Congo",
-        "alias": "Kôngo"
+        id: "COG",
+        label: "Republic of the Congo",
+        alias: "Kôngo"
       },
       {
-        "id": "COK",
-        "label": "Cook Islands",
-        "alias": "Kūki 'Āirani"
+        id: "COK",
+        label: "Cook Islands",
+        alias: "Kūki 'Āirani"
       },
       {
-        "id": "COL",
-        "label": "Colombia"
+        id: "COL",
+        label: "Colombia"
       },
       {
-        "id": "COM",
-        "label": "Comoros",
-        "alias": ["Qumurī", "Komori"]
+        id: "COM",
+        label: "Comoros",
+        alias: ["Qumurī", "Komori"]
       },
       {
-        "id": "CPV",
-        "label": "Cape Verde",
-        "alias": "Kabu Verdi"
+        id: "CPV",
+        label: "Cape Verde",
+        alias: "Kabu Verdi"
       },
       {
-        "id": "CRI",
-        "label": "Costa Rica"
+        id: "CRI",
+        label: "Costa Rica"
       },
       {
-        "id": "CUB",
-        "label": "Cuba"
+        id: "CUB",
+        label: "Cuba"
       },
       {
-        "id": "CUW",
-        "label": "Curaçao"
+        id: "CUW",
+        label: "Curaçao"
       },
       {
-        "id": "CXR",
-        "label": "Christmas Island"
+        id: "CXR",
+        label: "Christmas Island"
       },
       {
-        "id": "CYM",
-        "label": "Cayman Islands"
+        id: "CYM",
+        label: "Cayman Islands"
       },
       {
-        "id": "CYP",
-        "label": "Cyprus",
-        "alias": "Cumhuriyeti"
+        id: "CYP",
+        label: "Cyprus",
+        alias: "Cumhuriyeti"
       },
       {
-        "id": "CZE",
-        "label": "Czech Republic",
-        "alias": "Česká"
+        id: "CZE",
+        label: "Czech Republic",
+        alias: "Česká"
       },
       {
-        "id": "DEU",
-        "label": "Germany",
-        "alias": "Deutschland"
+        id: "DEU",
+        label: "Germany",
+        alias: "Deutschland"
       },
       {
-        "id": "DJI",
-        "label": "Djibouti",
-        "alias": ["Jabuuti", "Gabuutih"]
+        id: "DJI",
+        label: "Djibouti",
+        alias: ["Jabuuti", "Gabuutih"]
       },
       {
-        "id": "DMA",
-        "label": "Dominica"
+        id: "DMA",
+        label: "Dominica"
       },
       {
-        "id": "DNK",
-        "label": "Denmark",
-        "alias": "Danmark"
+        id: "DNK",
+        label: "Denmark",
+        alias: "Danmark"
       },
       {
-        "id": "DOM",
-        "label": "Dominican Republic",
-        "alias": "República Dominicana"
+        id: "DOM",
+        label: "Dominican Republic",
+        alias: "República Dominicana"
       },
       {
-        "id": "DZA",
-        "label": "Algeria",
-        "alias": "Algérienne"
+        id: "DZA",
+        label: "Algeria",
+        alias: "Algérienne"
       },
       {
-        "id": "ECU",
-        "label": "Ecuador",
-        "alias": ["Ikwayur", "Ekuatur"]
+        id: "ECU",
+        label: "Ecuador",
+        alias: ["Ikwayur", "Ekuatur"]
       },
       {
-        "id": "EGY",
-        "label": "Egypt"
+        id: "EGY",
+        label: "Egypt"
       },
       {
-        "id": "ERI",
-        "label": "Eritrea"
+        id: "ERI",
+        label: "Eritrea"
       },
       {
-        "id": "ESH",
-        "label": "Western Sahara",
-        "alias": ["Taneẓroft Tutrimt", "Sahara Occidental"]
+        id: "ESH",
+        label: "Western Sahara",
+        alias: ["Taneẓroft Tutrimt", "Sahara Occidental"]
       },
       {
-        "id": "ESP",
-        "label": "Spain",
-        "alias": ["España"]
+        id: "ESP",
+        label: "Spain",
+        alias: ["España"]
       },
       {
-        "id": "EST",
-        "label": "Estonia",
-        "alias": "Eesti"
+        id: "EST",
+        label: "Estonia",
+        alias: "Eesti"
       },
       {
-        "id": "ETH",
-        "label": "Ethiopia"
+        id: "ETH",
+        label: "Ethiopia"
       },
       {
-        "id": "FIN",
-        "label": "Finland",
-        "alias": "Suomen"
+        id: "FIN",
+        label: "Finland",
+        alias: "Suomen"
       },
       {
-        "id": "FJI",
-        "label": "Fiji",
-        "alias": "Matanitu Tugalala o Viti"
+        id: "FJI",
+        label: "Fiji",
+        alias: "Matanitu Tugalala o Viti"
       },
       {
-        "id": "FLK",
-        "label": "Falkland Islands"
+        id: "FLK",
+        label: "Falkland Islands"
       },
       {
-        "id": "FRA",
-        "label": "France",
-        "alias": "française"
+        id: "FRA",
+        label: "France",
+        alias: "française"
       },
       {
-        "id": "FRO",
-        "label": "Faroe Islands"
+        id: "FRO",
+        label: "Faroe Islands"
       },
       {
-        "id": "FSM",
-        "label": "Micronesia"
+        id: "FSM",
+        label: "Micronesia"
       },
       {
-        "id": "GAB",
-        "label": "Gabon"
+        id: "GAB",
+        label: "Gabon"
       },
       {
-        "id": "GBR",
-        "label": "United Kingdom"
+        id: "GBR",
+        label: "United Kingdom"
       },
       {
-        "id": "GEO",
-        "label": "Georgia"
+        id: "GEO",
+        label: "Georgia"
       },
       {
-        "id": "GGY",
-        "label": "Guernsey"
+        id: "GGY",
+        label: "Guernsey"
       },
       {
-        "id": "GHA",
-        "label": "Ghana"
+        id: "GHA",
+        label: "Ghana"
       },
       {
-        "id": "GIB",
-        "label": "Gibraltar"
+        id: "GIB",
+        label: "Gibraltar"
       },
       {
-        "id": "GIN",
-        "label": "Guinea",
-        "alias": "Guinée"
+        id: "GIN",
+        label: "Guinea",
+        alias: "Guinée"
       },
       {
-        "id": "GLP",
-        "label": "Guadeloupe"
+        id: "GLP",
+        label: "Guadeloupe"
       },
       {
-        "id": "GMB",
-        "label": "Gambia"
+        id: "GMB",
+        label: "Gambia"
       },
       {
-        "id": "GNB",
-        "label": "Guinea-Bissau"
+        id: "GNB",
+        label: "Guinea-Bissau"
       },
       {
-        "id": "GNQ",
-        "label": "Equatorial Guinea"
+        id: "GNQ",
+        label: "Equatorial Guinea"
       },
       {
-        "id": "GRC",
-        "label": "Greece",
-        "alias": ["Ellinikí", "Hellas"]
+        id: "GRC",
+        label: "Greece",
+        alias: ["Ellinikí", "Hellas"]
       },
       {
-        "id": "GRD",
-        "label": "Grenada"
+        id: "GRD",
+        label: "Grenada"
       },
       {
-        "id": "GRL",
-        "label": "Greenland",
-        "alias": ["Kalaallit Nunaat", "Grønland"]
+        id: "GRL",
+        label: "Greenland",
+        alias: ["Kalaallit Nunaat", "Grønland"]
       },
       {
-        "id": "GTM",
-        "label": "Guatemala"
+        id: "GTM",
+        label: "Guatemala"
       },
       {
-        "id": "GUF",
-        "label": "French Guiana",
-        "alias": "Guyane"
+        id: "GUF",
+        label: "French Guiana",
+        alias: "Guyane"
       },
       {
-        "id": "GUM",
-        "label": "Guam",
-        "alias": "Guåhån"
+        id: "GUM",
+        label: "Guam",
+        alias: "Guåhån"
       },
       {
-        "id": "GUY",
-        "label": "Guyana"
+        id: "GUY",
+        label: "Guyana"
       },
       {
-        "id": "HKG",
-        "label": "Hong Kong"
+        id: "HKG",
+        label: "Hong Kong"
       },
       {
-        "id": "HMD",
-        "label": "Heard Island and McDonald Islands"
+        id: "HMD",
+        label: "Heard Island and McDonald Islands"
       },
       {
-        "id": "HND",
-        "label": "Honduras"
+        id: "HND",
+        label: "Honduras"
       },
       {
-        "id": "HRV",
-        "label": "Croatia",
-        "alias": "Hrvatska"
+        id: "HRV",
+        label: "Croatia",
+        alias: "Hrvatska"
       },
       {
-        "id": "HTI",
-        "label": "Haiti",
-        "alias": "Ayiti"
+        id: "HTI",
+        label: "Haiti",
+        alias: "Ayiti"
       },
       {
-        "id": "HUN",
-        "label": "Hungary",
-        "alias": "Magyarország"
+        id: "HUN",
+        label: "Hungary",
+        alias: "Magyarország"
       },
       {
-        "id": "IDN",
-        "label": "Indonesia"
+        id: "IDN",
+        label: "Indonesia"
       },
       {
-        "id": "IMN",
-        "label": "Isle of Man"
+        id: "IMN",
+        label: "Isle of Man"
       },
       {
-        "id": "IND",
-        "label": "India"
+        id: "IND",
+        label: "India"
       },
       {
-        "id": "IOT",
-        "label": "British Indian Ocean Territory"
+        id: "IOT",
+        label: "British Indian Ocean Territory"
       },
       {
-        "id": "IRL",
-        "label": "Ireland",
-        "alias": ["Éire", "Airlann"]
+        id: "IRL",
+        label: "Ireland",
+        alias: ["Éire", "Airlann"]
       },
       {
-        "id": "IRN",
-        "label": "Iran"
+        id: "IRN",
+        label: "Iran"
       },
       {
-        "id": "IRQ",
-        "label": "Iraq"
+        id: "IRQ",
+        label: "Iraq"
       },
       {
-        "id": "ISL",
-        "label": "Iceland",
-        "alias": "Ísland"
+        id: "ISL",
+        label: "Iceland",
+        alias: "Ísland"
       },
       {
-        "id": "ISR",
-        "label": "Israel"
+        id: "ISR",
+        label: "Israel"
       },
       {
-        "id": "ITA",
-        "label": "Italy",
-        "alias": "Italia"
+        id: "ITA",
+        label: "Italy",
+        alias: "Italia"
       },
       {
-        "id": "JAM",
-        "label": "Jamaica"
+        id: "JAM",
+        label: "Jamaica"
       },
       {
-        "id": "JEY",
-        "label": "Jersey"
+        id: "JEY",
+        label: "Jersey"
       },
       {
-        "id": "JOR",
-        "label": "Jordan"
+        id: "JOR",
+        label: "Jordan"
       },
       {
-        "id": "JPN",
-        "label": "Japan",
-        "alias": ["Nippon", "Nihon"]
+        id: "JPN",
+        label: "Japan",
+        alias: ["Nippon", "Nihon"]
       },
       {
-        "id": "KAZ",
-        "label": "Kazakhstan",
-        "alias": "Qazaqstan"
+        id: "KAZ",
+        label: "Kazakhstan",
+        alias: "Qazaqstan"
       },
       {
-        "id": "KEN",
-        "label": "Kenya"
+        id: "KEN",
+        label: "Kenya"
       },
       {
-        "id": "KGZ",
-        "label": "Kyrgyzstan",
-        "alias": "Kırğız"
+        id: "KGZ",
+        label: "Kyrgyzstan",
+        alias: "Kırğız"
       },
       {
-        "id": "KHM",
-        "label": "Cambodia",
-        "alias": ["kampuciə", "Cambodge"]
+        id: "KHM",
+        label: "Cambodia",
+        alias: ["kampuciə", "Cambodge"]
       },
       {
-        "id": "KIR",
-        "label": "Kiribati"
+        id: "KIR",
+        label: "Kiribati"
       },
       {
-        "id": "KNA",
-        "label": "Saint Kitts and Nevis"
+        id: "KNA",
+        label: "Saint Kitts and Nevis"
       },
       {
-        "id": "KOR",
-        "label": "South Korea",
-        "alias": "Daehan Minguk"
+        id: "KOR",
+        label: "South Korea",
+        alias: "Daehan Minguk"
       },
       {
-        "id": "UNK",
-        "label": "Kosovo"
+        id: "UNK",
+        label: "Kosovo"
       },
       {
-        "id": "KWT",
-        "label": "Kuwait"
+        id: "KWT",
+        label: "Kuwait"
       },
       {
-        "id": "LAO",
-        "label": "Laos"
+        id: "LAO",
+        label: "Laos"
       },
       {
-        "id": "LBN",
-        "label": "Lebanon",
-        "alias": ["Liban", "Lubnān"]
+        id: "LBN",
+        label: "Lebanon",
+        alias: ["Liban", "Lubnān"]
       },
       {
-        "id": "LBR",
-        "label": "Liberia"
+        id: "LBR",
+        label: "Liberia"
       },
       {
-        "id": "LBY",
-        "label": "Libya"
+        id: "LBY",
+        label: "Libya"
       },
       {
-        "id": "LCA",
-        "label": "Saint Lucia"
+        id: "LCA",
+        label: "Saint Lucia"
       },
       {
-        "id": "LIE",
-        "label": "Liechtenstein"
+        id: "LIE",
+        label: "Liechtenstein"
       },
       {
-        "id": "LKA",
-        "label": "Sri Lanka"
+        id: "LKA",
+        label: "Sri Lanka"
       },
       {
-        "id": "LSO",
-        "label": "Lesotho"
+        id: "LSO",
+        label: "Lesotho"
       },
       {
-        "id": "LTU",
-        "label": "Lithuania",
-        "alias": "Lietuva"
+        id: "LTU",
+        label: "Lithuania",
+        alias: "Lietuva"
       },
       {
-        "id": "LUX",
-        "label": "Luxembourg",
-        "alias": "Lëtzebuerg"
+        id: "LUX",
+        label: "Luxembourg",
+        alias: "Lëtzebuerg"
       },
       {
-        "id": "LVA",
-        "label": "Latvia",
-        "alias": "Latvijas"
+        id: "LVA",
+        label: "Latvia",
+        alias: "Latvijas"
       },
       {
-        "id": "MAC",
-        "label": "Macau"
+        id: "MAC",
+        label: "Macau"
       },
       {
-        "id": "MAF",
-        "label": "Saint Martin"
+        id: "MAF",
+        label: "Saint Martin"
       },
       {
-        "id": "MAR",
-        "label": "Morocco"
+        id: "MAR",
+        label: "Morocco"
       },
       {
-        "id": "MCO",
-        "label": "Monaco"
+        id: "MCO",
+        label: "Monaco"
       },
       {
-        "id": "MDA",
-        "label": "Moldova"
+        id: "MDA",
+        label: "Moldova"
       },
       {
-        "id": "MDG",
-        "label": "Madagascar"
+        id: "MDG",
+        label: "Madagascar"
       },
       {
-        "id": "MDV",
-        "label": "Maldives"
+        id: "MDV",
+        label: "Maldives"
       },
       {
-        "id": "MEX",
-        "label": "Mexico"
+        id: "MEX",
+        label: "Mexico"
       },
       {
-        "id": "MHL",
-        "label": "Marshall Islands"
+        id: "MHL",
+        label: "Marshall Islands"
       },
       {
-        "id": "MKD",
-        "label": "Macedonia"
+        id: "MKD",
+        label: "Macedonia"
       },
       {
-        "id": "MLI",
-        "label": "Mali"
+        id: "MLI",
+        label: "Mali"
       },
       {
-        "id": "MLT",
-        "label": "Malta"
+        id: "MLT",
+        label: "Malta"
       },
       {
-        "id": "MMR",
-        "label": "Myanmar",
-        "alias": "Burma"
+        id: "MMR",
+        label: "Myanmar",
+        alias: "Burma"
       },
       {
-        "id": "MNE",
-        "label": "Montenegro",
-        "alias": "Crna Gora"
+        id: "MNE",
+        label: "Montenegro",
+        alias: "Crna Gora"
       },
       {
-        "id": "MNG",
-        "label": "Mongolia"
+        id: "MNG",
+        label: "Mongolia"
       },
       {
-        "id": "MNP",
-        "label": "Northern Mariana Islands"
+        id: "MNP",
+        label: "Northern Mariana Islands"
       },
       {
-        "id": "MOZ",
-        "label": "Mozambique",
-        "alias": ["Mozambiki", "Msumbiji"]
+        id: "MOZ",
+        label: "Mozambique",
+        alias: ["Mozambiki", "Msumbiji"]
       },
       {
-        "id": "MRT",
-        "label": "Mauritania",
-        "alias": "Mūrītānīyah"
+        id: "MRT",
+        label: "Mauritania",
+        alias: "Mūrītānīyah"
       },
       {
-        "id": "MSR",
-        "label": "Montserrat"
+        id: "MSR",
+        label: "Montserrat"
       },
       {
-        "id": "MTQ",
-        "label": "Martinique"
+        id: "MTQ",
+        label: "Martinique"
       },
       {
-        "id": "MUS",
-        "label": "Mauritius"
+        id: "MUS",
+        label: "Mauritius"
       },
       {
-        "id": "MWI",
-        "label": "Malawi"
+        id: "MWI",
+        label: "Malawi"
       },
       {
-        "id": "MYS",
-        "label": "Malaysia"
+        id: "MYS",
+        label: "Malaysia"
       },
       {
-        "id": "MYT",
-        "label": "Mayotte"
+        id: "MYT",
+        label: "Mayotte"
       },
       {
-        "id": "NAM",
-        "label": "Namibia"
+        id: "NAM",
+        label: "Namibia"
       },
       {
-        "id": "NCL",
-        "label": "New Caledonia"
+        id: "NCL",
+        label: "New Caledonia"
       },
       {
-        "id": "NER",
-        "label": "Niger"
+        id: "NER",
+        label: "Niger"
       },
       {
-        "id": "NFK",
-        "label": "Norfolk Island"
+        id: "NFK",
+        label: "Norfolk Island"
       },
       {
-        "id": "NGA",
-        "label": "Nigeria",
-        "alias": ["Nijeriya", "Naìjíríyà"]
+        id: "NGA",
+        label: "Nigeria",
+        alias: ["Nijeriya", "Naìjíríyà"]
       },
       {
-        "id": "NIC",
-        "label": "Nicaragua"
+        id: "NIC",
+        label: "Nicaragua"
       },
       {
-        "id": "NIU",
-        "label": "Niue"
+        id: "NIU",
+        label: "Niue"
       },
       {
-        "id": "NLD",
-        "label": "Netherlands",
-        "alias": "Nederland"
+        id: "NLD",
+        label: "Netherlands",
+        alias: "Nederland"
       },
       {
-        "id": "NOR",
-        "label": "Norway",
-        "alias": "Norge"
+        id: "NOR",
+        label: "Norway",
+        alias: "Norge"
       },
       {
-        "id": "NPL",
-        "label": "Nepal"
+        id: "NPL",
+        label: "Nepal"
       },
       {
-        "id": "NRU",
-        "label": "Nauru"
+        id: "NRU",
+        label: "Nauru"
       },
       {
-        "id": "NZL",
-        "label": "New Zealand",
-        "alias": "Aotearoa"
+        id: "NZL",
+        label: "New Zealand",
+        alias: "Aotearoa"
       },
       {
-        "id": "OMN",
-        "label": "Oman",
-        "alias": "ʻUmān"
+        id: "OMN",
+        label: "Oman",
+        alias: "ʻUmān"
       },
       {
-        "id": "PAK",
-        "label": "Pakistan"
+        id: "PAK",
+        label: "Pakistan"
       },
       {
-        "id": "PAN",
-        "label": "Panama"
+        id: "PAN",
+        label: "Panama"
       },
       {
-        "id": "PCN",
-        "label": "Pitcairn Islands"
+        id: "PCN",
+        label: "Pitcairn Islands"
       },
       {
-        "id": "PER",
-        "label": "Peru"
+        id: "PER",
+        label: "Peru"
       },
       {
-        "id": "PHL",
-        "label": "Philippines",
-        "alias": "Pilipinas"
+        id: "PHL",
+        label: "Philippines",
+        alias: "Pilipinas"
       },
       {
-        "id": "PLW",
-        "label": "Palau"
+        id: "PLW",
+        label: "Palau"
       },
       {
-        "id": "PNG",
-        "label": "Papua New Guinea"
+        id: "PNG",
+        label: "Papua New Guinea"
       },
       {
-        "id": "POL",
-        "label": "Poland",
-        "alias": "Polska"
+        id: "POL",
+        label: "Poland",
+        alias: "Polska"
       },
       {
-        "id": "PRI",
-        "label": "Puerto Rico"
+        id: "PRI",
+        label: "Puerto Rico"
       },
       {
-        "id": "PRK",
-        "label": "North Korea",
-        "alias": "PRK"
+        id: "PRK",
+        label: "North Korea",
+        alias: "PRK"
       },
       {
-        "id": "PRT",
-        "label": "Portugal"
+        id: "PRT",
+        label: "Portugal"
       },
       {
-        "id": "PRY",
-        "label": "Paraguay"
+        id: "PRY",
+        label: "Paraguay"
       },
       {
-        "id": "PSE",
-        "label": "Palestine",
-        "alias": "Dawlat Filasṭīn"
+        id: "PSE",
+        label: "Palestine",
+        alias: "Dawlat Filasṭīn"
       },
       {
-        "id": "PYF",
-        "label": "French Polynesia",
-        "alias": ["Polynésie française", "Pōrīnetia Farāni"]
+        id: "PYF",
+        label: "French Polynesia",
+        alias: ["Polynésie française", "Pōrīnetia Farāni"]
       },
       {
-        "id": "QAT",
-        "label": "Qatar"
+        id: "QAT",
+        label: "Qatar"
       },
       {
-        "id": "REU",
-        "label": "Réunion"
+        id: "REU",
+        label: "Réunion"
       },
       {
-        "id": "ROU",
-        "label": "Romania"
+        id: "ROU",
+        label: "Romania"
       },
       {
-        "id": "RUS",
-        "label": "Russia",
-        "alias": "Rossiya"
+        id: "RUS",
+        label: "Russia",
+        alias: "Rossiya"
       },
       {
-        "id": "RWA",
-        "label": "Rwanda"
+        id: "RWA",
+        label: "Rwanda"
       },
       {
-        "id": "SAU",
-        "label": "Saudi Arabia",
-        "alias": "Arabīyah as-Saʿūdīyah"
+        id: "SAU",
+        label: "Saudi Arabia",
+        alias: "Arabīyah as-Saʿūdīyah"
       },
       {
-        "id": "SDN",
-        "label": "Sudan"
+        id: "SDN",
+        label: "Sudan"
       },
       {
-        "id": "SEN",
-        "label": "Senegal"
+        id: "SEN",
+        label: "Senegal"
       },
       {
-        "id": "SGP",
-        "label": "Singapore"
+        id: "SGP",
+        label: "Singapore"
       },
       {
-        "id": "SGS",
-        "label": "South Georgia"
+        id: "SGS",
+        label: "South Georgia"
       },
       {
-        "id": "SJM",
-        "label": "Svalbard and Jan Mayen"
+        id: "SJM",
+        label: "Svalbard and Jan Mayen"
       },
       {
-        "id": "SLB",
-        "label": "Solomon Islands"
+        id: "SLB",
+        label: "Solomon Islands"
       },
       {
-        "id": "SLE",
-        "label": "Sierra Leone"
+        id: "SLE",
+        label: "Sierra Leone"
       },
       {
-        "id": "SLV",
-        "label": "El Salvador"
+        id: "SLV",
+        label: "El Salvador"
       },
       {
-        "id": "SMR",
-        "label": "San Marino"
+        id: "SMR",
+        label: "San Marino"
       },
       {
-        "id": "SOM",
-        "label": "Somalia"
+        id: "SOM",
+        label: "Somalia"
       },
       {
-        "id": "SPM",
-        "label": "Saint Pierre and Miquelon"
+        id: "SPM",
+        label: "Saint Pierre and Miquelon"
       },
       {
-        "id": "SRB",
-        "label": "Serbia",
-        "alias": "Srbija"
+        id: "SRB",
+        label: "Serbia",
+        alias: "Srbija"
       },
       {
-        "id": "SSD",
-        "label": "South Sudan"
+        id: "SSD",
+        label: "South Sudan"
       },
       {
-        "id": "STP",
-        "label": "São Tomé and Príncipe"
+        id: "STP",
+        label: "São Tomé and Príncipe"
       },
       {
-        "id": "SUR",
-        "label": "Suriname"
+        id: "SUR",
+        label: "Suriname"
       },
       {
-        "id": "SVK",
-        "label": "Slovakia",
-        "alias": "Slovenská"
+        id: "SVK",
+        label: "Slovakia",
+        alias: "Slovenská"
       },
       {
-        "id": "SVN",
-        "label": "Slovenia",
-        "alias": "Slovenija"
+        id: "SVN",
+        label: "Slovenia",
+        alias: "Slovenija"
       },
       {
-        "id": "SWE",
-        "label": "Sweden",
-        "alias": "Sverige"
+        id: "SWE",
+        label: "Sweden",
+        alias: "Sverige"
       },
       {
-        "id": "SWZ",
-        "label": "Eswatini"
+        id: "SWZ",
+        label: "Eswatini"
       },
       {
-        "id": "SXM",
-        "label": "Sint Maarten"
+        id: "SXM",
+        label: "Sint Maarten"
       },
       {
-        "id": "SYC",
-        "label": "Seychelles"
+        id: "SYC",
+        label: "Seychelles"
       },
       {
-        "id": "SYR",
-        "label": "Syria"
+        id: "SYR",
+        label: "Syria"
       },
       {
-        "id": "TCA",
-        "label": "Turks and Caicos Islands"
+        id: "TCA",
+        label: "Turks and Caicos Islands"
       },
       {
-        "id": "TCD",
-        "label": "Chad"
+        id: "TCD",
+        label: "Chad"
       },
       {
-        "id": "TGO",
-        "label": "Togo"
+        id: "TGO",
+        label: "Togo"
       },
       {
-        "id": "THA",
-        "label": "Thailand"
+        id: "THA",
+        label: "Thailand"
       },
       {
-        "id": "TJK",
-        "label": "Tajikistan"
+        id: "TJK",
+        label: "Tajikistan"
       },
       {
-        "id": "TKL",
-        "label": "Tokelau"
+        id: "TKL",
+        label: "Tokelau"
       },
       {
-        "id": "TKM",
-        "label": "Turkmenistan"
+        id: "TKM",
+        label: "Turkmenistan"
       },
       {
-        "id": "TLS",
-        "label": "Timor-Leste"
+        id: "TLS",
+        label: "Timor-Leste"
       },
       {
-        "id": "TON",
-        "label": "Tonga"
+        id: "TON",
+        label: "Tonga"
       },
       {
-        "id": "TTO",
-        "label": "Trinidad and Tobago"
+        id: "TTO",
+        label: "Trinidad and Tobago"
       },
       {
-        "id": "TUN",
-        "label": "Tunisia",
-        "alias": "Tūnisīyah"
+        id: "TUN",
+        label: "Tunisia",
+        alias: "Tūnisīyah"
       },
       {
-        "id": "TUR",
-        "label": "Turkey",
-        "alias": "Türkiye"
+        id: "TUR",
+        label: "Turkey",
+        alias: "Türkiye"
       },
       {
-        "id": "TUV",
-        "label": "Tuvalu"
+        id: "TUV",
+        label: "Tuvalu"
       },
       {
-        "id": "TWN",
-        "label": "Taiwan, Province of China",
-        "alias": "Taipei"
+        id: "TWN",
+        label: "Taiwan, Province of China",
+        alias: "Taipei"
       },
       {
-        "id": "TZA",
-        "label": "Tanzania"
+        id: "TZA",
+        label: "Tanzania"
       },
       {
-        "id": "UGA",
-        "label": "Uganda"
+        id: "UGA",
+        label: "Uganda"
       },
       {
-        "id": "UKR",
-        "label": "Ukraine",
-        "alias": "Ukrayina"
+        id: "UKR",
+        label: "Ukraine",
+        alias: "Ukrayina"
       },
       {
-        "id": "UMI",
-        "label": "United States Minor Outlying Islands"
+        id: "UMI",
+        label: "United States Minor Outlying Islands"
       },
       {
-        "id": "URY",
-        "label": "Uruguay"
+        id: "URY",
+        label: "Uruguay"
       },
       {
-        "id": "USA",
-        "label": "United States of America"
+        id: "USA",
+        label: "United States of America"
       },
       {
-        "id": "UZB",
-        "label": "Uzbekistan"
+        id: "UZB",
+        label: "Uzbekistan"
       },
       {
-        "id": "VAT",
-        "label": "Vatican City"
+        id: "VAT",
+        label: "Vatican City"
       },
       {
-        "id": "VCT",
-        "label": "Saint Vincent and the Grenadines"
+        id: "VCT",
+        label: "Saint Vincent and the Grenadines"
       },
       {
-        "id": "VEN",
-        "label": "Venezuela"
+        id: "VEN",
+        label: "Venezuela"
       },
       {
-        "id": "VGB",
-        "label": "British Virgin Islands"
+        id: "VGB",
+        label: "British Virgin Islands"
       },
       {
-        "id": "VIR",
-        "label": "United States Virgin Islands"
+        id: "VIR",
+        label: "United States Virgin Islands"
       },
       {
-        "id": "VNM",
-        "label": "Vietnam"
+        id: "VNM",
+        label: "Vietnam"
       },
       {
-        "id": "VUT",
-        "label": "Vanuatu"
+        id: "VUT",
+        label: "Vanuatu"
       },
       {
-        "id": "WLF",
-        "label": "Wallis and Futuna"
+        id: "WLF",
+        label: "Wallis and Futuna"
       },
       {
-        "id": "WSM",
-        "label": "Samoa"
+        id: "WSM",
+        label: "Samoa"
       },
       {
-        "id": "YEM",
-        "label": "Yemen"
+        id: "YEM",
+        label: "Yemen"
       },
       {
-        "id": "ZAF",
-        "label": "South Africa"
+        id: "ZAF",
+        label: "South Africa"
       },
       {
-        "id": "ZMB",
-        "label": "Zambia"
+        id: "ZMB",
+        label: "Zambia"
       },
       {
-        "id": "ZWE",
-        "label": "Zimbabwe"
+        id: "ZWE",
+        label: "Zimbabwe"
       }
-    ]
+    ];
   },
   async getGroups() {
     return [
       {
-        "id": "2017-top-10",
-        "name": "2016 Top 10 fishing nations",
-        "descripcion": "Source: The World Bank",
-        "isos": ["CHN", "IDN", "IND", "VNM", "USA", "RUS", "JPN", "PHL", "PER", "BGD"]
+        id: "2017-top-10",
+        name: "2016 Top 10 fishing nations",
+        descripcion: "Source: The World Bank",
+        isos: [
+          "CHN",
+          "IDN",
+          "IND",
+          "VNM",
+          "USA",
+          "RUS",
+          "JPN",
+          "PHL",
+          "PER",
+          "BGD"
+        ]
       },
       {
-        "id": "fao",
-        "name": "Flags of convenience",
-        "descripcion": "Source: ITF",
-        "isos": [
+        id: "fao",
+        name: "Flags of convenience",
+        descripcion: "Source: ITF",
+        isos: [
           "ATG",
           "BHS",
           "BRB",
@@ -1129,10 +1140,11 @@ module.exports = {
         ]
       },
       {
-        "id": "psma",
-        "name": "PSMA parties",
-        "descripcion": "Parties of the Port State Measures Agreement. Source: FAO",
-        "isos": [
+        id: "psma",
+        name: "PSMA parties",
+        descripcion:
+          "Parties of the Port State Measures Agreement. Source: FAO",
+        isos: [
           "ALB",
           "AUS",
           "BHS",
@@ -1197,16 +1209,17 @@ module.exports = {
         ]
       },
       {
-        "id": "yellow-card-nations",
-        "name": "Yellow Card nations",
-        "descripcion": "List of countries below the yellow card warning. Source: European Commission",
-        "isos": ["KIR", "KNA", "LBR", "TTO", "VCT", "VNM"]
+        id: "yellow-card-nations",
+        name: "Yellow Card nations",
+        descripcion:
+          "List of countries below the yellow card warning. Source: European Commission",
+        isos: ["KIR", "KNA", "LBR", "TTO", "VCT", "VNM"]
       },
       {
-        "id": "european-union",
-        "name": "European Union",
-        "descripcion": "",
-        "isos": [
+        id: "european-union",
+        name: "European Union",
+        descripcion: "",
+        isos: [
           "ITA",
           "FRA",
           "DEU",
@@ -1237,6 +1250,6 @@ module.exports = {
           "SVK"
         ]
       }
-    ]
-  },
+    ];
+  }
 };

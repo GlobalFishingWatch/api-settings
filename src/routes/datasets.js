@@ -53,7 +53,7 @@ module.exports = app => {
         return res.sendStatus(404);
       }
       log.debug("Requesting dataset config");
-      const config = await configData.get()
+      const config = await configData.get();
       return res.json(config);
     } catch (error) {
       return next(error);
