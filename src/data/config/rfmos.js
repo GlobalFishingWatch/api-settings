@@ -27,7 +27,7 @@ module.exports = {
         id: "WCPFC",
         label: "WCPFC",
         alias: "Western & Central Pacific Fisheries Commission",
-        bounds: [[85.2152, 99.0967], [-60.0648, -129.7266]]
+        bounds: [[85, -180], [-60, 180]]
       },
       {
         id: "IATTC",
