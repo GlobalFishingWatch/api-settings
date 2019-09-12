@@ -258,14 +258,6 @@ module.exports = {
         "lon": 54.4852940646154
       },
       {
-        "id": "are-abudhabi",
-        "iso": "ARE",
-        "label": "ABUDHABI",
-        "rfmo": [],
-        "lat": 24.3836438598618,
-        "lon": 54.5140856009769
-      },
-      {
         "id": "are-mussafah",
         "iso": "ARE",
         "label": "MUSSAFAH",
@@ -1928,14 +1920,6 @@ module.exports = {
         "rfmo": [],
         "lat": -33.0398102407148,
         "lon": 151.652926973406
-      },
-      {
-        "id": "aus-bo",
-        "iso": "AUS",
-        "label": "BO",
-        "rfmo": [],
-        "lat": -33.0859069844016,
-        "lon": 151.643079951801
       },
       {
         "id": "aus-pittwater",
@@ -4194,14 +4178,6 @@ module.exports = {
         "lon": -81.7013887384662
       },
       {
-        "id": "col-sanandres",
-        "iso": "COL",
-        "label": "SANANDRES",
-        "rfmo": [],
-        "lat": 11.0458013405788,
-        "lon": -74.8208471644455
-      },
-      {
         "id": "col-adriaticsea",
         "iso": "COL",
         "label": "ADRIATIC SEA",
@@ -6192,14 +6168,6 @@ module.exports = {
         "rfmo": [],
         "lat": 39.9363592812363,
         "lon": 3.95796596866492
-      },
-      {
-        "id": "esp-be",
-        "iso": "ESP",
-        "label": "BE",
-        "rfmo": [],
-        "lat": 28.0211617661785,
-        "lon": -16.6121284781429
       },
       {
         "id": "esp-bluffs",
@@ -16434,14 +16402,6 @@ module.exports = {
         "lon": 128.042153700988
       },
       {
-        "id": "kor-masan",
-        "iso": "KOR",
-        "label": "MA SAN",
-        "rfmo": [],
-        "lat": 35.0099098820078,
-        "lon": 128.484102653757
-      },
-      {
         "id": "kor-cbrazil",
         "iso": "KOR",
         "label": "C BRAZIL",
@@ -17842,14 +17802,6 @@ module.exports = {
         "lon": -115.181764093037
       },
       {
-        "id": "mex-lapaz",
-        "iso": "MEX",
-        "label": "LAPAZ",
-        "rfmo": [],
-        "lat": 24.5580454588061,
-        "lon": -110.403984691694
-      },
-      {
         "id": "mex-bwetstuff",
         "iso": "MEX",
         "label": "BWET STUFF",
@@ -18272,14 +18224,6 @@ module.exports = {
         "rfmo": [],
         "lat": 4.25803690038405,
         "lon": 100.660099726034
-      },
-      {
-        "id": "mys-portklang",
-        "iso": "MYS",
-        "label": "PORTKLANG",
-        "rfmo": [],
-        "lat": 2.88448592505813,
-        "lon": 101.459453920668
       },
       {
         "id": "mys-kemamanharbor",
@@ -23722,14 +23666,6 @@ module.exports = {
         "lon": 144.56175722443
       },
       {
-        "id": "png-paiainlet",
-        "iso": "PNG",
-        "label": "PAIA INLET",
-        "rfmo": [],
-        "lat": -7.47472912536707,
-        "lon": 144.562350450598
-      },
-      {
         "id": "pol-stepnica",
         "iso": "POL",
         "label": "STEPNICA",
@@ -23960,14 +23896,6 @@ module.exports = {
         "rfmo": [],
         "lat": 41.759682510853,
         "lon": 129.762322974053
-      },
-      {
-        "id": "prk-chongjin",
-        "iso": "PRK",
-        "label": "CHONGJIN",
-        "rfmo": [],
-        "lat": 41.7571788496126,
-        "lon": 129.767352801851
       },
       {
         "id": "prt-praiadevitoria",
@@ -26464,14 +26392,6 @@ module.exports = {
         "rfmo": [],
         "lat": 9.18039094240947,
         "lon": 99.3741122031492
-      },
-      {
-        "id": "tha-maptaphut",
-        "iso": "THA",
-        "label": "MAPTAPHUT",
-        "rfmo": [],
-        "lat": 13.3666859910621,
-        "lon": 99.9989128390893
       },
       {
         "id": "tls-dili",
@@ -32018,14 +31938,6 @@ module.exports = {
         "lon": -72.2930001370076
       },
       {
-        "id": "usa-portsmouthnh",
-        "iso": "USA",
-        "label": "PORTSMOUTH NH",
-        "rfmo": [],
-        "lat": 43.1037308976452,
-        "lon": -70.7911734979513
-      },
-      {
         "id": "usa-newburyport",
         "iso": "USA",
         "label": "NEWBURYPORT",
@@ -32498,14 +32410,6 @@ module.exports = {
         "lon": -89.9920202116495
       },
       {
-        "id": "usa-morgancity",
-        "iso": "USA",
-        "label": "MORGANCITY",
-        "rfmo": [],
-        "lat": 29.99957701781,
-        "lon": -89.9887001063054
-      },
-      {
         "id": "usa-test",
         "iso": "USA",
         "label": "TEST",
@@ -32544,14 +32448,6 @@ module.exports = {
         "rfmo": [],
         "lat": 27.5112994384903,
         "lon": -82.5583798117055
-      },
-      {
-        "id": "usa-na",
-        "iso": "USA",
-        "label": "N A",
-        "rfmo": [],
-        "lat": 29.3383745568982,
-        "lon": -90.2434815259575
       },
       {
         "id": "usa-bthdbn",
@@ -32786,14 +32682,6 @@ module.exports = {
         "lon": 108.214472169333
       },
       {
-        "id": "vnm-haiphong",
-        "iso": "VNM",
-        "label": "HAI PHONG",
-        "rfmo": [],
-        "lat": 20.9437549452128,
-        "lon": 106.598587638035
-      },
-      {
         "id": "vnm-vndqt",
         "iso": "VNM",
         "label": "VN DQT",
@@ -32970,14 +32858,6 @@ module.exports = {
         "lon": -56.9954212646161
       },
       {
-        "id": "cmr-douala",
-        "iso": "CMR",
-        "label": "DOUALA",
-        "rfmo": [],
-        "lat": 4.04383321235542,
-        "lon": 9.68259837159913
-      },
-      {
         "id": "cmr-limbe",
         "iso": "CMR",
         "label": "LIMBE",
@@ -32994,28 +32874,12 @@ module.exports = {
         "lon": 9.39429929088206
       },
       {
-        "id": "cog-pointenoire",
-        "iso": "COG",
-        "label": "POINTE NOIRE",
-        "rfmo": [],
-        "lat": -4.76982302869661,
-        "lon": 11.8405477292792
-      },
-      {
         "id": "gab-libreville",
         "iso": "GAB",
         "label": "LIBREVILLE",
         "rfmo": [],
         "lat": 0.355099613634787,
         "lon": 9.47018137706179
-      },
-      {
-        "id": "gab-portgentil",
-        "iso": "GAB",
-        "label": "PORT GENTIL",
-        "rfmo": [],
-        "lat": -0.6971172388599,
-        "lon": 8.78035023203231
       },
       {
         "id": "rus-pevek",
@@ -33516,14 +33380,6 @@ module.exports = {
         "lon": 144.35490098387
       },
       {
-        "id": "jpn-muroranko",
-        "iso": "JPN",
-        "label": "MURORAN KO",
-        "rfmo": [],
-        "lat": 42.3496851333192,
-        "lon": 140.961297513384
-      },
-      {
         "id": "jpn-jptmke",
         "iso": "JPN",
         "label": "JP TMK E",
@@ -33636,28 +33492,12 @@ module.exports = {
         "lon": 34.9546638104651
       },
       {
-        "id": "jor-alaqabah",
-        "iso": "JOR",
-        "label": "AL AQABAH",
-        "rfmo": [],
-        "lat": 29.5203541062031,
-        "lon": 34.9915658876323
-      },
-      {
         "id": "jor-aqaba",
         "iso": "JOR",
         "label": "AQABA",
         "rfmo": [],
         "lat": 29.4420901784224,
         "lon": 34.972195068292
-      },
-      {
-        "id": "jor-talabay",
-        "iso": "JOR",
-        "label": "TALA BAY",
-        "rfmo": [],
-        "lat": 29.3842096903689,
-        "lon": 34.962929053214
       },
       {
         "id": "rus-bykovmys",
@@ -33674,14 +33514,6 @@ module.exports = {
         "rfmo": [],
         "lat": 71.272177032771,
         "lon": 72.1491410133571
-      },
-      {
-        "id": "rus-sabetta",
-        "iso": "RUS",
-        "label": "SABETTA",
-        "rfmo": [],
-        "lat": 71.2800497082335,
-        "lon": 72.101360526138
       },
       {
         "id": "rus-tiksi",
@@ -33756,22 +33588,6 @@ module.exports = {
         "lon": -70.8929660008711
       },
       {
-        "id": "chl-ptaarenas",
-        "iso": "CHL",
-        "label": "PTA ARENAS",
-        "rfmo": [],
-        "lat": -53.1023038963251,
-        "lon": -70.8624279749474
-      },
-      {
-        "id": "chl-puertonatales",
-        "iso": "CHL",
-        "label": "PUERTO NATALES",
-        "rfmo": [],
-        "lat": -51.7296788987345,
-        "lon": -72.5200677103643
-      },
-      {
         "id": "chl-aa",
         "iso": "CHL",
         "label": "AA",
@@ -33830,26 +33646,6 @@ module.exports = {
         "lon": 96.8815129864937
       },
       {
-        "id": "com-moutsamoudu",
-        "iso": "COM",
-        "label": "MOUTSAMOUDU",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -12.1674364661682,
-        "lon": 44.391567292605
-      },
-      {
-        "id": "ind-newmangalore",
-        "iso": "IND",
-        "label": "NEW MANGALORE",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 12.944740537048,
-        "lon": 74.6904473514591
-      },
-      {
         "id": "ind-mumbai",
         "iso": "IND",
         "label": "MUMBAI",
@@ -33860,36 +33656,6 @@ module.exports = {
         "lon": 72.6408503140233
       },
       {
-        "id": "ind-kandla",
-        "iso": "IND",
-        "label": "KANDLA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 22.7934433110789,
-        "lon": 70.0452453707599
-      },
-      {
-        "id": "ind-mundra",
-        "iso": "IND",
-        "label": "MUNDRA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 22.68087450051,
-        "lon": 69.7023484106024
-      },
-      {
-        "id": "ind-sikka",
-        "iso": "IND",
-        "label": "SIKKA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 22.6312107314345,
-        "lon": 69.9139947998913
-      },
-      {
         "id": "ind-mormugao",
         "iso": "IND",
         "label": "MORMUGAO",
@@ -33898,16 +33664,6 @@ module.exports = {
         ],
         "lat": 15.4357687049233,
         "lon": 73.7042243410481
-      },
-      {
-        "id": "ind-mumbai(bombay)",
-        "iso": "IND",
-        "label": "MUMBAI (BOMBAY)",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 18.9484072562648,
-        "lon": 72.8632606079821
       },
       {
         "id": "ind-inmrm",
@@ -33928,26 +33684,6 @@ module.exports = {
         ],
         "lat": 22.7866838504878,
         "lon": 70.0502331561552
-      },
-      {
-        "id": "ind-cochin",
-        "iso": "IND",
-        "label": "COCHIN",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 9.92799404005311,
-        "lon": 76.1669425630269
-      },
-      {
-        "id": "ind-hazira",
-        "iso": "IND",
-        "label": "HAZIRA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 21.0364354683438,
-        "lon": 72.605635432636
       },
       {
         "id": "ind-mormugaoindia",
@@ -34030,26 +33766,6 @@ module.exports = {
         "lon": 73.6767892752896
       },
       {
-        "id": "ind-bhavnagar",
-        "iso": "IND",
-        "label": "BHAVNAGAR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 21.6701635801672,
-        "lon": 72.3348676502756
-      },
-      {
-        "id": "ind-dharamtar",
-        "iso": "IND",
-        "label": "DHARAMTAR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 18.8405589112673,
-        "lon": 72.8935338053433
-      },
-      {
         "id": "ind-redi",
         "iso": "IND",
         "label": "REDI",
@@ -34058,26 +33774,6 @@ module.exports = {
         ],
         "lat": 15.7483113899382,
         "lon": 73.6165951734608
-      },
-      {
-        "id": "ind-jakhau",
-        "iso": "IND",
-        "label": "JAKHAU",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 23.1493905918177,
-        "lon": 68.4438668704801
-      },
-      {
-        "id": "ind-navlakhi",
-        "iso": "IND",
-        "label": "NAVLAKHI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 22.8387750822709,
-        "lon": 70.2334426732744
       },
       {
         "id": "ind-haziraindia",
@@ -34098,26 +33794,6 @@ module.exports = {
         ],
         "lat": 22.514337275815,
         "lon": 69.0696540960462
-      },
-      {
-        "id": "ind-mumbaihigh",
-        "iso": "IND",
-        "label": "MUMBAIHIGH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 18.5949785429436,
-        "lon": 72.2139241114396
-      },
-      {
-        "id": "ind-magdalla",
-        "iso": "IND",
-        "label": "MAGDALLA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 20.976313025997,
-        "lon": 72.6352500279175
       },
       {
         "id": "ind-marmagao",
@@ -34188,16 +33864,6 @@ module.exports = {
         ],
         "lat": 22.5433472785557,
         "lon": 69.825112004677
-      },
-      {
-        "id": "ind-jaigarh",
-        "iso": "IND",
-        "label": "JAIGARH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 17.304708101619,
-        "lon": 73.2061253645122
       },
       {
         "id": "ind-jaigarhind",
@@ -34450,16 +34116,6 @@ module.exports = {
         "lon": 72.6004957786923
       },
       {
-        "id": "ind-mjardevi",
-        "iso": "IND",
-        "label": "MJARDEVI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 19.3745711015324,
-        "lon": 71.3575611197189
-      },
-      {
         "id": "ind-moored",
         "iso": "IND",
         "label": "MOORED",
@@ -34468,16 +34124,6 @@ module.exports = {
         ],
         "lat": 18.5759817990007,
         "lon": 72.2794293843098
-      },
-      {
-        "id": "ind-panaji",
-        "iso": "IND",
-        "label": "PANAJI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 15.4811889710421,
-        "lon": 73.6919480506569
       },
       {
         "id": "ind-bql1",
@@ -34518,16 +34164,6 @@ module.exports = {
         ],
         "lat": 19.0887395038379,
         "lon": 72.1151020932612
-      },
-      {
-        "id": "ind-muldwarka",
-        "iso": "IND",
-        "label": "MULDWARKA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 20.7543319276264,
-        "lon": 70.666484256015
       },
       {
         "id": "ind-rjmtsikka",
@@ -34680,16 +34316,6 @@ module.exports = {
         "lon": 70.0416813542634
       },
       {
-        "id": "jor-aqaba",
-        "iso": "JOR",
-        "label": "AQABA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 29.3619515321916,
-        "lon": 34.9636697640224
-      },
-      {
         "id": "mdv-viligili",
         "iso": "MDV",
         "label": "VILIGILI",
@@ -34710,16 +34336,6 @@ module.exports = {
         "lon": 62.3435853250287
       },
       {
-        "id": "pak-karachi",
-        "iso": "PAK",
-        "label": "KARACHI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 24.7920907885231,
-        "lon": 66.9150117236917
-      },
-      {
         "id": "pak-portqasim",
         "iso": "PAK",
         "label": "PORT QASIM",
@@ -34738,16 +34354,6 @@ module.exports = {
         ],
         "lat": 25.1193891034227,
         "lon": 66.678513652548
-      },
-      {
-        "id": "pak-binqasim",
-        "iso": "PAK",
-        "label": "BIN QASIM",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 24.5503706370993,
-        "lon": 66.9970400114285
       },
       {
         "id": "pak-portqasimpakistan",
@@ -34820,24 +34426,6 @@ module.exports = {
         "lon": 80.3895555556
       },
       {
-        "id": "per-ilo",
-        "iso": "PER",
-        "label": "ILO",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 17.6444444444,
-        "lon": 71.3475
-      },
-      {
-        "id": "can-anca",
-        "iso": "CAN",
-        "label": "ANCA",
-        "rfmo": [],
-        "lat": 50.1878303351343,
-        "lon": -124.71804277088
-      },
-      {
         "id": "can-cang",
         "iso": "CAN",
         "label": "CANG",
@@ -34846,28 +34434,12 @@ module.exports = {
         "lon": -124.727705825712
       },
       {
-        "id": "can-princerupert",
-        "iso": "CAN",
-        "label": "PRINCE RUPERT",
-        "rfmo": [],
-        "lat": 54.0776343212763,
-        "lon": -130.132971225116
-      },
-      {
         "id": "can-ngi",
         "iso": "CAN",
         "label": "NGI",
         "rfmo": [],
         "lat": 50.0537065947296,
         "lon": -124.729453909533
-      },
-      {
-        "id": "can-seattle",
-        "iso": "CAN",
-        "label": "SEATTLE",
-        "rfmo": [],
-        "lat": 50.1182207782625,
-        "lon": -124.757243958801
       },
       {
         "id": "can-con",
@@ -34894,30 +34466,6 @@ module.exports = {
         "lon": -125.491247593829
       },
       {
-        "id": "can-cn",
-        "iso": "CAN",
-        "label": "CN",
-        "rfmo": [],
-        "lat": 50.2724414577918,
-        "lon": -125.23582671341
-      },
-      {
-        "id": "can-ima",
-        "iso": "CAN",
-        "label": "IMA",
-        "rfmo": [],
-        "lat": 50.297594763515,
-        "lon": -125.017451458126
-      },
-      {
-        "id": "can-cfr",
-        "iso": "CAN",
-        "label": "C FR",
-        "rfmo": [],
-        "lat": 50.2679101547357,
-        "lon": -125.235428962977
-      },
-      {
         "id": "can-portalexander",
         "iso": "CAN",
         "label": "PORT ALEXANDER",
@@ -34932,22 +34480,6 @@ module.exports = {
         "rfmo": [],
         "lat": 52.0013734662044,
         "lon": -128.020378085534
-      },
-      {
-        "id": "can-caprr",
-        "iso": "CAN",
-        "label": "CA PRR",
-        "rfmo": [],
-        "lat": 54.1576549848338,
-        "lon": -130.52859376157
-      },
-      {
-        "id": "can-campbellriver",
-        "iso": "CAN",
-        "label": "CAMPBELL RIVER",
-        "rfmo": [],
-        "lat": 50.166178677782,
-        "lon": -125.523838413193
       },
       {
         "id": "can-echobay",
@@ -34980,14 +34512,6 @@ module.exports = {
         "rfmo": [],
         "lat": 50.8986025559882,
         "lon": -127.531558178078
-      },
-      {
-        "id": "can-porthardy",
-        "iso": "CAN",
-        "label": "PORT HARDY",
-        "rfmo": [],
-        "lat": 50.7810375127333,
-        "lon": -127.527312272985
       },
       {
         "id": "can-bveldemarin",
@@ -35038,22 +34562,6 @@ module.exports = {
         "lon": -125.495784817658
       },
       {
-        "id": "can-bdanchorag",
-        "iso": "CAN",
-        "label": "BD ANCHORAG",
-        "rfmo": [],
-        "lat": 50.8674264768891,
-        "lon": -127.672014335721
-      },
-      {
-        "id": "can-kitimat",
-        "iso": "CAN",
-        "label": "KITIMAT",
-        "rfmo": [],
-        "lat": 53.9882142457627,
-        "lon": -128.674420734298
-      },
-      {
         "id": "can-crth",
         "iso": "CAN",
         "label": "CRTH",
@@ -35094,44 +34602,12 @@ module.exports = {
         "lon": -128.08434838188
       },
       {
-        "id": "can-ewa",
-        "iso": "CAN",
-        "label": "E WA",
-        "rfmo": [],
-        "lat": 52.244948216094,
-        "lon": -128.080132963749
-      },
-      {
-        "id": "can-bd",
-        "iso": "CAN",
-        "label": "BD",
-        "rfmo": [],
-        "lat": 52.2709956133004,
-        "lon": -127.767882088514
-      },
-      {
-        "id": "can-ain",
-        "iso": "CAN",
-        "label": "AIN",
-        "rfmo": [],
-        "lat": 50.0717818097207,
-        "lon": -125.219351017697
-      },
-      {
         "id": "can-porthardybc",
         "iso": "CAN",
         "label": "PORT HARDY BC",
         "rfmo": [],
         "lat": 54.1909999785439,
         "lon": -133.001469610417
-      },
-      {
-        "id": "can-australia",
-        "iso": "CAN",
-        "label": "AUSTRALIA",
-        "rfmo": [],
-        "lat": 50.0709472635859,
-        "lon": -124.78259599223
       },
       {
         "id": "can-auropoorthull",
@@ -35156,14 +34632,6 @@ module.exports = {
         "rfmo": [],
         "lat": 54.0085110241776,
         "lon": -132.145625330574
-      },
-      {
-        "id": "can-bf",
-        "iso": "CAN",
-        "label": "BF",
-        "rfmo": [],
-        "lat": 50.9190898725649,
-        "lon": -126.492733821065
       },
       {
         "id": "can-duncanbay",
@@ -35198,28 +34666,12 @@ module.exports = {
         "lon": -132.643870007312
       },
       {
-        "id": "can-bield",
-        "iso": "CAN",
-        "label": "BIELD",
-        "rfmo": [],
-        "lat": 50.176575942747,
-        "lon": -124.823120177916
-      },
-      {
         "id": "can-cortesbay",
         "iso": "CAN",
         "label": "CORTES BAY",
         "rfmo": [],
         "lat": 50.060991030793,
         "lon": -124.930314550144
-      },
-      {
-        "id": "can-hai",
-        "iso": "CAN",
-        "label": "HAI",
-        "rfmo": [],
-        "lat": 50.51501843387,
-        "lon": -125.601987466664
       },
       {
         "id": "can-bgtai",
@@ -35238,28 +34690,12 @@ module.exports = {
         "lon": -127.647151666998
       },
       {
-        "id": "can-bellabella",
-        "iso": "CAN",
-        "label": "BELLA BELLA",
-        "rfmo": [],
-        "lat": 51.5695904463568,
-        "lon": -127.671616200263
-      },
-      {
         "id": "can-ai",
         "iso": "CAN",
         "label": "AI",
         "rfmo": [],
         "lat": 50.1431523708408,
         "lon": -124.685290270144
-      },
-      {
-        "id": "can-desolationsound",
-        "iso": "CAN",
-        "label": "DESOLATION SOUND",
-        "rfmo": [],
-        "lat": 50.3010912968625,
-        "lon": -125.025944883457
       },
       {
         "id": "can-yenikapi",
@@ -35286,14 +34722,6 @@ module.exports = {
         "lon": -126.828416563085
       },
       {
-        "id": "can-portmcneill",
-        "iso": "CAN",
-        "label": "PORT MCNEILL",
-        "rfmo": [],
-        "lat": 50.5995281658391,
-        "lon": -127.090011898093
-      },
-      {
         "id": "can-shilshole",
         "iso": "CAN",
         "label": "SHILSHOLE",
@@ -35310,36 +34738,12 @@ module.exports = {
         "lon": -124.719754111887
       },
       {
-        "id": "can-klemtu",
-        "iso": "CAN",
-        "label": "KLEMTU",
-        "rfmo": [],
-        "lat": 52.5937897734348,
-        "lon": -128.52141841722
-      },
-      {
-        "id": "can-bapuxeth",
-        "iso": "CAN",
-        "label": "BAPU XETH",
-        "rfmo": [],
-        "lat": 50.0808180726235,
-        "lon": -125.225392407015
-      },
-      {
         "id": "can-bigbay",
         "iso": "CAN",
         "label": "BIGBAY",
         "rfmo": [],
         "lat": 50.2685538211106,
         "lon": -124.800876986897
-      },
-      {
-        "id": "can-bal",
-        "iso": "CAN",
-        "label": "BAL",
-        "rfmo": [],
-        "lat": 50.1190298226357,
-        "lon": -124.911378771809
       },
       {
         "id": "can-refugecove",
@@ -35358,36 +34762,12 @@ module.exports = {
         "lon": -128.169054947219
       },
       {
-        "id": "can-ahrum",
-        "iso": "CAN",
-        "label": "AHRUM",
-        "rfmo": [],
-        "lat": 52.2819589564702,
-        "lon": -128.16619416592
-      },
-      {
-        "id": "can-wa",
-        "iso": "CAN",
-        "label": "WA",
-        "rfmo": [],
-        "lat": 52.278991009312,
-        "lon": -128.169125278837
-      },
-      {
         "id": "can-bg",
         "iso": "CAN",
         "label": "BG",
         "rfmo": [],
         "lat": 50.5887180807788,
         "lon": -126.647353341376
-      },
-      {
-        "id": "can-bga",
-        "iso": "CAN",
-        "label": "BG A",
-        "rfmo": [],
-        "lat": 50.0111347976767,
-        "lon": -124.815410625418
       },
       {
         "id": "can-sandspit",
@@ -35428,22 +34808,6 @@ module.exports = {
         "rfmo": [],
         "lat": 50.3234520108683,
         "lon": -124.796329781484
-      },
-      {
-        "id": "can-korea",
-        "iso": "CAN",
-        "label": "KOREA",
-        "rfmo": [],
-        "lat": 50.0629317225286,
-        "lon": -125.22728601979
-      },
-      {
-        "id": "can-gulfislands",
-        "iso": "CAN",
-        "label": "GULF ISLANDS",
-        "rfmo": [],
-        "lat": 50.2743845822816,
-        "lon": -125.231779661166
       },
       {
         "id": "can-unknown",
@@ -35516,14 +34880,6 @@ module.exports = {
         "rfmo": [],
         "lat": 50.5896040550179,
         "lon": -126.93179547828
-      },
-      {
-        "id": "usa-juneau",
-        "iso": "USA",
-        "label": "JUNEAU",
-        "rfmo": [],
-        "lat": 58.2359506578744,
-        "lon": -134.312504196873
       },
       {
         "id": "usa-pelican",
@@ -35606,22 +34962,6 @@ module.exports = {
         "lon": -146.356129775924
       },
       {
-        "id": "usa-sitka",
-        "iso": "USA",
-        "label": "SITKA",
-        "rfmo": [],
-        "lat": 56.8446946979194,
-        "lon": -134.933679337499
-      },
-      {
-        "id": "usa-seattlewa",
-        "iso": "USA",
-        "label": "SEATTLE WA",
-        "rfmo": [],
-        "lat": 55.2715746367871,
-        "lon": -132.048951409131
-      },
-      {
         "id": "usa-craig",
         "iso": "USA",
         "label": "CRAIG",
@@ -35654,14 +34994,6 @@ module.exports = {
         "lon": -145.765847381396
       },
       {
-        "id": "usa-dutchharbor",
-        "iso": "USA",
-        "label": "DUTCH HARBOR",
-        "rfmo": [],
-        "lat": 58.0805721999964,
-        "lon": -134.791425349485
-      },
-      {
         "id": "usa-sleepybay",
         "iso": "USA",
         "label": "SLEEPY BAY",
@@ -35678,14 +35010,6 @@ module.exports = {
         "lon": -135.742696394451
       },
       {
-        "id": "usa-haines",
-        "iso": "USA",
-        "label": "HAINES",
-        "rfmo": [],
-        "lat": 58.2134050835221,
-        "lon": -135.124213235942
-      },
-      {
         "id": "usa-juneauak",
         "iso": "USA",
         "label": "JUNEAU AK",
@@ -35700,14 +35024,6 @@ module.exports = {
         "rfmo": [],
         "lat": 55.201691,
         "lon": -132.82639
-      },
-      {
-        "id": "usa-ketchikan",
-        "iso": "USA",
-        "label": "KETCHIKAN",
-        "rfmo": [],
-        "lat": 55.3275273271732,
-        "lon": -131.691315502231
       },
       {
         "id": "usa-hyder",
@@ -35742,36 +35058,12 @@ module.exports = {
         "lon": -147.507834283233
       },
       {
-        "id": "usa-chenegabay",
-        "iso": "USA",
-        "label": "CHENEGA BAY",
-        "rfmo": [],
-        "lat": 60.0536208119321,
-        "lon": -148.009546516039
-      },
-      {
-        "id": "usa-hoonah",
-        "iso": "USA",
-        "label": "HOONAH",
-        "rfmo": [],
-        "lat": 58.1136657770334,
-        "lon": -135.45679372518
-      },
-      {
         "id": "usa-various",
         "iso": "USA",
         "label": "VARIOUS",
         "rfmo": [],
         "lat": 54.9335489780862,
         "lon": -130.954057514781
-      },
-      {
-        "id": "usa-none",
-        "iso": "USA",
-        "label": "NONE",
-        "rfmo": [],
-        "lat": 58.2177154441908,
-        "lon": -135.130143795834
       },
       {
         "id": "usa-unionbay",
@@ -35796,22 +35088,6 @@ module.exports = {
         "rfmo": [],
         "lat": 57.5350910009416,
         "lon": -136.019211907433
-      },
-      {
-        "id": "usa-skagway",
-        "iso": "USA",
-        "label": "SKAGWAY",
-        "rfmo": [],
-        "lat": 59.4487240981606,
-        "lon": -135.326497239386
-      },
-      {
-        "id": "usa-bellingham",
-        "iso": "USA",
-        "label": "BELLINGHAM",
-        "rfmo": [],
-        "lat": 58.5692071913224,
-        "lon": -134.912938064345
       },
       {
         "id": "usa-kake",
@@ -35864,16 +35140,6 @@ module.exports = {
         ],
         "lat": 9.91968915436443,
         "lon": -84.7625916291541
-      },
-      {
-        "id": "cri-costarica",
-        "iso": "CRI",
-        "label": "COSTA RICA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 9.24014072338144,
-        "lon": -84.2785007110005
       },
       {
         "id": "cri-cocosislandcr",
@@ -35946,26 +35212,6 @@ module.exports = {
         "lon": -109.424901274437
       },
       {
-        "id": "gtm-puertoquetzal",
-        "iso": "GTM",
-        "label": "PUERTO QUETZAL",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 13.893016894502,
-        "lon": -90.7893297570503
-      },
-      {
-        "id": "mex-manzanillo",
-        "iso": "MEX",
-        "label": "MANZANILLO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 19.0808256300615,
-        "lon": -104.350342980029
-      },
-      {
         "id": "mex-rosarito",
         "iso": "MEX",
         "label": "ROSARITO",
@@ -35976,26 +35222,6 @@ module.exports = {
         "lon": -117.10100368502
       },
       {
-        "id": "mex-lapaz",
-        "iso": "MEX",
-        "label": "LAPAZ",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 24.8776935833485,
-        "lon": -110.620568599164
-      },
-      {
-        "id": "mex-lazarocardenas",
-        "iso": "MEX",
-        "label": "LAZARO CARDENAS",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 17.8892687050546,
-        "lon": -102.182907270387
-      },
-      {
         "id": "mex-corraldelrisco(puntademita)",
         "iso": "MEX",
         "label": "CORRAL DEL RISCO (PUNTA DE MITA)",
@@ -36004,16 +35230,6 @@ module.exports = {
         ],
         "lat": 20.7645022658722,
         "lon": -105.51783620166
-      },
-      {
-        "id": "mex-puertovallarta",
-        "iso": "MEX",
-        "label": "PUERTO VALLARTA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 20.6606915383478,
-        "lon": -105.338480526243
       },
       {
         "id": "mex-cey",
@@ -36034,16 +35250,6 @@ module.exports = {
         ],
         "lat": 19.0958783014948,
         "lon": -104.436673034716
-      },
-      {
-        "id": "mex-lapaz",
-        "iso": "MEX",
-        "label": "LA PAZ",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 24.5038455970336,
-        "lon": -110.463438391364
       },
       {
         "id": "mex-cabo",
@@ -36076,26 +35282,6 @@ module.exports = {
         "lon": -111.311923367316
       },
       {
-        "id": "mex-loreto",
-        "iso": "MEX",
-        "label": "LORETO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 25.8793525828088,
-        "lon": -111.301603708172
-      },
-      {
-        "id": "mex-sandiego",
-        "iso": "MEX",
-        "label": "SAN DIEGO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 25.9695902071604,
-        "lon": -112.560385735863
-      },
-      {
         "id": "mex-atlerkosrho",
         "iso": "MEX",
         "label": "AT LER KOS RHO",
@@ -36104,36 +35290,6 @@ module.exports = {
         ],
         "lat": 23.7547613549584,
         "lon": -108.377337470071
-      },
-      {
-        "id": "mex-acapulco",
-        "iso": "MEX",
-        "label": "ACAPULCO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 16.8425953187444,
-        "lon": -99.9055780019413
-      },
-      {
-        "id": "mex-mazatlan",
-        "iso": "MEX",
-        "label": "MAZATLAN",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 23.165721264662,
-        "lon": -106.410159893367
-      },
-      {
-        "id": "mex-ensenada",
-        "iso": "MEX",
-        "label": "ENSENADA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 31.8512567766467,
-        "lon": -116.640855700452
       },
       {
         "id": "mex-guaymas",
@@ -36176,16 +35332,6 @@ module.exports = {
         "lon": -114.884441863474
       },
       {
-        "id": "mex-santarosalia",
-        "iso": "MEX",
-        "label": "SANTA ROSALIA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 27.3379317790342,
-        "lon": -112.263306249816
-      },
-      {
         "id": "mex-sanjuandelacosta",
         "iso": "MEX",
         "label": "SAN JUAN DE LA COSTA",
@@ -36196,16 +35342,6 @@ module.exports = {
         "lon": -110.677985045155
       },
       {
-        "id": "mex-salinacruz",
-        "iso": "MEX",
-        "label": "SALINA CRUZ",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 16.124471224981,
-        "lon": -95.1779252058825
-      },
-      {
         "id": "mex-mazanillo",
         "iso": "MEX",
         "label": "MAZANILLO",
@@ -36214,16 +35350,6 @@ module.exports = {
         ],
         "lat": 19.0698234688889,
         "lon": -104.36590866297
-      },
-      {
-        "id": "mex-cabosanlucas",
-        "iso": "MEX",
-        "label": "CABO SAN LUCAS",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 27.6824091210743,
-        "lon": -114.887782184694
       },
       {
         "id": "mex-pichilingue",
@@ -36274,16 +35400,6 @@ module.exports = {
         ],
         "lat": 20.6838200901499,
         "lon": -105.27899865915
-      },
-      {
-        "id": "mex-puertomorroredondo",
-        "iso": "MEX",
-        "label": "PUERTO MORRO REDONDO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 28.0632122410142,
-        "lon": -115.162377043076
       },
       {
         "id": "mex-acapulcodejuarez",
@@ -36386,26 +35502,6 @@ module.exports = {
         "lon": -86.7926199190036
       },
       {
-        "id": "pan-balboa",
-        "iso": "PAN",
-        "label": "BALBOA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 8.8547814418074,
-        "lon": -79.5099123737305
-      },
-      {
-        "id": "pan-cristobal",
-        "iso": "PAN",
-        "label": "CRISTOBAL",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 8.84329643581175,
-        "lon": -79.531402812236
-      },
-      {
         "id": "pan-sanfelipe",
         "iso": "PAN",
         "label": "SAN FELIPE",
@@ -36426,16 +35522,6 @@ module.exports = {
         "lon": -79.5178592895813
       },
       {
-        "id": "pan-panama",
-        "iso": "PAN",
-        "label": "PANAMA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 8.86708604934494,
-        "lon": -79.5297419953626
-      },
-      {
         "id": "pan-puertoamador",
         "iso": "PAN",
         "label": "PUERTO AMADOR",
@@ -36454,16 +35540,6 @@ module.exports = {
         ],
         "lat": 8.91220151581213,
         "lon": -79.5217268033811
-      },
-      {
-        "id": "pan-cristobalpanama",
-        "iso": "PAN",
-        "label": "CRISTOBAL PANAMA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 8.85016179910211,
-        "lon": -79.5421482105799
       },
       {
         "id": "pan-pablb",
@@ -36536,16 +35612,6 @@ module.exports = {
         "lon": -89.8656580078632
       },
       {
-        "id": "usa-porthueneme",
-        "iso": "USA",
-        "label": "PORT HUENEME",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 34.1551214805268,
-        "lon": -119.215865886489
-      },
-      {
         "id": "usa-longbeach",
         "iso": "USA",
         "label": "LONG BEACH",
@@ -36554,16 +35620,6 @@ module.exports = {
         ],
         "lat": 33.7178252598738,
         "lon": -118.163752175598
-      },
-      {
-        "id": "usa-losangeles",
-        "iso": "USA",
-        "label": "LOS ANGELES",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 33.7360408723162,
-        "lon": -118.237482294991
       },
       {
         "id": "usa-crockett",
@@ -36596,26 +35652,6 @@ module.exports = {
         "lon": -118.105195362089
       },
       {
-        "id": "usa-newportbeach",
-        "iso": "USA",
-        "label": "NEWPORT BEACH",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 33.6105311744839,
-        "lon": -117.913513547491
-      },
-      {
-        "id": "usa-na",
-        "iso": "USA",
-        "label": "N A",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 32.7006989039002,
-        "lon": -117.236087546114
-      },
-      {
         "id": "usa-sscpacificsandiego",
         "iso": "USA",
         "label": "SSC PACIFICSANDIEGO",
@@ -36626,16 +35662,6 @@ module.exports = {
         "lon": -117.235902097214
       },
       {
-        "id": "usa-alameda",
-        "iso": "USA",
-        "label": "ALAMEDA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 37.7855499461449,
-        "lon": -122.285772202552
-      },
-      {
         "id": "usa-carmel-by-the-sea",
         "iso": "USA",
         "label": "CARMEL-BY-THE-SEA",
@@ -36644,16 +35670,6 @@ module.exports = {
         ],
         "lat": 36.5631381166103,
         "lon": -121.943158334323
-      },
-      {
-        "id": "usa-pointrichmond",
-        "iso": "USA",
-        "label": "POINT RICHMOND",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 37.9144789632582,
-        "lon": -122.372841208202
       },
       {
         "id": "usa-mareisland",
@@ -36676,26 +35692,6 @@ module.exports = {
         "lon": -122.31587023751
       },
       {
-        "id": "usa-sfoa9",
-        "iso": "USA",
-        "label": "SFO A9",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 37.7542854750988,
-        "lon": -122.346327007673
-      },
-      {
-        "id": "usa-sanfrancisco",
-        "iso": "USA",
-        "label": "SAN FRANCISCO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 37.7667235648704,
-        "lon": -122.364089364721
-      },
-      {
         "id": "usa-sfoa8",
         "iso": "USA",
         "label": "SFOA8",
@@ -36704,16 +35700,6 @@ module.exports = {
         ],
         "lat": 37.7820632060307,
         "lon": -122.351941520559
-      },
-      {
-        "id": "usa-yerbabuenaisland",
-        "iso": "USA",
-        "label": "YERBABUENA ISLAND",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 37.8043696261199,
-        "lon": -122.360357388088
       },
       {
         "id": "usa-cojoanchorage",
@@ -36754,26 +35740,6 @@ module.exports = {
         ],
         "lat": 32.6259302727397,
         "lon": -117.131190394927
-      },
-      {
-        "id": "usa-pointroberts",
-        "iso": "USA",
-        "label": "POINT ROBERTS",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 32.6301707330708,
-        "lon": -117.131656920987
-      },
-      {
-        "id": "usa-sandiego",
-        "iso": "USA",
-        "label": "SAN DIEGO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 32.7188701422245,
-        "lon": -117.21146433486
       },
       {
         "id": "usa-santabarbara",
@@ -36886,16 +35852,6 @@ module.exports = {
         "lon": -117.233383750893
       },
       {
-        "id": "usa-santacruz",
-        "iso": "USA",
-        "label": "SANTA CRUZ",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 36.9604526730241,
-        "lon": -122.007543239019
-      },
-      {
         "id": "usa-morrobay",
         "iso": "USA",
         "label": "MORRO BAY",
@@ -36906,16 +35862,6 @@ module.exports = {
         "lon": -120.854460267826
       },
       {
-        "id": "usa-avalon",
-        "iso": "USA",
-        "label": "AVALON",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 33.3509389118533,
-        "lon": -118.324953541606
-      },
-      {
         "id": "usa-redondobeach",
         "iso": "USA",
         "label": "REDONDO BEACH",
@@ -36924,26 +35870,6 @@ module.exports = {
         ],
         "lat": 33.8463024073562,
         "lon": -118.397742906901
-      },
-      {
-        "id": "usa-marinadelrey",
-        "iso": "USA",
-        "label": "MARINA DEL REY",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 33.960949263467,
-        "lon": -118.459048212677
-      },
-      {
-        "id": "usa-berkeley",
-        "iso": "USA",
-        "label": "BERKELEY",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 37.8400302243893,
-        "lon": -122.312263292613
       },
       {
         "id": "usa-strawberry",
@@ -37036,16 +35962,6 @@ module.exports = {
         "lon": -118.20740918983
       },
       {
-        "id": "usa-wilsoncove",
-        "iso": "USA",
-        "label": "WILSON COVE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 33.0079557573159,
-        "lon": -118.553859342245
-      },
-      {
         "id": "usa-sanpedro",
         "iso": "USA",
         "label": "SAN PEDRO",
@@ -37054,16 +35970,6 @@ module.exports = {
         ],
         "lat": 33.7187274569215,
         "lon": -118.278706472796
-      },
-      {
-        "id": "usa-bf",
-        "iso": "USA",
-        "label": "BF",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 34.4484280078267,
-        "lon": -120.440647751771
       },
       {
         "id": "usa-ptconception",
@@ -37116,16 +36022,6 @@ module.exports = {
         "lon": -122.319833474578
       },
       {
-        "id": "usa-usrch",
-        "iso": "USA",
-        "label": "USRCH",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 37.7374632391109,
-        "lon": -122.327052666491
-      },
-      {
         "id": "usa-richmond",
         "iso": "USA",
         "label": "RICHMOND",
@@ -37134,26 +36030,6 @@ module.exports = {
         ],
         "lat": 37.923446436912,
         "lon": -122.411829792555
-      },
-      {
-        "id": "usa-santacatalinais",
-        "iso": "USA",
-        "label": "SANTA CATALINA IS",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 33.3962018728519,
-        "lon": -118.36521465024
-      },
-      {
-        "id": "usa-aallorca",
-        "iso": "USA",
-        "label": "AALLORCA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 33.9687898577498,
-        "lon": -119.698491517369
       },
       {
         "id": "usa-sansimeon",
@@ -37174,16 +36050,6 @@ module.exports = {
         ],
         "lat": 32.6872180429071,
         "lon": -117.235912752432
-      },
-      {
-        "id": "usa-santarosais",
-        "iso": "USA",
-        "label": "SANTA ROSA IS",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 34.0157996957308,
-        "lon": -120.045923451631
       },
       {
         "id": "usa-longbeachusa",
@@ -37216,16 +36082,6 @@ module.exports = {
         "lon": -119.026557781328
       },
       {
-        "id": "usa-tiburon",
-        "iso": "USA",
-        "label": "TIBURON",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 37.8699237447268,
-        "lon": -122.431988643612
-      },
-      {
         "id": "usa-southvallejo",
         "iso": "USA",
         "label": "SOUTH VALLEJO",
@@ -37254,16 +36110,6 @@ module.exports = {
         ],
         "lat": 34.0183312647576,
         "lon": -119.540610400372
-      },
-      {
-        "id": "usa-santabarbara",
-        "iso": "USA",
-        "label": "SANTABARBARA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 34.0199879488579,
-        "lon": -119.537602099929
       },
       {
         "id": "usa-santacruzisland",
@@ -37304,16 +36150,6 @@ module.exports = {
         ],
         "lat": 37.9721193882824,
         "lon": -122.482919430397
-      },
-      {
-        "id": "usa-sausalito",
-        "iso": "USA",
-        "label": "SAUSALITO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 37.8326973910108,
-        "lon": -122.476504621803
       },
       {
         "id": "usa-richmondusa",
@@ -37618,46 +36454,6 @@ module.exports = {
         "lon": 26.7829611645039
       },
       {
-        "id": "tur-nemrut",
-        "iso": "TUR",
-        "label": "NEMRUT",
-        "rfmo": [],
-        "lat": 38.7439176843113,
-        "lon": 26.8796203163055
-      },
-      {
-        "id": "tur-kas",
-        "iso": "TUR",
-        "label": "KAS",
-        "rfmo": [],
-        "lat": 36.1890460143288,
-        "lon": 29.6375351580063
-      },
-      {
-        "id": "tur-marmaris",
-        "iso": "TUR",
-        "label": "MARMARIS",
-        "rfmo": [],
-        "lat": 36.8440238072392,
-        "lon": 28.2827988337079
-      },
-      {
-        "id": "tur-nemrutlimanibay",
-        "iso": "TUR",
-        "label": "NEMRUT LIMANI BAY",
-        "rfmo": [],
-        "lat": 38.7592750208538,
-        "lon": 26.9078667714502
-      },
-      {
-        "id": "tur-fethiye",
-        "iso": "TUR",
-        "label": "FETHIYE",
-        "rfmo": [],
-        "lat": 36.6351532298191,
-        "lon": 29.0959337353956
-      },
-      {
         "id": "tur-armutlu",
         "iso": "TUR",
         "label": "ARMUTLU",
@@ -37730,28 +36526,12 @@ module.exports = {
         "lon": 31.9500861019595
       },
       {
-        "id": "tur-karatoprak",
-        "iso": "TUR",
-        "label": "KARATOPRAK",
-        "rfmo": [],
-        "lat": 37.0014911279934,
-        "lon": 27.2559457536806
-      },
-      {
         "id": "tur-antalya",
         "iso": "TUR",
         "label": "ANTALYA",
         "rfmo": [],
         "lat": 36.8814436212163,
         "lon": 30.7015377752727
-      },
-      {
-        "id": "tur-dikili",
-        "iso": "TUR",
-        "label": "DIKILI",
-        "rfmo": [],
-        "lat": 39.0734627867778,
-        "lon": 26.8805886787248
       },
       {
         "id": "tur-darica",
@@ -37768,14 +36548,6 @@ module.exports = {
         "rfmo": [],
         "lat": 40.3955214355866,
         "lon": 27.7904574219153
-      },
-      {
-        "id": "tur-aliaga",
-        "iso": "TUR",
-        "label": "ALIAGA",
-        "rfmo": [],
-        "lat": 38.818856331314,
-        "lon": 26.9733872238297
       },
       {
         "id": "tur-giresun",
@@ -37802,28 +36574,12 @@ module.exports = {
         "lon": 27.3674068728711
       },
       {
-        "id": "tur-sariyer",
-        "iso": "TUR",
-        "label": "SARIYER",
-        "rfmo": [],
-        "lat": 39.8103208307102,
-        "lon": 27.7546269261676
-      },
-      {
         "id": "tur-tasucu",
         "iso": "TUR",
         "label": "TASUCU",
         "rfmo": [],
         "lat": 36.3139829598551,
         "lon": 33.8880581254294
-      },
-      {
-        "id": "tur-ata",
-        "iso": "TUR",
-        "label": "ATA",
-        "rfmo": [],
-        "lat": 40.9464921458319,
-        "lon": 29.0955587634789
       },
       {
         "id": "tur-yalova",
@@ -37840,14 +36596,6 @@ module.exports = {
         "rfmo": [],
         "lat": 36.2621053184118,
         "lon": 29.4140065129192
-      },
-      {
-        "id": "tur-istanbul",
-        "iso": "TUR",
-        "label": "ISTANBUL",
-        "rfmo": [],
-        "lat": 41.1096328212582,
-        "lon": 29.0873909267716
       },
       {
         "id": "tur-gmenimarina",
@@ -37906,14 +36654,6 @@ module.exports = {
         "lon": 29.5075903379714
       },
       {
-        "id": "tur-bodrum",
-        "iso": "TUR",
-        "label": "BODRUM",
-        "rfmo": [],
-        "lat": 36.9898755142807,
-        "lon": 27.5641254523273
-      },
-      {
         "id": "tur-ctrad",
         "iso": "TUR",
         "label": "CTRAD",
@@ -37960,14 +36700,6 @@ module.exports = {
         "rfmo": [],
         "lat": 36.0964704085485,
         "lon": 32.9382534672398
-      },
-      {
-        "id": "tur-mersin",
-        "iso": "TUR",
-        "label": "MERSIN",
-        "rfmo": [],
-        "lat": 36.8051866388941,
-        "lon": 34.6591457641867
       },
       {
         "id": "tur-pendik",
@@ -38082,28 +36814,12 @@ module.exports = {
         "lon": 27.2924605175149
       },
       {
-        "id": "tur-yenifoca",
-        "iso": "TUR",
-        "label": "YENIFOCA",
-        "rfmo": [],
-        "lat": 38.7520662069746,
-        "lon": 26.8696296819739
-      },
-      {
         "id": "tur-yakacik",
         "iso": "TUR",
         "label": "YAKACIK",
         "rfmo": [],
         "lat": 36.7823065219845,
         "lon": 36.1969990485454
-      },
-      {
-        "id": "tur-defterdarburnu",
-        "iso": "TUR",
-        "label": "DEFTERDAR BURNU",
-        "rfmo": [],
-        "lat": 41.050832181257,
-        "lon": 29.0513479831708
       },
       {
         "id": "tur-mudanya",
@@ -38128,16 +36844,6 @@ module.exports = {
         "rfmo": [],
         "lat": 37.0500784320484,
         "lon": 28.32472383333
-      },
-      {
-        "id": "ago-lobito",
-        "iso": "AGO",
-        "label": "LOBITO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -12.2803475042244,
-        "lon": 13.5901570565477
       },
       {
         "id": "ago-malongo",
@@ -38170,26 +36876,6 @@ module.exports = {
         "lon": 11.0785894399924
       },
       {
-        "id": "ago-cabinda",
-        "iso": "AGO",
-        "label": "CABINDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -5.5318923873732,
-        "lon": 12.1281883730834
-      },
-      {
-        "id": "ago-portoamboim",
-        "iso": "AGO",
-        "label": "PORTO AMBOIM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -10.7401347635278,
-        "lon": 13.7368422950635
-      },
-      {
         "id": "ago-malongoanchorage",
         "iso": "AGO",
         "label": "MALONGO ANCHORAGE",
@@ -38208,16 +36894,6 @@ module.exports = {
         ],
         "lat": -5.31845153666612,
         "lon": 12.115007671785
-      },
-      {
-        "id": "ago-luanda",
-        "iso": "AGO",
-        "label": "LUANDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -8.72386876170299,
-        "lon": 13.2865358877104
       },
       {
         "id": "ago-portodoambriz",
@@ -38380,16 +37056,6 @@ module.exports = {
         "lon": 12.171056088997
       },
       {
-        "id": "ago-soyo",
-        "iso": "AGO",
-        "label": "SOYO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -6.0752084225534,
-        "lon": 12.301054291714
-      },
-      {
         "id": "ago-pazflorangola",
         "iso": "AGO",
         "label": "PAZFLOR ANGOLA",
@@ -38500,26 +37166,6 @@ module.exports = {
         "lon": 11.9089371012552
       },
       {
-        "id": "bra-riogrande",
-        "iso": "BRA",
-        "label": "RIO GRANDE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -32.1583929947973,
-        "lon": -52.0078904666049
-      },
-      {
-        "id": "bra-santos",
-        "iso": "BRA",
-        "label": "SANTOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -24.0997842010366,
-        "lon": -46.3058328121802
-      },
-      {
         "id": "bra-saofranciscodosul",
         "iso": "BRA",
         "label": "SAO FRANCISCO DO SUL",
@@ -38580,16 +37226,6 @@ module.exports = {
         "lon": -39.994097304674
       },
       {
-        "id": "bra-itaqui",
-        "iso": "BRA",
-        "label": "ITAQUI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -2.42868423874058,
-        "lon": -44.3015548947011
-      },
-      {
         "id": "bra-baciadesantos",
         "iso": "BRA",
         "label": "BACIA DE SANTOS",
@@ -38608,16 +37244,6 @@ module.exports = {
         ],
         "lat": -22.4285867091175,
         "lon": -39.9592724734162
-      },
-      {
-        "id": "bra-p53",
-        "iso": "BRA",
-        "label": "P 53",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.4218302236628,
-        "lon": -39.9581532644761
       },
       {
         "id": "bra-tubaraobrazil",
@@ -38650,16 +37276,6 @@ module.exports = {
         "lon": -40.1794641705286
       },
       {
-        "id": "bra-niteroi",
-        "iso": "BRA",
-        "label": "NITEROI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.8681274360928,
-        "lon": -43.1282382721864
-      },
-      {
         "id": "bra-tramandai",
         "iso": "BRA",
         "label": "TRAMANDAI",
@@ -38680,16 +37296,6 @@ module.exports = {
         "lon": -48.6776104166692
       },
       {
-        "id": "bra-portdesalvador",
-        "iso": "BRA",
-        "label": "PORT DE SALVADOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -12.9560381941682,
-        "lon": -38.5332449232937
-      },
-      {
         "id": "bra-rio",
         "iso": "BRA",
         "label": "RIO",
@@ -38698,16 +37304,6 @@ module.exports = {
         ],
         "lat": -22.4218204917467,
         "lon": -40.1781756359824
-      },
-      {
-        "id": "bra-riodejaneiro",
-        "iso": "BRA",
-        "label": "RIO DE JANEIRO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.9553754843537,
-        "lon": -42.7868639252979
       },
       {
         "id": "bra-santosbasin",
@@ -38840,16 +37436,6 @@ module.exports = {
         "lon": -35.724711184766
       },
       {
-        "id": "bra-angradosreis",
-        "iso": "BRA",
-        "label": "ANGRA DOS REIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -23.1362168630014,
-        "lon": -44.3701163646271
-      },
-      {
         "id": "bra-ilhabela",
         "iso": "BRA",
         "label": "ILHABELA",
@@ -38938,26 +37524,6 @@ module.exports = {
         ],
         "lat": -21.3433003250126,
         "lon": -40.06025260388
-      },
-      {
-        "id": "bra-p47",
-        "iso": "BRA",
-        "label": "P 47",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.3388924013464,
-        "lon": -40.198227132898
-      },
-      {
-        "id": "bra-belem",
-        "iso": "BRA",
-        "label": "BELEM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -1.4009532793499,
-        "lon": -48.5101939702112
       },
       {
         "id": "bra-portobelo",
@@ -39080,16 +37646,6 @@ module.exports = {
         "lon": -40.0718184693329
       },
       {
-        "id": "bra-p35",
-        "iso": "BRA",
-        "label": "P 35",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.4327270435962,
-        "lon": -40.0693807538747
-      },
-      {
         "id": "bra-baciadecamposp38",
         "iso": "BRA",
         "label": "BACIA DE CAMPOS P38",
@@ -39168,16 +37724,6 @@ module.exports = {
         ],
         "lat": -21.241908027587,
         "lon": -40.0160409399233
-      },
-      {
-        "id": "bra-aratu",
-        "iso": "BRA",
-        "label": "ARATU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -12.9554671208639,
-        "lon": -38.5717682083291
       },
       {
         "id": "bra-itjai",
@@ -39270,16 +37816,6 @@ module.exports = {
         "lon": -51.0984412520712
       },
       {
-        "id": "bra-fazendinha",
-        "iso": "BRA",
-        "label": "FAZENDINHA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -0.0644107011601601,
-        "lon": -51.1040407193455
-      },
-      {
         "id": "bra-buziosfield",
         "iso": "BRA",
         "label": "BUZIOS FIELD",
@@ -39368,26 +37904,6 @@ module.exports = {
         ],
         "lat": -23.9961322706634,
         "lon": -46.2905892740366
-      },
-      {
-        "id": "bra-portoacu",
-        "iso": "BRA",
-        "label": "PORTO ACU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.1490518911883,
-        "lon": -41.6721453552189
-      },
-      {
-        "id": "bra-saoluis",
-        "iso": "BRA",
-        "label": "SAO LUIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -2.34417291461706,
-        "lon": -44.2420983644732
       },
       {
         "id": "bra-brpma",
@@ -39530,16 +38046,6 @@ module.exports = {
         "lon": -37.0525057906111
       },
       {
-        "id": "bra-p33",
-        "iso": "BRA",
-        "label": "P33",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.3708703741914,
-        "lon": -40.0318995682293
-      },
-      {
         "id": "bra-p57",
         "iso": "BRA",
         "label": "P 57",
@@ -39608,16 +38114,6 @@ module.exports = {
         ],
         "lat": -2.40422911251997,
         "lon": -44.2794382649938
-      },
-      {
-        "id": "bra-portodesuape",
-        "iso": "BRA",
-        "label": "PORTO DE SUAPE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -8.39530307649003,
-        "lon": -34.9552431723299
       },
       {
         "id": "bra-p65",
@@ -39700,16 +38196,6 @@ module.exports = {
         "lon": -52.1004794571011
       },
       {
-        "id": "bra-navegantes",
-        "iso": "BRA",
-        "label": "NAVEGANTES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -26.9108148534629,
-        "lon": -48.53406767156
-      },
-      {
         "id": "bra-wideberthrequested",
         "iso": "BRA",
         "label": "WIDE BERTH REQUESTED",
@@ -39728,16 +38214,6 @@ module.exports = {
         ],
         "lat": -21.7738214760577,
         "lon": -40.9403753986501
-      },
-      {
-        "id": "bra-portodoacu",
-        "iso": "BRA",
-        "label": "PORTO DO ACU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.2159596339095,
-        "lon": -41.9222173236821
       },
       {
         "id": "bra-p34",
@@ -39760,16 +38236,6 @@ module.exports = {
         "lon": -40.2650163352626
       },
       {
-        "id": "bra-stm",
-        "iso": "BRA",
-        "label": "STM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -32.1531183578435,
-        "lon": -52.088547053147
-      },
-      {
         "id": "bra-bemunde",
         "iso": "BRA",
         "label": "BEMUNDE",
@@ -39788,16 +38254,6 @@ module.exports = {
         ],
         "lat": -23.0606920713214,
         "lon": -44.2309807713423
-      },
-      {
-        "id": "bra-marlimleste",
-        "iso": "BRA",
-        "label": "MARLIM LESTE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.4219052634023,
-        "lon": -39.9989211724401
       },
       {
         "id": "bra-rawns",
@@ -39870,16 +38326,6 @@ module.exports = {
         "lon": -40.1947589230353
       },
       {
-        "id": "bra-brtub",
-        "iso": "BRA",
-        "label": "BRTUB",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -20.3442438066979,
-        "lon": -40.1427628929364
-      },
-      {
         "id": "bra-aracaju",
         "iso": "BRA",
         "label": "ARACAJU",
@@ -39940,26 +38386,6 @@ module.exports = {
         "lon": -43.2076529135608
       },
       {
-        "id": "bra-acu",
-        "iso": "BRA",
-        "label": "ACU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -21.8032866483091,
-        "lon": -40.9801337442398
-      },
-      {
-        "id": "bra-recife",
-        "iso": "BRA",
-        "label": "RECIFE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -8.07547174980329,
-        "lon": -34.8407325895095
-      },
-      {
         "id": "bra-itaguaibrazil",
         "iso": "BRA",
         "label": "ITAGUAI BRAZIL",
@@ -40018,16 +38444,6 @@ module.exports = {
         ],
         "lat": -32.256338715825,
         "lon": -51.9286643988659
-      },
-      {
-        "id": "bra-sacodoceuigrand",
-        "iso": "BRA",
-        "label": "SACO DO CEU I GRAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.9511787111909,
-        "lon": -44.3935198492359
       },
       {
         "id": "bra-recalada",
@@ -40108,16 +38524,6 @@ module.exports = {
         ],
         "lat": -22.6521216944784,
         "lon": -40.4292513338464
-      },
-      {
-        "id": "bra-itajai",
-        "iso": "BRA",
-        "label": "ITAJAI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -26.9210115368152,
-        "lon": -48.5784338683709
       },
       {
         "id": "bra-santosmarfort",
@@ -40230,16 +38636,6 @@ module.exports = {
         "lon": -40.2616424661415
       },
       {
-        "id": "bra-fpsop43",
-        "iso": "BRA",
-        "label": "FPSO P 43",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.5547466122626,
-        "lon": -40.2637698836737
-      },
-      {
         "id": "bra-saoluisbrazil",
         "iso": "BRA",
         "label": "SAO LUIS BRAZIL",
@@ -40298,16 +38694,6 @@ module.exports = {
         ],
         "lat": -1.1045660623374,
         "lon": -48.4920198537796
-      },
-      {
-        "id": "bra-p38",
-        "iso": "BRA",
-        "label": "P38",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.55123959812,
-        "lon": -40.1274227948057
       },
       {
         "id": "bra-praiamolebrazil",
@@ -40390,16 +38776,6 @@ module.exports = {
         "lon": -44.237321298727
       },
       {
-        "id": "bra-natal",
-        "iso": "BRA",
-        "label": "NATAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -5.75191703144753,
-        "lon": -35.173006818958
-      },
-      {
         "id": "bra-saofrancisco",
         "iso": "BRA",
         "label": "SAO FRANCISCO",
@@ -40428,16 +38804,6 @@ module.exports = {
         ],
         "lat": -12.9127317859491,
         "lon": -38.4919119480219
-      },
-      {
-        "id": "bra-p32",
-        "iso": "BRA",
-        "label": "P32",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.3425930108232,
-        "lon": -40.2357806719964
       },
       {
         "id": "bra-brarb",
@@ -40550,16 +38916,6 @@ module.exports = {
         "lon": -39.9687091968904
       },
       {
-        "id": "bra-p31",
-        "iso": "BRA",
-        "label": "P 31",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.1385931856384,
-        "lon": -39.9732749879172
-      },
-      {
         "id": "bra-barcarenabrazil",
         "iso": "BRA",
         "label": "BARCARENA BRAZIL",
@@ -40648,16 +39004,6 @@ module.exports = {
         ],
         "lat": -25.6748868562067,
         "lon": -48.2271917787056
-      },
-      {
-        "id": "bra-p40",
-        "iso": "BRA",
-        "label": "P40",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -22.5485807468997,
-        "lon": -40.0670980254599
       },
       {
         "id": "bra-puertobuenosaires",
@@ -40870,16 +39216,6 @@ module.exports = {
         "lon": -54.1437808899337
       },
       {
-        "id": "ago-luanda",
-        "iso": "AGO",
-        "label": "LUANDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -8.76734106175651,
-        "lon": 13.2573577529444
-      },
-      {
         "id": "bra-fernandodenoronha(distritoestadual)",
         "iso": "BRA",
         "label": "FERNANDO DE NORONHA (DISTRITO ESTADUAL)",
@@ -40910,16 +39246,6 @@ module.exports = {
         "lon": 151.501813408212
       },
       {
-        "id": "aus-gladstone",
-        "iso": "AUS",
-        "label": "GLADSTONE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -23.8409924847394,
-        "lon": 151.441854794042
-      },
-      {
         "id": "aus-goldcoastqld",
         "iso": "AUS",
         "label": "GOLD COAST QLD",
@@ -40928,16 +39254,6 @@ module.exports = {
         ],
         "lat": -20.1926870016162,
         "lon": 148.939923994927
-      },
-      {
-        "id": "aus-bf",
-        "iso": "AUS",
-        "label": "BF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -23.0033960503226,
-        "lon": 150.714816950617
       },
       {
         "id": "aus-bongaree",
@@ -41030,16 +39346,6 @@ module.exports = {
         "lon": 149.07720097677
       },
       {
-        "id": "aus-aalborg",
-        "iso": "AUS",
-        "label": "AALBORG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -27.3867370597227,
-        "lon": 153.223672486085
-      },
-      {
         "id": "aus-syc",
         "iso": "AUS",
         "label": "SYC",
@@ -41050,16 +39356,6 @@ module.exports = {
         "lon": 153.369137548534
       },
       {
-        "id": "aus-burg",
-        "iso": "AUS",
-        "label": "BURG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -25.3977383815002,
-        "lon": 151.856898372496
-      },
-      {
         "id": "aus-haypoint",
         "iso": "AUS",
         "label": "HAY POINT",
@@ -41068,16 +39364,6 @@ module.exports = {
         ],
         "lat": -21.2533644342965,
         "lon": 149.350131992263
-      },
-      {
-        "id": "aus-townsville",
-        "iso": "AUS",
-        "label": "TOWNSVILLE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -19.4392854895,
-        "lon": 147.156303431282
       },
       {
         "id": "aus-bea",
@@ -41130,16 +39416,6 @@ module.exports = {
         "lon": 153.3633840408
       },
       {
-        "id": "aus-akbrf2",
-        "iso": "AUS",
-        "label": "AKB RF2",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -25.658648814073,
-        "lon": 152.199946758389
-      },
-      {
         "id": "aus-shorncliffe",
         "iso": "AUS",
         "label": "SHORNCLIFFE",
@@ -41168,16 +39444,6 @@ module.exports = {
         ],
         "lat": -20.2859753030705,
         "lon": 148.967167685675
-      },
-      {
-        "id": "aus-armany",
-        "iso": "AUS",
-        "label": "ARMANY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -22.0394495811985,
-        "lon": 150.193849674683
       },
       {
         "id": "aus-greatkeppelisland",
@@ -41218,26 +39484,6 @@ module.exports = {
         ],
         "lat": -23.7861854390162,
         "lon": 150.851563759053
-      },
-      {
-        "id": "aus-ore",
-        "iso": "AUS",
-        "label": "ORE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -20.024541210228,
-        "lon": 149.010172863665
-      },
-      {
-        "id": "aus-brisbane",
-        "iso": "AUS",
-        "label": "BRISBANE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -26.8153403489767,
-        "lon": 153.118203041366
       },
       {
         "id": "aus-capeflatteryharbor",
@@ -41300,16 +39546,6 @@ module.exports = {
         "lon": 148.902244484119
       },
       {
-        "id": "aus-airliebeach",
-        "iso": "AUS",
-        "label": "AIRLIE BEACH",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -20.1005180932676,
-        "lon": 148.901829751226
-      },
-      {
         "id": "aus-cleveland",
         "iso": "AUS",
         "label": "CLEVELAND",
@@ -41320,16 +39556,6 @@ module.exports = {
         "lon": 153.275428626518
       },
       {
-        "id": "aus-haypoint",
-        "iso": "AUS",
-        "label": "HAYPOINT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -21.1750651739845,
-        "lon": 149.430143196287
-      },
-      {
         "id": "aus-tweedheadswest",
         "iso": "AUS",
         "label": "TWEED HEADS WEST",
@@ -41338,16 +39564,6 @@ module.exports = {
         ],
         "lat": -28.1801004488577,
         "lon": 153.542308700088
-      },
-      {
-        "id": "aus-crks",
-        "iso": "AUS",
-        "label": "CRKS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -26.5752037800117,
-        "lon": 153.110550370357
       },
       {
         "id": "aus-mourilyanharbour",
@@ -41390,16 +39606,6 @@ module.exports = {
         "lon": 151.498677574353
       },
       {
-        "id": "aus-ae",
-        "iso": "AUS",
-        "label": "AE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -21.5733148893722,
-        "lon": 149.713128669684
-      },
-      {
         "id": "aus-whitsundayis",
         "iso": "AUS",
         "label": "WHITSUNDAY IS",
@@ -41440,16 +39646,6 @@ module.exports = {
         "lon": 153.614138538102
       },
       {
-        "id": "aus-cairns",
-        "iso": "AUS",
-        "label": "CAIRNS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -16.7301582347102,
-        "lon": 145.911377099543
-      },
-      {
         "id": "aus-redlandbay",
         "iso": "AUS",
         "label": "REDLAND BAY",
@@ -41478,26 +39674,6 @@ module.exports = {
         ],
         "lat": -26.8091861084268,
         "lon": 153.230449578631
-      },
-      {
-        "id": "aus-sydney",
-        "iso": "AUS",
-        "label": "SYDNEY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -22.3918909337889,
-        "lon": 149.802419001907
-      },
-      {
-        "id": "aus-portalma",
-        "iso": "AUS",
-        "label": "PORT ALMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -23.3925095943441,
-        "lon": 151.026935045622
       },
       {
         "id": "aus-audbct",
@@ -41610,16 +39786,6 @@ module.exports = {
         "lon": 152.401581901033
       },
       {
-        "id": "aus-tar",
-        "iso": "AUS",
-        "label": "TAR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -27.3659048650597,
-        "lon": 153.39582954201
-      },
-      {
         "id": "aus-moretonbay",
         "iso": "AUS",
         "label": "MORETON BAY",
@@ -41630,26 +39796,6 @@ module.exports = {
         "lon": 153.40499838726
       },
       {
-        "id": "aus-manly",
-        "iso": "AUS",
-        "label": "MANLY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -27.5106790436782,
-        "lon": 153.383886563597
-      },
-      {
-        "id": "aus-cang",
-        "iso": "AUS",
-        "label": "CANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -24.1656090329319,
-        "lon": 151.879927770189
-      },
-      {
         "id": "aus-dbctaus",
         "iso": "AUS",
         "label": "DBCT AUS",
@@ -41658,16 +39804,6 @@ module.exports = {
         ],
         "lat": -21.1888240616349,
         "lon": 149.432197132931
-      },
-      {
-        "id": "aus-whitsundayislands",
-        "iso": "AUS",
-        "label": "WHITSUNDAY ISLANDS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -20.1614420271138,
-        "lon": 148.976456692858
       },
       {
         "id": "aus-cau",
@@ -41700,26 +39836,6 @@ module.exports = {
         "lon": 153.312791770964
       },
       {
-        "id": "aus-ath",
-        "iso": "AUS",
-        "label": "ATH",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -19.3087112388847,
-        "lon": 147.380201886673
-      },
-      {
-        "id": "aus-line",
-        "iso": "AUS",
-        "label": "LINE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -21.7678031372665,
-        "lon": 149.624236386771
-      },
-      {
         "id": "aus-newportwaterways",
         "iso": "AUS",
         "label": "NEWPORT WATERWAYS",
@@ -41728,46 +39844,6 @@ module.exports = {
         ],
         "lat": -20.9774398273066,
         "lon": 149.16763302314
-      },
-      {
-        "id": "aus-atform",
-        "iso": "AUS",
-        "label": "ATFORM",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -25.3862224115618,
-        "lon": 152.511652291943
-      },
-      {
-        "id": "aus-auglt",
-        "iso": "AUS",
-        "label": "AUGLT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -23.7989396446541,
-        "lon": 151.45869173156
-      },
-      {
-        "id": "aus-bayasuoff",
-        "iso": "AUS",
-        "label": "BAYASU OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -27.3259160746716,
-        "lon": 153.240973580115
-      },
-      {
-        "id": "aus-arragona",
-        "iso": "AUS",
-        "label": "ARRAGONA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -20.1845769481798,
-        "lon": 148.743799721421
       },
       {
         "id": "aus-flindersgroup",
@@ -41810,16 +39886,6 @@ module.exports = {
         "lon": 149.374242159735
       },
       {
-        "id": "aus-plyse",
-        "iso": "AUS",
-        "label": "PLY SE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -25.7111631062927,
-        "lon": 152.471733442674
-      },
-      {
         "id": "aus-yorkeysknob",
         "iso": "AUS",
         "label": "YORKEYS KNOB",
@@ -41840,26 +39906,6 @@ module.exports = {
         "lon": 153.366278735284
       },
       {
-        "id": "aus-clarenceriver",
-        "iso": "AUS",
-        "label": "CLARENCE RIVER",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -27.6337421456389,
-        "lon": 153.370583696683
-      },
-      {
-        "id": "aus-portstephens",
-        "iso": "AUS",
-        "label": "PORT STEPHENS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -23.5627596816189,
-        "lon": 151.689753936106
-      },
-      {
         "id": "aus-hai",
         "iso": "AUS",
         "label": "HAI",
@@ -41868,16 +39914,6 @@ module.exports = {
         ],
         "lat": -21.7292663563027,
         "lon": 150.354305250141
-      },
-      {
-        "id": "aus-cno4anchorag",
-        "iso": "AUS",
-        "label": "C NO 4 ANCHORAG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -20.0466019265228,
-        "lon": 148.879385860099
       },
       {
         "id": "aus-magneticis",
@@ -41920,16 +39956,6 @@ module.exports = {
         "lon": 153.406985943673
       },
       {
-        "id": "aus-tincanbay",
-        "iso": "AUS",
-        "label": "TIN CAN BAY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -25.9005504909445,
-        "lon": 153.029594313324
-      },
-      {
         "id": "aus-tonguebay",
         "iso": "AUS",
         "label": "TONGUE BAY",
@@ -41960,16 +39986,6 @@ module.exports = {
         "lon": 145.445670451981
       },
       {
-        "id": "aus-goldcoastseaway",
-        "iso": "AUS",
-        "label": "GOLD COAST SEAWAY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -22.5479390913261,
-        "lon": 150.75811734196
-      },
-      {
         "id": "aus-cruise",
         "iso": "AUS",
         "label": "CRUISE",
@@ -41998,16 +40014,6 @@ module.exports = {
         ],
         "lat": -20.0727891265767,
         "lon": 148.437862640726
-      },
-      {
-        "id": "aus-fll",
-        "iso": "AUS",
-        "label": "FL L",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -27.4254781332122,
-        "lon": 153.224892718075
       },
       {
         "id": "aus-b2abk",
@@ -42070,16 +40076,6 @@ module.exports = {
         "lon": 152.505764690357
       },
       {
-        "id": "aus-ce",
-        "iso": "AUS",
-        "label": "CE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -27.5879396815016,
-        "lon": 153.352914474531
-      },
-      {
         "id": "aus-southport",
         "iso": "AUS",
         "label": "SOUTHPORT",
@@ -42100,16 +40096,6 @@ module.exports = {
         "lon": 151.696942009429
       },
       {
-        "id": "aus-bendok",
-        "iso": "AUS",
-        "label": "BENDOK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -25.3345217944364,
-        "lon": 152.989505960138
-      },
-      {
         "id": "aus-alepas",
         "iso": "AUS",
         "label": "ALEPAS",
@@ -42118,26 +40104,6 @@ module.exports = {
         ],
         "lat": -21.6522059013444,
         "lon": 150.243112327221
-      },
-      {
-        "id": "aus-bd",
-        "iso": "AUS",
-        "label": "BD",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -27.505478764431,
-        "lon": 153.336263994937
-      },
-      {
-        "id": "aus-elwin",
-        "iso": "AUS",
-        "label": "ELWIN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -20.1841671281483,
-        "lon": 148.671402001793
       },
       {
         "id": "aus-cairnsau",
@@ -42168,16 +40134,6 @@ module.exports = {
         ],
         "lat": -20.3298438992081,
         "lon": 148.845183277768
-      },
-      {
-        "id": "aus-bg",
-        "iso": "AUS",
-        "label": "BG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -19.1140843820849,
-        "lon": 146.857940217845
       },
       {
         "id": "aus-horseshoebay",
@@ -42230,16 +40186,6 @@ module.exports = {
         "lon": 149.265690690891
       },
       {
-        "id": "asm-pagopagoharbor",
-        "iso": "ASM",
-        "label": "PAGO PAGO HARBOR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -14.2728399142206,
-        "lon": -170.690802856022
-      },
-      {
         "id": "gum-apraharbor",
         "iso": "GUM",
         "label": "APRA HARBOR",
@@ -42250,26 +40196,6 @@ module.exports = {
         "lon": 144.655835381181
       },
       {
-        "id": "mnp-saipan",
-        "iso": "MNP",
-        "label": "SAIPAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 15.2261955877414,
-        "lon": 145.73355413722
-      },
-      {
-        "id": "ncl-noumea",
-        "iso": "NCL",
-        "label": "NOUMEA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -22.2419708203611,
-        "lon": 166.560822388841
-      },
-      {
         "id": "ncl-6c283eb3",
         "iso": "NCL",
         "label": "6C283EB3",
@@ -42278,16 +40204,6 @@ module.exports = {
         ],
         "lat": -22.3823410674412,
         "lon": 166.914381114706
-      },
-      {
-        "id": "ncl-annenhaven",
-        "iso": "NCL",
-        "label": "ANNENHAVEN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -21.9139619990537,
-        "lon": 166.937493006918
       },
       {
         "id": "ncl-akb",
@@ -42370,16 +40286,6 @@ module.exports = {
         "lon": 166.841186134436
       },
       {
-        "id": "ncl-karembe",
-        "iso": "NCL",
-        "label": "KAREMBE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -20.6157683191341,
-        "lon": 164.292446458674
-      },
-      {
         "id": "ncl-cffe",
         "iso": "NCL",
         "label": "CFF E",
@@ -42388,16 +40294,6 @@ module.exports = {
         ],
         "lat": -22.1012385844357,
         "lon": 166.198185187897
-      },
-      {
-        "id": "ncl-cno4anchorag",
-        "iso": "NCL",
-        "label": "C NO 4 ANCHORAG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -22.2099702417427,
-        "lon": 166.338530607467
       },
       {
         "id": "ncl-pronybay",
@@ -42470,16 +40366,6 @@ module.exports = {
         "lon": 166.879756590142
       },
       {
-        "id": "ncl-tadine",
-        "iso": "NCL",
-        "label": "TADINE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -21.5503577635979,
-        "lon": 167.874016156644
-      },
-      {
         "id": "ncl-baiengo",
         "iso": "NCL",
         "label": "BAIE NGO",
@@ -42538,16 +40424,6 @@ module.exports = {
         ],
         "lat": -22.1740501224989,
         "lon": 166.28665053729
-      },
-      {
-        "id": "ncl-aaus",
-        "iso": "NCL",
-        "label": "A AUS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -22.3313359708036,
-        "lon": 166.824580619521
       },
       {
         "id": "ncl-baieugue",
@@ -42670,16 +40546,6 @@ module.exports = {
         "lon": -151.487523763853
       },
       {
-        "id": "pyf-tahiti",
-        "iso": "PYF",
-        "label": "TAHITI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -16.7017689808346,
-        "lon": -151.468364502228
-      },
-      {
         "id": "pyf-anau",
         "iso": "PYF",
         "label": "ANAU",
@@ -42750,16 +40616,6 @@ module.exports = {
         "lon": -151.702683566756
       },
       {
-        "id": "pyf-pebga",
-        "iso": "PYF",
-        "label": "PEBGA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -16.6801770707076,
-        "lon": -151.486899108099
-      },
-      {
         "id": "pyf-kiritimati",
         "iso": "PYF",
         "label": "KIRITIMATI",
@@ -42818,16 +40674,6 @@ module.exports = {
         ],
         "lat": 20.8648552288302,
         "lon": -156.684312828739
-      },
-      {
-        "id": "usa-honolulu",
-        "iso": "USA",
-        "label": "HONOLULU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 21.3030835579009,
-        "lon": -157.884877419376
       },
       {
         "id": "usa-kahului",
@@ -42930,26 +40776,6 @@ module.exports = {
         "lon": -79.6879148591102
       },
       {
-        "id": "ecu-lalibertad",
-        "iso": "ECU",
-        "label": "LA LIBERTAD",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -2.16859417510386,
-        "lon": -80.9037265575765
-      },
-      {
-        "id": "ecu-guayaquil",
-        "iso": "ECU",
-        "label": "GUAYAQUIL",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -2.38180033337516,
-        "lon": -80.0258700548107
-      },
-      {
         "id": "ecu-manta",
         "iso": "ECU",
         "label": "MANTA",
@@ -42958,16 +40784,6 @@ module.exports = {
         ],
         "lat": -0.92864819048083,
         "lon": -80.7087942505425
-      },
-      {
-        "id": "ecu-puertobolivar",
-        "iso": "ECU",
-        "label": "PUERTO BOLIVAR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -3.26318559282888,
-        "lon": -80.0081985026239
       },
       {
         "id": "ecu-posorja",
@@ -43020,16 +40836,6 @@ module.exports = {
         "lon": -75.2442561266029
       },
       {
-        "id": "per-talara",
-        "iso": "PER",
-        "label": "TALARA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -4.56841968876963,
-        "lon": -81.3115445795582
-      },
-      {
         "id": "per-bahiadematarani",
         "iso": "PER",
         "label": "BAHIA DE MATARANI",
@@ -43038,16 +40844,6 @@ module.exports = {
         ],
         "lat": -16.9932833116683,
         "lon": -72.1224239929307
-      },
-      {
-        "id": "per-paita",
-        "iso": "PER",
-        "label": "PAITA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -5.06129940432039,
-        "lon": -81.1133901266238
       },
       {
         "id": "per-pepub",
@@ -43068,36 +40864,6 @@ module.exports = {
         ],
         "lat": -5.76898485407802,
         "lon": -81.0317367692328
-      },
-      {
-        "id": "per-salaverry",
-        "iso": "PER",
-        "label": "SALAVERRY",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -8.22675032214956,
-        "lon": -79.012897272072
-      },
-      {
-        "id": "per-callao",
-        "iso": "PER",
-        "label": "CALLAO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -12.027753924178,
-        "lon": -77.1854789832501
-      },
-      {
-        "id": "per-chimbote",
-        "iso": "PER",
-        "label": "CHIMBOTE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -9.1200568448558,
-        "lon": -78.5811337307486
       },
       {
         "id": "per-conchan",
@@ -43130,16 +40896,6 @@ module.exports = {
         "lon": -71.3605383094367
       },
       {
-        "id": "per-lapampillaoilterminal",
-        "iso": "PER",
-        "label": "LA PAMPILLA OIL TERMINAL",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -11.9343406472209,
-        "lon": -77.1556160037558
-      },
-      {
         "id": "per-pisco",
         "iso": "PER",
         "label": "PISCO",
@@ -43148,26 +40904,6 @@ module.exports = {
         ],
         "lat": -13.7726643848643,
         "lon": -76.2710439249047
-      },
-      {
-        "id": "per-paramonga",
-        "iso": "PER",
-        "label": "PARAMONGA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -10.6851997990442,
-        "lon": -77.8439976690354
-      },
-      {
-        "id": "per-eten",
-        "iso": "PER",
-        "label": "ETEN",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -6.96693182839441,
-        "lon": -79.8618000250538
       },
       {
         "id": "per-puntalobitos(bahiadehuarmey)",
@@ -43210,16 +40946,6 @@ module.exports = {
         "lon": -77.2785146085895
       },
       {
-        "id": "per-ilo",
-        "iso": "PER",
-        "label": "ILO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -17.7282873703125,
-        "lon": -71.2828577405922
-      },
-      {
         "id": "per-bayovarperu",
         "iso": "PER",
         "label": "BAYOVAR PERU",
@@ -43250,16 +40976,6 @@ module.exports = {
         "lon": -73.7040912412476
       },
       {
-        "id": "per-mollendo",
-        "iso": "PER",
-        "label": "MOLLENDO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -17.041480478958,
-        "lon": -72.0073240294134
-      },
-      {
         "id": "per-lapampilla",
         "iso": "PER",
         "label": "LA PAMPILLA",
@@ -43280,16 +40996,6 @@ module.exports = {
         "lon": -74.418704342009
       },
       {
-        "id": "chl-talcahuano",
-        "iso": "CHL",
-        "label": "TALCAHUANO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -36.6807824661646,
-        "lon": -73.0553596599648
-      },
-      {
         "id": "chl-huasco",
         "iso": "CHL",
         "label": "HUASCO",
@@ -43300,16 +41006,6 @@ module.exports = {
         "lon": -71.2397110514734
       },
       {
-        "id": "chl-coronel",
-        "iso": "CHL",
-        "label": "CORONEL",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -37.3601178953131,
-        "lon": -73.1736049777297
-      },
-      {
         "id": "chl-arica",
         "iso": "CHL",
         "label": "ARICA",
@@ -43318,36 +41014,6 @@ module.exports = {
         ],
         "lat": -18.4958938783562,
         "lon": -70.3618425776309
-      },
-      {
-        "id": "chl-puertomontt",
-        "iso": "CHL",
-        "label": "PUERTO MONTT",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -49.1327755390333,
-        "lon": -74.4099151165705
-      },
-      {
-        "id": "chl-lirquen",
-        "iso": "CHL",
-        "label": "LIRQUEN",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -36.7080494130654,
-        "lon": -72.9896050744315
-      },
-      {
-        "id": "chl-iquique",
-        "iso": "CHL",
-        "label": "IQUIQUE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -20.2029175207295,
-        "lon": -70.1606397867903
       },
       {
         "id": "chl-penco",
@@ -43380,16 +41046,6 @@ module.exports = {
         "lon": -73.06077179192
       },
       {
-        "id": "chl-puertochanaral",
-        "iso": "CHL",
-        "label": "PUERTO CHANARAL",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -26.3384193481368,
-        "lon": -70.6603996797191
-      },
-      {
         "id": "chl-puertocaldera",
         "iso": "CHL",
         "label": "PUERTO CALDERA",
@@ -43398,16 +41054,6 @@ module.exports = {
         ],
         "lat": -27.0501153749028,
         "lon": -70.8280601743124
-      },
-      {
-        "id": "chl-bahiasanvicente",
-        "iso": "CHL",
-        "label": "BAHIA SAN VICENTE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -36.7381782127918,
-        "lon": -73.1546367171061
       },
       {
         "id": "chl-talchuano",
@@ -43450,16 +41096,6 @@ module.exports = {
         "lon": -71.5103966035728
       },
       {
-        "id": "chl-patache",
-        "iso": "CHL",
-        "label": "PATACHE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -20.7915836184824,
-        "lon": -70.2073874796463
-      },
-      {
         "id": "chl-bacumberland",
         "iso": "CHL",
         "label": "BA CUMBERLAND",
@@ -43488,16 +41124,6 @@ module.exports = {
         ],
         "lat": -0.480760803409869,
         "lon": -90.3066247586849
-      },
-      {
-        "id": "ecu-ptoayora",
-        "iso": "ECU",
-        "label": "PTO AYORA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -0.350072141069972,
-        "lon": -90.4231465029917
       },
       {
         "id": "ecu-bartolome",
@@ -43538,16 +41164,6 @@ module.exports = {
         ],
         "lat": -0.896579982050227,
         "lon": -89.6135332608321
-      },
-      {
-        "id": "ecu-tldl3i5",
-        "iso": "ECU",
-        "label": "TLDL3I 5",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -0.0866455003742742,
-        "lon": -90.1148290875058
       },
       {
         "id": "ecu-latranca",
@@ -43618,26 +41234,6 @@ module.exports = {
         ],
         "lat": -22.7191959587917,
         "lon": -70.2858887782783
-      },
-      {
-        "id": "chl-mejillones",
-        "iso": "CHL",
-        "label": "MEJILLONES",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -23.0570752993477,
-        "lon": -70.4080254132233
-      },
-      {
-        "id": "chl-coquimbo",
-        "iso": "CHL",
-        "label": "COQUIMBO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -29.9426184167689,
-        "lon": -71.320607168253
       },
       {
         "id": "chl-antofagasta",
@@ -43735,17 +41331,6 @@ module.exports = {
         "lon": 25.6963716026773
       },
       {
-        "id": "zaf-eastlondon",
-        "iso": "ZAF",
-        "label": "EAST LONDON",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -33.0272327729849,
-        "lon": 27.911240066578
-      },
-      {
         "id": "zaf-portelizbethsa",
         "iso": "ZAF",
         "label": "PORT ELIZB ETH SA",
@@ -43787,16 +41372,6 @@ module.exports = {
         "lon": -122.517588528078
       },
       {
-        "id": "usa-portangeles",
-        "iso": "USA",
-        "label": "PORT ANGELES",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.1316399560293,
-        "lon": -123.432074857902
-      },
-      {
         "id": "usa-tonguepoint",
         "iso": "USA",
         "label": "TONGUE POINT",
@@ -43805,26 +41380,6 @@ module.exports = {
         ],
         "lat": 46.2109018476856,
         "lon": -123.770520886485
-      },
-      {
-        "id": "usa-fortward",
-        "iso": "USA",
-        "label": "FORT WARD",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 47.5717479467753,
-        "lon": -122.509245233627
-      },
-      {
-        "id": "usa-olympia",
-        "iso": "USA",
-        "label": "OLYMPIA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 47.057890214136,
-        "lon": -122.897984419102
       },
       {
         "id": "usa-enetai",
@@ -43837,16 +41392,6 @@ module.exports = {
         "lon": -122.593385337413
       },
       {
-        "id": "usa-rocheharbor",
-        "iso": "USA",
-        "label": "ROCHE  HARBOR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.6100409128202,
-        "lon": -123.164571427737
-      },
-      {
         "id": "usa-porttownsend",
         "iso": "USA",
         "label": "PORT TOWNSEND",
@@ -43855,36 +41400,6 @@ module.exports = {
         ],
         "lat": 48.1081583745095,
         "lon": -122.757242095268
-      },
-      {
-        "id": "usa-seattle",
-        "iso": "USA",
-        "label": "SEATTLE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.0717102479994,
-        "lon": -122.59136788891
-      },
-      {
-        "id": "usa-seattleusa",
-        "iso": "USA",
-        "label": "SEATTLE USA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 47.6291960391248,
-        "lon": -122.411945650992
-      },
-      {
-        "id": "usa-orcas",
-        "iso": "USA",
-        "label": "ORCAS",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.5806614036675,
-        "lon": -122.936520884726
       },
       {
         "id": "usa-empire",
@@ -43967,46 +41482,6 @@ module.exports = {
         "lon": -122.655486096846
       },
       {
-        "id": "usa-newport",
-        "iso": "USA",
-        "label": "NEWPORT",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 44.6275795083467,
-        "lon": -124.051215846275
-      },
-      {
-        "id": "usa-bdfgrena",
-        "iso": "USA",
-        "label": "BD F GRENA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.6217264725346,
-        "lon": -122.763354886914
-      },
-      {
-        "id": "usa-oakharbor",
-        "iso": "USA",
-        "label": "OAK HARBOR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.2855029198404,
-        "lon": -122.635308187072
-      },
-      {
-        "id": "usa-tacoma",
-        "iso": "USA",
-        "label": "TACOMA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 47.3067330574839,
-        "lon": -122.467855110826
-      },
-      {
         "id": "usa-griffinbay",
         "iso": "USA",
         "label": "GRIFFIN BAY",
@@ -44017,16 +41492,6 @@ module.exports = {
         "lon": -122.982022683375
       },
       {
-        "id": "usa-bf",
-        "iso": "USA",
-        "label": "BF",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.2394372448057,
-        "lon": -122.912191793502
-      },
-      {
         "id": "usa-blakelyisland",
         "iso": "USA",
         "label": "BLAKELY ISLAND",
@@ -44035,26 +41500,6 @@ module.exports = {
         ],
         "lat": 48.5859580700294,
         "lon": -122.815574026852
-      },
-      {
-        "id": "usa-aallorca",
-        "iso": "USA",
-        "label": "AALLORCA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.635551785291,
-        "lon": -122.895280703776
-      },
-      {
-        "id": "usa-bellingham",
-        "iso": "USA",
-        "label": "BELLINGHAM",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.691859340154,
-        "lon": -122.573020466648
       },
       {
         "id": "usa-ilwaco",
@@ -44137,16 +41582,6 @@ module.exports = {
         "lon": -122.632152074717
       },
       {
-        "id": "usa-bwrcux",
-        "iso": "USA",
-        "label": "BWR CUX",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.5978231286886,
-        "lon": -122.848146080026
-      },
-      {
         "id": "usa-bello",
         "iso": "USA",
         "label": "BELLO",
@@ -44195,16 +41630,6 @@ module.exports = {
         ],
         "lat": 45.5552276550808,
         "lon": -123.912485253305
-      },
-      {
-        "id": "usa-quartermasterharbor",
-        "iso": "USA",
-        "label": "QUARTERMASTER HARBOR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 47.3725959449477,
-        "lon": -122.453833499198
       },
       {
         "id": "usa-baerk",
@@ -44257,16 +41682,6 @@ module.exports = {
         "lon": -122.555871477871
       },
       {
-        "id": "usa-ar",
-        "iso": "USA",
-        "label": "AR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.6825197070729,
-        "lon": -123.049538223161
-      },
-      {
         "id": "usa-twinbranacortes",
         "iso": "USA",
         "label": "TWIN BR ANACORTES",
@@ -44297,16 +41712,6 @@ module.exports = {
         "lon": -122.621777647463
       },
       {
-        "id": "usa-fridayharbor",
-        "iso": "USA",
-        "label": "FRIDAY HARBOR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.5350705771641,
-        "lon": -123.003625958871
-      },
-      {
         "id": "usa-manchester",
         "iso": "USA",
         "label": "MANCHESTER",
@@ -44335,16 +41740,6 @@ module.exports = {
         ],
         "lat": 48.698533604993,
         "lon": -122.763640513535
-      },
-      {
-        "id": "usa-crt",
-        "iso": "USA",
-        "label": "CRT",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.6821756799101,
-        "lon": -122.978401301368
       },
       {
         "id": "usa-fishfarms",
@@ -44397,16 +41792,6 @@ module.exports = {
         "lon": -122.897633051507
       },
       {
-        "id": "usa-cimaoff",
-        "iso": "USA",
-        "label": "CIMA OFF",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.7348140533132,
-        "lon": -122.767374298663
-      },
-      {
         "id": "usa-echobay",
         "iso": "USA",
         "label": "ECHO BAY",
@@ -44425,16 +41810,6 @@ module.exports = {
         ],
         "lat": 47.3042593494922,
         "lon": -122.510055599462
-      },
-      {
-        "id": "usa-glencove",
-        "iso": "USA",
-        "label": "GLEN COVE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.0955560045589,
-        "lon": -122.770521785942
       },
       {
         "id": "usa-edwardspoint",
@@ -44517,16 +41892,6 @@ module.exports = {
         "lon": -122.568736952793
       },
       {
-        "id": "usa-hai",
-        "iso": "USA",
-        "label": "HAI",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.401500352403,
-        "lon": -122.624373295851
-      },
-      {
         "id": "usa-aa",
         "iso": "USA",
         "label": "AA",
@@ -44607,26 +41972,6 @@ module.exports = {
         "lon": -122.330587704452
       },
       {
-        "id": "usa-barview",
-        "iso": "USA",
-        "label": "BARVIEW",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 43.3460578051102,
-        "lon": -124.327972146536
-      },
-      {
-        "id": "can-vancouver",
-        "iso": "CAN",
-        "label": "VANCOUVER",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.2351239903759,
-        "lon": -123.190387288787
-      },
-      {
         "id": "can-adventure",
         "iso": "CAN",
         "label": "ADVENTURE",
@@ -44677,16 +42022,6 @@ module.exports = {
         "lon": -123.279869899339
       },
       {
-        "id": "can-portalberni",
-        "iso": "CAN",
-        "label": "PORT ALBERNI",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.2304403479547,
-        "lon": -124.814917433972
-      },
-      {
         "id": "can-sidney",
         "iso": "CAN",
         "label": "SIDNEY",
@@ -44695,16 +42030,6 @@ module.exports = {
         ],
         "lat": 48.6620371625319,
         "lon": -123.383882706897
-      },
-      {
-        "id": "can-ganges",
-        "iso": "CAN",
-        "label": "GANGES",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.8543397453713,
-        "lon": -123.44768059948
       },
       {
         "id": "can-cavan",
@@ -44737,36 +42062,6 @@ module.exports = {
         "lon": -123.270887363624
       },
       {
-        "id": "can-gibsons",
-        "iso": "CAN",
-        "label": "GIBSONS",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.4021652082501,
-        "lon": -123.483569323126
-      },
-      {
-        "id": "can-australia",
-        "iso": "CAN",
-        "label": "AUSTRALIA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.3558630297973,
-        "lon": -123.272324563303
-      },
-      {
-        "id": "can-biariverusa",
-        "iso": "CAN",
-        "label": "BIA RIVER USA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.7347911254418,
-        "lon": -123.371918852562
-      },
-      {
         "id": "can-chemainus",
         "iso": "CAN",
         "label": "CHEMAINUS",
@@ -44775,36 +42070,6 @@ module.exports = {
         ],
         "lat": 48.9250602175713,
         "lon": -123.713216224806
-      },
-      {
-        "id": "can-bamg",
-        "iso": "CAN",
-        "label": "BAMG",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.0863759618492,
-        "lon": -123.68619521098
-      },
-      {
-        "id": "can-bomentine",
-        "iso": "CAN",
-        "label": "BOMENTINE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.1498922232645,
-        "lon": -123.697614109649
-      },
-      {
-        "id": "can-fisheriesresearch",
-        "iso": "CAN",
-        "label": "FISHERIES RESEARCH",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.3384512089104,
-        "lon": -124.341094980742
       },
       {
         "id": "can-northvancouver",
@@ -44847,36 +42112,6 @@ module.exports = {
         "lon": -124.625356718141
       },
       {
-        "id": "can-bigbay",
-        "iso": "CAN",
-        "label": "BIGBAY",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.4961640880481,
-        "lon": -124.357434158227
-      },
-      {
-        "id": "can-esquimaltharbor",
-        "iso": "CAN",
-        "label": "ESQUIMALT HARBOR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.4057556411573,
-        "lon": -123.438338800314
-      },
-      {
-        "id": "can-westview",
-        "iso": "CAN",
-        "label": "WESTVIEW",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.822448601128,
-        "lon": -124.525998265998
-      },
-      {
         "id": "can-buccaneerbay",
         "iso": "CAN",
         "label": "BUCCANEER BAY",
@@ -44907,16 +42142,6 @@ module.exports = {
         "lon": -124.618514599329
       },
       {
-        "id": "can-northsaanich",
-        "iso": "CAN",
-        "label": "NORTH SAANICH",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.6809474454082,
-        "lon": -123.411656395486
-      },
-      {
         "id": "can-earlscove",
         "iso": "CAN",
         "label": "EARLS COVE",
@@ -44925,16 +42150,6 @@ module.exports = {
         ],
         "lat": 49.7594377207676,
         "lon": -124.468543277191
-      },
-      {
-        "id": "can-anch",
-        "iso": "CAN",
-        "label": "ANCH",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.7515809775112,
-        "lon": -123.231917337658
       },
       {
         "id": "can-bedwellhbr",
@@ -44947,16 +42162,6 @@ module.exports = {
         "lon": -123.243349517211
       },
       {
-        "id": "can-penderharbour",
-        "iso": "CAN",
-        "label": "PENDER HARBOUR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.7473953345351,
-        "lon": -123.229947095423
-      },
-      {
         "id": "can-lyallharbor",
         "iso": "CAN",
         "label": "LYALL HARBOR",
@@ -44967,26 +42172,6 @@ module.exports = {
         "lon": -123.212324397153
       },
       {
-        "id": "can-nanaimo",
-        "iso": "CAN",
-        "label": "NANAIMO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.1835405598719,
-        "lon": -123.902242812919
-      },
-      {
-        "id": "can-harmac",
-        "iso": "CAN",
-        "label": "HARMAC",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.1442790090351,
-        "lon": -123.857555281119
-      },
-      {
         "id": "can-aeu",
         "iso": "CAN",
         "label": "AEU",
@@ -44995,36 +42180,6 @@ module.exports = {
         ],
         "lat": 49.7316317819583,
         "lon": -124.206953386482
-      },
-      {
-        "id": "can-cng",
-        "iso": "CAN",
-        "label": "CNG",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.7293859417143,
-        "lon": -124.211354805084
-      },
-      {
-        "id": "can-gulfislands",
-        "iso": "CAN",
-        "label": "GULF ISLANDS",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.9226895099554,
-        "lon": -123.532740578047
-      },
-      {
-        "id": "can-ucluelet",
-        "iso": "CAN",
-        "label": "UCLUELET",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.9435719437349,
-        "lon": -125.545234496086
       },
       {
         "id": "can-squamish",
@@ -45055,16 +42210,6 @@ module.exports = {
         ],
         "lat": 48.7496195071009,
         "lon": -123.244950575383
-      },
-      {
-        "id": "can-cfr",
-        "iso": "CAN",
-        "label": "C FR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.9259245233642,
-        "lon": -123.490981591739
       },
       {
         "id": "can-tsawwassen",
@@ -45127,16 +42272,6 @@ module.exports = {
         "lon": -123.964320478761
       },
       {
-        "id": "can-cowichanbay",
-        "iso": "CAN",
-        "label": "COWICHAN BAY",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.7271258322049,
-        "lon": -123.556280305998
-      },
-      {
         "id": "can-ca",
         "iso": "CAN",
         "label": "CA",
@@ -45175,26 +42310,6 @@ module.exports = {
         ],
         "lat": 49.2913414651965,
         "lon": -123.209794709265
-      },
-      {
-        "id": "can-ai",
-        "iso": "CAN",
-        "label": "AI",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.5100088509175,
-        "lon": -124.090700609063
-      },
-      {
-        "id": "can-en",
-        "iso": "CAN",
-        "label": "EN",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.5157783763655,
-        "lon": -123.965578894424
       },
       {
         "id": "can-effinghambay",
@@ -45287,26 +42402,6 @@ module.exports = {
         "lon": -124.080440837175
       },
       {
-        "id": "can-oakbay",
-        "iso": "CAN",
-        "label": "OAK BAY",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.4533740435125,
-        "lon": -123.292430104878
-      },
-      {
-        "id": "can-steveston",
-        "iso": "CAN",
-        "label": "STEVESTON",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.2395082679528,
-        "lon": -123.703035240994
-      },
-      {
         "id": "can-cosco",
         "iso": "CAN",
         "label": "COSCO",
@@ -45345,16 +42440,6 @@ module.exports = {
         ],
         "lat": 48.836196206425,
         "lon": -125.139154678721
-      },
-      {
-        "id": "can-bdflt",
-        "iso": "CAN",
-        "label": "BD FLT",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.9599677769694,
-        "lon": -123.557683668705
       },
       {
         "id": "can-harmonyislands",
@@ -45407,26 +42492,6 @@ module.exports = {
         "lon": -123.668569823987
       },
       {
-        "id": "can-bf",
-        "iso": "CAN",
-        "label": "BF",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.7189421990659,
-        "lon": -124.179790919098
-      },
-      {
-        "id": "can-bgtai",
-        "iso": "CAN",
-        "label": "BG TAI",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.7171196133831,
-        "lon": -124.181478947893
-      },
-      {
         "id": "can-bchdorf",
         "iso": "CAN",
         "label": "BCHDORF",
@@ -45445,26 +42510,6 @@ module.exports = {
         ],
         "lat": 48.9860912829038,
         "lon": -123.65238732176
-      },
-      {
-        "id": "can-ar",
-        "iso": "CAN",
-        "label": "AR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.5010099754725,
-        "lon": -123.983028564304
-      },
-      {
-        "id": "can-newwestminster",
-        "iso": "CAN",
-        "label": "NEW WESTMINSTER",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.3551733843306,
-        "lon": -123.345032112567
       },
       {
         "id": "can-pnw",
@@ -45507,46 +42552,6 @@ module.exports = {
         "lon": -123.928989077146
       },
       {
-        "id": "can-robertsbankcanada",
-        "iso": "CAN",
-        "label": "ROBERTS BANK CANADA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.7293589511854,
-        "lon": -123.557205908
-      },
-      {
-        "id": "can-wa",
-        "iso": "CAN",
-        "label": "WA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.1253391566721,
-        "lon": -123.695968156415
-      },
-      {
-        "id": "can-ore",
-        "iso": "CAN",
-        "label": "ORE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.4973039885896,
-        "lon": -124.230470425116
-      },
-      {
-        "id": "can-victoriaharbor",
-        "iso": "CAN",
-        "label": "VICTORIA HARBOR",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 48.4140399562441,
-        "lon": -123.389791795573
-      },
-      {
         "id": "can-constancebank",
         "iso": "CAN",
         "label": "CONSTANCE BANK",
@@ -45565,16 +42570,6 @@ module.exports = {
         ],
         "lat": 49.7610276887906,
         "lon": -124.565481957077
-      },
-      {
-        "id": "can-bzee",
-        "iso": "CAN",
-        "label": "B ZEE",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 49.4904114254018,
-        "lon": -124.20614414212
       },
       {
         "id": "can-arndb",
@@ -45607,26 +42602,6 @@ module.exports = {
         "lon": -71.5839590500299
       },
       {
-        "id": "chl-bahiadevalparaiso",
-        "iso": "CHL",
-        "label": "BAHIA DE VALPARAISO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -33.0261138085064,
-        "lon": -71.6064351195268
-      },
-      {
-        "id": "chl-bahiaquintero(ventanas)",
-        "iso": "CHL",
-        "label": "BAHIA QUINTERO (VENTANAS)",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -32.7564502545136,
-        "lon": -71.5141779808932
-      },
-      {
         "id": "chl-quintero",
         "iso": "CHL",
         "label": "QUINTERO",
@@ -45635,16 +42610,6 @@ module.exports = {
         ],
         "lat": -32.7334006908707,
         "lon": -71.5156361210809
-      },
-      {
-        "id": "chl-puertosanantonio",
-        "iso": "CHL",
-        "label": "PUERTO SAN ANTONIO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -33.5923925381435,
-        "lon": -71.6520701790273
       },
       {
         "id": "chl-vinadelmar",
@@ -45675,16 +42640,6 @@ module.exports = {
         ],
         "lat": -32.7527487534232,
         "lon": -71.4902831685825
-      },
-      {
-        "id": "usa-dutchharbor",
-        "iso": "USA",
-        "label": "DUTCH HARBOR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 53.8981669384374,
-        "lon": -166.534431578545
       },
       {
         "id": "usa-nome",
@@ -45747,16 +42702,6 @@ module.exports = {
         "lon": -158.470534374701
       },
       {
-        "id": "usa-egegik",
-        "iso": "USA",
-        "label": "EGEGIK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 58.2108588444041,
-        "lon": -157.472697971119
-      },
-      {
         "id": "usa-portmoller",
         "iso": "USA",
         "label": "PORT MOLLER",
@@ -45775,16 +42720,6 @@ module.exports = {
         ],
         "lat": 57.274341967628,
         "lon": -154.679445947483
-      },
-      {
-        "id": "usa-naknek",
-        "iso": "USA",
-        "label": "NAKNEK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 58.733555144849,
-        "lon": -157.164153358777
       },
       {
         "id": "usa-togiak",
@@ -45817,16 +42752,6 @@ module.exports = {
         "lon": -166.62597566973
       },
       {
-        "id": "usa-kodiak",
-        "iso": "USA",
-        "label": "KODIAK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 57.7826053297936,
-        "lon": -152.41109608842
-      },
-      {
         "id": "usa-nushagakbay",
         "iso": "USA",
         "label": "NUSHAGAK BAY",
@@ -45835,16 +42760,6 @@ module.exports = {
         ],
         "lat": 58.6331250528088,
         "lon": -158.40522725116
-      },
-      {
-        "id": "usa-sandpoint",
-        "iso": "USA",
-        "label": "SAND POINT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 55.3265144564142,
-        "lon": -160.517748615726
       },
       {
         "id": "usa-cookinlet",
@@ -45915,16 +42830,6 @@ module.exports = {
         ],
         "lat": 58.8413128474644,
         "lon": -159.74113180027
-      },
-      {
-        "id": "usa-karluk",
-        "iso": "USA",
-        "label": "KARLUK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 57.5758897381897,
-        "lon": -154.492248361253
       },
       {
         "id": "usa-captainsbay",
@@ -46037,26 +42942,6 @@ module.exports = {
         "lon": -73.1865178671435
       },
       {
-        "id": "chl-puertomontt",
-        "iso": "CHL",
-        "label": "PUERTO MONTT",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -41.6888876512127,
-        "lon": -73.0268880461456
-      },
-      {
-        "id": "chl-ptomontt",
-        "iso": "CHL",
-        "label": "PTO MONTT",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -41.5178960177925,
-        "lon": -73.0267900591006
-      },
-      {
         "id": "chl-puertocastro",
         "iso": "CHL",
         "label": "PUERTO CASTRO",
@@ -46095,16 +42980,6 @@ module.exports = {
         ],
         "lat": -41.5246692228115,
         "lon": -73.0372737780335
-      },
-      {
-        "id": "chl-quellon",
-        "iso": "CHL",
-        "label": "QUELLON",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": -43.4590318267567,
-        "lon": -73.675834098043
       },
       {
         "id": "chl-ptoballena",
@@ -46197,16 +43072,6 @@ module.exports = {
         "lon": 5.83734342348109
       },
       {
-        "id": "dza-annaba",
-        "iso": "DZA",
-        "label": "ANNABA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9222774679791,
-        "lon": 7.80755391845294
-      },
-      {
         "id": "dza-bejaia",
         "iso": "DZA",
         "label": "BEJAIA",
@@ -46267,16 +43132,6 @@ module.exports = {
         "lon": 7.51794529205228
       },
       {
-        "id": "ita-portisco",
-        "iso": "ITA",
-        "label": "PORTISCO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1788902813004,
-        "lon": 9.46445299496215
-      },
-      {
         "id": "ita-sanleonemose",
         "iso": "ITA",
         "label": "SAN LEONE MOSE",
@@ -46295,56 +43150,6 @@ module.exports = {
         ],
         "lat": 36.6913680838955,
         "lon": 14.859000926098
-      },
-      {
-        "id": "ita-olbia",
-        "iso": "ITA",
-        "label": "OLBIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9316925840286,
-        "lon": 9.54705404215332
-      },
-      {
-        "id": "ita-licata",
-        "iso": "ITA",
-        "label": "LICATA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.0939277733926,
-        "lon": 13.9340084755431
-      },
-      {
-        "id": "ita-portoempedocle",
-        "iso": "ITA",
-        "label": "PORTO EMPEDOCLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.2657003082751,
-        "lon": 13.5380740567526
-      },
-      {
-        "id": "ita-portopalodicapopassero",
-        "iso": "ITA",
-        "label": "PORTOPALO DI CAPO PASSERO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.674905637035,
-        "lon": 15.1247491222506
-      },
-      {
-        "id": "ita-genova",
-        "iso": "ITA",
-        "label": "GENOVA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.3892804434549,
-        "lon": 8.91077469390724
       },
       {
         "id": "ita-vada",
@@ -46367,16 +43172,6 @@ module.exports = {
         "lon": 8.22689567317321
       },
       {
-        "id": "ita-golfoaranci",
-        "iso": "ITA",
-        "label": "GOLFO ARANCI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9616681539414,
-        "lon": 9.60626647499354
-      },
-      {
         "id": "ita-celleligure",
         "iso": "ITA",
         "label": "CELLE LIGURE",
@@ -46397,16 +43192,6 @@ module.exports = {
         "lon": 9.35799973072139
       },
       {
-        "id": "ita-marinella",
-        "iso": "ITA",
-        "label": "MARINELLA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8903615239144,
-        "lon": 9.67777043422137
-      },
-      {
         "id": "ita-tavolara",
         "iso": "ITA",
         "label": "TAVOLARA",
@@ -46415,16 +43200,6 @@ module.exports = {
         ],
         "lat": 40.8781557275613,
         "lon": 9.68311388417394
-      },
-      {
-        "id": "ita-livorno",
-        "iso": "ITA",
-        "label": "LIVORNO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5003922287162,
-        "lon": 10.2725986974615
       },
       {
         "id": "ita-marinadicarrara",
@@ -46445,26 +43220,6 @@ module.exports = {
         ],
         "lat": 40.8482497871254,
         "lon": 8.39099103074894
-      },
-      {
-        "id": "ita-trapani",
-        "iso": "ITA",
-        "label": "TRAPANI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.0113011769115,
-        "lon": 12.4819018759792
-      },
-      {
-        "id": "ita-cng",
-        "iso": "ITA",
-        "label": "CNG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2510083477519,
-        "lon": 9.23770113390812
       },
       {
         "id": "ita-mondello",
@@ -46505,36 +43260,6 @@ module.exports = {
         ],
         "lat": 41.2345686642997,
         "lon": 9.45523205192986
-      },
-      {
-        "id": "ita-portocervo",
-        "iso": "ITA",
-        "label": "PORTO CERVO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1371171323683,
-        "lon": 9.52819617761049
-      },
-      {
-        "id": "ita-laspezia",
-        "iso": "ITA",
-        "label": "LA SPEZIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.0393786426948,
-        "lon": 9.86330112846607
-      },
-      {
-        "id": "ita-lerici",
-        "iso": "ITA",
-        "label": "LERICI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.052346341154,
-        "lon": 9.89259270490534
       },
       {
         "id": "ita-favignana",
@@ -46607,16 +43332,6 @@ module.exports = {
         "lon": 13.195978546819
       },
       {
-        "id": "ita-bf",
-        "iso": "ITA",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.207397999741,
-        "lon": 9.43093426058645
-      },
-      {
         "id": "ita-aven",
         "iso": "ITA",
         "label": "AVEN",
@@ -46637,16 +43352,6 @@ module.exports = {
         "lon": 7.91043647138616
       },
       {
-        "id": "ita-viareggio",
-        "iso": "ITA",
-        "label": "VIAREGGIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.8607152736627,
-        "lon": 10.2403377521671
-      },
-      {
         "id": "ita-gela",
         "iso": "ITA",
         "label": "GELA",
@@ -46655,16 +43360,6 @@ module.exports = {
         ],
         "lat": 37.0307551979564,
         "lon": 14.2404065969908
-      },
-      {
-        "id": "ita-sanremo",
-        "iso": "ITA",
-        "label": "SAN REMO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.816905816727,
-        "lon": 7.78894519396931
       },
       {
         "id": "ita-mele",
@@ -46737,16 +43432,6 @@ module.exports = {
         "lon": 9.38479038567197
       },
       {
-        "id": "ita-portorotondo",
-        "iso": "ITA",
-        "label": "PORTO ROTONDO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8574573417471,
-        "lon": 9.66911776686052
-      },
-      {
         "id": "ita-palermo",
         "iso": "ITA",
         "label": "PALERMO",
@@ -46807,16 +43492,6 @@ module.exports = {
         "lon": 8.82771326603785
       },
       {
-        "id": "ita-bonifacio",
-        "iso": "ITA",
-        "label": "BONIFACIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.5892145799724,
-        "lon": 8.18913139447409
-      },
-      {
         "id": "ita-thumsbase",
         "iso": "ITA",
         "label": "THUMS BASE",
@@ -46857,16 +43532,6 @@ module.exports = {
         "lon": 10.4168392375953
       },
       {
-        "id": "ita-marinadipisa",
-        "iso": "ITA",
-        "label": "MARINA DI PISA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.6778942471794,
-        "lon": 10.2713284530824
-      },
-      {
         "id": "ita-portofino",
         "iso": "ITA",
         "label": "PORTOFINO",
@@ -46875,16 +43540,6 @@ module.exports = {
         ],
         "lat": 44.307916786386,
         "lon": 9.22242414531214
-      },
-      {
-        "id": "ita-lamaddalena",
-        "iso": "ITA",
-        "label": "LA MADDALENA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2021302204168,
-        "lon": 9.41153133853398
       },
       {
         "id": "ita-hai",
@@ -46997,16 +43652,6 @@ module.exports = {
         "lon": 9.03512238925805
       },
       {
-        "id": "ita-onarray",
-        "iso": "ITA",
-        "label": "ON ARRAY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.4163104121089,
-        "lon": 8.84275173001584
-      },
-      {
         "id": "ita-alghero",
         "iso": "ITA",
         "label": "ALGHERO",
@@ -47037,16 +43682,6 @@ module.exports = {
         "lon": 8.68795530077193
       },
       {
-        "id": "ita-palau",
-        "iso": "ITA",
-        "label": "PALAU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1966179359978,
-        "lon": 9.36662386540969
-      },
-      {
         "id": "ita-cecina",
         "iso": "ITA",
         "label": "CECINA",
@@ -47075,16 +43710,6 @@ module.exports = {
         ],
         "lat": 40.9131576867463,
         "lon": 8.70187090919529
-      },
-      {
-        "id": "ita-blik",
-        "iso": "ITA",
-        "label": "BLIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.5761969419095,
-        "lon": 8.16337029182446
       },
       {
         "id": "ita-jp",
@@ -47157,16 +43782,6 @@ module.exports = {
         "lon": 9.75347404836946
       },
       {
-        "id": "ita-cen",
-        "iso": "ITA",
-        "label": "CEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0110730573643,
-        "lon": 8.87212588358284
-      },
-      {
         "id": "ita-anchorarea6rotterd",
         "iso": "ITA",
         "label": "ANCHOR AREA6 ROTTERD",
@@ -47215,26 +43830,6 @@ module.exports = {
         ],
         "lat": 37.9867888535867,
         "lon": 12.3437546493025
-      },
-      {
-        "id": "ita-sardinia",
-        "iso": "ITA",
-        "label": "SARDINIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2333337490891,
-        "lon": 9.41552734263722
-      },
-      {
-        "id": "ita-marsala",
-        "iso": "ITA",
-        "label": "MARSALA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.7932006942188,
-        "lon": 12.4343177620268
       },
       {
         "id": "ita-ang",
@@ -47357,16 +43952,6 @@ module.exports = {
         "lon": 10.5908680797652
       },
       {
-        "id": "ita-sciacca",
-        "iso": "ITA",
-        "label": "SCIACCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.5005328706111,
-        "lon": 13.0743147227402
-      },
-      {
         "id": "ita-marinadiragusa",
         "iso": "ITA",
         "label": "MARINA DI RAGUSA",
@@ -47397,16 +43982,6 @@ module.exports = {
         "lon": 8.19377782625554
       },
       {
-        "id": "fra-cannes",
-        "iso": "FRA",
-        "label": "CANNES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5239006550061,
-        "lon": 7.04044207379114
-      },
-      {
         "id": "fra-sttropez",
         "iso": "FRA",
         "label": "ST TROPEZ",
@@ -47415,16 +43990,6 @@ module.exports = {
         ],
         "lat": 43.2216451224561,
         "lon": 6.67113080001435
-      },
-      {
-        "id": "fra-fos",
-        "iso": "FRA",
-        "label": "FOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.3903625654673,
-        "lon": 4.91254892327508
       },
       {
         "id": "fra-fosfrance",
@@ -47445,36 +44010,6 @@ module.exports = {
         ],
         "lat": 43.0172021666117,
         "lon": 6.19420224563727
-      },
-      {
-        "id": "fra-bil",
-        "iso": "FRA",
-        "label": "BIL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.5836163972233,
-        "lon": 8.98942490369968
-      },
-      {
-        "id": "fra-ad",
-        "iso": "FRA",
-        "label": "AD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.6183884851476,
-        "lon": 7.22750604325415
-      },
-      {
-        "id": "fra-sete",
-        "iso": "FRA",
-        "label": "SETE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.3873618788036,
-        "lon": 3.71686300539168
       },
       {
         "id": "fra-portsaintlouisdurhone",
@@ -47547,26 +44082,6 @@ module.exports = {
         "lon": 7.33563438554246
       },
       {
-        "id": "fra-order",
-        "iso": "FRA",
-        "label": "ORDER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4220425066566,
-        "lon": 9.26504331161414
-      },
-      {
-        "id": "fra-bf",
-        "iso": "FRA",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.9859036730302,
-        "lon": 8.47110581292537
-      },
-      {
         "id": "fra-marseille",
         "iso": "FRA",
         "label": "MARSEILLE",
@@ -47585,16 +44100,6 @@ module.exports = {
         ],
         "lat": 42.6823228600389,
         "lon": 9.29302598993334
-      },
-      {
-        "id": "fra-toulon",
-        "iso": "FRA",
-        "label": "TOULON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.0817252317521,
-        "lon": 5.92567879125389
       },
       {
         "id": "fra-sanary-sur-mer",
@@ -47625,26 +44130,6 @@ module.exports = {
         ],
         "lat": 43.5625842148316,
         "lon": 7.07896049966625
-      },
-      {
-        "id": "fra-saint-tropez",
-        "iso": "FRA",
-        "label": "SAINT-TROPEZ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.271004630086,
-        "lon": 6.65216366223597
-      },
-      {
-        "id": "fra-cassis",
-        "iso": "FRA",
-        "label": "CASSIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.2028792947656,
-        "lon": 5.51029910503868
       },
       {
         "id": "fra-cavalaire-sur-mer",
@@ -47687,16 +44172,6 @@ module.exports = {
         "lon": 4.93411226952869
       },
       {
-        "id": "fra-bastia",
-        "iso": "FRA",
-        "label": "BASTIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.6991445767303,
-        "lon": 9.45478921434081
-      },
-      {
         "id": "fra-ckoff",
         "iso": "FRA",
         "label": "CK OFF",
@@ -47717,16 +44192,6 @@ module.exports = {
         "lon": 7.04682033974236
       },
       {
-        "id": "fra-bg",
-        "iso": "FRA",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.3747116856079,
-        "lon": 6.80625901587046
-      },
-      {
         "id": "fra-ald",
         "iso": "FRA",
         "label": "ALD",
@@ -47735,16 +44200,6 @@ module.exports = {
         ],
         "lat": 43.0855897213328,
         "lon": 5.9882410755337
-      },
-      {
-        "id": "fra-bonifacio",
-        "iso": "FRA",
-        "label": "BONIFACIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4260134164281,
-        "lon": 9.12028210083147
       },
       {
         "id": "fra-sar",
@@ -47777,16 +44232,6 @@ module.exports = {
         "lon": 6.15740330803881
       },
       {
-        "id": "fra-santamanza",
-        "iso": "FRA",
-        "label": "SANT AMANZA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4322005115922,
-        "lon": 9.23594615525369
-      },
-      {
         "id": "fra-legrau-du-roi",
         "iso": "FRA",
         "label": "LE GRAU-DU-ROI",
@@ -47795,16 +44240,6 @@ module.exports = {
         ],
         "lat": 43.5227034377217,
         "lon": 4.13043925801692
-      },
-      {
-        "id": "fra-portovecchio",
-        "iso": "FRA",
-        "label": "PORTO VECCHIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6085795141011,
-        "lon": 9.3414827304611
       },
       {
         "id": "fra-bptyor",
@@ -47835,16 +44270,6 @@ module.exports = {
         ],
         "lat": 43.1346172605487,
         "lon": 5.75503235576811
-      },
-      {
-        "id": "fra-corsica",
-        "iso": "FRA",
-        "label": "CORSICA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4186758140293,
-        "lon": 9.10313343382263
       },
       {
         "id": "fra-barcares",
@@ -47957,16 +44382,6 @@ module.exports = {
         "lon": 6.01295665236914
       },
       {
-        "id": "fra-port-la-nouvelle",
-        "iso": "FRA",
-        "label": "PORT-LA-NOUVELLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.0124312791083,
-        "lon": 3.07264423588291
-      },
-      {
         "id": "fra-lecapd'agde",
         "iso": "FRA",
         "label": "LE CAP D'AGDE",
@@ -47995,16 +44410,6 @@ module.exports = {
         ],
         "lat": 43.6467640543642,
         "lon": 7.15620986375213
-      },
-      {
-        "id": "fra-portd'ajaccio",
-        "iso": "FRA",
-        "label": "PORT D' AJACCIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.9197582007539,
-        "lon": 8.7505495100218
       },
       {
         "id": "fra-combohjelmel",
@@ -48075,16 +44480,6 @@ module.exports = {
         ],
         "lat": 43.3752015861132,
         "lon": 4.93531040210975
-      },
-      {
-        "id": "fra-girolata",
-        "iso": "FRA",
-        "label": "GIROLATA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.3362964597746,
-        "lon": 8.6197151777637
       },
       {
         "id": "fra-orntonbank",
@@ -48207,16 +44602,6 @@ module.exports = {
         "lon": 3.03789156427414
       },
       {
-        "id": "fra-roccapina",
-        "iso": "FRA",
-        "label": "ROCCAPINA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.5028982633532,
-        "lon": 8.91181129528061
-      },
-      {
         "id": "fra-zhou",
         "iso": "FRA",
         "label": "ZHOU",
@@ -48225,16 +44610,6 @@ module.exports = {
         ],
         "lat": 41.4687239002796,
         "lon": 9.27477496095984
-      },
-      {
-        "id": "fra-lagrande-motte",
-        "iso": "FRA",
-        "label": "LA GRANDE-MOTTE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5544440463562,
-        "lon": 4.08070359153815
       },
       {
         "id": "fra-pampelonnebeach",
@@ -48255,16 +44630,6 @@ module.exports = {
         ],
         "lat": 43.4481594609763,
         "lon": 4.42338747161803
-      },
-      {
-        "id": "fra-calvi",
-        "iso": "FRA",
-        "label": "CALVI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.5676274532308,
-        "lon": 8.73152251427378
       },
       {
         "id": "fra-trieste",
@@ -48327,16 +44692,6 @@ module.exports = {
         "lon": 8.81746470822403
       },
       {
-        "id": "fra-menton",
-        "iso": "FRA",
-        "label": "MENTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7774958228262,
-        "lon": 7.51172518449946
-      },
-      {
         "id": "fra-portcros",
         "iso": "FRA",
         "label": "PORT CROS",
@@ -48345,26 +44700,6 @@ module.exports = {
         ],
         "lat": 43.0081883836853,
         "lon": 6.37469929714477
-      },
-      {
-        "id": "fra-palavas-les-flots",
-        "iso": "FRA",
-        "label": "PALAVAS-LES-FLOTS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5240294781002,
-        "lon": 3.93387896369297
-      },
-      {
-        "id": "fra-perols",
-        "iso": "FRA",
-        "label": "PEROLS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5437613510541,
-        "lon": 3.97391119729573
       },
       {
         "id": "fra-saint-cyr-sur-mer",
@@ -48417,26 +44752,6 @@ module.exports = {
         "lon": 6.63875573007735
       },
       {
-        "id": "fra-port-vendres",
-        "iso": "FRA",
-        "label": "PORT-VENDRES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.5198513535396,
-        "lon": 3.10368312117643
-      },
-      {
-        "id": "fra-bdam",
-        "iso": "FRA",
-        "label": "BDAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.1014340782702,
-        "lon": 7.44477471891564
-      },
-      {
         "id": "fra-fosanchorage",
         "iso": "FRA",
         "label": "FOS ANCHORAGE",
@@ -48485,16 +44800,6 @@ module.exports = {
         ],
         "lat": 43.1804135309269,
         "lon": 6.59761360201895
-      },
-      {
-        "id": "fra-frontignan",
-        "iso": "FRA",
-        "label": "FRONTIGNAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.4330224632549,
-        "lon": 3.77611262890995
       },
       {
         "id": "fra-cays",
@@ -48637,26 +44942,6 @@ module.exports = {
         "lon": 7.45786635350936
       },
       {
-        "id": "alb-durres",
-        "iso": "ALB",
-        "label": "DURRES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.279677652606,
-        "lon": 19.4594272231509
-      },
-      {
-        "id": "alb-sarande",
-        "iso": "ALB",
-        "label": "SARANDE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.8723769580391,
-        "lon": 19.9893688157013
-      },
-      {
         "id": "alb-portoromano",
         "iso": "ALB",
         "label": "PORTO ROMANO",
@@ -48697,26 +44982,6 @@ module.exports = {
         "lon": 19.4451122695378
       },
       {
-        "id": "cyp-vasiliko",
-        "iso": "CYP",
-        "label": "VASILIKO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.7008122056764,
-        "lon": 33.3189122313391
-      },
-      {
-        "id": "cyp-vasilikos",
-        "iso": "CYP",
-        "label": "VASILIKOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.7055621557272,
-        "lon": 33.3340019907431
-      },
-      {
         "id": "cyp-vasilikoscyprus",
         "iso": "CYP",
         "label": "VASILIKOS CYPRUS",
@@ -48725,16 +44990,6 @@ module.exports = {
         ],
         "lat": 34.7058245549332,
         "lon": 33.2988367416008
-      },
-      {
-        "id": "cyp-limassol",
-        "iso": "CYP",
-        "label": "LIMASSOL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.6655659256609,
-        "lon": 33.058370889526
       },
       {
         "id": "cyp-vassiliko",
@@ -48877,26 +45132,6 @@ module.exports = {
         "lon": 29.7443369826368
       },
       {
-        "id": "egy-portsaid",
-        "iso": "EGY",
-        "label": "PORT SAID",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.391151727348,
-        "lon": 32.302492657169
-      },
-      {
-        "id": "egy-damietta",
-        "iso": "EGY",
-        "label": "DAMIETTA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.6081946417095,
-        "lon": 31.7500047025295
-      },
-      {
         "id": "egy-sidikerir(kurayr)",
         "iso": "EGY",
         "label": "SIDI KERIR (KURAYR)",
@@ -48905,16 +45140,6 @@ module.exports = {
         ],
         "lat": 31.1022131186076,
         "lon": 29.6193199126893
-      },
-      {
-        "id": "egy-aliskandariyh(alexandria)",
-        "iso": "EGY",
-        "label": "AL ISKANDARIYH (ALEXANDRIA)",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.1733747218757,
-        "lon": 29.8562705421164
       },
       {
         "id": "egy-elhamraoilterminal",
@@ -48977,16 +45202,6 @@ module.exports = {
         "lon": 29.7775381984537
       },
       {
-        "id": "egy-elarish",
-        "iso": "EGY",
-        "label": "EL ARISH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.1874631381712,
-        "lon": 33.8052748745172
-      },
-      {
         "id": "egy-psde",
         "iso": "EGY",
         "label": "PSDE",
@@ -49037,16 +45252,6 @@ module.exports = {
         "lon": 30.144775734281
       },
       {
-        "id": "egy-bursaid(portsaid)",
-        "iso": "EGY",
-        "label": "BUR SAID (PORT SAID)",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.2639473595665,
-        "lon": 32.3195566299116
-      },
-      {
         "id": "egy-idkuport",
         "iso": "EGY",
         "label": "IDKU PORT",
@@ -49055,16 +45260,6 @@ module.exports = {
         ],
         "lat": 31.3690846612402,
         "lon": 30.2939062735821
-      },
-      {
-        "id": "egy-portsaid",
-        "iso": "EGY",
-        "label": "PORTSAID",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.3338875961948,
-        "lon": 32.3416446071384
       },
       {
         "id": "egy-arish",
@@ -49117,26 +45312,6 @@ module.exports = {
         "lon": 3.18043771791946
       },
       {
-        "id": "esp-barcelona",
-        "iso": "ESP",
-        "label": "BARCELONA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.3091528076879,
-        "lon": 2.19750702760915
-      },
-      {
-        "id": "esp-villanuevaygeltru",
-        "iso": "ESP",
-        "label": "VILLANUEVA Y GELTRU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2083146713813,
-        "lon": 1.73342528867516
-      },
-      {
         "id": "esp-sonferrer",
         "iso": "ESP",
         "label": "SON FERRER",
@@ -49157,16 +45332,6 @@ module.exports = {
         "lon": 0.0754166068714002
       },
       {
-        "id": "esp-algeciras",
-        "iso": "ESP",
-        "label": "ALGECIRAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.1279014812306,
-        "lon": -5.4169676373652
-      },
-      {
         "id": "esp-puertodealcudia",
         "iso": "ESP",
         "label": "PUERTO DE ALCUDIA",
@@ -49175,16 +45340,6 @@ module.exports = {
         ],
         "lat": 39.8308104830681,
         "lon": 3.14432228789536
-      },
-      {
-        "id": "esp-santfrancescdeformentera",
-        "iso": "ESP",
-        "label": "SANT FRANCESC DE FORMENTERA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.7283664883039,
-        "lon": 1.41354243598776
       },
       {
         "id": "esp-denia",
@@ -49205,16 +45360,6 @@ module.exports = {
         ],
         "lat": 38.5057076815157,
         "lon": -0.219438906760454
-      },
-      {
-        "id": "esp-palmademallorca",
-        "iso": "ESP",
-        "label": "PALMA DE MALLORCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.5504535389939,
-        "lon": 2.64323102950458
       },
       {
         "id": "esp-esmolinar",
@@ -49247,16 +45392,6 @@ module.exports = {
         "lon": 1.41329437554839
       },
       {
-        "id": "esp-ibiza",
-        "iso": "ESP",
-        "label": "IBIZA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.8857873769747,
-        "lon": 1.38996030876407
-      },
-      {
         "id": "esp-lamarinadelpratvermell",
         "iso": "ESP",
         "label": "LA MARINA DEL PRAT VERMELL",
@@ -49275,26 +45410,6 @@ module.exports = {
         ],
         "lat": 39.4158320102023,
         "lon": -0.295230920104947
-      },
-      {
-        "id": "esp-cartagena",
-        "iso": "ESP",
-        "label": "CARTAGENA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.5590232503979,
-        "lon": -1.04763229411023
-      },
-      {
-        "id": "esp-santaeulariadesriu",
-        "iso": "ESP",
-        "label": "SANTA EULARIA DES RIU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.9528994277325,
-        "lon": 1.52580716204494
       },
       {
         "id": "esp-sanpedrodelpinatar",
@@ -49357,16 +45472,6 @@ module.exports = {
         "lon": -5.3844400937709
       },
       {
-        "id": "esp-s'arenal",
-        "iso": "ESP",
-        "label": "S'ARENAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.4887881959887,
-        "lon": 2.73331865411559
-      },
-      {
         "id": "esp-deia",
         "iso": "ESP",
         "label": "DEIA",
@@ -49387,16 +45492,6 @@ module.exports = {
         "lon": -0.732224587914136
       },
       {
-        "id": "esp-and",
-        "iso": "ESP",
-        "label": "AND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.4019136020291,
-        "lon": 3.18567892376256
-      },
-      {
         "id": "esp-bica",
         "iso": "ESP",
         "label": "BICA",
@@ -49405,16 +45500,6 @@ module.exports = {
         ],
         "lat": 39.146045021188,
         "lon": 2.93360454645649
-      },
-      {
-        "id": "esp-arsburg",
-        "iso": "ESP",
-        "label": "ARSBURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.2847630751457,
-        "lon": 3.09624650241057
       },
       {
         "id": "esp-cabrera",
@@ -49435,16 +45520,6 @@ module.exports = {
         ],
         "lat": 39.490373289551,
         "lon": 2.47504802210429
-      },
-      {
-        "id": "esp-mallorca",
-        "iso": "ESP",
-        "label": "MALLORCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.6712598923399,
-        "lon": 2.76386002551832
       },
       {
         "id": "esp-colld'enrabassa",
@@ -49487,16 +45562,6 @@ module.exports = {
         "lon": 3.21494385618136
       },
       {
-        "id": "esp-malaga",
-        "iso": "ESP",
-        "label": "MALAGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7029255666566,
-        "lon": -4.39945991583084
-      },
-      {
         "id": "esp-tarragona",
         "iso": "ESP",
         "label": "TARRAGONA",
@@ -49505,16 +45570,6 @@ module.exports = {
         ],
         "lat": 41.0852863775745,
         "lon": 1.25352768420534
-      },
-      {
-        "id": "esp-bf",
-        "iso": "ESP",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.6661255179857,
-        "lon": 3.10506548158383
       },
       {
         "id": "esp-tuent",
@@ -49567,16 +45622,6 @@ module.exports = {
         "lon": 0.474923574470599
       },
       {
-        "id": "esp-coloniadesantjordi",
-        "iso": "ESP",
-        "label": "COLONIA DE SANT JORDI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.3015249748642,
-        "lon": 3.01560247286634
-      },
-      {
         "id": "esp-puertodegandia",
         "iso": "ESP",
         "label": "PUERTO DE GANDIA",
@@ -49585,16 +45630,6 @@ module.exports = {
         ],
         "lat": 38.9982622557735,
         "lon": -0.141764170203896
-      },
-      {
-        "id": "esp-mahon",
-        "iso": "ESP",
-        "label": "MAHON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.8828055109127,
-        "lon": 4.29026516001472
       },
       {
         "id": "esp-lavilaolimpicadelpoblenou",
@@ -49635,26 +45670,6 @@ module.exports = {
         ],
         "lat": 40.5672061275833,
         "lon": 0.589048377362165
-      },
-      {
-        "id": "esp-bt",
-        "iso": "ESP",
-        "label": "BT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.1784585241098,
-        "lon": 1.88362037567865
-      },
-      {
-        "id": "esp-santjoandelabritja",
-        "iso": "ESP",
-        "label": "SANT JOAN DE LABRITJA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.1083121071634,
-        "lon": 1.50865681659808
       },
       {
         "id": "esp-sitges",
@@ -49745,26 +45760,6 @@ module.exports = {
         ],
         "lat": 37.6343699002559,
         "lon": -0.699197927008694
-      },
-      {
-        "id": "esp-palma",
-        "iso": "ESP",
-        "label": "PALMA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.5416349436804,
-        "lon": 2.46165362021124
-      },
-      {
-        "id": "esp-asandgbr",
-        "iso": "ESP",
-        "label": "AS AND GBR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.5312180223303,
-        "lon": 2.58613370154687
       },
       {
         "id": "esp-santaponsa",
@@ -49865,16 +45860,6 @@ module.exports = {
         ],
         "lat": 37.9678830445006,
         "lon": -0.683813481267843
-      },
-      {
-        "id": "esp-aguadulce",
-        "iso": "ESP",
-        "label": "AGUADULCE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8138154564365,
-        "lon": -2.56155376232006
       },
       {
         "id": "esp-rodadebara",
@@ -50087,16 +46072,6 @@ module.exports = {
         "lon": 1.60171441907619
       },
       {
-        "id": "esp-moraira",
-        "iso": "ESP",
-        "label": "MORAIRA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.6837263639588,
-        "lon": 0.143933628555751
-      },
-      {
         "id": "esp-tarifa",
         "iso": "ESP",
         "label": "TARIFA",
@@ -50117,16 +46092,6 @@ module.exports = {
         "lon": 3.12551958601621
       },
       {
-        "id": "esp-almeria",
-        "iso": "ESP",
-        "label": "ALMERIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8280615207716,
-        "lon": -2.47498143803589
-      },
-      {
         "id": "esp-canpastilla",
         "iso": "ESP",
         "label": "CAN PASTILLA",
@@ -50135,16 +46100,6 @@ module.exports = {
         ],
         "lat": 39.531941020123,
         "lon": 2.71723182812191
-      },
-      {
-        "id": "esp-menorca",
-        "iso": "ESP",
-        "label": "MENORCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.9764356969652,
-        "lon": 3.85063033679935
       },
       {
         "id": "esp-lescasesd'alcanar",
@@ -50297,16 +46252,6 @@ module.exports = {
         "lon": -0.0703255757285118
       },
       {
-        "id": "esp-calarajada",
-        "iso": "ESP",
-        "label": "CALA RAJADA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.7104529865983,
-        "lon": 3.4712620656494
-      },
-      {
         "id": "esp-bmt",
         "iso": "ESP",
         "label": "BMT",
@@ -50315,16 +46260,6 @@ module.exports = {
         ],
         "lat": 37.6985683317116,
         "lon": -0.802530045599722
-      },
-      {
-        "id": "esp-aguilas",
-        "iso": "ESP",
-        "label": "AGUILAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.3996909499126,
-        "lon": -1.58369418339816
       },
       {
         "id": "esp-ceuta",
@@ -50345,16 +46280,6 @@ module.exports = {
         ],
         "lat": 39.9211298090463,
         "lon": 3.13614320544745
-      },
-      {
-        "id": "esp-bg",
-        "iso": "ESP",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.7489262261758,
-        "lon": -0.743721332136771
       },
       {
         "id": "esp-cin",
@@ -50407,16 +46332,6 @@ module.exports = {
         "lon": 41.5443757472615
       },
       {
-        "id": "geo-maltakva",
-        "iso": "GEO",
-        "label": "MALTAKVA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.0441484704218,
-        "lon": 41.6822375400699
-      },
-      {
         "id": "geo-makhinjauri",
         "iso": "GEO",
         "label": "MAKHINJAURI",
@@ -50445,16 +46360,6 @@ module.exports = {
         ],
         "lat": 42.1646831774282,
         "lon": 41.6067185131326
-      },
-      {
-        "id": "geo-kulevi",
-        "iso": "GEO",
-        "label": "KULEVI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.1928683409942,
-        "lon": 41.6045201435501
       },
       {
         "id": "gib-europapoint",
@@ -50497,16 +46402,6 @@ module.exports = {
         "lon": 25.1913216901045
       },
       {
-        "id": "grc-piraeus",
-        "iso": "GRC",
-        "label": "PIRAEUS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.8608042043632,
-        "lon": 23.564316999587
-      },
-      {
         "id": "grc-selinia",
         "iso": "GRC",
         "label": "SELINIA",
@@ -50537,16 +46432,6 @@ module.exports = {
         "lon": 25.3243944747293
       },
       {
-        "id": "grc-elevsis",
-        "iso": "GRC",
-        "label": "ELEVSIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.0265104315056,
-        "lon": 23.5314139081804
-      },
-      {
         "id": "grc-kerkira",
         "iso": "GRC",
         "label": "KERKIRA",
@@ -50555,16 +46440,6 @@ module.exports = {
         ],
         "lat": 39.6227519697259,
         "lon": 19.9205582024708
-      },
-      {
-        "id": "grc-corfu",
-        "iso": "GRC",
-        "label": "CORFU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.635951817496,
-        "lon": 20.0052020885376
       },
       {
         "id": "grc-ornos",
@@ -50587,16 +46462,6 @@ module.exports = {
         "lon": 20.2407928081387
       },
       {
-        "id": "grc-preveza",
-        "iso": "GRC",
-        "label": "PREVEZA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.95036484517,
-        "lon": 20.7633749621983
-      },
-      {
         "id": "grc-symi",
         "iso": "GRC",
         "label": "SYMI",
@@ -50615,36 +46480,6 @@ module.exports = {
         ],
         "lat": 36.3605285283263,
         "lon": 25.3978383715294
-      },
-      {
-        "id": "grc-isthmia",
-        "iso": "GRC",
-        "label": "ISTHMIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.9118530743058,
-        "lon": 23.0357199981121
-      },
-      {
-        "id": "grc-soussaki",
-        "iso": "GRC",
-        "label": "SOUSSAKI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.9136515530679,
-        "lon": 23.0504799318124
-      },
-      {
-        "id": "grc-agioitheodoroi",
-        "iso": "GRC",
-        "label": "AGIOI THEODOROI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.903400953712,
-        "lon": 23.082030693646
       },
       {
         "id": "grc-kimolos",
@@ -50707,16 +46542,6 @@ module.exports = {
         "lon": 26.9755420286081
       },
       {
-        "id": "grc-aven",
-        "iso": "GRC",
-        "label": "AVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.7939227423908,
-        "lon": 20.7231563251354
-      },
-      {
         "id": "grc-lefkada",
         "iso": "GRC",
         "label": "LEFKADA",
@@ -50725,16 +46550,6 @@ module.exports = {
         ],
         "lat": 38.6067292299801,
         "lon": 21.0620217206437
-      },
-      {
-        "id": "grc-bf",
-        "iso": "GRC",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.3808353205926,
-        "lon": 21.7283326793279
       },
       {
         "id": "grc-lakki",
@@ -50765,36 +46580,6 @@ module.exports = {
         ],
         "lat": 38.574874300854,
         "lon": 23.3100895166512
-      },
-      {
-        "id": "grc-ithaki",
-        "iso": "GRC",
-        "label": "ITHAKI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.3628943150003,
-        "lon": 20.7378073100036
-      },
-      {
-        "id": "grc-anc",
-        "iso": "GRC",
-        "label": "ANC",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.3224518502288,
-        "lon": 24.0560483596453
-      },
-      {
-        "id": "grc-nisosnaxos",
-        "iso": "GRC",
-        "label": "NISOS NAXOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.0987735799512,
-        "lon": 25.3663301958282
       },
       {
         "id": "grc-agtheodoroi",
@@ -50835,16 +46620,6 @@ module.exports = {
         ],
         "lat": 39.7860417182332,
         "lon": 19.9458048028555
-      },
-      {
-        "id": "grc-cang",
-        "iso": "GRC",
-        "label": "CANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.8780400162576,
-        "lon": 23.2724902421112
       },
       {
         "id": "grc-piraeusgr",
@@ -50967,16 +46742,6 @@ module.exports = {
         "lon": 21.7832546638357
       },
       {
-        "id": "grc-spetses",
-        "iso": "GRC",
-        "label": "SPETSES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.2712803450234,
-        "lon": 23.1417442644383
-      },
-      {
         "id": "grc-mykonos",
         "iso": "GRC",
         "label": "MYKONOS",
@@ -50997,16 +46762,6 @@ module.exports = {
         "lon": 25.1449409540004
       },
       {
-        "id": "grc-ormosaliveriou",
-        "iso": "GRC",
-        "label": "ORMOS ALIVERIOU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.3756300808299,
-        "lon": 24.0424395490629
-      },
-      {
         "id": "grc-gefyra",
         "iso": "GRC",
         "label": "GEFYRA",
@@ -51015,26 +46770,6 @@ module.exports = {
         ],
         "lat": 36.6861135404806,
         "lon": 23.0406675160768
-      },
-      {
-        "id": "grc-paros",
-        "iso": "GRC",
-        "label": "PAROS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9878191915282,
-        "lon": 25.476882279139
-      },
-      {
-        "id": "grc-naousa",
-        "iso": "GRC",
-        "label": "NAOUSA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.1256385859101,
-        "lon": 25.2387238775986
       },
       {
         "id": "grc-kefallonia",
@@ -51077,16 +46812,6 @@ module.exports = {
         "lon": 25.3179117310823
       },
       {
-        "id": "grc-vonitsa",
-        "iso": "GRC",
-        "label": "VONITSA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.9283255163553,
-        "lon": 20.890593686849
-      },
-      {
         "id": "grc-gaios",
         "iso": "GRC",
         "label": "GAIOS",
@@ -51095,16 +46820,6 @@ module.exports = {
         ],
         "lat": 39.2030555008214,
         "lon": 20.1878802971277
-      },
-      {
-        "id": "grc-ios",
-        "iso": "GRC",
-        "label": "IOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6575272306102,
-        "lon": 25.3727055700139
       },
       {
         "id": "grc-drepano",
@@ -51155,26 +46870,6 @@ module.exports = {
         ],
         "lat": 37.8062336453646,
         "lon": 23.7723434537851
-      },
-      {
-        "id": "grc-thessaloniki",
-        "iso": "GRC",
-        "label": "THESSALONIKI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.5355376068702,
-        "lon": 22.9684501397476
-      },
-      {
-        "id": "grc-elliniko",
-        "iso": "GRC",
-        "label": "ELLINIKO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.8713510030432,
-        "lon": 23.7317636051211
       },
       {
         "id": "grc-rodostilos",
@@ -51247,16 +46942,6 @@ module.exports = {
         "lon": 27.2210861055474
       },
       {
-        "id": "grc-ana",
-        "iso": "GRC",
-        "label": "ANA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.5337990434948,
-        "lon": 24.2406272366807
-      },
-      {
         "id": "grc-saranda",
         "iso": "GRC",
         "label": "SARANDA",
@@ -51285,16 +46970,6 @@ module.exports = {
         ],
         "lat": 37.5096400485555,
         "lon": 23.4356513558489
-      },
-      {
-        "id": "grc-lavrio",
-        "iso": "GRC",
-        "label": "LAVRIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.7145931526213,
-        "lon": 24.0741897437092
       },
       {
         "id": "grc-aae",
@@ -51327,26 +47002,6 @@ module.exports = {
         "lon": 24.0191332723971
       },
       {
-        "id": "grc-perama",
-        "iso": "GRC",
-        "label": "PERAMA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.9552941287661,
-        "lon": 23.5699926116522
-      },
-      {
-        "id": "grc-volos",
-        "iso": "GRC",
-        "label": "VOLOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.342346997503,
-        "lon": 22.9647520092522
-      },
-      {
         "id": "grc-hydra",
         "iso": "GRC",
         "label": "HYDRA",
@@ -51365,16 +47020,6 @@ module.exports = {
         ],
         "lat": 37.3288895529254,
         "lon": 26.5551224328645
-      },
-      {
-        "id": "grc-sami",
-        "iso": "GRC",
-        "label": "SAMI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.3586522526206,
-        "lon": 20.7521772688293
       },
       {
         "id": "grc-napoli",
@@ -51445,26 +47090,6 @@ module.exports = {
         ],
         "lat": 37.8674147439344,
         "lon": 20.7694675450991
-      },
-      {
-        "id": "grc-order",
-        "iso": "GRC",
-        "label": "ORDER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.8665195004826,
-        "lon": 20.7749122090882
-      },
-      {
-        "id": "grc-ayiosnikolaos",
-        "iso": "GRC",
-        "label": "AYIOS NIKOLAOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.886348224461,
-        "lon": 24.4240356849954
       },
       {
         "id": "grc-annaba",
@@ -51557,16 +47182,6 @@ module.exports = {
         "lon": 25.4418164924859
       },
       {
-        "id": "grc-patrai",
-        "iso": "GRC",
-        "label": "PATRAI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.2434134433137,
-        "lon": 21.7259991377668
-      },
-      {
         "id": "grc-kiato",
         "iso": "GRC",
         "label": "KIATO",
@@ -51607,16 +47222,6 @@ module.exports = {
         "lon": 19.9161329549336
       },
       {
-        "id": "grc-kriti",
-        "iso": "GRC",
-        "label": "KRITI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.9014340342834,
-        "lon": 22.3441924722807
-      },
-      {
         "id": "grc-volosplatamonas",
         "iso": "GRC",
         "label": "VOLOS PLATAMONAS",
@@ -51625,26 +47230,6 @@ module.exports = {
         ],
         "lat": 40.7092648904954,
         "lon": 24.5317403670323
-      },
-      {
-        "id": "grc-vathis",
-        "iso": "GRC",
-        "label": "VATHIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9743487840806,
-        "lon": 27.0361523075203
-      },
-      {
-        "id": "grc-milos",
-        "iso": "GRC",
-        "label": "MILOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.723041552489,
-        "lon": 24.4997656658759
       },
       {
         "id": "grc-kalamaria",
@@ -51727,16 +47312,6 @@ module.exports = {
         "lon": 22.6249392067165
       },
       {
-        "id": "grc-bney",
-        "iso": "GRC",
-        "label": "BNEY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8606361906676,
-        "lon": 25.5221838023427
-      },
-      {
         "id": "grc-ale",
         "iso": "GRC",
         "label": "ALE",
@@ -51775,16 +47350,6 @@ module.exports = {
         ],
         "lat": 37.6666749749556,
         "lon": 24.3246702566331
-      },
-      {
-        "id": "grc-kea",
-        "iso": "GRC",
-        "label": "KEA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.6680134600587,
-        "lon": 24.3200927280929
       },
       {
         "id": "grc-palaiaepidavros",
@@ -52007,16 +47572,6 @@ module.exports = {
         "lon": 22.7950373591958
       },
       {
-        "id": "grc-elefsina",
-        "iso": "GRC",
-        "label": "ELEFSINA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.0228718072004,
-        "lon": 23.5054449840253
-      },
-      {
         "id": "grc-aspropirgos",
         "iso": "GRC",
         "label": "ASPROPIRGOS",
@@ -52095,26 +47650,6 @@ module.exports = {
         ],
         "lat": 38.6645577630699,
         "lon": 20.782381883175
-      },
-      {
-        "id": "grc-souda",
-        "iso": "GRC",
-        "label": "SOUDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.4965395623696,
-        "lon": 24.1381973228746
-      },
-      {
-        "id": "grc-athens",
-        "iso": "GRC",
-        "label": "ATHENS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6646281538227,
-        "lon": 27.128372606216
       },
       {
         "id": "grc-kontokali",
@@ -52257,16 +47792,6 @@ module.exports = {
         "lon": 23.3467897517864
       },
       {
-        "id": "grc-kalimnos",
-        "iso": "GRC",
-        "label": "KALIMNOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9346288698823,
-        "lon": 26.9870669587824
-      },
-      {
         "id": "grc-liminsirou",
         "iso": "GRC",
         "label": "LIMIN SIROU",
@@ -52367,16 +47892,6 @@ module.exports = {
         "lon": 24.4797167580665
       },
       {
-        "id": "grc-vatika",
-        "iso": "GRC",
-        "label": "VATIKA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.4940101963082,
-        "lon": 23.0043738289615
-      },
-      {
         "id": "grc-bhaven",
         "iso": "GRC",
         "label": "BHAVEN",
@@ -52405,16 +47920,6 @@ module.exports = {
         ],
         "lat": 36.8559748889442,
         "lon": 25.527399200835
-      },
-      {
-        "id": "grc-kythnos",
-        "iso": "GRC",
-        "label": "KYTHNOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.4352868625691,
-        "lon": 24.415927351503
       },
       {
         "id": "grc-kyparissia",
@@ -52447,16 +47952,6 @@ module.exports = {
         "lon": 23.6061019087035
       },
       {
-        "id": "grc-deham",
-        "iso": "GRC",
-        "label": "DEHAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.657456813682,
-        "lon": 25.3687233936091
-      },
-      {
         "id": "grc-aspropyrgosgreece",
         "iso": "GRC",
         "label": "ASPROPYRGOS GREECE",
@@ -52465,16 +47960,6 @@ module.exports = {
         ],
         "lat": 37.6532455845553,
         "lon": 23.9931394380739
-      },
-      {
-        "id": "grc-zakynthos",
-        "iso": "GRC",
-        "label": "ZAKYNTHOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.7326701629455,
-        "lon": 20.8752416635302
       },
       {
         "id": "grc-neakallikrateia",
@@ -52617,26 +48102,6 @@ module.exports = {
         "lon": 23.3434761637363
       },
       {
-        "id": "grc-skikda",
-        "iso": "GRC",
-        "label": "SKIKDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.5026292242413,
-        "lon": 22.9987366856523
-      },
-      {
-        "id": "grc-neapolis",
-        "iso": "GRC",
-        "label": "NEAPOLIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.4990873469963,
-        "lon": 23.0045271736886
-      },
-      {
         "id": "grc-anafi",
         "iso": "GRC",
         "label": "ANAFI",
@@ -52727,16 +48192,6 @@ module.exports = {
         "lon": 27.0458481866945
       },
       {
-        "id": "grc-karystos",
-        "iso": "GRC",
-        "label": "KARYSTOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.9828923753921,
-        "lon": 24.4352837312944
-      },
-      {
         "id": "grc-ai",
         "iso": "GRC",
         "label": "AI",
@@ -52787,16 +48242,6 @@ module.exports = {
         "lon": 25.5129968478897
       },
       {
-        "id": "grc-koilas",
-        "iso": "GRC",
-        "label": "KOILAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.4164036331464,
-        "lon": 23.1307935346006
-      },
-      {
         "id": "grc-achladi",
         "iso": "GRC",
         "label": "ACHLADI",
@@ -52827,16 +48272,6 @@ module.exports = {
         "lon": 23.6137623569241
       },
       {
-        "id": "grc-tinos",
-        "iso": "GRC",
-        "label": "TINOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.5469427617948,
-        "lon": 25.1335596776421
-      },
-      {
         "id": "grc-thira",
         "iso": "GRC",
         "label": "THIRA",
@@ -52865,26 +48300,6 @@ module.exports = {
         ],
         "lat": 37.9362151428331,
         "lon": 21.1492160319287
-      },
-      {
-        "id": "grc-bo",
-        "iso": "GRC",
-        "label": "BO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.9812583405425,
-        "lon": 24.2524651111818
-      },
-      {
-        "id": "grc-australia",
-        "iso": "GRC",
-        "label": "AUSTRALIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.3099780468517,
-        "lon": 22.4802375526985
       },
       {
         "id": "grc-kibristoherzilya",
@@ -52935,16 +48350,6 @@ module.exports = {
         ],
         "lat": 38.3801049030915,
         "lon": 22.3888583617621
-      },
-      {
-        "id": "grc-liminmesoyaias",
-        "iso": "GRC",
-        "label": "LIMIN MESOYAIAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.8885834540785,
-        "lon": 24.0152093086521
       },
       {
         "id": "grc-amorgos",
@@ -53107,16 +48512,6 @@ module.exports = {
         "lon": 26.7721861408394
       },
       {
-        "id": "grc-myrina",
-        "iso": "GRC",
-        "label": "MYRINA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.8709226506291,
-        "lon": 25.0545927293264
-      },
-      {
         "id": "grc-schismaeloundas",
         "iso": "GRC",
         "label": "SCHISMA ELOUNDAS",
@@ -53135,26 +48530,6 @@ module.exports = {
         ],
         "lat": 36.431212616487,
         "lon": 28.1856152826633
-      },
-      {
-        "id": "grc-piraievs",
-        "iso": "GRC",
-        "label": "PIRAIEVS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.9368258573855,
-        "lon": 23.6234377793316
-      },
-      {
-        "id": "grc-portocheli",
-        "iso": "GRC",
-        "label": "PORTO CHELI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.3031589157488,
-        "lon": 23.1414461804297
       },
       {
         "id": "grc-ang",
@@ -53237,16 +48612,6 @@ module.exports = {
         "lon": 23.3244802238887
       },
       {
-        "id": "grc-istanbul",
-        "iso": "GRC",
-        "label": "ISTANBUL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.9772120514886,
-        "lon": 24.4384009769121
-      },
-      {
         "id": "grc-plomarion",
         "iso": "GRC",
         "label": "PLOMARION",
@@ -53295,16 +48660,6 @@ module.exports = {
         ],
         "lat": 38.6724932192258,
         "lon": 20.7873226551075
-      },
-      {
-        "id": "grc-neamichaniona",
-        "iso": "GRC",
-        "label": "NEA MICHANIONA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4609515662326,
-        "lon": 22.8519850635111
       },
       {
         "id": "grc-perivoli",
@@ -53407,16 +48762,6 @@ module.exports = {
         "lon": 24.0176289270623
       },
       {
-        "id": "hrv-mn",
-        "iso": "HRV",
-        "label": "MN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5569160152225,
-        "lon": 15.9025037363902
-      },
-      {
         "id": "hrv-solta",
         "iso": "HRV",
         "label": "SOLTA",
@@ -53517,16 +48862,6 @@ module.exports = {
         "lon": 17.3308686386079
       },
       {
-        "id": "hrv-dubrovnik",
-        "iso": "HRV",
-        "label": "DUBROVNIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.6957509901955,
-        "lon": 17.8664217353971
-      },
-      {
         "id": "hrv-murter",
         "iso": "HRV",
         "label": "MURTER",
@@ -53537,16 +48872,6 @@ module.exports = {
         "lon": 15.5687209081994
       },
       {
-        "id": "hrv-kastelgomilica",
-        "iso": "HRV",
-        "label": "KASTEL GOMILICA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5449327283631,
-        "lon": 16.4068049899515
-      },
-      {
         "id": "hrv-split",
         "iso": "HRV",
         "label": "SPLIT",
@@ -53555,16 +48880,6 @@ module.exports = {
         ],
         "lat": 43.5009720252089,
         "lon": 16.4285800667995
-      },
-      {
-        "id": "hrv-rijekaluka",
-        "iso": "HRV",
-        "label": "RIJEKA LUKA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.3150225654359,
-        "lon": 14.4314442725055
       },
       {
         "id": "hrv-velikidrvenik",
@@ -53587,16 +48902,6 @@ module.exports = {
         "lon": 13.6030759365977
       },
       {
-        "id": "hrv-hvar",
-        "iso": "HRV",
-        "label": "HVAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.169965889485,
-        "lon": 16.4004472962474
-      },
-      {
         "id": "hrv-pakleniotok",
         "iso": "HRV",
         "label": "PAKLENI OTOK",
@@ -53605,16 +48910,6 @@ module.exports = {
         ],
         "lat": 43.1611219533587,
         "lon": 16.3622994586533
-      },
-      {
-        "id": "hrv-vis",
-        "iso": "HRV",
-        "label": "VIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.0534194368306,
-        "lon": 16.2090577950148
       },
       {
         "id": "hrv-lopud",
@@ -53647,16 +48942,6 @@ module.exports = {
         "lon": 15.8892509278987
       },
       {
-        "id": "hrv-bf",
-        "iso": "HRV",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.2659116609528,
-        "lon": 14.7680788662738
-      },
-      {
         "id": "hrv-zadarist",
         "iso": "HRV",
         "label": "ZADAR IST",
@@ -53665,16 +48950,6 @@ module.exports = {
         ],
         "lat": 44.2728108452286,
         "lon": 14.7639666716392
-      },
-      {
-        "id": "hrv-al",
-        "iso": "HRV",
-        "label": "AL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.2079162638368,
-        "lon": 16.5281037480042
       },
       {
         "id": "hrv-opatija",
@@ -53695,16 +48970,6 @@ module.exports = {
         ],
         "lat": 43.5110356381295,
         "lon": 16.2306633881799
-      },
-      {
-        "id": "hrv-malilosinj",
-        "iso": "HRV",
-        "label": "MALI LOSINJ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.2610668888343,
-        "lon": 14.798148704775
       },
       {
         "id": "hrv-rtmatica",
@@ -53737,16 +49002,6 @@ module.exports = {
         "lon": 16.6583867585584
       },
       {
-        "id": "hrv-ploce",
-        "iso": "HRV",
-        "label": "PLOCE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.0390418307983,
-        "lon": 17.4291726368388
-      },
-      {
         "id": "hrv-bg",
         "iso": "HRV",
         "label": "BG",
@@ -53767,26 +49022,6 @@ module.exports = {
         "lon": 16.3946361129984
       },
       {
-        "id": "hrv-bfws",
-        "iso": "HRV",
-        "label": "BF WS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.4903311844233,
-        "lon": 15.9383075168388
-      },
-      {
-        "id": "hrv-test",
-        "iso": "HRV",
-        "label": "TEST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.0936657825461,
-        "lon": 16.700884304152
-      },
-      {
         "id": "hrv-sucuraj",
         "iso": "HRV",
         "label": "SUCURAJ",
@@ -53805,26 +49040,6 @@ module.exports = {
         ],
         "lat": 43.2113146376786,
         "lon": 16.7633414351534
-      },
-      {
-        "id": "hrv-pula",
-        "iso": "HRV",
-        "label": "PULA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.8695453750284,
-        "lon": 13.8164825081341
-      },
-      {
-        "id": "hrv-sibenik",
-        "iso": "HRV",
-        "label": "SIBENIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.6373920325256,
-        "lon": 15.905029757372
       },
       {
         "id": "hrv-hai",
@@ -53857,26 +49072,6 @@ module.exports = {
         "lon": 17.4152990357413
       },
       {
-        "id": "hrv-primosten",
-        "iso": "HRV",
-        "label": "PRIMOSTEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5828035427022,
-        "lon": 15.9209240420098
-      },
-      {
-        "id": "hrv-cavtat",
-        "iso": "HRV",
-        "label": "CAVTAT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.5820616883712,
-        "lon": 18.2130675129508
-      },
-      {
         "id": "hrv-zirje",
         "iso": "HRV",
         "label": "ZIRJE",
@@ -53895,16 +49090,6 @@ module.exports = {
         ],
         "lat": 44.10381495254,
         "lon": 15.2183756062766
-      },
-      {
-        "id": "hrv-zlarin",
-        "iso": "HRV",
-        "label": "ZLARIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7097973209461,
-        "lon": 15.8183792280324
       },
       {
         "id": "hrv-ao2",
@@ -53987,16 +49172,6 @@ module.exports = {
         "lon": 14.6961754120453
       },
       {
-        "id": "hrv-omisalj",
-        "iso": "HRV",
-        "label": "OMISALJ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.2408118865263,
-        "lon": 14.4968464623129
-      },
-      {
         "id": "hrv-ang",
         "iso": "HRV",
         "label": "ANG",
@@ -54005,16 +49180,6 @@ module.exports = {
         ],
         "lat": 42.6804997762084,
         "lon": 18.0025892992648
-      },
-      {
-        "id": "hrv-anxiushan",
-        "iso": "HRV",
-        "label": "AN XIU SHAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.67892098811,
-        "lon": 18.0037921721818
       },
       {
         "id": "hrv-cartagenaspain",
@@ -54035,16 +49200,6 @@ module.exports = {
         ],
         "lat": 45.3081798329955,
         "lon": 14.4773269654014
-      },
-      {
-        "id": "hrv-croatia",
-        "iso": "HRV",
-        "label": "CROATIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.973072547333,
-        "lon": 16.8838610761052
       },
       {
         "id": "hrv-el",
@@ -54095,26 +49250,6 @@ module.exports = {
         ],
         "lat": 44.0916121637413,
         "lon": 15.1760255439825
-      },
-      {
-        "id": "hrv-bsgiovanni",
-        "iso": "HRV",
-        "label": "BS GIOVANNI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.4419694895706,
-        "lon": 15.906028765396
-      },
-      {
-        "id": "hrv-sali",
-        "iso": "HRV",
-        "label": "SALI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.9357381316612,
-        "lon": 15.1680399645526
       },
       {
         "id": "hrv-rabac",
@@ -54175,16 +49310,6 @@ module.exports = {
         ],
         "lat": 43.4439971722575,
         "lon": 16.079769477265
-      },
-      {
-        "id": "hrv-vranjic",
-        "iso": "HRV",
-        "label": "VRANJIC",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5288525365495,
-        "lon": 16.4684449522741
       },
       {
         "id": "hrv-kornati",
@@ -54347,26 +49472,6 @@ module.exports = {
         "lon": 17.912057836911
       },
       {
-        "id": "hrv-bakar",
-        "iso": "HRV",
-        "label": "BAKAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.307651675513,
-        "lon": 14.4838666079745
-      },
-      {
-        "id": "hrv-vodice",
-        "iso": "HRV",
-        "label": "VODICE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7543502472045,
-        "lon": 15.7779546865137
-      },
-      {
         "id": "hrv-sakarun",
         "iso": "HRV",
         "label": "SAKARUN",
@@ -54395,16 +49500,6 @@ module.exports = {
         ],
         "lat": 44.9206099014038,
         "lon": 13.7706847008819
-      },
-      {
-        "id": "hrv-sukosan",
-        "iso": "HRV",
-        "label": "SUKOSAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.0533758208251,
-        "lon": 15.2997703117249
       },
       {
         "id": "hrv-olib",
@@ -54497,16 +49592,6 @@ module.exports = {
         "lon": 17.3430785081849
       },
       {
-        "id": "hrv-rogoznica",
-        "iso": "HRV",
-        "label": "ROGOZNICA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5040773485439,
-        "lon": 15.9845486974168
-      },
-      {
         "id": "hrv-novigrad",
         "iso": "HRV",
         "label": "NOVIGRAD",
@@ -54545,26 +49630,6 @@ module.exports = {
         ],
         "lat": 42.9729780712652,
         "lon": 17.1748586518012
-      },
-      {
-        "id": "isr-ashqelon",
-        "iso": "ISR",
-        "label": "ASHQELON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.6645447364592,
-        "lon": 34.4944925498634
-      },
-      {
-        "id": "isr-haifa",
-        "iso": "ISR",
-        "label": "HAIFA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 32.8689079875408,
-        "lon": 35.003741091072
       },
       {
         "id": "isr-ashdod",
@@ -54657,26 +49722,6 @@ module.exports = {
         "lon": 16.846053434059
       },
       {
-        "id": "ita-olbia",
-        "iso": "ITA",
-        "label": "OLBIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9275619350679,
-        "lon": 9.55054769727285
-      },
-      {
-        "id": "ita-napoli",
-        "iso": "ITA",
-        "label": "NAPOLI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8279925983799,
-        "lon": 14.2544071986066
-      },
-      {
         "id": "ita-stromboli",
         "iso": "ITA",
         "label": "STROMBOLI",
@@ -54685,16 +49730,6 @@ module.exports = {
         ],
         "lat": 38.8033481385228,
         "lon": 15.2407382928301
-      },
-      {
-        "id": "ita-portodioristano",
-        "iso": "ITA",
-        "label": "PORTO DI ORISTANO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.8702034605029,
-        "lon": 8.54594220290243
       },
       {
         "id": "ita-civitanovamarche",
@@ -54757,16 +49792,6 @@ module.exports = {
         "lon": 12.2791150851501
       },
       {
-        "id": "ita-civitavecchia",
-        "iso": "ITA",
-        "label": "CIVITAVECCHIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.0814408324983,
-        "lon": 11.76212769914
-      },
-      {
         "id": "ita-cefalu",
         "iso": "ITA",
         "label": "CEFALU",
@@ -54807,16 +49832,6 @@ module.exports = {
         "lon": 13.6024902817662
       },
       {
-        "id": "ita-brindisi",
-        "iso": "ITA",
-        "label": "BRINDISI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6356998209634,
-        "lon": 18.0917319343994
-      },
-      {
         "id": "ita-augusta",
         "iso": "ITA",
         "label": "AUGUSTA",
@@ -54837,36 +49852,6 @@ module.exports = {
         "lon": 13.9737533331239
       },
       {
-        "id": "ita-venice",
-        "iso": "ITA",
-        "label": "VENICE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.4238173615505,
-        "lon": 12.3196401591754
-      },
-      {
-        "id": "ita-torreannunziata",
-        "iso": "ITA",
-        "label": "TORRE ANNUNZIATA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7313084745325,
-        "lon": 14.4403562735107
-      },
-      {
-        "id": "ita-taranto",
-        "iso": "ITA",
-        "label": "TARANTO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4632460634431,
-        "lon": 17.1981421072844
-      },
-      {
         "id": "ita-melillioilterminal",
         "iso": "ITA",
         "label": "MELILLI OIL TERMINAL",
@@ -54877,26 +49862,6 @@ module.exports = {
         "lon": 15.2667780425014
       },
       {
-        "id": "ita-castellammaredistabia",
-        "iso": "ITA",
-        "label": "CASTELLAMMARE DI STABIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.70106835305,
-        "lon": 14.4720618898572
-      },
-      {
-        "id": "ita-fuorni",
-        "iso": "ITA",
-        "label": "FUORNI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6434298910486,
-        "lon": 14.814325504032
-      },
-      {
         "id": "ita-vieste",
         "iso": "ITA",
         "label": "VIESTE",
@@ -54905,16 +49870,6 @@ module.exports = {
         ],
         "lat": 41.8882128577845,
         "lon": 16.1771536038258
-      },
-      {
-        "id": "ita-portodicorsini",
-        "iso": "ITA",
-        "label": "PORTO DI CORSINI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.4854178393151,
-        "lon": 12.2738894920654
       },
       {
         "id": "ita-portici",
@@ -54937,16 +49892,6 @@ module.exports = {
         "lon": 12.9286141025713
       },
       {
-        "id": "ita-ancona",
-        "iso": "ITA",
-        "label": "ANCONA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.615747842705,
-        "lon": 13.4930753698609
-      },
-      {
         "id": "ita-capri",
         "iso": "ITA",
         "label": "CAPRI",
@@ -54965,26 +49910,6 @@ module.exports = {
         ],
         "lat": 39.0884087431253,
         "lon": 17.136132528343
-      },
-      {
-        "id": "ita-portoferraio",
-        "iso": "ITA",
-        "label": "PORTOFERRAIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.8098175740849,
-        "lon": 10.3220850796845
-      },
-      {
-        "id": "ita-cagliari",
-        "iso": "ITA",
-        "label": "CAGLIARI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.1874029479096,
-        "lon": 9.09391404016739
       },
       {
         "id": "ita-lecastella",
@@ -55025,16 +49950,6 @@ module.exports = {
         ],
         "lat": 40.6345849217754,
         "lon": 14.379724605349
-      },
-      {
-        "id": "ita-salerno",
-        "iso": "ITA",
-        "label": "SALERNO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6525425677312,
-        "lon": 14.7478432865495
       },
       {
         "id": "ita-ischia",
@@ -55167,16 +50082,6 @@ module.exports = {
         "lon": 9.63042567403365
       },
       {
-        "id": "ita-catania",
-        "iso": "ITA",
-        "label": "CATANIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.4935075021621,
-        "lon": 15.1020118687459
-      },
-      {
         "id": "ita-anzio",
         "iso": "ITA",
         "label": "ANZIO",
@@ -55195,16 +50100,6 @@ module.exports = {
         ],
         "lat": 41.6131023145961,
         "lon": 15.9447362114627
-      },
-      {
-        "id": "ita-lamaddalena",
-        "iso": "ITA",
-        "label": "LA MADDALENA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.1751341973843,
-        "lon": 9.22463532577698
       },
       {
         "id": "ita-sanfelicecirceo",
@@ -55255,16 +50150,6 @@ module.exports = {
         ],
         "lat": 41.3746207660919,
         "lon": 16.3318476083291
-      },
-      {
-        "id": "ita-thumsbase",
-        "iso": "ITA",
-        "label": "THUMS BASE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.1882736012151,
-        "lon": 8.3224947300548
       },
       {
         "id": "ita-carloforte",
@@ -55337,36 +50222,6 @@ module.exports = {
         "lon": 14.5862534696866
       },
       {
-        "id": "ita-campalto",
-        "iso": "ITA",
-        "label": "CAMPALTO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.4534498562006,
-        "lon": 12.2708271170966
-      },
-      {
-        "id": "ita-bf",
-        "iso": "ITA",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.5988493642638,
-        "lon": 12.6373519102304
-      },
-      {
-        "id": "ita-genova",
-        "iso": "ITA",
-        "label": "GENOVA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.9228751924909,
-        "lon": 8.8443960953566
-      },
-      {
         "id": "ita-leuca",
         "iso": "ITA",
         "label": "LEUCA",
@@ -55397,16 +50252,6 @@ module.exports = {
         "lon": 13.8125336924924
       },
       {
-        "id": "ita-santeodoro",
-        "iso": "ITA",
-        "label": "SAN TEODORO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.4064815076644,
-        "lon": 8.87265123689422
-      },
-      {
         "id": "ita-croatia",
         "iso": "ITA",
         "label": "CROATIA",
@@ -55415,26 +50260,6 @@ module.exports = {
         ],
         "lat": 42.1753498734549,
         "lon": 14.7126986663274
-      },
-      {
-        "id": "ita-favignana",
-        "iso": "ITA",
-        "label": "FAVIGNANA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.9156906133953,
-        "lon": 12.3336175569084
-      },
-      {
-        "id": "ita-formia",
-        "iso": "ITA",
-        "label": "FORMIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2522570103578,
-        "lon": 13.6043927388591
       },
       {
         "id": "ita-giardini-naxos",
@@ -55485,16 +50310,6 @@ module.exports = {
         ],
         "lat": 45.7649389262949,
         "lon": 13.2416370048434
-      },
-      {
-        "id": "ita-portonogaro",
-        "iso": "ITA",
-        "label": "PORTO NOGARO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.76369683284,
-        "lon": 13.2415074325663
       },
       {
         "id": "ita-gigliocastello",
@@ -55567,16 +50382,6 @@ module.exports = {
         "lon": 14.1677961989019
       },
       {
-        "id": "ita-trieste",
-        "iso": "ITA",
-        "label": "TRIESTE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.6331700706551,
-        "lon": 13.7725772310733
-      },
-      {
         "id": "ita-casamicciolaterme",
         "iso": "ITA",
         "label": "CASAMICCIOLA TERME",
@@ -55627,16 +50432,6 @@ module.exports = {
         "lon": 8.3747526680975
       },
       {
-        "id": "ita-pozzuoli",
-        "iso": "ITA",
-        "label": "POZZUOLI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8085648966033,
-        "lon": 14.0931455434216
-      },
-      {
         "id": "ita-portogaribaldi",
         "iso": "ITA",
         "label": "PORTO GARIBALDI",
@@ -55645,16 +50440,6 @@ module.exports = {
         ],
         "lat": 44.6751899724251,
         "lon": 12.2382649858065
-      },
-      {
-        "id": "ita-marcianamarina",
-        "iso": "ITA",
-        "label": "MARCIANA MARINA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.791317848944,
-        "lon": 10.2407407370074
       },
       {
         "id": "ita-leixoes",
@@ -55727,16 +50512,6 @@ module.exports = {
         "lon": 14.3531635451276
       },
       {
-        "id": "ita-isoladelgiglio",
-        "iso": "ITA",
-        "label": "ISOLA DEL GIGLIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.3592914356452,
-        "lon": 10.9219732438711
-      },
-      {
         "id": "ita-oristano",
         "iso": "ITA",
         "label": "ORISTANO",
@@ -55795,16 +50570,6 @@ module.exports = {
         ],
         "lat": 41.2799658037379,
         "lon": 16.4207197840073
-      },
-      {
-        "id": "ita-palermo",
-        "iso": "ITA",
-        "label": "PALERMO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.1155565978946,
-        "lon": 13.4080681569666
       },
       {
         "id": "ita-tarragona",
@@ -56057,16 +50822,6 @@ module.exports = {
         "lon": 15.1930758031527
       },
       {
-        "id": "ita-monfalcone",
-        "iso": "ITA",
-        "label": "MONFALCONE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.7841846137817,
-        "lon": 13.5553019745146
-      },
-      {
         "id": "ita-alcudia",
         "iso": "ITA",
         "label": "ALCUDIA",
@@ -56075,16 +50830,6 @@ module.exports = {
         ],
         "lat": 39.1290233329185,
         "lon": 9.15916494917171
-      },
-      {
-        "id": "ita-onarray",
-        "iso": "ITA",
-        "label": "ON ARRAY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.0998370156567,
-        "lon": 8.30427441192474
       },
       {
         "id": "ita-choebowen",
@@ -56105,16 +50850,6 @@ module.exports = {
         ],
         "lat": 40.0580996736865,
         "lon": 17.981754790622
-      },
-      {
-        "id": "ita-portoponteromano",
-        "iso": "ITA",
-        "label": "PORTO PONTE ROMANO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.0399673953299,
-        "lon": 8.47274227604917
       },
       {
         "id": "ita-murano",
@@ -56207,36 +50942,6 @@ module.exports = {
         "lon": 8.49139790617197
       },
       {
-        "id": "ita-portovecchiodipiombino",
-        "iso": "ITA",
-        "label": "PORTOVECCHIO DI PIOMBINO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.9350884665212,
-        "lon": 10.5442411624798
-      },
-      {
-        "id": "ita-scoglitti",
-        "iso": "ITA",
-        "label": "SCOGLITTI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8917580342804,
-        "lon": 14.4257100856307
-      },
-      {
-        "id": "ita-marghera",
-        "iso": "ITA",
-        "label": "MARGHERA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.4507768475405,
-        "lon": 12.2573044542492
-      },
-      {
         "id": "ita-farosuperiore",
         "iso": "ITA",
         "label": "FARO SUPERIORE",
@@ -56267,16 +50972,6 @@ module.exports = {
         "lon": 14.9637147825243
       },
       {
-        "id": "ita-otranto",
-        "iso": "ITA",
-        "label": "OTRANTO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.1470396503063,
-        "lon": 18.4957924751004
-      },
-      {
         "id": "ita-pebga",
         "iso": "ITA",
         "label": "PEBGA",
@@ -56305,16 +51000,6 @@ module.exports = {
         ],
         "lat": 37.8422973241586,
         "lon": 15.2898395623193
-      },
-      {
-        "id": "ita-muggia",
-        "iso": "ITA",
-        "label": "MUGGIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.6184553170624,
-        "lon": 13.7768728919334
       },
       {
         "id": "ita-baranquilla3olombia",
@@ -56457,16 +51142,6 @@ module.exports = {
         "lon": 15.0266367602724
       },
       {
-        "id": "ita-ca'savio",
-        "iso": "ITA",
-        "label": "CA' SAVIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.4546271586449,
-        "lon": 12.4335053986184
-      },
-      {
         "id": "ita-acitrezza",
         "iso": "ITA",
         "label": "ACI TREZZA",
@@ -56475,16 +51150,6 @@ module.exports = {
         ],
         "lat": 37.5614919702327,
         "lon": 15.1633994480769
-      },
-      {
-        "id": "ita-lampedusa",
-        "iso": "ITA",
-        "label": "LAMPEDUSA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.4974788762352,
-        "lon": 12.6052282279915
       },
       {
         "id": "ita-tropea",
@@ -56647,26 +51312,6 @@ module.exports = {
         "lon": 35.8270836724016
       },
       {
-        "id": "lbn-chekka",
-        "iso": "LBN",
-        "label": "CHEKKA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.3468454414371,
-        "lon": 35.7235192934547
-      },
-      {
-        "id": "lbn-batroun",
-        "iso": "LBN",
-        "label": "BATROUN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.2667910700925,
-        "lon": 35.6407455837408
-      },
-      {
         "id": "lby-tubruq",
         "iso": "LBY",
         "label": "TUBRUQ",
@@ -56727,16 +51372,6 @@ module.exports = {
         "lon": 13.1798778104695
       },
       {
-        "id": "lby-minatarabulus(tripoli)",
-        "iso": "LBY",
-        "label": "MINA TARABULUS (TRIPOLI)",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 32.9317094098579,
-        "lon": 13.1818444391183
-      },
-      {
         "id": "lby-mellitah",
         "iso": "LBY",
         "label": "MELLITAH",
@@ -56765,16 +51400,6 @@ module.exports = {
         ],
         "lat": 32.0702764901678,
         "lon": 23.9853673949798
-      },
-      {
-        "id": "lby-alkhums",
-        "iso": "LBY",
-        "label": "ALKHUMS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 32.6915457631731,
-        "lon": 14.3263877180452
       },
       {
         "id": "lby-zuwarah",
@@ -56827,16 +51452,6 @@ module.exports = {
         "lon": -5.50487164544603
       },
       {
-        "id": "mar-portnador",
-        "iso": "MAR",
-        "label": "PORT NADOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.2840302070869,
-        "lon": -2.91539939912808
-      },
-      {
         "id": "mar-tangermed2",
         "iso": "MAR",
         "label": "TANGER MED 2",
@@ -56877,16 +51492,6 @@ module.exports = {
         "lon": -5.57030772510775
       },
       {
-        "id": "mco-monaco",
-        "iso": "MCO",
-        "label": "MONACO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7321123668191,
-        "lon": 7.4272433684103
-      },
-      {
         "id": "mlt-malta",
         "iso": "MLT",
         "label": "MALTA",
@@ -56905,16 +51510,6 @@ module.exports = {
         ],
         "lat": 35.9781701882589,
         "lon": 14.8666991092957
-      },
-      {
-        "id": "mlt-marsaxlokk",
-        "iso": "MLT",
-        "label": "MARSAXLOKK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.8443500495527,
-        "lon": 14.6631391395021
       },
       {
         "id": "mlt-mtmar",
@@ -56945,16 +51540,6 @@ module.exports = {
         ],
         "lat": 35.9860913697325,
         "lon": 14.4404894702231
-      },
-      {
-        "id": "mlt-mellieha",
-        "iso": "MLT",
-        "label": "MELLIEHA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.9606412207559,
-        "lon": 14.3278200181486
       },
       {
         "id": "mlt-xaghra",
@@ -57005,16 +51590,6 @@ module.exports = {
         ],
         "lat": 35.8589439294305,
         "lon": 14.865954691046
-      },
-      {
-        "id": "mlt-sanpawlil-bahar",
-        "iso": "MLT",
-        "label": "SAN PAWL IL-BAHAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.9782971887371,
-        "lon": 14.4263622712109
       },
       {
         "id": "mlt-otw",
@@ -57077,16 +51652,6 @@ module.exports = {
         "lon": 14.3160240881632
       },
       {
-        "id": "mlt-vallettaharbors",
-        "iso": "MLT",
-        "label": "VALLETTA HARBORS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.9049268436651,
-        "lon": 14.511392121074
-      },
-      {
         "id": "mlt-fororders",
         "iso": "MLT",
         "label": "FOR ORDERS",
@@ -57137,16 +51702,6 @@ module.exports = {
         "lon": 14.2728696144918
       },
       {
-        "id": "mne-tivat",
-        "iso": "MNE",
-        "label": "TIVAT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.4244007957064,
-        "lon": 18.6890383828384
-      },
-      {
         "id": "mne-budva",
         "iso": "MNE",
         "label": "BUDVA",
@@ -57155,16 +51710,6 @@ module.exports = {
         ],
         "lat": 42.2731596202693,
         "lon": 18.8539536036222
-      },
-      {
-        "id": "mne-bar",
-        "iso": "MNE",
-        "label": "BAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.092718679883,
-        "lon": 19.0779970501491
       },
       {
         "id": "mne-herceg-novi",
@@ -57197,16 +51742,6 @@ module.exports = {
         "lon": 28.7423208745766
       },
       {
-        "id": "rou-agigea",
-        "iso": "ROU",
-        "label": "AGIGEA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.1012476540621,
-        "lon": 28.64711025229
-      },
-      {
         "id": "rou-midia",
         "iso": "ROU",
         "label": "MIDIA",
@@ -57225,16 +51760,6 @@ module.exports = {
         ],
         "lat": 45.1560401693094,
         "lon": 29.6805202713816
-      },
-      {
-        "id": "rou-mangalia",
-        "iso": "ROU",
-        "label": "MANGALIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.8041117139505,
-        "lon": 28.5946805954849
       },
       {
         "id": "rou-braila",
@@ -57297,16 +51822,6 @@ module.exports = {
         "lon": 36.7412168518689
       },
       {
-        "id": "rus-tuapse",
-        "iso": "RUS",
-        "label": "TUAPSE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.0530890599158,
-        "lon": 39.0711136993932
-      },
-      {
         "id": "rus-kavkazoilterminal",
         "iso": "RUS",
         "label": "KAVKAZ OIL TERMINAL",
@@ -57317,26 +51832,6 @@ module.exports = {
         "lon": 36.6632213085273
       },
       {
-        "id": "rus-taman",
-        "iso": "RUS",
-        "label": "TAMAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.0529408075042,
-        "lon": 36.6369258185579
-      },
-      {
-        "id": "rus-novorossiysk",
-        "iso": "RUS",
-        "label": "NOVOROSSIYSK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.6118966384692,
-        "lon": 37.8773478852609
-      },
-      {
         "id": "rus-fororders",
         "iso": "RUS",
         "label": "FOR ORDERS",
@@ -57345,26 +51840,6 @@ module.exports = {
         ],
         "lat": 44.8880800350904,
         "lon": 36.6509310778464
-      },
-      {
-        "id": "rus-azov",
-        "iso": "RUS",
-        "label": "AZOV",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.9698670204701,
-        "lon": 38.7116605353087
-      },
-      {
-        "id": "rus-shepsi",
-        "iso": "RUS",
-        "label": "SHEPSI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.0346259395836,
-        "lon": 39.1054304761826
       },
       {
         "id": "rus-yeisk",
@@ -57385,16 +51860,6 @@ module.exports = {
         ],
         "lat": 44.8988754844181,
         "lon": 36.7549943369105
-      },
-      {
-        "id": "rus-kerch",
-        "iso": "RUS",
-        "label": "KERCH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.1190047053564,
-        "lon": 36.5402066171892
       },
       {
         "id": "rus-keep1milefmme",
@@ -57537,16 +52002,6 @@ module.exports = {
         "lon": 36.6490701532806
       },
       {
-        "id": "rus-kabardinka",
-        "iso": "RUS",
-        "label": "KABARDINKA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.6516828502664,
-        "lon": 37.9031305029077
-      },
-      {
         "id": "rus-kavkazvasyachotko",
         "iso": "RUS",
         "label": "KAVKAZ VASYA CHOTKO",
@@ -57567,16 +52022,6 @@ module.exports = {
         "lon": 36.6619336204523
       },
       {
-        "id": "svn-koper",
-        "iso": "SVN",
-        "label": "KOPER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.5521051008303,
-        "lon": 13.7365646919739
-      },
-      {
         "id": "syr-tartus",
         "iso": "SYR",
         "label": "TARTUS",
@@ -57585,16 +52030,6 @@ module.exports = {
         ],
         "lat": 34.9022989996745,
         "lon": 35.8441879436057
-      },
-      {
-        "id": "syr-alladhiqiyah",
-        "iso": "SYR",
-        "label": "AL LADHIQIYAH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.5225709553839,
-        "lon": 35.7519866343218
       },
       {
         "id": "syr-arwad",
@@ -57827,26 +52262,6 @@ module.exports = {
         "lon": 29.8810793548679
       },
       {
-        "id": "tur-aliaga",
-        "iso": "TUR",
-        "label": "ALIAGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.2229120919186,
-        "lon": 27.2538540096134
-      },
-      {
-        "id": "tur-istanbul",
-        "iso": "TUR",
-        "label": "ISTANBUL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9834332287123,
-        "lon": 28.8787222720268
-      },
-      {
         "id": "tur-constanta",
         "iso": "TUR",
         "label": "CONSTANTA",
@@ -57897,16 +52312,6 @@ module.exports = {
         "lon": 36.367580628963
       },
       {
-        "id": "tur-cesme",
-        "iso": "TUR",
-        "label": "CESME",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.3165449071088,
-        "lon": 26.2627194288827
-      },
-      {
         "id": "tur-order",
         "iso": "TUR",
         "label": "ORDER",
@@ -57915,26 +52320,6 @@ module.exports = {
         ],
         "lat": 38.5260759906312,
         "lon": 26.2207054793732
-      },
-      {
-        "id": "tur-ambarli",
-        "iso": "TUR",
-        "label": "AMBARLI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9820610068459,
-        "lon": 28.6855069415724
-      },
-      {
-        "id": "tur-diliskelesi",
-        "iso": "TUR",
-        "label": "DILISKELESI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2401189718012,
-        "lon": 29.0604652578134
       },
       {
         "id": "tur-bartin",
@@ -57947,16 +52332,6 @@ module.exports = {
         "lon": 32.203033025544
       },
       {
-        "id": "tur-icmeler",
-        "iso": "TUR",
-        "label": "ICMELER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8319608032121,
-        "lon": 29.2764452885114
-      },
-      {
         "id": "tur-halidere",
         "iso": "TUR",
         "label": "HALIDERE",
@@ -57965,26 +52340,6 @@ module.exports = {
         ],
         "lat": 40.7416691238831,
         "lon": 29.7566765363085
-      },
-      {
-        "id": "tur-antalya",
-        "iso": "TUR",
-        "label": "ANTALYA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8247496374179,
-        "lon": 30.6252469247769
-      },
-      {
-        "id": "tur-hereke",
-        "iso": "TUR",
-        "label": "HEREKE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8396961251508,
-        "lon": 29.3595384210011
       },
       {
         "id": "tur-silivri",
@@ -58047,16 +52402,6 @@ module.exports = {
         "lon": 27.6409560745493
       },
       {
-        "id": "tur-izmir",
-        "iso": "TUR",
-        "label": "IZMIR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.052614837613,
-        "lon": 27.5182020677644
-      },
-      {
         "id": "tur-damietta",
         "iso": "TUR",
         "label": "DAMIETTA",
@@ -58077,16 +52422,6 @@ module.exports = {
         "lon": 35.9385486110752
       },
       {
-        "id": "tur-mersin",
-        "iso": "TUR",
-        "label": "MERSIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8437687111073,
-        "lon": 34.5033499780965
-      },
-      {
         "id": "tur-alanya",
         "iso": "TUR",
         "label": "ALANYA",
@@ -58095,16 +52430,6 @@ module.exports = {
         ],
         "lat": 36.5295245433856,
         "lon": 31.9918062564815
-      },
-      {
-        "id": "tur-bodrum",
-        "iso": "TUR",
-        "label": "BODRUM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8716483999261,
-        "lon": 27.9658121944101
       },
       {
         "id": "tur-beylikduzu",
@@ -58117,16 +52442,6 @@ module.exports = {
         "lon": 28.6375562115332
       },
       {
-        "id": "tur-zeytinburnu",
-        "iso": "TUR",
-        "label": "ZEYTINBURNU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9722903407666,
-        "lon": 28.9112421176836
-      },
-      {
         "id": "tur-yarimca",
         "iso": "TUR",
         "label": "YARIMCA",
@@ -58135,16 +52450,6 @@ module.exports = {
         ],
         "lat": 40.8247299402398,
         "lon": 29.607651092876
-      },
-      {
-        "id": "tur-gocek",
-        "iso": "TUR",
-        "label": "GOCEK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7063710337007,
-        "lon": 28.8958775338979
       },
       {
         "id": "tur-dardanelles",
@@ -58167,16 +52472,6 @@ module.exports = {
         "lon": 29.0873037702693
       },
       {
-        "id": "tur-pendik",
-        "iso": "TUR",
-        "label": "PENDIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8537064831362,
-        "lon": 29.2428835876779
-      },
-      {
         "id": "tur-iskenderun",
         "iso": "TUR",
         "label": "ISKENDERUN",
@@ -58185,26 +52480,6 @@ module.exports = {
         ],
         "lat": 36.70717661386,
         "lon": 36.0766142744726
-      },
-      {
-        "id": "tur-nemrut",
-        "iso": "TUR",
-        "label": "NEMRUT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2750560334443,
-        "lon": 29.0284856960022
-      },
-      {
-        "id": "tur-yakacik",
-        "iso": "TUR",
-        "label": "YAKACIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7104079133636,
-        "lon": 36.1675523569393
       },
       {
         "id": "tur-inebolu",
@@ -58237,26 +52512,6 @@ module.exports = {
         "lon": 29.1024257160269
       },
       {
-        "id": "tur-ck",
-        "iso": "TUR",
-        "label": "CK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.875727843325,
-        "lon": 28.9739343330777
-      },
-      {
-        "id": "tur-fethiye",
-        "iso": "TUR",
-        "label": "FETHIYE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.5356185049252,
-        "lon": 30.5588373482691
-      },
-      {
         "id": "tur-botasnaturalgasterminal",
         "iso": "TUR",
         "label": "BOTAS NATURAL GAS TERMINAL",
@@ -58287,16 +52542,6 @@ module.exports = {
         "lon": 36.1330712451621
       },
       {
-        "id": "tur-sariyer",
-        "iso": "TUR",
-        "label": "SARIYER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1624597589171,
-        "lon": 29.0537087876547
-      },
-      {
         "id": "tur-azhou",
         "iso": "TUR",
         "label": "AZHOU",
@@ -58305,26 +52550,6 @@ module.exports = {
         ],
         "lat": 36.9985081201778,
         "lon": 27.2124355395015
-      },
-      {
-        "id": "tur-izmit",
-        "iso": "TUR",
-        "label": "IZMIT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7475995482301,
-        "lon": 29.8190930278882
-      },
-      {
-        "id": "tur-gemlik",
-        "iso": "TUR",
-        "label": "GEMLIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4300268181468,
-        "lon": 28.9047814009924
       },
       {
         "id": "tur-tutunciftlik",
@@ -58345,16 +52570,6 @@ module.exports = {
         ],
         "lat": 41.3350542573457,
         "lon": 30.9246275208238
-      },
-      {
-        "id": "tur-yalova",
-        "iso": "TUR",
-        "label": "YALOVA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.709849074852,
-        "lon": 29.3955952688657
       },
       {
         "id": "tur-marmaraereglisi",
@@ -58417,16 +52632,6 @@ module.exports = {
         "lon": 31.6292043555084
       },
       {
-        "id": "tur-didim",
-        "iso": "TUR",
-        "label": "DIDIM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9887853309093,
-        "lon": 27.4815199036056
-      },
-      {
         "id": "tur-casablanca",
         "iso": "TUR",
         "label": "CASABLANCA",
@@ -58435,16 +52640,6 @@ module.exports = {
         ],
         "lat": 36.9965158248272,
         "lon": 27.4721687655751
-      },
-      {
-        "id": "tur-trabzon",
-        "iso": "TUR",
-        "label": "TRABZON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0171980532948,
-        "lon": 39.7275998228563
       },
       {
         "id": "tur-bg",
@@ -58465,16 +52660,6 @@ module.exports = {
         ],
         "lat": 40.4622507549894,
         "lon": 27.154335977522
-      },
-      {
-        "id": "tur-marmaris",
-        "iso": "TUR",
-        "label": "MARMARIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7596573439997,
-        "lon": 28.2830083612183
       },
       {
         "id": "tur-toros",
@@ -58505,16 +52690,6 @@ module.exports = {
         ],
         "lat": 40.7548506600447,
         "lon": 29.7504314597085
-      },
-      {
-        "id": "tur-istinye",
-        "iso": "TUR",
-        "label": "ISTINYE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1331727038698,
-        "lon": 29.0643929605758
       },
       {
         "id": "tur-kherson",
@@ -58557,16 +52732,6 @@ module.exports = {
         "lon": 27.1144538279204
       },
       {
-        "id": "tur-karatoprak",
-        "iso": "TUR",
-        "label": "KARATOPRAK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.0049219595199,
-        "lon": 27.2204498127067
-      },
-      {
         "id": "tur-arikoy",
         "iso": "TUR",
         "label": "ARIKOY",
@@ -58585,16 +52750,6 @@ module.exports = {
         ],
         "lat": 37.0039099660172,
         "lon": 27.7923965703715
-      },
-      {
-        "id": "tur-maltepe",
-        "iso": "TUR",
-        "label": "MALTEPE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9107661497334,
-        "lon": 29.1247397287372
       },
       {
         "id": "tur-gelibolu",
@@ -58667,16 +52822,6 @@ module.exports = {
         "lon": 28.282958644327
       },
       {
-        "id": "tur-defterdarburnu",
-        "iso": "TUR",
-        "label": "DEFTERDAR BURNU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0393271829387,
-        "lon": 29.0140288485473
-      },
-      {
         "id": "tur-borusanfertilizerjetty",
         "iso": "TUR",
         "label": "BORUSAN FERTILIZER JETTY",
@@ -58685,26 +52830,6 @@ module.exports = {
         ],
         "lat": 40.43117570885,
         "lon": 29.0923127425726
-      },
-      {
-        "id": "tur-datca",
-        "iso": "TUR",
-        "label": "DATCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7104523199693,
-        "lon": 27.6921232623665
-      },
-      {
-        "id": "tur-darica",
-        "iso": "TUR",
-        "label": "DARICA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7568230287454,
-        "lon": 29.3679203710015
       },
       {
         "id": "tur-sinop",
@@ -58747,26 +52872,6 @@ module.exports = {
         "lon": 28.9674398215968
       },
       {
-        "id": "tur-kibristoherzilya",
-        "iso": "TUR",
-        "label": "KIBRIS TO HERZILYA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8136883664658,
-        "lon": 28.2673828539699
-      },
-      {
-        "id": "tur-yalikavak",
-        "iso": "TUR",
-        "label": "YALIKAVAK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.1111667331754,
-        "lon": 27.2609157470794
-      },
-      {
         "id": "tur-kemer",
         "iso": "TUR",
         "label": "KEMER",
@@ -58795,16 +52900,6 @@ module.exports = {
         ],
         "lat": 41.8799450479468,
         "lon": 28.0151002605254
-      },
-      {
-        "id": "tur-gebze",
-        "iso": "TUR",
-        "label": "GEBZE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1044755494861,
-        "lon": 29.0957862932934
       },
       {
         "id": "tur-sarylar",
@@ -58875,16 +52970,6 @@ module.exports = {
         ],
         "lat": 41.0070998758644,
         "lon": 29.0055512085052
-      },
-      {
-        "id": "tur-cang",
-        "iso": "TUR",
-        "label": "CANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.125842004583,
-        "lon": 27.4227069021208
       },
       {
         "id": "tur-mercin",
@@ -59057,16 +53142,6 @@ module.exports = {
         "lon": 31.9094938916689
       },
       {
-        "id": "tur-mudanya",
-        "iso": "TUR",
-        "label": "MUDANYA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.3757107280081,
-        "lon": 28.8896686481164
-      },
-      {
         "id": "tur-cdockx00012",
         "iso": "TUR",
         "label": "CDOCKX00012",
@@ -59075,16 +53150,6 @@ module.exports = {
         ],
         "lat": 40.4135376161102,
         "lon": 27.9446251048212
-      },
-      {
-        "id": "tur-yomra",
-        "iso": "TUR",
-        "label": "YOMRA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9792235310865,
-        "lon": 39.8416437495188
       },
       {
         "id": "tur-kaytazdere",
@@ -59167,16 +53232,6 @@ module.exports = {
         "lon": 35.1407921311945
       },
       {
-        "id": "tur-bstkulevi",
-        "iso": "TUR",
-        "label": "BST KULEVI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.3792275318589,
-        "lon": 26.881318285668
-      },
-      {
         "id": "tur-nlrtm",
         "iso": "TUR",
         "label": "NLRTM",
@@ -59217,16 +53272,6 @@ module.exports = {
         "lon": 26.1333925172686
       },
       {
-        "id": "tur-testharbor",
-        "iso": "TUR",
-        "label": "TEST HARBOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7028955460538,
-        "lon": 28.8139935382235
-      },
-      {
         "id": "tur-fosfrance",
         "iso": "TUR",
         "label": "FOS FRANCE",
@@ -59247,26 +53292,6 @@ module.exports = {
         "lon": 29.6064480613257
       },
       {
-        "id": "tur-kababurnu",
-        "iso": "TUR",
-        "label": "KABA BURNU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7421058635233,
-        "lon": 29.5127703014336
-      },
-      {
-        "id": "tur-kucukkumla",
-        "iso": "TUR",
-        "label": "KUCUKKUMLA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4611215402146,
-        "lon": 29.0680666299832
-      },
-      {
         "id": "tur-azovrussia",
         "iso": "TUR",
         "label": "AZOV RUSSIA",
@@ -59275,16 +53300,6 @@ module.exports = {
         ],
         "lat": 41.9831894847781,
         "lon": 35.1371208785255
-      },
-      {
-        "id": "tur-bozburun",
-        "iso": "TUR",
-        "label": "BOZBURUN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6620388908011,
-        "lon": 28.0448510666769
       },
       {
         "id": "tur-torosgubre",
@@ -59425,26 +53440,6 @@ module.exports = {
         ],
         "lat": 41.2910474606758,
         "lon": 28.9825104193034
-      },
-      {
-        "id": "tur-turkey",
-        "iso": "TUR",
-        "label": "TURKEY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.5090492034187,
-        "lon": 29.6977968361153
-      },
-      {
-        "id": "tur-chorage",
-        "iso": "TUR",
-        "label": "CHORAGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9613608035467,
-        "lon": 27.4806504655726
       },
       {
         "id": "tur-kilimli",
@@ -59597,26 +53592,6 @@ module.exports = {
         "lon": 29.0852913107782
       },
       {
-        "id": "ukr-kerch",
-        "iso": "UKR",
-        "label": "KERCH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.1297943429495,
-        "lon": 36.5202576924281
-      },
-      {
-        "id": "ukr-yuzhny",
-        "iso": "UKR",
-        "label": "YUZHNY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.5215104053879,
-        "lon": 31.0619936164985
-      },
-      {
         "id": "ukr-kavkaz",
         "iso": "UKR",
         "label": "KAVKAZ",
@@ -59627,16 +53602,6 @@ module.exports = {
         "lon": 36.5948149841608
       },
       {
-        "id": "ukr-mariupol",
-        "iso": "UKR",
-        "label": "MARIUPOL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.6551199571159,
-        "lon": 37.3180378948861
-      },
-      {
         "id": "ukr-blacksea",
         "iso": "UKR",
         "label": "BLACK SEA",
@@ -59645,16 +53610,6 @@ module.exports = {
         ],
         "lat": 45.6426991231774,
         "lon": 34.0639678784747
-      },
-      {
-        "id": "ukr-sevastopol",
-        "iso": "UKR",
-        "label": "SEVASTOPOL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.6374059515613,
-        "lon": 33.4935971700398
       },
       {
         "id": "ukr-samsun",
@@ -59677,16 +53632,6 @@ module.exports = {
         "lon": 31.294265054163
       },
       {
-        "id": "ukr-odessa",
-        "iso": "UKR",
-        "label": "ODESSA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.4621395494975,
-        "lon": 30.8994269952786
-      },
-      {
         "id": "ukr-azov",
         "iso": "UKR",
         "label": "AZOV",
@@ -59705,26 +53650,6 @@ module.exports = {
         ],
         "lat": 46.3724372268745,
         "lon": 31.1015519518707
-      },
-      {
-        "id": "ukr-yuzhnyy",
-        "iso": "UKR",
-        "label": "YUZHNYY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.5698413249766,
-        "lon": 31.042769874385
-      },
-      {
-        "id": "ukr-kherson",
-        "iso": "UKR",
-        "label": "KHERSON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.4122050065296,
-        "lon": 31.3259488494724
       },
       {
         "id": "ukr-toorder",
@@ -59807,16 +53732,6 @@ module.exports = {
         "lon": 31.1133384428022
       },
       {
-        "id": "ukr-feodosiya",
-        "iso": "UKR",
-        "label": "FEODOSIYA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.0395231879961,
-        "lon": 35.4083918051883
-      },
-      {
         "id": "ukr-izmail",
         "iso": "UKR",
         "label": "IZMAIL",
@@ -59857,26 +53772,6 @@ module.exports = {
         "lon": 30.5232638292886
       },
       {
-        "id": "ukr-mykolayiv",
-        "iso": "UKR",
-        "label": "MYKOLAYIV",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.909147275684,
-        "lon": 31.9266953545528
-      },
-      {
-        "id": "ukr-dneprobugsky",
-        "iso": "UKR",
-        "label": "DNEPROBUGSKY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.3380709433813,
-        "lon": 31.0964275734536
-      },
-      {
         "id": "ukr-oplkavkaz",
         "iso": "UKR",
         "label": "OPL KAVKAZ",
@@ -59905,16 +53800,6 @@ module.exports = {
         ],
         "lat": 45.1683576652296,
         "lon": 36.335137301922
-      },
-      {
-        "id": "ukr-illichivsk",
-        "iso": "UKR",
-        "label": "ILLICHIVSK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.2511115355239,
-        "lon": 30.730581532186
       },
       {
         "id": "ukr-uailk",
@@ -60007,26 +53892,6 @@ module.exports = {
         "lon": 33.469137370664
       },
       {
-        "id": "ukr-ochakiv",
-        "iso": "UKR",
-        "label": "OCHAKIV",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.6099313809432,
-        "lon": 31.5835194448539
-      },
-      {
-        "id": "ukr-chernomorsk",
-        "iso": "UKR",
-        "label": "CHERNOMORSK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.2286685666519,
-        "lon": 30.738807310901
-      },
-      {
         "id": "ukr-chornomorsk",
         "iso": "UKR",
         "label": "CHORNOMORSK",
@@ -60067,16 +53932,6 @@ module.exports = {
         "lon": 31.0253054518166
       },
       {
-        "id": "ukr-illichevsk",
-        "iso": "UKR",
-        "label": "ILLICHEVSK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.2397043988305,
-        "lon": 30.7259157366424
-      },
-      {
         "id": "ukr-kavkazkrymkavkaz",
         "iso": "UKR",
         "label": "KAVKAZ KRYM KAVKAZ",
@@ -60095,16 +53950,6 @@ module.exports = {
         ],
         "lat": 46.3338127009439,
         "lon": 31.0649093512061
-      },
-      {
-        "id": "ukr-odesa",
-        "iso": "UKR",
-        "label": "ODESA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.4179817771717,
-        "lon": 30.9639622065734
       },
       {
         "id": "ukr-oplodesa",
@@ -60237,16 +54082,6 @@ module.exports = {
         "lon": 31.0832974930708
       },
       {
-        "id": "bgr-burgas",
-        "iso": "BGR",
-        "label": "BURGAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.4732389591434,
-        "lon": 27.4948469856356
-      },
-      {
         "id": "bgr-balchik",
         "iso": "BGR",
         "label": "BALCHIK",
@@ -60255,16 +54090,6 @@ module.exports = {
         ],
         "lat": 43.3884769727084,
         "lon": 28.1730964258515
-      },
-      {
-        "id": "bgr-varna",
-        "iso": "BGR",
-        "label": "VARNA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.1437833637027,
-        "lon": 27.9652530030438
       },
       {
         "id": "bgr-nesebar",
@@ -60417,16 +54242,6 @@ module.exports = {
         "lon": -1.86234378569537
       },
       {
-        "id": "dza-bejaia",
-        "iso": "DZA",
-        "label": "BEJAIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7562815685643,
-        "lon": 5.09882422829637
-      },
-      {
         "id": "dza-oranalgeria",
         "iso": "DZA",
         "label": "ORAN ALGERIA",
@@ -60457,16 +54272,6 @@ module.exports = {
         "lon": 24.8300969365186
       },
       {
-        "id": "grc-weer",
-        "iso": "GRC",
-        "label": "WEER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.2571334373159,
-        "lon": 21.0055410338595
-      },
-      {
         "id": "grc-agiagalini",
         "iso": "GRC",
         "label": "AGIA GALINI",
@@ -60495,16 +54300,6 @@ module.exports = {
         ],
         "lat": 36.0978026614645,
         "lon": 28.0891648586328
-      },
-      {
-        "id": "grc-ftlauderdale",
-        "iso": "GRC",
-        "label": "FT LAUDERDALE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.0971691884773,
-        "lon": 28.0880540046497
       },
       {
         "id": "grc-palaiochora",
@@ -60547,16 +54342,6 @@ module.exports = {
         "lon": 14.3214769875375
       },
       {
-        "id": "hrv-malilosinj",
-        "iso": "HRV",
-        "label": "MALI LOSINJ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.5419905463429,
-        "lon": 14.4593459613164
-      },
-      {
         "id": "hrv-adockx00001",
         "iso": "HRV",
         "label": "ADOCKX00001",
@@ -60597,56 +54382,6 @@ module.exports = {
         "lon": 14.5597529663775
       },
       {
-        "id": "ita-chioggia",
-        "iso": "ITA",
-        "label": "CHIOGGIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.2413639568584,
-        "lon": 12.3781841374993
-      },
-      {
-        "id": "ita-venice",
-        "iso": "ITA",
-        "label": "VENICE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.3458410151531,
-        "lon": 12.4537872345989
-      },
-      {
-        "id": "ita-portomarghera",
-        "iso": "ITA",
-        "label": "PORTO MARGHERA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.344492378708,
-        "lon": 12.4161304504421
-      },
-      {
-        "id": "ita-ancona",
-        "iso": "ITA",
-        "label": "ANCONA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.6387719495917,
-        "lon": 13.4808036480494
-      },
-      {
-        "id": "ita-portonogaro",
-        "iso": "ITA",
-        "label": "PORTO NOGARO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.6467001138094,
-        "lon": 13.2972453609416
-      },
-      {
         "id": "ita-ravenna",
         "iso": "ITA",
         "label": "RAVENNA",
@@ -60655,26 +54390,6 @@ module.exports = {
         ],
         "lat": 44.5064524120114,
         "lon": 12.4623487307204
-      },
-      {
-        "id": "ita-muggia",
-        "iso": "ITA",
-        "label": "MUGGIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.6099879767394,
-        "lon": 13.7771491398418
-      },
-      {
-        "id": "ita-trieste",
-        "iso": "ITA",
-        "label": "TRIESTE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.6475914095427,
-        "lon": 13.7078261563761
       },
       {
         "id": "ita-falconara",
@@ -60687,16 +54402,6 @@ module.exports = {
         "lon": 13.4624215064653
       },
       {
-        "id": "ita-marghera",
-        "iso": "ITA",
-        "label": "MARGHERA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.3549899117292,
-        "lon": 12.4266607368711
-      },
-      {
         "id": "ita-aurisinacave",
         "iso": "ITA",
         "label": "AURISINA CAVE",
@@ -60705,16 +54410,6 @@ module.exports = {
         ],
         "lat": 45.7329158905609,
         "lon": 13.6366836407465
-      },
-      {
-        "id": "ita-venezia",
-        "iso": "ITA",
-        "label": "VENEZIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.3268246729418,
-        "lon": 12.4241303668108
       },
       {
         "id": "ita-portodimalamocco",
@@ -60755,26 +54450,6 @@ module.exports = {
         ],
         "lat": 45.7636132500376,
         "lon": 13.6313316215362
-      },
-      {
-        "id": "ita-portodicorsini",
-        "iso": "ITA",
-        "label": "PORTO DI CORSINI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.511967153737,
-        "lon": 12.3272102239144
-      },
-      {
-        "id": "ita-portodichioggia",
-        "iso": "ITA",
-        "label": "PORTO DI CHIOGGIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.2326787956363,
-        "lon": 12.299143947324
       },
       {
         "id": "ita-triesteitaly",
@@ -60857,16 +54532,6 @@ module.exports = {
         "lon": 13.660285338847
       },
       {
-        "id": "svn-koper",
-        "iso": "SVN",
-        "label": "KOPER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.5698459232326,
-        "lon": 13.7008131379921
-      },
-      {
         "id": "svn-izola",
         "iso": "SVN",
         "label": "IZOLA",
@@ -60897,16 +54562,6 @@ module.exports = {
         "lon": 13.6500346135588
       },
       {
-        "id": "svn-piran",
-        "iso": "SVN",
-        "label": "PIRAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.5205777415533,
-        "lon": 13.5724925374323
-      },
-      {
         "id": "are-mubarakoilfieid",
         "iso": "ARE",
         "label": "MUBARAK OIL FIEID",
@@ -60915,36 +54570,6 @@ module.exports = {
         ],
         "lat": 25.8404059252833,
         "lon": 55.184445393633
-      },
-      {
-        "id": "are-dubai",
-        "iso": "ARE",
-        "label": "DUBAI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.5456704399967,
-        "lon": 54.8891403439201
-      },
-      {
-        "id": "are-jebelali",
-        "iso": "ARE",
-        "label": "JEBEL ALI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.5419245742138,
-        "lon": 54.8702319736278
-      },
-      {
-        "id": "are-musaffah",
-        "iso": "ARE",
-        "label": "MUSAFFAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 24.3648963203674,
-        "lon": 54.4654136409251
       },
       {
         "id": "bhr-manama",
@@ -60975,16 +54600,6 @@ module.exports = {
         ],
         "lat": 26.1853121732441,
         "lon": 50.7482259228652
-      },
-      {
-        "id": "bhr-almanamah",
-        "iso": "BHR",
-        "label": "AL MANAMAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.2466304206151,
-        "lon": 50.6097361909083
       },
       {
         "id": "bhr-diyaralmuharraq",
@@ -61045,16 +54660,6 @@ module.exports = {
         ],
         "lat": 27.1011220210362,
         "lon": 56.0644222186012
-      },
-      {
-        "id": "irn-bandarabbas",
-        "iso": "IRN",
-        "label": "BANDAR ABBAS",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 27.0804267787276,
-        "lon": 56.2355125437293
       },
       {
         "id": "irn-babbas",
@@ -61167,16 +54772,6 @@ module.exports = {
         "lon": 50.83721371603
       },
       {
-        "id": "irn-bandar-elengeh",
-        "iso": "IRN",
-        "label": "BANDAR-E LENGEH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.5430951750969,
-        "lon": 54.8966876271949
-      },
-      {
         "id": "irn-basrah",
         "iso": "IRN",
         "label": "BASRAH",
@@ -61205,16 +54800,6 @@ module.exports = {
         ],
         "lat": 27.0581814704291,
         "lon": 56.2566664386943
-      },
-      {
-        "id": "irn-bikiran",
-        "iso": "IRN",
-        "label": "B I K IRAN",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 30.0217822662265,
-        "lon": 49.0749569992924
       },
       {
         "id": "irn-phase12a",
@@ -61337,16 +54922,6 @@ module.exports = {
         "lon": 50.3299633877383
       },
       {
-        "id": "irn-bik",
-        "iso": "IRN",
-        "label": "B I K",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 29.8662932662873,
-        "lon": 49.1940897333139
-      },
-      {
         "id": "irn-bandar-eganaveh",
         "iso": "IRN",
         "label": "BANDAR-E GANAVEH",
@@ -61385,16 +54960,6 @@ module.exports = {
         ],
         "lat": 29.6113379077433,
         "lon": 48.8797712041185
-      },
-      {
-        "id": "irn-southpars",
-        "iso": "IRN",
-        "label": "SOUTHPARS",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.8171248358788,
-        "lon": 52.1797077605814
       },
       {
         "id": "irn-persiangulf",
@@ -61647,16 +55212,6 @@ module.exports = {
         "lon": 52.154297124403
       },
       {
-        "id": "irn-bandarabbas",
-        "iso": "IRN",
-        "label": "BANDARABBAS",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 27.1447508832358,
-        "lon": 56.267578565595
-      },
-      {
         "id": "irn-fujairah",
         "iso": "IRN",
         "label": "FUJAIRAH",
@@ -61707,16 +55262,6 @@ module.exports = {
         "lon": 54.3071368352964
       },
       {
-        "id": "irn-babbas",
-        "iso": "IRN",
-        "label": "BABBAS",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 27.0638919850267,
-        "lon": 56.2344702881623
-      },
-      {
         "id": "irn-hamriyah",
         "iso": "IRN",
         "label": "HAMRIYAH",
@@ -61745,16 +55290,6 @@ module.exports = {
         ],
         "lat": 29.6868944242783,
         "lon": 48.6863823094282
-      },
-      {
-        "id": "irq-ummqasr",
-        "iso": "IRQ",
-        "label": "UMM QASR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 29.7124013410293,
-        "lon": 48.6245375468146
       },
       {
         "id": "irq-az",
@@ -62007,16 +55542,6 @@ module.exports = {
         "lon": 48.3643725651786
       },
       {
-        "id": "kwt-alkuwayt",
-        "iso": "KWT",
-        "label": "AL KUWAYT",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 29.3527605732598,
-        "lon": 47.9244833575642
-      },
-      {
         "id": "kwt-alahmadi",
         "iso": "KWT",
         "label": "AL AHMADI",
@@ -62237,16 +55762,6 @@ module.exports = {
         "lon": 56.6576149496191
       },
       {
-        "id": "omn-minaqabus",
-        "iso": "OMN",
-        "label": "MINA QABUS",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 23.6505555302941,
-        "lon": 58.5637009162806
-      },
-      {
         "id": "omn-soharoman",
         "iso": "OMN",
         "label": "SOHAR OMAN",
@@ -62447,16 +55962,6 @@ module.exports = {
         "lon": 52.4530581519187
       },
       {
-        "id": "qat-hamad",
-        "iso": "QAT",
-        "label": "HAMAD",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.1240754461774,
-        "lon": 51.6445500773365
-      },
-      {
         "id": "qat-alkhalijfield",
         "iso": "QAT",
         "label": "ALKHALIJ FIELD",
@@ -62465,16 +55970,6 @@ module.exports = {
         ],
         "lat": 26.015222342507,
         "lon": 52.6964242288853
-      },
-      {
-        "id": "qat-alkhalijfield",
-        "iso": "QAT",
-        "label": "AL KHALIJ FIELD",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.8888351068553,
-        "lon": 52.7278870414828
       },
       {
         "id": "qat-halulisland",
@@ -62675,16 +56170,6 @@ module.exports = {
         ],
         "lat": 26.5591293020224,
         "lon": 51.9474363253361
-      },
-      {
-        "id": "qat-raslaffan",
-        "iso": "QAT",
-        "label": "RASLAFFAN",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.8760658612385,
-        "lon": 51.6643805581235
       },
       {
         "id": "qat-northfieldasbf",
@@ -63065,26 +56550,6 @@ module.exports = {
         ],
         "lat": 27.2389616959309,
         "lon": 49.8477746575822
-      },
-      {
-        "id": "sau-rastanura",
-        "iso": "SAU",
-        "label": "RASTANURA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.6724615990658,
-        "lon": 50.2420866000616
-      },
-      {
-        "id": "sau-rastannurah",
-        "iso": "SAU",
-        "label": "RAS TANNURAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.8554721990807,
-        "lon": 50.2454467322208
       },
       {
         "id": "sau-rastanurah",
@@ -63567,16 +57032,6 @@ module.exports = {
         "lon": 50.5313646977904
       },
       {
-        "id": "sau-rastanurah",
-        "iso": "SAU",
-        "label": "RASTANURAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 27.1021510711488,
-        "lon": 50.2968908626442
-      },
-      {
         "id": "sau-abuali",
         "iso": "SAU",
         "label": "ABU ALI",
@@ -63655,16 +57110,6 @@ module.exports = {
         ],
         "lat": 26.8610568096232,
         "lon": 49.9067715890167
-      },
-      {
-        "id": "sau-rastanuraksa",
-        "iso": "SAU",
-        "label": "RAS TANURA KSA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.6200131162355,
-        "lon": 50.2526430159336
       },
       {
         "id": "sau-qtif96101",
@@ -63815,16 +57260,6 @@ module.exports = {
         ],
         "lat": 28.3039279763515,
         "lon": 48.971023143387
-      },
-      {
-        "id": "sau-abusafah",
-        "iso": "SAU",
-        "label": "ABUSAFAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.8890533986321,
-        "lon": 50.5420288022132
       },
       {
         "id": "sau-absf",
@@ -64067,16 +57502,6 @@ module.exports = {
         "lon": 50.2738855906099
       },
       {
-        "id": "sau-dammamrte8",
-        "iso": "SAU",
-        "label": "DAMMAM RTE 8",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.6107683416992,
-        "lon": 50.2729858990155
-      },
-      {
         "id": "sau-sfny13",
         "iso": "SAU",
         "label": "SFNY 13",
@@ -64187,16 +57612,6 @@ module.exports = {
         "lon": 49.4213186990125
       },
       {
-        "id": "mdg-andoany",
-        "iso": "MDG",
-        "label": "ANDOANY",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -13.4153225707515,
-        "lon": 48.2862894563215
-      },
-      {
         "id": "mdg-iharana",
         "iso": "MDG",
         "label": "IHARANA",
@@ -64237,16 +57652,6 @@ module.exports = {
         "lon": 40.480878204686
       },
       {
-        "id": "moz-beira",
-        "iso": "MOZ",
-        "label": "BEIRA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -19.9198157276696,
-        "lon": 35.05893964397
-      },
-      {
         "id": "moz-moma",
         "iso": "MOZ",
         "label": "MOMA",
@@ -64257,16 +57662,6 @@ module.exports = {
         "lon": 39.7231041217124
       },
       {
-        "id": "moz-nacala",
-        "iso": "MOZ",
-        "label": "NACALA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -14.3767649130225,
-        "lon": 40.7066487001218
-      },
-      {
         "id": "mus-portmathurin",
         "iso": "MUS",
         "label": "PORT MATHURIN",
@@ -64275,26 +57670,6 @@ module.exports = {
         ],
         "lat": -19.67964307542,
         "lon": 63.4200271088985
-      },
-      {
-        "id": "myt-longoni",
-        "iso": "MYT",
-        "label": "LONGONI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -12.71272711704,
-        "lon": 45.1599310525264
-      },
-      {
-        "id": "myt-bandraboua",
-        "iso": "MYT",
-        "label": "BANDRABOUA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -12.7098872852999,
-        "lon": 45.1572162752568
       },
       {
         "id": "som-muqdisho",
@@ -64337,26 +57712,6 @@ module.exports = {
         "lon": 55.8257952782249
       },
       {
-        "id": "syc-victoria",
-        "iso": "SYC",
-        "label": "VICTORIA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -4.58972183889628,
-        "lon": 55.4848059035673
-      },
-      {
-        "id": "tza-daressalaam",
-        "iso": "TZA",
-        "label": "DAR ES SALAAM",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -6.75267018812432,
-        "lon": 39.3384723513845
-      },
-      {
         "id": "tza-zanzibar",
         "iso": "TZA",
         "label": "ZANZIBAR",
@@ -64365,16 +57720,6 @@ module.exports = {
         ],
         "lat": -6.15177228936679,
         "lon": 39.19064100104
-      },
-      {
-        "id": "tza-tanga",
-        "iso": "TZA",
-        "label": "TANGA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -5.04225992323221,
-        "lon": 39.1461464831838
       },
       {
         "id": "tza-dar",
@@ -64435,16 +57780,6 @@ module.exports = {
         ],
         "lat": 11.6695253114001,
         "lon": 43.1095160104899
-      },
-      {
-        "id": "egy-suez",
-        "iso": "EGY",
-        "label": "SUEZ",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 29.8343112696759,
-        "lon": 32.552469951464
       },
       {
         "id": "egy-rasabuzanimah",
@@ -64597,16 +57932,6 @@ module.exports = {
         "lon": 34.3109734048536
       },
       {
-        "id": "egy-elturharbor",
-        "iso": "EGY",
-        "label": "EL TUR HARBOR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 28.2226378138589,
-        "lon": 33.6150918185077
-      },
-      {
         "id": "egy-rasgharibegypt",
         "iso": "EGY",
         "label": "RAS GHARIB EGYPT",
@@ -64707,16 +58032,6 @@ module.exports = {
         "lon": 39.4714975493751
       },
       {
-        "id": "sau-jeddah",
-        "iso": "SAU",
-        "label": "JEDDAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 21.369266209383,
-        "lon": 39.1296305175604
-      },
-      {
         "id": "sau-kingfahdport",
         "iso": "SAU",
         "label": "KING FAHD PORT",
@@ -64725,46 +58040,6 @@ module.exports = {
         ],
         "lat": 23.9441055682553,
         "lon": 38.2157586029022
-      },
-      {
-        "id": "sau-yanbu",
-        "iso": "SAU",
-        "label": "YANBU",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 23.9295434501908,
-        "lon": 38.2539158246725
-      },
-      {
-        "id": "sau-shoaiba",
-        "iso": "SAU",
-        "label": "SHOAIBA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 20.6174117466428,
-        "lon": 39.5493578954154
-      },
-      {
-        "id": "sau-jiddah",
-        "iso": "SAU",
-        "label": "JIDDAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 21.4724671431473,
-        "lon": 39.1586023172057
-      },
-      {
-        "id": "sau-jizan",
-        "iso": "SAU",
-        "label": "JIZAN",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 16.8531554602026,
-        "lon": 42.4748162785492
       },
       {
         "id": "sau-sajed",
@@ -64795,16 +58070,6 @@ module.exports = {
         ],
         "lat": 19.3286524803403,
         "lon": 37.3603910487285
-      },
-      {
-        "id": "sdn-portsudan",
-        "iso": "SDN",
-        "label": "PORT SUDAN",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 19.5772860386564,
-        "lon": 37.2835911142598
       },
       {
         "id": "sdn-sawakinharbor",
@@ -65047,16 +58312,6 @@ module.exports = {
         "lon": 130.359083311916
       },
       {
-        "id": "jpn-kudamatsu",
-        "iso": "JPN",
-        "label": "KUDAMATSU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9851563551518,
-        "lon": 131.841522197294
-      },
-      {
         "id": "jpn-jphanoff",
         "iso": "JPN",
         "label": "JP HAN OFF",
@@ -65127,36 +58382,6 @@ module.exports = {
         "lon": 131.06490042753
       },
       {
-        "id": "jpn-kakogawa",
-        "iso": "JPN",
-        "label": "KAKOGAWA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6940764629132,
-        "lon": 134.803601794791
-      },
-      {
-        "id": "jpn-higashi-harima",
-        "iso": "JPN",
-        "label": "HIGASHI-HARIMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.675397144828,
-        "lon": 134.801976284167
-      },
-      {
-        "id": "jpn-hibiko",
-        "iso": "JPN",
-        "label": "HIBI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.4450008040693,
-        "lon": 133.908043849944
-      },
-      {
         "id": "jpn-futtsu",
         "iso": "JPN",
         "label": "FUTTSU",
@@ -65165,26 +58390,6 @@ module.exports = {
         ],
         "lat": 35.3351590282593,
         "lon": 139.82716961322
-      },
-      {
-        "id": "jpn-hachinoheko",
-        "iso": "JPN",
-        "label": "HACHINOHE KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 40.5463728021099,
-        "lon": 141.536855611397
-      },
-      {
-        "id": "jpn-tonda",
-        "iso": "JPN",
-        "label": "TONDA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.0279494438862,
-        "lon": 131.758234964135
       },
       {
         "id": "jpn-jpkndoff",
@@ -65197,16 +58402,6 @@ module.exports = {
         "lon": 131.070245016152
       },
       {
-        "id": "jpn-hiroshima",
-        "iso": "JPN",
-        "label": "HIROSHIMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.3299152226043,
-        "lon": 132.463125052507
-      },
-      {
         "id": "jpn-otake",
         "iso": "JPN",
         "label": "OTAKE",
@@ -65215,16 +58410,6 @@ module.exports = {
         ],
         "lat": 34.2290803623075,
         "lon": 132.244678110043
-      },
-      {
-        "id": "jpn-kushiroko",
-        "iso": "JPN",
-        "label": "KUSHIRO KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.9702713149158,
-        "lon": 144.33132227138
       },
       {
         "id": "jpn-jpchb",
@@ -65277,36 +58462,6 @@ module.exports = {
         "lon": 133.125698233382
       },
       {
-        "id": "jpn-ishinomakiko",
-        "iso": "JPN",
-        "label": "ISHINOMAKI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.4091391048406,
-        "lon": 141.314133257663
-      },
-      {
-        "id": "jpn-jphij",
-        "iso": "JPN",
-        "label": "JP HIJ",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.3231970731961,
-        "lon": 132.408076024625
-      },
-      {
-        "id": "jpn-muturezimako",
-        "iso": "JPN",
-        "label": "MUTUREZIMA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9596349534588,
-        "lon": 130.885382966616
-      },
-      {
         "id": "jpn-oita",
         "iso": "JPN",
         "label": "OITA",
@@ -65315,26 +58470,6 @@ module.exports = {
         ],
         "lat": 33.25982779999,
         "lon": 131.639218728141
-      },
-      {
-        "id": "jpn-jptyom",
-        "iso": "JPN",
-        "label": "JP TYO M",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.6296517471568,
-        "lon": 139.802419273374
-      },
-      {
-        "id": "jpn-jpykkoff",
-        "iso": "JPN",
-        "label": "JP YKK OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9232593281326,
-        "lon": 136.696024131368
       },
       {
         "id": "jpn-jpknmoff",
@@ -65397,16 +58532,6 @@ module.exports = {
         "lon": 131.267985511323
       },
       {
-        "id": "jpn-ubeko",
-        "iso": "JPN",
-        "label": "UBE KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9105198422064,
-        "lon": 131.217756437575
-      },
-      {
         "id": "jpn-jpoip",
         "iso": "JPN",
         "label": "JP OIP",
@@ -65447,26 +58572,6 @@ module.exports = {
         "lon": 140.664841868839
       },
       {
-        "id": "jpn-miyako",
-        "iso": "JPN",
-        "label": "MIYAKO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 39.635292767113,
-        "lon": 141.988951694278
-      },
-      {
-        "id": "jpn-jpukb",
-        "iso": "JPN",
-        "label": "JP UKB",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6602226110385,
-        "lon": 135.264198120931
-      },
-      {
         "id": "jpn-jptxdoff",
         "iso": "JPN",
         "label": "JP TXD OFF",
@@ -65475,26 +58580,6 @@ module.exports = {
         ],
         "lat": 34.0139403404132,
         "lon": 131.72401207905
-      },
-      {
-        "id": "jpn-yokohama",
-        "iso": "JPN",
-        "label": "YOKOHAMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.4126143158249,
-        "lon": 139.696960251842
-      },
-      {
-        "id": "jpn-maizuruko",
-        "iso": "JPN",
-        "label": "MAIZURU KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.5070175758197,
-        "lon": 135.345786976943
       },
       {
         "id": "jpn-jpkuhoff",
@@ -65507,26 +58592,6 @@ module.exports = {
         "lon": 144.298269805436
       },
       {
-        "id": "jpn-miura",
-        "iso": "JPN",
-        "label": "MIURA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.1410404070699,
-        "lon": 139.612876904929
-      },
-      {
-        "id": "jpn-kamaishiko",
-        "iso": "JPN",
-        "label": "KAMAISHI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 39.2615629017205,
-        "lon": 141.907845091457
-      },
-      {
         "id": "jpn-jpaneoff",
         "iso": "JPN",
         "label": "JP ANE OFF",
@@ -65535,16 +58600,6 @@ module.exports = {
         ],
         "lat": 35.4961610703956,
         "lon": 139.943274347728
-      },
-      {
-        "id": "jpn-kawasaki",
-        "iso": "JPN",
-        "label": "KAWASAKI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.4695607240801,
-        "lon": 139.786690531223
       },
       {
         "id": "jpn-yatsushiroko",
@@ -65565,36 +58620,6 @@ module.exports = {
         ],
         "lat": 33.9358690772261,
         "lon": 131.055926906788
-      },
-      {
-        "id": "jpn-jpaxt",
-        "iso": "JPN",
-        "label": "JP AXT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 39.7772746878326,
-        "lon": 140.00460237444
-      },
-      {
-        "id": "jpn-jpfky",
-        "iso": "JPN",
-        "label": "JP FKY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.3865183042033,
-        "lon": 133.439882896819
-      },
-      {
-        "id": "jpn-osaka",
-        "iso": "JPN",
-        "label": "OSAKA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6425151227547,
-        "lon": 135.425680586353
       },
       {
         "id": "jpn-yaizu",
@@ -65635,16 +58660,6 @@ module.exports = {
         ],
         "lat": 34.2774674242187,
         "lon": 133.740520125982
-      },
-      {
-        "id": "jpn-jpngooff",
-        "iso": "JPN",
-        "label": "JP NGO OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9493803909074,
-        "lon": 136.732426748833
       },
       {
         "id": "jpn-aomoriko",
@@ -65717,26 +58732,6 @@ module.exports = {
         "lon": 130.488790056426
       },
       {
-        "id": "jpn-amagasaki",
-        "iso": "JPN",
-        "label": "AMAGASAKI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6869061433176,
-        "lon": 135.383895426625
-      },
-      {
-        "id": "jpn-sakaideko",
-        "iso": "JPN",
-        "label": "SAKAIDE KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.3450138423414,
-        "lon": 133.858229572221
-      },
-      {
         "id": "jpn-jpwakoff",
         "iso": "JPN",
         "label": "JP WAK OFF",
@@ -65767,16 +58762,6 @@ module.exports = {
         "lon": 139.993031815545
       },
       {
-        "id": "jpn-jpykk",
-        "iso": "JPN",
-        "label": "JP YKK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9286461781036,
-        "lon": 136.699524834772
-      },
-      {
         "id": "jpn-ag",
         "iso": "JPN",
         "label": "AG",
@@ -65785,16 +58770,6 @@ module.exports = {
         ],
         "lat": 35.9950105819942,
         "lon": 140.216401966149
-      },
-      {
-        "id": "jpn-bf",
-        "iso": "JPN",
-        "label": "BF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 36.4091595556424,
-        "lon": 140.613051372381
       },
       {
         "id": "jpn-jphic",
@@ -65835,16 +58810,6 @@ module.exports = {
         ],
         "lat": 31.4843550319004,
         "lon": 130.549726560082
-      },
-      {
-        "id": "jpn-chibako",
-        "iso": "JPN",
-        "label": "CHIBA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.5746023216303,
-        "lon": 140.059760215432
       },
       {
         "id": "jpn-jpmizd",
@@ -65927,26 +58892,6 @@ module.exports = {
         "lon": 139.063868257078
       },
       {
-        "id": "jpn-shimonoseki",
-        "iso": "JPN",
-        "label": "SHIMONOSEKI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9308876104619,
-        "lon": 130.908580704025
-      },
-      {
-        "id": "jpn-aven",
-        "iso": "JPN",
-        "label": "AVEN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 32.1696851115133,
-        "lon": 131.549692495129
-      },
-      {
         "id": "jpn-shimabara",
         "iso": "JPN",
         "label": "SHIMABARA",
@@ -65975,16 +58920,6 @@ module.exports = {
         ],
         "lat": 35.007515534388,
         "lon": 139.831561405034
-      },
-      {
-        "id": "jpn-jphrdoff",
-        "iso": "JPN",
-        "label": "JP HRD OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.3175832613494,
-        "lon": 129.548328071924
       },
       {
         "id": "jpn-tsukumiko",
@@ -66035,16 +58970,6 @@ module.exports = {
         ],
         "lat": 34.0058576379368,
         "lon": 133.535038903496
-      },
-      {
-        "id": "jpn-iwakuniko",
-        "iso": "JPN",
-        "label": "IWAKUNI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.1867231977373,
-        "lon": 132.262493384252
       },
       {
         "id": "jpn-jpsmj",
@@ -66117,16 +59042,6 @@ module.exports = {
         "lon": 130.376612509452
       },
       {
-        "id": "jpn-saikiko",
-        "iso": "JPN",
-        "label": "SAIKI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 32.9807995779107,
-        "lon": 131.933466828102
-      },
-      {
         "id": "jpn-jpaomoff",
         "iso": "JPN",
         "label": "JP AOM OFF",
@@ -66135,26 +59050,6 @@ module.exports = {
         ],
         "lat": 40.8906208916329,
         "lon": 140.763873512556
-      },
-      {
-        "id": "jpn-jpafg",
-        "iso": "JPN",
-        "label": "JP AFG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 39.8153685904356,
-        "lon": 139.951871752956
-      },
-      {
-        "id": "jpn-easternpartofniigata-ko",
-        "iso": "JPN",
-        "label": "EASTERN PART OF NIIGATA-KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.0089997069381,
-        "lon": 139.207722077146
       },
       {
         "id": "jpn-jposa",
@@ -66187,26 +59082,6 @@ module.exports = {
         "lon": 133.706829392425
       },
       {
-        "id": "jpn-nagoyako",
-        "iso": "JPN",
-        "label": "NAGOYA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0525373616487,
-        "lon": 136.860650718219
-      },
-      {
-        "id": "jpn-ashiya",
-        "iso": "JPN",
-        "label": "ASHIYA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.70305316594,
-        "lon": 135.287817009564
-      },
-      {
         "id": "jpn-kagoshimako",
         "iso": "JPN",
         "label": "KAGOSHIMA KO",
@@ -66225,26 +59100,6 @@ module.exports = {
         ],
         "lat": 33.9165347227658,
         "lon": 131.032814073582
-      },
-      {
-        "id": "jpn-tomakomaiko",
-        "iso": "JPN",
-        "label": "TOMAKOMAI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.6055296945874,
-        "lon": 141.625469121261
-      },
-      {
-        "id": "jpn-mojiko",
-        "iso": "JPN",
-        "label": "MOJI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9577437308643,
-        "lon": 130.980451571718
       },
       {
         "id": "jpn-jpmuroff",
@@ -66267,16 +59122,6 @@ module.exports = {
         "lon": 141.349403501859
       },
       {
-        "id": "jpn-kure",
-        "iso": "JPN",
-        "label": "KURE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.2251405593752,
-        "lon": 132.529342339386
-      },
-      {
         "id": "jpn-takuma",
         "iso": "JPN",
         "label": "TAKUMA",
@@ -66295,36 +59140,6 @@ module.exports = {
         ],
         "lat": 34.1724270332417,
         "lon": 133.002114175284
-      },
-      {
-        "id": "jpn-yokkaichi",
-        "iso": "JPN",
-        "label": "YOKKAICHI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9612307706049,
-        "lon": 136.662183747825
-      },
-      {
-        "id": "jpn-iyonadaseatrial",
-        "iso": "JPN",
-        "label": "IYONADA SEATRIAL",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.1636199851625,
-        "lon": 133.00436037157
-      },
-      {
-        "id": "jpn-sakai",
-        "iso": "JPN",
-        "label": "SAKAI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.5812114941492,
-        "lon": 135.406954635142
       },
       {
         "id": "jpn-jpmoji",
@@ -66377,16 +59192,6 @@ module.exports = {
         "lon": 139.97538366149
       },
       {
-        "id": "jpn-jptmk",
-        "iso": "JPN",
-        "label": "JP TMK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.57618640959,
-        "lon": 141.6821544488
-      },
-      {
         "id": "jpn-tomakomai",
         "iso": "JPN",
         "label": "TOMAKOMAI",
@@ -66405,16 +59210,6 @@ module.exports = {
         ],
         "lat": 38.2332203570029,
         "lon": 141.12011287698
-      },
-      {
-        "id": "jpn-jpukboff",
-        "iso": "JPN",
-        "label": "JP UKB OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6329767545606,
-        "lon": 135.243362483313
       },
       {
         "id": "jpn-jpftx",
@@ -66457,26 +59252,6 @@ module.exports = {
         "lon": 131.267417495527
       },
       {
-        "id": "jpn-jpkujoff",
-        "iso": "JPN",
-        "label": "JP KUJ OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.4711930514425,
-        "lon": 135.784904062473
-      },
-      {
-        "id": "jpn-etajima",
-        "iso": "JPN",
-        "label": "ETAJIMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.2368591029467,
-        "lon": 132.501155490519
-      },
-      {
         "id": "jpn-jpths",
         "iso": "JPN",
         "label": "JP THS",
@@ -66495,26 +59270,6 @@ module.exports = {
         ],
         "lat": 33.3314096258895,
         "lon": 129.823397232957
-      },
-      {
-        "id": "jpn-fukuyama",
-        "iso": "JPN",
-        "label": "FUKUYAMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.4104883498091,
-        "lon": 133.447402943553
-      },
-      {
-        "id": "jpn-jpfkyoff",
-        "iso": "JPN",
-        "label": "JP FKY OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.4129481020923,
-        "lon": 133.471730542827
       },
       {
         "id": "jpn-jpknmc",
@@ -66557,16 +59312,6 @@ module.exports = {
         "lon": 131.08868842881
       },
       {
-        "id": "jpn-takasago",
-        "iso": "JPN",
-        "label": "TAKASAGO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.7239310494191,
-        "lon": 134.776469496779
-      },
-      {
         "id": "jpn-jpknmcoff",
         "iso": "JPN",
         "label": "JP KNM C OFF",
@@ -66575,16 +59320,6 @@ module.exports = {
         ],
         "lat": 33.9748568402895,
         "lon": 131.049735129345
-      },
-      {
-        "id": "jpn-sakatako",
-        "iso": "JPN",
-        "label": "SAKATA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.9516868330312,
-        "lon": 139.804634688267
       },
       {
         "id": "jpn-takahama",
@@ -66605,16 +59340,6 @@ module.exports = {
         ],
         "lat": 37.0929415341036,
         "lon": 136.978117867699
-      },
-      {
-        "id": "jpn-chiba",
-        "iso": "JPN",
-        "label": "CHIBA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.5334339042816,
-        "lon": 139.955580564453
       },
       {
         "id": "jpn-jpotkoff",
@@ -66737,16 +59462,6 @@ module.exports = {
         "lon": 132.415274018078
       },
       {
-        "id": "jpn-hikari",
-        "iso": "JPN",
-        "label": "HIKARI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9475134976853,
-        "lon": 131.9162921926
-      },
-      {
         "id": "jpn-takamatsu",
         "iso": "JPN",
         "label": "TAKAMATSU",
@@ -66817,36 +59532,6 @@ module.exports = {
         "lon": 134.584688604484
       },
       {
-        "id": "jpn-mizushimako",
-        "iso": "JPN",
-        "label": "MIZUSHIMA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.4882819404762,
-        "lon": 133.740057110203
-      },
-      {
-        "id": "jpn-shimizu",
-        "iso": "JPN",
-        "label": "SHIMIZU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0236621417664,
-        "lon": 138.510571776269
-      },
-      {
-        "id": "jpn-karatsu",
-        "iso": "JPN",
-        "label": "KARATSU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.4922675742972,
-        "lon": 129.96141846384
-      },
-      {
         "id": "jpn-oikawa",
         "iso": "JPN",
         "label": "OIKAWA",
@@ -66855,16 +59540,6 @@ module.exports = {
         ],
         "lat": 34.7751161493397,
         "lon": 138.308407803679
-      },
-      {
-        "id": "jpn-jpusk",
-        "iso": "JPN",
-        "label": "JP USK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.1636609894817,
-        "lon": 131.842537070531
       },
       {
         "id": "jpn-jpuskoff",
@@ -66895,46 +59570,6 @@ module.exports = {
         ],
         "lat": 41.6336639389285,
         "lon": 140.502431164421
-      },
-      {
-        "id": "jpn-unoko",
-        "iso": "JPN",
-        "label": "UNO KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.4752930753313,
-        "lon": 133.9702428976
-      },
-      {
-        "id": "jpn-jpsigoff",
-        "iso": "JPN",
-        "label": "JP SIG OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.3151641028134,
-        "lon": 133.225323453357
-      },
-      {
-        "id": "jpn-sasebo",
-        "iso": "JPN",
-        "label": "SASEBO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.1614000295213,
-        "lon": 129.699649608496
-      },
-      {
-        "id": "jpn-wakayama-shimotsuko",
-        "iso": "JPN",
-        "label": "WAKAYAMA-SHIMOTSU KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.2051300620761,
-        "lon": 135.119461060516
       },
       {
         "id": "jpn-jpondoff",
@@ -66995,16 +59630,6 @@ module.exports = {
         ],
         "lat": 33.3538320776308,
         "lon": 129.797260401271
-      },
-      {
-        "id": "jpn-yokosuka",
-        "iso": "JPN",
-        "label": "YOKOSUKA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.3218120463122,
-        "lon": 139.675048257171
       },
       {
         "id": "jpn-jpmii",
@@ -67087,16 +59712,6 @@ module.exports = {
         "lon": 131.017354217861
       },
       {
-        "id": "jpn-sendai-shiogama",
-        "iso": "JPN",
-        "label": "SENDAI-SHIOGAMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.3199562573339,
-        "lon": 141.043111191363
-      },
-      {
         "id": "jpn-fukuiko",
         "iso": "JPN",
         "label": "FUKUI KO",
@@ -67177,16 +59792,6 @@ module.exports = {
         "lon": 131.128820693684
       },
       {
-        "id": "jpn-jpakadomarioff",
-        "iso": "JPN",
-        "label": "JP AKADOMARI OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.85768694302,
-        "lon": 138.432209972485
-      },
-      {
         "id": "jpn-jptyol",
         "iso": "JPN",
         "label": "JP TYO L",
@@ -67225,26 +59830,6 @@ module.exports = {
         ],
         "lat": 37.1037451356029,
         "lon": 137.025626871068
-      },
-      {
-        "id": "jpn-niihama",
-        "iso": "JPN",
-        "label": "NIIHAMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9919679302473,
-        "lon": 133.265514362023
-      },
-      {
-        "id": "jpn-tobata",
-        "iso": "JPN",
-        "label": "TOBATA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9209576749817,
-        "lon": 130.811020233208
       },
       {
         "id": "jpn-hagiko",
@@ -67337,16 +59922,6 @@ module.exports = {
         "lon": 135.352728658456
       },
       {
-        "id": "jpn-tokuyama",
-        "iso": "JPN",
-        "label": "TOKUYAMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.0292516763562,
-        "lon": 131.793330129563
-      },
-      {
         "id": "jpn-jpamxoff",
         "iso": "JPN",
         "label": "JP AMX OFF",
@@ -67355,16 +59930,6 @@ module.exports = {
         ],
         "lat": 34.6575640789449,
         "lon": 135.341894715532
-      },
-      {
-        "id": "jpn-tagajo-shi",
-        "iso": "JPN",
-        "label": "TAGAJO-SHI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.2731702424387,
-        "lon": 141.020826574488
       },
       {
         "id": "jpn-jpsgm",
@@ -67397,16 +59962,6 @@ module.exports = {
         "lon": 136.063634996663
       },
       {
-        "id": "jpn-shikama",
-        "iso": "JPN",
-        "label": "SHIKAMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.7602775999093,
-        "lon": 134.655997492351
-      },
-      {
         "id": "jpn-hibikinada",
         "iso": "JPN",
         "label": "HIBIKINADA",
@@ -67437,16 +59992,6 @@ module.exports = {
         "lon": 131.558756402587
       },
       {
-        "id": "jpn-kainan",
-        "iso": "JPN",
-        "label": "KAINAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.1565361491477,
-        "lon": 135.176935098546
-      },
-      {
         "id": "jpn-jpmiioff",
         "iso": "JPN",
         "label": "JP MII OFF",
@@ -67467,16 +60012,6 @@ module.exports = {
         "lon": 134.316235327431
       },
       {
-        "id": "jpn-shibushiwan",
-        "iso": "JPN",
-        "label": "SHIBUSHI WAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 31.4484081400017,
-        "lon": 131.100178561513
-      },
-      {
         "id": "jpn-jpsbk",
         "iso": "JPN",
         "label": "JP SBK",
@@ -67487,16 +60022,6 @@ module.exports = {
         "lon": 135.35367891675
       },
       {
-        "id": "jpn-jpmiz",
-        "iso": "JPN",
-        "label": "JP MIZ",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.5604587443597,
-        "lon": 134.959847503653
-      },
-      {
         "id": "jpn-ito",
         "iso": "JPN",
         "label": "ITO",
@@ -67505,16 +60030,6 @@ module.exports = {
         ],
         "lat": 34.9821026432589,
         "lon": 139.104239068417
-      },
-      {
-        "id": "jpn-kobe",
-        "iso": "JPN",
-        "label": "KOBE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6409784906871,
-        "lon": 135.185789350196
       },
       {
         "id": "jpn-krptk",
@@ -67657,16 +60172,6 @@ module.exports = {
         "lon": 135.253407402772
       },
       {
-        "id": "jpn-onahamako",
-        "iso": "JPN",
-        "label": "ONAHAMA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 36.9113926259767,
-        "lon": 140.888209746207
-      },
-      {
         "id": "jpn-atsumi",
         "iso": "JPN",
         "label": "ATSUMI",
@@ -67687,16 +60192,6 @@ module.exports = {
         "lon": 139.962646988367
       },
       {
-        "id": "jpn-hitachi",
-        "iso": "JPN",
-        "label": "HITACHI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 36.4866630241596,
-        "lon": 140.623733278629
-      },
-      {
         "id": "jpn-oitako",
         "iso": "JPN",
         "label": "OITA KO",
@@ -67715,26 +60210,6 @@ module.exports = {
         ],
         "lat": 34.0139339603805,
         "lon": 134.608232697684
-      },
-      {
-        "id": "jpn-kokurako",
-        "iso": "JPN",
-        "label": "KOKURA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9016602132071,
-        "lon": 130.880009134801
-      },
-      {
-        "id": "jpn-yura",
-        "iso": "JPN",
-        "label": "YURA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9448343389176,
-        "lon": 135.079804779824
       },
       {
         "id": "jpn-jpkneoff",
@@ -67807,36 +60282,6 @@ module.exports = {
         "lon": 133.23609329635
       },
       {
-        "id": "jpn-gamagoriko",
-        "iso": "JPN",
-        "label": "GAMAGORI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.8029210759716,
-        "lon": 137.213936098396
-      },
-      {
-        "id": "jpn-jpwak",
-        "iso": "JPN",
-        "label": "JP WAK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.1882165762741,
-        "lon": 135.097232068072
-      },
-      {
-        "id": "jpn-namikata",
-        "iso": "JPN",
-        "label": "NAMIKATA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.0994878064192,
-        "lon": 132.897334028072
-      },
-      {
         "id": "jpn-imabariko",
         "iso": "JPN",
         "label": "IMABARI KO",
@@ -67847,16 +60292,6 @@ module.exports = {
         "lon": 133.023225700773
       },
       {
-        "id": "jpn-kashimako",
-        "iso": "JPN",
-        "label": "KASHIMA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.9440664884037,
-        "lon": 140.698218767257
-      },
-      {
         "id": "jpn-jpmoj",
         "iso": "JPN",
         "label": "JP MOJ",
@@ -67865,16 +60300,6 @@ module.exports = {
         ],
         "lat": 33.9119656648543,
         "lon": 131.06378967777
-      },
-      {
-        "id": "jpn-habuko",
-        "iso": "JPN",
-        "label": "HABU KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.2725529341314,
-        "lon": 133.195003774484
       },
       {
         "id": "jpn-jptyo",
@@ -67925,16 +60350,6 @@ module.exports = {
         ],
         "lat": 36.7990367179585,
         "lon": 137.065343554295
-      },
-      {
-        "id": "jpn-nagasaki",
-        "iso": "JPN",
-        "label": "NAGASAKI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 32.7022574128785,
-        "lon": 129.836278967394
       },
       {
         "id": "jpn-saijo",
@@ -68037,16 +60452,6 @@ module.exports = {
         "lon": 134.691836728077
       },
       {
-        "id": "jpn-kashiwazaki",
-        "iso": "JPN",
-        "label": "KASHIWAZAKI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.3665594970098,
-        "lon": 138.533042942665
-      },
-      {
         "id": "jpn-jpknm",
         "iso": "JPN",
         "label": "JP KNM",
@@ -68107,16 +60512,6 @@ module.exports = {
         "lon": 133.151882659564
       },
       {
-        "id": "jpn-mitsukojima",
-        "iso": "JPN",
-        "label": "MITSUKOJIMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.2027003980692,
-        "lon": 132.507365020831
-      },
-      {
         "id": "jpn-jpknmnoff",
         "iso": "JPN",
         "label": "JP KNM N OFF",
@@ -68157,16 +60552,6 @@ module.exports = {
         "lon": 135.143416531967
       },
       {
-        "id": "jpn-jpmizts",
-        "iso": "JPN",
-        "label": "JP MIZ TS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.5062556389358,
-        "lon": 133.677316804107
-      },
-      {
         "id": "jpn-otaruko",
         "iso": "JPN",
         "label": "OTARU KO",
@@ -68175,16 +60560,6 @@ module.exports = {
         ],
         "lat": 43.2058809170934,
         "lon": 141.031945649194
-      },
-      {
-        "id": "jpn-hososhimako",
-        "iso": "JPN",
-        "label": "HOSOSHIMA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 32.4371654307989,
-        "lon": 131.701722661449
       },
       {
         "id": "jpn-shimotsu",
@@ -68267,26 +60642,6 @@ module.exports = {
         "lon": 133.306654799153
       },
       {
-        "id": "jpn-jpmaioff",
-        "iso": "JPN",
-        "label": "JP MAI OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.4898248815186,
-        "lon": 135.388201215027
-      },
-      {
-        "id": "jpn-kanazawa",
-        "iso": "JPN",
-        "label": "KANAZAWA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 36.6263004809763,
-        "lon": 136.596826171637
-      },
-      {
         "id": "jpn-jpthsoff",
         "iso": "JPN",
         "label": "JP THS OFF",
@@ -68345,16 +60700,6 @@ module.exports = {
         ],
         "lat": 32.4694120970781,
         "lon": 130.490987030277
-      },
-      {
-        "id": "jpn-jpkkmoff",
-        "iso": "JPN",
-        "label": "JP KKM OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6724320395334,
-        "lon": 134.306669227791
       },
       {
         "id": "jpn-jphirono",
@@ -68417,16 +60762,6 @@ module.exports = {
         "lon": 133.296512166664
       },
       {
-        "id": "jpn-jptsuneishi",
-        "iso": "JPN",
-        "label": "JP TSUNEISHI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.3702911830715,
-        "lon": 133.280655033987
-      },
-      {
         "id": "jpn-jpsyzoff",
         "iso": "JPN",
         "label": "JP SYZ OFF",
@@ -68435,36 +60770,6 @@ module.exports = {
         ],
         "lat": 41.4158954566748,
         "lon": 141.409978311279
-      },
-      {
-        "id": "jpn-jpsmn",
-        "iso": "JPN",
-        "label": "JP SMN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.5384356584439,
-        "lon": 133.316079182274
-      },
-      {
-        "id": "jpn-usuki",
-        "iso": "JPN",
-        "label": "USUKI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.1235135728882,
-        "lon": 131.812104717775
-      },
-      {
-        "id": "jpn-fukura",
-        "iso": "JPN",
-        "label": "FUKURA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.2344598939061,
-        "lon": 134.697894864035
       },
       {
         "id": "jpn-fushiki-toyama",
@@ -68537,16 +60842,6 @@ module.exports = {
         "lon": 136.824228154391
       },
       {
-        "id": "jpn-matsuyama",
-        "iso": "JPN",
-        "label": "MATSUYAMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.8554606867143,
-        "lon": 132.681123040388
-      },
-      {
         "id": "jpn-jpttj",
         "iso": "JPN",
         "label": "JP TTJ",
@@ -68607,16 +60902,6 @@ module.exports = {
         "lon": 133.292757781652
       },
       {
-        "id": "jpn-katsunanko",
-        "iso": "JPN",
-        "label": "KATSUNAN KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.662458372305,
-        "lon": 139.994686255291
-      },
-      {
         "id": "jpn-jposa4s",
         "iso": "JPN",
         "label": "JP OSA 4S",
@@ -68625,16 +60910,6 @@ module.exports = {
         ],
         "lat": 34.6134286478495,
         "lon": 135.425722216714
-      },
-      {
-        "id": "jpn-hirohata",
-        "iso": "JPN",
-        "label": "HIROHATA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.7618324937057,
-        "lon": 134.628158327953
       },
       {
         "id": "jpn-jpoharawan",
@@ -68727,16 +61002,6 @@ module.exports = {
         "lon": 136.852258498123
       },
       {
-        "id": "jpn-wakamatsuko",
-        "iso": "JPN",
-        "label": "WAKAMATSU KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.9058958920014,
-        "lon": 130.851363965898
-      },
-      {
         "id": "jpn-kagoshima",
         "iso": "JPN",
         "label": "KAGOSHIMA",
@@ -68777,36 +61042,6 @@ module.exports = {
         "lon": 135.117790473002
       },
       {
-        "id": "jpn-kikumako",
-        "iso": "JPN",
-        "label": "KIKUMA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.0515560700411,
-        "lon": 132.841769586036
-      },
-      {
-        "id": "jpn-isewan",
-        "iso": "JPN",
-        "label": "ISEWAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.5849113111692,
-        "lon": 137.021311123759
-      },
-      {
-        "id": "jpn-ibusuki",
-        "iso": "JPN",
-        "label": "IBUSUKI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 31.2046932492646,
-        "lon": 130.645178563402
-      },
-      {
         "id": "jpn-oga",
         "iso": "JPN",
         "label": "OGA",
@@ -68845,16 +61080,6 @@ module.exports = {
         ],
         "lat": 34.7238071109004,
         "lon": 134.47699551011
-      },
-      {
-        "id": "jpn-nagato",
-        "iso": "JPN",
-        "label": "NAGATO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.3917918374815,
-        "lon": 131.218640629479
       },
       {
         "id": "jpn-jpmutsureoff",
@@ -68915,16 +61140,6 @@ module.exports = {
         ],
         "lat": 33.5963416875765,
         "lon": 130.325419673843
-      },
-      {
-        "id": "jpn-kochiko",
-        "iso": "JPN",
-        "label": "KOCHI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 33.4774134112734,
-        "lon": 133.582180393727
       },
       {
         "id": "jpn-jpubjeoff",
@@ -69017,16 +61232,6 @@ module.exports = {
         "lon": 134.002297230385
       },
       {
-        "id": "jpn-jpokpoff",
-        "iso": "JPN",
-        "label": "JP OKP OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.5618066005129,
-        "lon": 134.062716501859
-      },
-      {
         "id": "jpn-jpngow4",
         "iso": "JPN",
         "label": "JP NGO W4",
@@ -69045,16 +61250,6 @@ module.exports = {
         ],
         "lat": 31.4442632470024,
         "lon": 130.535166563038
-      },
-      {
-        "id": "jpn-jpidaoff",
-        "iso": "JPN",
-        "label": "JP IDA OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.3724626302714,
-        "lon": 137.272558394155
       },
       {
         "id": "jpn-jptyor",
@@ -69097,16 +61292,6 @@ module.exports = {
         "lon": 135.407319724054
       },
       {
-        "id": "jpn-maizuru",
-        "iso": "JPN",
-        "label": "MAIZURU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.4712871062186,
-        "lon": 135.329933157179
-      },
-      {
         "id": "jpn-jptapoff",
         "iso": "JPN",
         "label": "JP TAP OFF",
@@ -69125,16 +61310,6 @@ module.exports = {
         ],
         "lat": 34.3972416826164,
         "lon": 133.243781979315
-      },
-      {
-        "id": "jpn-uragako",
-        "iso": "JPN",
-        "label": "URAGA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.221583647357,
-        "lon": 139.718233274824
       },
       {
         "id": "jpn-aoff",
@@ -69227,16 +61402,6 @@ module.exports = {
         "lon": 133.147960408657
       },
       {
-        "id": "jpn-jpukb",
-        "iso": "JPN",
-        "label": "JPUKB",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6487712112295,
-        "lon": 135.291202236152
-      },
-      {
         "id": "jpn-jpkwsoff",
         "iso": "JPN",
         "label": "JP KWS OFF",
@@ -69255,16 +61420,6 @@ module.exports = {
         ],
         "lat": 33.9401591912388,
         "lon": 133.123006707354
-      },
-      {
-        "id": "jpn-akita",
-        "iso": "JPN",
-        "label": "AKITA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 39.7852257680108,
-        "lon": 139.967238323171
       },
       {
         "id": "jpn-ask",
@@ -69315,16 +61470,6 @@ module.exports = {
         ],
         "lat": 34.4673782330575,
         "lon": 133.717649875132
-      },
-      {
-        "id": "jpn-bgang",
-        "iso": "JPN",
-        "label": "BGANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.3706253389591,
-        "lon": 133.271836938724
       },
       {
         "id": "jpn-wakayama",
@@ -69437,16 +61582,6 @@ module.exports = {
         "lon": 132.311811646986
       },
       {
-        "id": "jpn-tokushima",
-        "iso": "JPN",
-        "label": "TOKUSHIMA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.054295335915,
-        "lon": 134.593086956928
-      },
-      {
         "id": "jpn-jptxd",
         "iso": "JPN",
         "label": "JP TXD",
@@ -69505,16 +61640,6 @@ module.exports = {
         ],
         "lat": 33.6256371094666,
         "lon": 132.500139750965
-      },
-      {
-        "id": "jpn-jpkreoff",
-        "iso": "JPN",
-        "label": "JP KRE OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.1934185281694,
-        "lon": 132.607263174491
       },
       {
         "id": "jpn-akoff",
@@ -70047,16 +62172,6 @@ module.exports = {
         "lon": 131.007007800298
       },
       {
-        "id": "jpn-hiroo",
-        "iso": "JPN",
-        "label": "HIROO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.2993615937623,
-        "lon": 143.335574944311
-      },
-      {
         "id": "jpn-jpsmboffws",
         "iso": "JPN",
         "label": "JP SMB OFF WS",
@@ -70207,16 +62322,6 @@ module.exports = {
         "lon": 126.576953897587
       },
       {
-        "id": "kor-mokpo",
-        "iso": "KOR",
-        "label": "MOKPO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.7731677577767,
-        "lon": 126.365747653464
-      },
-      {
         "id": "kor-krmokpo",
         "iso": "KOR",
         "label": "KR MOKPO",
@@ -70235,26 +62340,6 @@ module.exports = {
         ],
         "lat": 34.723047951368,
         "lon": 127.822859434003
-      },
-      {
-        "id": "kor-yosu",
-        "iso": "KOR",
-        "label": "YOSU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6933021080201,
-        "lon": 127.864079644522
-      },
-      {
-        "id": "kor-pusan",
-        "iso": "KOR",
-        "label": "PUSAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0538367764481,
-        "lon": 128.751270647027
       },
       {
         "id": "kor-ai",
@@ -70277,16 +62362,6 @@ module.exports = {
         "lon": 129.281524594212
       },
       {
-        "id": "kor-pohang",
-        "iso": "KOR",
-        "label": "POHANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 36.0936807970111,
-        "lon": 129.447117141648
-      },
-      {
         "id": "kor-bitungindonesia",
         "iso": "KOR",
         "label": "BITUNG INDONESIA",
@@ -70295,16 +62370,6 @@ module.exports = {
         ],
         "lat": 34.7310692467727,
         "lon": 126.379374358431
-      },
-      {
-        "id": "kor-ulsan",
-        "iso": "KOR",
-        "label": "ULSAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.4096477902859,
-        "lon": 129.411881678439
       },
       {
         "id": "kor-ce",
@@ -70317,16 +62382,6 @@ module.exports = {
         "lon": 126.498646264374
       },
       {
-        "id": "kor-bf",
-        "iso": "KOR",
-        "label": "BF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.2456635320065,
-        "lon": 126.495281239091
-      },
-      {
         "id": "kor-amen",
         "iso": "KOR",
         "label": "AMEN",
@@ -70335,26 +62390,6 @@ module.exports = {
         ],
         "lat": 37.2467478445934,
         "lon": 126.497720420048
-      },
-      {
-        "id": "kor-daesan",
-        "iso": "KOR",
-        "label": "DAESAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.0425615006075,
-        "lon": 126.234061841579
-      },
-      {
-        "id": "kor-busan",
-        "iso": "KOR",
-        "label": "BUSAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9855525385367,
-        "lon": 128.890715625707
       },
       {
         "id": "kor-cgang",
@@ -70487,36 +62522,6 @@ module.exports = {
         "lon": 128.173251627745
       },
       {
-        "id": "kor-yeosu",
-        "iso": "KOR",
-        "label": "YEOSU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.7753613694471,
-        "lon": 127.754947025127
-      },
-      {
-        "id": "kor-krkuv",
-        "iso": "KOR",
-        "label": "KR KUV",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.7864650713281,
-        "lon": 126.827044466684
-      },
-      {
-        "id": "kor-donghae",
-        "iso": "KOR",
-        "label": "DONGHAE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.8626318487704,
-        "lon": 127.730200504474
-      },
-      {
         "id": "kor-uldo-ri",
         "iso": "KOR",
         "label": "ULDO-RI",
@@ -70535,16 +62540,6 @@ module.exports = {
         ],
         "lat": 37.5478973406901,
         "lon": 129.113177116744
-      },
-      {
-        "id": "kor-anchorage",
-        "iso": "KOR",
-        "label": "ANCHORAGE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.8474970286081,
-        "lon": 127.987316282367
       },
       {
         "id": "kor-hosan",
@@ -70597,46 +62592,6 @@ module.exports = {
         "lon": 126.403856751664
       },
       {
-        "id": "kor-krpus",
-        "iso": "KOR",
-        "label": "KRPUS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0504375133394,
-        "lon": 126.188785475202
-      },
-      {
-        "id": "kor-masan",
-        "iso": "KOR",
-        "label": "MASAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9938308354596,
-        "lon": 128.716853325881
-      },
-      {
-        "id": "kor-aa",
-        "iso": "KOR",
-        "label": "AA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.2224841146328,
-        "lon": 128.082428758699
-      },
-      {
-        "id": "kor-krpus",
-        "iso": "KOR",
-        "label": "KR PUS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9626033730491,
-        "lon": 128.373686641004
-      },
-      {
         "id": "kor-gwangyang",
         "iso": "KOR",
         "label": "GWANGYANG",
@@ -70687,16 +62642,6 @@ module.exports = {
         "lon": 128.77032446514
       },
       {
-        "id": "kor-daesan",
-        "iso": "KOR",
-        "label": "DAE SAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.0327497576835,
-        "lon": 126.319914577586
-      },
-      {
         "id": "kor-jinhaeman",
         "iso": "KOR",
         "label": "JINHAEMAN",
@@ -70707,16 +62652,6 @@ module.exports = {
         "lon": 128.587825077008
       },
       {
-        "id": "kor-gunsan",
-        "iso": "KOR",
-        "label": "GUNSAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.9757933353742,
-        "lon": 126.599469768287
-      },
-      {
         "id": "kor-cu",
         "iso": "KOR",
         "label": "CU",
@@ -70725,16 +62660,6 @@ module.exports = {
         ],
         "lat": 36.5221167671319,
         "lon": 126.541386212906
-      },
-      {
-        "id": "kor-dangjin",
-        "iso": "KOR",
-        "label": "DANGJIN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.0453907072706,
-        "lon": 126.341802527583
       },
       {
         "id": "kor-krmasan",
@@ -70797,16 +62722,6 @@ module.exports = {
         "lon": 128.622278586415
       },
       {
-        "id": "kor-arne",
-        "iso": "KOR",
-        "label": "ARNE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.994423177158,
-        "lon": 128.62237230648
-      },
-      {
         "id": "kor-krgeoje",
         "iso": "KOR",
         "label": "KR GEOJE",
@@ -70835,16 +62750,6 @@ module.exports = {
         ],
         "lat": 37.5601538205206,
         "lon": 126.580009409424
-      },
-      {
-        "id": "kor-moppo",
-        "iso": "KOR",
-        "label": "MOPPO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.8218633843066,
-        "lon": 126.373371272966
       },
       {
         "id": "kor-pyeongtaekkr",
@@ -70967,16 +62872,6 @@ module.exports = {
         "lon": 127.715917883987
       },
       {
-        "id": "kor-gohyeonkorea",
-        "iso": "KOR",
-        "label": "GOHYEON KOREA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9267833751982,
-        "lon": 128.598143936258
-      },
-      {
         "id": "kor-bdockx00005",
         "iso": "KOR",
         "label": "BDOCKX00005",
@@ -71065,26 +62960,6 @@ module.exports = {
         ],
         "lat": 34.8342163272018,
         "lon": 128.424313802757
-      },
-      {
-        "id": "kor-krkan",
-        "iso": "KOR",
-        "label": "KRKAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.1660539830329,
-        "lon": 127.431076305917
-      },
-      {
-        "id": "kor-tongyeong",
-        "iso": "KOR",
-        "label": "TONGYEONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.8358759529653,
-        "lon": 128.442018403734
       },
       {
         "id": "kor-krpor",
@@ -71207,16 +63082,6 @@ module.exports = {
         "lon": 128.031188465979
       },
       {
-        "id": "kor-jeongwang-dong",
-        "iso": "KOR",
-        "label": "JEONGWANG-DONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.3787124129833,
-        "lon": 126.721027559206
-      },
-      {
         "id": "kor-ao",
         "iso": "KOR",
         "label": "AO",
@@ -71315,16 +63180,6 @@ module.exports = {
         ],
         "lat": 37.3186890323705,
         "lon": 126.397406636173
-      },
-      {
-        "id": "kor-hadong",
-        "iso": "KOR",
-        "label": "HADONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.8889596676469,
-        "lon": 127.801470208701
       },
       {
         "id": "kor-gwangyangkr",
@@ -71427,16 +63282,6 @@ module.exports = {
         "lon": 126.118969711869
       },
       {
-        "id": "kor-chinae",
-        "iso": "KOR",
-        "label": "CHINAE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.1184958694188,
-        "lon": 128.683441872137
-      },
-      {
         "id": "kor-zhou",
         "iso": "KOR",
         "label": "ZHOU",
@@ -71445,16 +63290,6 @@ module.exports = {
         ],
         "lat": 34.4539107323293,
         "lon": 127.807412379175
-      },
-      {
-        "id": "kor-krkan",
-        "iso": "KOR",
-        "label": "KR KAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.8554544618035,
-        "lon": 127.729917044291
       },
       {
         "id": "kor-krkanoff",
@@ -71497,26 +63332,6 @@ module.exports = {
         "lon": 126.25983686111
       },
       {
-        "id": "kor-seez",
-        "iso": "KOR",
-        "label": "S EEZ",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.7296518295072,
-        "lon": 128.566345795586
-      },
-      {
-        "id": "kor-okpo",
-        "iso": "KOR",
-        "label": "OKPO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9396032096172,
-        "lon": 128.745645350162
-      },
-      {
         "id": "kor-dangjinkorea",
         "iso": "KOR",
         "label": "DANGJIN KOREA",
@@ -71545,16 +63360,6 @@ module.exports = {
         ],
         "lat": 34.9259439082893,
         "lon": 128.06362052461
-      },
-      {
-        "id": "kor-bg",
-        "iso": "KOR",
-        "label": "BG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.2569116079876,
-        "lon": 126.123772444832
       },
       {
         "id": "kor-ashi2163",
@@ -71687,16 +63492,6 @@ module.exports = {
         "lon": 128.877203872168
       },
       {
-        "id": "kor-gohyun",
-        "iso": "KOR",
-        "label": "GOHYUN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9715979376302,
-        "lon": 128.571676875447
-      },
-      {
         "id": "kor-jisepo",
         "iso": "KOR",
         "label": "JISEPO",
@@ -71767,36 +63562,6 @@ module.exports = {
         "lon": 126.13150149022
       },
       {
-        "id": "kor-jinhae",
-        "iso": "KOR",
-        "label": "JINHAE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0773097532459,
-        "lon": 128.609462326946
-      },
-      {
-        "id": "kor-jinhaeman",
-        "iso": "KOR",
-        "label": "JINHAE MAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0229180754431,
-        "lon": 128.585674080045
-      },
-      {
-        "id": "kor-and",
-        "iso": "KOR",
-        "label": "AND",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 36.6892445663835,
-        "lon": 126.53589300925
-      },
-      {
         "id": "kor-zhangjiagang",
         "iso": "KOR",
         "label": "ZHANGJIAGANG",
@@ -71805,26 +63570,6 @@ module.exports = {
         ],
         "lat": 35.0691405233282,
         "lon": 128.78011072547
-      },
-      {
-        "id": "kor-agua",
-        "iso": "KOR",
-        "label": "AGUA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0665123554032,
-        "lon": 128.776198111675
-      },
-      {
-        "id": "kor-busan",
-        "iso": "KOR",
-        "label": "BU SAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.4315589270899,
-        "lon": 127.887370406613
       },
       {
         "id": "kor-guabrazil",
@@ -71845,46 +63590,6 @@ module.exports = {
         ],
         "lat": 35.0662926166431,
         "lon": 128.796258607978
-      },
-      {
-        "id": "kor-taean",
-        "iso": "KOR",
-        "label": "TAEAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 36.9595595508544,
-        "lon": 126.202783771538
-      },
-      {
-        "id": "kor-taeanskorea",
-        "iso": "KOR",
-        "label": "TAEAN S KOREA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 36.9577551041822,
-        "lon": 126.196760219623
-      },
-      {
-        "id": "kor-arneaus",
-        "iso": "KOR",
-        "label": "ARNE AUS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0619174669001,
-        "lon": 128.790689993012
-      },
-      {
-        "id": "kor-tongyeongkorea",
-        "iso": "KOR",
-        "label": "TONG YEONG KOREA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0621300073865,
-        "lon": 128.754731336376
       },
       {
         "id": "kor-busananchorage",
@@ -72127,16 +63832,6 @@ module.exports = {
         "lon": 126.590996198906
       },
       {
-        "id": "kor-okpokorea",
-        "iso": "KOR",
-        "label": "OKPO KOREA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9243465202807,
-        "lon": 128.773653155458
-      },
-      {
         "id": "kor-krokpo",
         "iso": "KOR",
         "label": "KR OKPO",
@@ -72367,26 +64062,6 @@ module.exports = {
         "lon": 128.582021017072
       },
       {
-        "id": "kor-oepo",
-        "iso": "KOR",
-        "label": "OEPO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.9374167180516,
-        "lon": 128.721203145537
-      },
-      {
-        "id": "kor-busannewport",
-        "iso": "KOR",
-        "label": "BUSANNEWPORT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0668312347395,
-        "lon": 128.803025575062
-      },
-      {
         "id": "kor-jpykkas",
         "iso": "KOR",
         "label": "JP YKK AS",
@@ -72467,16 +64142,6 @@ module.exports = {
         "lon": 127.882010088817
       },
       {
-        "id": "kor-pusankojeanchrge",
-        "iso": "KOR",
-        "label": "PUSAN KOJE ANCHRGE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0766268759741,
-        "lon": 128.465632077365
-      },
-      {
         "id": "kor-baq",
         "iso": "KOR",
         "label": "BAQ",
@@ -72485,16 +64150,6 @@ module.exports = {
         ],
         "lat": 37.1160820825117,
         "lon": 126.676414442516
-      },
-      {
-        "id": "kor-tongyong",
-        "iso": "KOR",
-        "label": "TONGYONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0684777581573,
-        "lon": 128.461549747982
       },
       {
         "id": "kor-krmasoff",
@@ -72697,16 +64352,6 @@ module.exports = {
         "lon": 126.492570270003
       },
       {
-        "id": "kor-ap",
-        "iso": "KOR",
-        "label": "AP",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.4239846233379,
-        "lon": 126.598430944353
-      },
-      {
         "id": "kor-krgwangyang",
         "iso": "KOR",
         "label": "KR GWANGYANG",
@@ -72715,16 +64360,6 @@ module.exports = {
         ],
         "lat": 34.937791326896,
         "lon": 127.768721869944
-      },
-      {
-        "id": "kor-ilgwang",
-        "iso": "KOR",
-        "label": "ILGWANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.2604629305655,
-        "lon": 129.255642501997
       },
       {
         "id": "kor-onsansouthkorea",
@@ -72757,16 +64392,6 @@ module.exports = {
         "lon": 126.321764626685
       },
       {
-        "id": "kor-krchf",
-        "iso": "KOR",
-        "label": "KR CHF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0379939713151,
-        "lon": 128.619360412914
-      },
-      {
         "id": "kor-krygg",
         "iso": "KOR",
         "label": "KRYGG",
@@ -72795,16 +64420,6 @@ module.exports = {
         ],
         "lat": 37.95493442295,
         "lon": 124.737231585148
-      },
-      {
-        "id": "kor-bas",
-        "iso": "KOR",
-        "label": "BAS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.6843411093781,
-        "lon": 125.437831547079
       },
       {
         "id": "kor-bumsia",
@@ -72935,16 +64550,6 @@ module.exports = {
         ],
         "lat": 34.674925600006,
         "lon": 126.244708733332
-      },
-      {
-        "id": "kor-okgye",
-        "iso": "KOR",
-        "label": "OKGYE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.7939819832578,
-        "lon": 128.37901220291
       },
       {
         "id": "kor-cnhz1",
@@ -73107,26 +64712,6 @@ module.exports = {
         "lon": 126.390159996853
       },
       {
-        "id": "kor-dangjin",
-        "iso": "KOR",
-        "label": "DANG JIN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0613911300514,
-        "lon": 128.744108399632
-      },
-      {
-        "id": "kor-notavaliable",
-        "iso": "KOR",
-        "label": "NOT AVALIABLE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 34.7352378039619,
-        "lon": 128.561813544428
-      },
-      {
         "id": "kor-amaoff",
         "iso": "KOR",
         "label": "AMA OFF",
@@ -73185,16 +64770,6 @@ module.exports = {
         ],
         "lat": 34.9635297810491,
         "lon": 128.609207173271
-      },
-      {
-        "id": "kor-daesankr",
-        "iso": "KOR",
-        "label": "DAESAN KR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 37.0608630697072,
-        "lon": 126.189896039071
       },
       {
         "id": "kor-incheonnewport",
@@ -73437,16 +65012,6 @@ module.exports = {
         "lon": 126.553767321543
       },
       {
-        "id": "kor-gohyeon",
-        "iso": "KOR",
-        "label": "GOHYEON",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 35.0800426807411,
-        "lon": 128.611658550385
-      },
-      {
         "id": "kor-jpknm",
         "iso": "KOR",
         "label": "JP KNM",
@@ -73457,16 +65022,6 @@ module.exports = {
         "lon": 127.70639384722
       },
       {
-        "id": "prk-dandong",
-        "iso": "PRK",
-        "label": "DANDONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 39.9402444182218,
-        "lon": 124.327953394669
-      },
-      {
         "id": "prk-sinuiju",
         "iso": "PRK",
         "label": "SINUIJU",
@@ -73475,46 +65030,6 @@ module.exports = {
         ],
         "lat": 39.9075419598257,
         "lon": 124.300060050822
-      },
-      {
-        "id": "prk-nampho",
-        "iso": "PRK",
-        "label": "NAMPHO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.6883603612626,
-        "lon": 125.135372939376
-      },
-      {
-        "id": "prk-dandong",
-        "iso": "PRK",
-        "label": "DAN DONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 39.9573424430321,
-        "lon": 124.340892422991
-      },
-      {
-        "id": "prk-daean",
-        "iso": "PRK",
-        "label": "DAEAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.6796018130751,
-        "lon": 125.165903771747
-      },
-      {
-        "id": "prk-dalian",
-        "iso": "PRK",
-        "label": "DALIAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.681833002911,
-        "lon": 125.145825120831
       },
       {
         "id": "prk-wonsan",
@@ -73547,16 +65062,6 @@ module.exports = {
         "lon": 129.20909803283
       },
       {
-        "id": "prk-nampo",
-        "iso": "PRK",
-        "label": "NAM PO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.6878982060226,
-        "lon": 125.148052143932
-      },
-      {
         "id": "prk-cng",
         "iso": "PRK",
         "label": "CNG",
@@ -73565,26 +65070,6 @@ module.exports = {
         ],
         "lat": 38.6680724116705,
         "lon": 125.190742603816
-      },
-      {
-        "id": "prk-nampo",
-        "iso": "PRK",
-        "label": "NAMPO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.7714715732948,
-        "lon": 125.222029328284
-      },
-      {
-        "id": "prk-nampho",
-        "iso": "PRK",
-        "label": "NAM PHO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.6745445511134,
-        "lon": 125.206823142022
       },
       {
         "id": "prk-ai",
@@ -73627,16 +65112,6 @@ module.exports = {
         "lon": 125.134844325327
       },
       {
-        "id": "prk-taean",
-        "iso": "PRK",
-        "label": "TAEAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 38.6739069475164,
-        "lon": 125.239620235877
-      },
-      {
         "id": "prk-shanghai",
         "iso": "PRK",
         "label": "SHANG HAI",
@@ -73667,16 +65142,6 @@ module.exports = {
         "lon": 125.700544230542
       },
       {
-        "id": "rus-petropavlovsk",
-        "iso": "RUS",
-        "label": "PETROPAVLOVSK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 53.0182367704753,
-        "lon": 158.615967096632
-      },
-      {
         "id": "rus-ome",
         "iso": "RUS",
         "label": "OME",
@@ -73687,26 +65152,6 @@ module.exports = {
         "lon": 156.640704536544
       },
       {
-        "id": "rus-vladivostok",
-        "iso": "RUS",
-        "label": "VLADIVOSTOK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 43.0792415562506,
-        "lon": 131.980051981306
-      },
-      {
-        "id": "rus-nakhodka",
-        "iso": "RUS",
-        "label": "NAKHODKA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.8044508457989,
-        "lon": 132.838855820759
-      },
-      {
         "id": "rus-boshnyakovo",
         "iso": "RUS",
         "label": "BOSHNYAKOVO",
@@ -73715,26 +65160,6 @@ module.exports = {
         ],
         "lat": 49.6430438167808,
         "lon": 142.11775883897
-      },
-      {
-        "id": "rus-korsakov",
-        "iso": "RUS",
-        "label": "KORSAKOV",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 46.9103153062415,
-        "lon": 143.262863597332
-      },
-      {
-        "id": "rus-bukhtagaydamak",
-        "iso": "RUS",
-        "label": "BUKHTA GAYDAMAK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.853333202598,
-        "lon": 132.719113891532
       },
       {
         "id": "rus-severo-kuril'sk",
@@ -73757,26 +65182,6 @@ module.exports = {
         "lon": 141.837477369355
       },
       {
-        "id": "rus-vostochnyy",
-        "iso": "RUS",
-        "label": "VOSTOCHNYY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.7637968554381,
-        "lon": 132.997861525251
-      },
-      {
-        "id": "rus-petropavlovsk-kamchatsky",
-        "iso": "RUS",
-        "label": "PETROPAVLOVSK-KAMCHATSKY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 53.0134911816908,
-        "lon": 158.644537794267
-      },
-      {
         "id": "rus-shakhtersk",
         "iso": "RUS",
         "label": "SHAKHTERSK",
@@ -73795,16 +65200,6 @@ module.exports = {
         ],
         "lat": 51.4956800666153,
         "lon": 156.465865823781
-      },
-      {
-        "id": "rus-vanino",
-        "iso": "RUS",
-        "label": "VANINO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 49.1055028251756,
-        "lon": 140.397124798281
       },
       {
         "id": "rus-zarubino",
@@ -73845,16 +65240,6 @@ module.exports = {
         ],
         "lat": 49.121430778944,
         "lon": 140.424998619556
-      },
-      {
-        "id": "rus-vaninorussia",
-        "iso": "RUS",
-        "label": "VANINO RUSSIA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 49.1178751263529,
-        "lon": 140.399061650322
       },
       {
         "id": "rus-ptrk",
@@ -73917,16 +65302,6 @@ module.exports = {
         "lon": 158.55727868935
       },
       {
-        "id": "rus-bukhtanagayeva(magadan)",
-        "iso": "RUS",
-        "label": "BUKHTA NAGAYEVA (MAGADAN)",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 59.5494223694685,
-        "lon": 150.707547679517
-      },
-      {
         "id": "rus-ustkamchatsk",
         "iso": "RUS",
         "label": "UST KAMCHATSK",
@@ -73935,26 +65310,6 @@ module.exports = {
         ],
         "lat": 56.1908382017845,
         "lon": 162.480944819195
-      },
-      {
-        "id": "rus-rupkc",
-        "iso": "RUS",
-        "label": "RU PKC",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 53.0143890307053,
-        "lon": 158.598780576233
-      },
-      {
-        "id": "rus-plastun",
-        "iso": "RUS",
-        "label": "PLASTUN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 44.7408929385311,
-        "lon": 136.327696889175
       },
       {
         "id": "rus-japansea",
@@ -74055,16 +65410,6 @@ module.exports = {
         ],
         "lat": 44.7801152605369,
         "lon": 136.397370495985
-      },
-      {
-        "id": "rus-dekastri",
-        "iso": "RUS",
-        "label": "DE KASTRI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 51.4400026407463,
-        "lon": 140.815104610346
       },
       {
         "id": "rus-ossora",
@@ -74187,26 +65532,6 @@ module.exports = {
         "lon": 143.181172816791
       },
       {
-        "id": "usa-naknek",
-        "iso": "USA",
-        "label": "NAKNEK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 58.71506,
-        "lon": 157.0392
-      },
-      {
-        "id": "are-dubayy",
-        "iso": "ARE",
-        "label": "DUBAYY",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.2658149306889,
-        "lon": 55.2765904722052
-      },
-      {
         "id": "are-ruwais",
         "iso": "ARE",
         "label": "RUWAIS",
@@ -74237,16 +65562,6 @@ module.exports = {
         "lon": 53.3839514312289
       },
       {
-        "id": "are-ajman",
-        "iso": "ARE",
-        "label": "AJMAN",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.5099916287262,
-        "lon": 55.3489068062346
-      },
-      {
         "id": "are-arcojetty",
         "iso": "ARE",
         "label": "ARCO JETTY",
@@ -74255,26 +65570,6 @@ module.exports = {
         ],
         "lat": 24.1768156626722,
         "lon": 53.9844657200524
-      },
-      {
-        "id": "are-dubai",
-        "iso": "ARE",
-        "label": "DUBAI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.3744432129058,
-        "lon": 55.0466798073683
-      },
-      {
-        "id": "are-sharjah",
-        "iso": "ARE",
-        "label": "SHARJAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.4232534066761,
-        "lon": 55.3063182755602
       },
       {
         "id": "are-ummshaif",
@@ -74295,16 +65590,6 @@ module.exports = {
         ],
         "lat": 25.4463233660764,
         "lon": 55.0633399216103
-      },
-      {
-        "id": "are-minasaqr",
-        "iso": "ARE",
-        "label": "MINA SAQR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.0065888142919,
-        "lon": 56.0034448119372
       },
       {
         "id": "are-fujairah",
@@ -74357,16 +65642,6 @@ module.exports = {
         "lon": 53.2562586168895
       },
       {
-        "id": "are-jebelali",
-        "iso": "ARE",
-        "label": "JEBEL ALI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.2230121433556,
-        "lon": 54.8550521454191
-      },
-      {
         "id": "are-dubaibanchorage",
         "iso": "ARE",
         "label": "DUBAI B ANCHORAGE",
@@ -74395,16 +65670,6 @@ module.exports = {
         ],
         "lat": 25.3694421211313,
         "lon": 56.5271826069546
-      },
-      {
-        "id": "are-minajabalali",
-        "iso": "ARE",
-        "label": "MINA JABAL ALI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.0177827506224,
-        "lon": 55.0526943076098
       },
       {
         "id": "are-ummalqawyn",
@@ -74445,16 +65710,6 @@ module.exports = {
         ],
         "lat": 24.8662460133102,
         "lon": 53.0860300468396
-      },
-      {
-        "id": "are-abudhabi",
-        "iso": "ARE",
-        "label": "ABU DHABI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 24.5986158942182,
-        "lon": 54.0356224146456
       },
       {
         "id": "are-fatehoilterminal",
@@ -74557,16 +65812,6 @@ module.exports = {
         "lon": 53.2113562080661
       },
       {
-        "id": "are-dasisland",
-        "iso": "ARE",
-        "label": "DAS ISLAND",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.1091414430616,
-        "lon": 52.9358049208336
-      },
-      {
         "id": "are-southisland",
         "iso": "ARE",
         "label": "SOUTH ISLAND",
@@ -74575,16 +65820,6 @@ module.exports = {
         ],
         "lat": 24.8003475678345,
         "lon": 53.7337651680033
-      },
-      {
-        "id": "are-portrashid",
-        "iso": "ARE",
-        "label": "PORT RASHID",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.3423412831716,
-        "lon": 55.0505891591198
       },
       {
         "id": "are-zakumfieldpn14",
@@ -74675,16 +65910,6 @@ module.exports = {
         ],
         "lat": 24.709363865677,
         "lon": 53.6388339865175
-      },
-      {
-        "id": "are-minasaqr",
-        "iso": "ARE",
-        "label": "MINASAQR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.3827121718432,
-        "lon": 54.8819469369017
       },
       {
         "id": "are-auh",
@@ -74795,16 +66020,6 @@ module.exports = {
         ],
         "lat": 25.3071411049332,
         "lon": 53.4674463120096
-      },
-      {
-        "id": "are-alhamriyahlpgterminal",
-        "iso": "ARE",
-        "label": "AL HAMRIYAH LPG TERMINAL",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.4707006362397,
-        "lon": 55.4898672182042
       },
       {
         "id": "are-zacum",
@@ -74935,16 +66150,6 @@ module.exports = {
         ],
         "lat": 25.573614683123,
         "lon": 55.5747702397981
-      },
-      {
-        "id": "are-khawrfakkan",
-        "iso": "ARE",
-        "label": "KHAWR FAKKAN",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.357873186181,
-        "lon": 56.3664264734132
       },
       {
         "id": "are-zirku",
@@ -75087,16 +66292,6 @@ module.exports = {
         "lon": 55.0695844189813
       },
       {
-        "id": "are-musaffah",
-        "iso": "ARE",
-        "label": "MUSAFFAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 24.4520160180933,
-        "lon": 54.3065382913522
-      },
-      {
         "id": "are-mosb",
         "iso": "ARE",
         "label": "M O S B",
@@ -75105,16 +66300,6 @@ module.exports = {
         ],
         "lat": 24.8668316071524,
         "lon": 53.6464140054155
-      },
-      {
-        "id": "are-abudhabi",
-        "iso": "ARE",
-        "label": "ABUDHABI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 24.8761094040948,
-        "lon": 53.5919176917071
       },
       {
         "id": "are-uangdao",
@@ -75235,16 +66420,6 @@ module.exports = {
         ],
         "lat": 24.8230462198718,
         "lon": 54.6673649781145
-      },
-      {
-        "id": "are-mussafah",
-        "iso": "ARE",
-        "label": "MUSSAFAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 24.4871059310324,
-        "lon": 54.2519456138305
       },
       {
         "id": "are-fport",
@@ -75395,16 +66570,6 @@ module.exports = {
         ],
         "lat": 25.3700902885615,
         "lon": 55.0720958618274
-      },
-      {
-        "id": "are-freeport",
-        "iso": "ARE",
-        "label": "FREEPORT",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 24.6960257752604,
-        "lon": 53.9981004887885
       },
       {
         "id": "are-dubaiuae",
@@ -75737,26 +66902,6 @@ module.exports = {
         "lon": 53.3488963143181
       },
       {
-        "id": "are-ummaldalkh",
-        "iso": "ARE",
-        "label": "UMM AL DALKH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 24.5963924068216,
-        "lon": 54.1651241353441
-      },
-      {
-        "id": "are-dubaiuae",
-        "iso": "ARE",
-        "label": "DUBAI U A E",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.4191260376958,
-        "lon": 54.9970339304563
-      },
-      {
         "id": "are-worldisland",
         "iso": "ARE",
         "label": "WORLD ISLAND",
@@ -75805,16 +66950,6 @@ module.exports = {
         ],
         "lat": 25.9968930329037,
         "lon": 55.9945007736699
-      },
-      {
-        "id": "are-portrashid",
-        "iso": "ARE",
-        "label": "PORTRASHID",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 25.3530428096881,
-        "lon": 55.0409966648141
       },
       {
         "id": "are-stevenrdck",
@@ -75907,16 +67042,6 @@ module.exports = {
         "lon": 53.1515306509806
       },
       {
-        "id": "hkg-hongkong",
-        "iso": "HKG",
-        "label": "HONG KONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 22.2878823985296,
-        "lon": 114.195590442316
-      },
-      {
         "id": "hkg-central",
         "iso": "HKG",
         "label": "CENTRAL",
@@ -75937,16 +67062,6 @@ module.exports = {
         "lon": 114.11811736526
       },
       {
-        "id": "hkg-shamshuipo",
-        "iso": "HKG",
-        "label": "SHAM SHUI PO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 22.3180559626379,
-        "lon": 114.140453491825
-      },
-      {
         "id": "hkg-yungshuewan",
         "iso": "HKG",
         "label": "YUNG SHUE WAN",
@@ -75957,26 +67072,6 @@ module.exports = {
         "lon": 114.110661749638
       },
       {
-        "id": "hkg-tungchung",
-        "iso": "HKG",
-        "label": "TUNG CHUNG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 22.3044929952977,
-        "lon": 113.945324022564
-      },
-      {
-        "id": "hkg-taio",
-        "iso": "HKG",
-        "label": "TAI O",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 22.2708570746937,
-        "lon": 113.845018912469
-      },
-      {
         "id": "hkg-saikung",
         "iso": "HKG",
         "label": "SAI KUNG",
@@ -75985,16 +67080,6 @@ module.exports = {
         ],
         "lat": 22.3567260831176,
         "lon": 114.267465062693
-      },
-      {
-        "id": "hkg-kowloon",
-        "iso": "HKG",
-        "label": "KOWLOON",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 22.3102187518229,
-        "lon": 114.205756596461
       },
       {
         "id": "hkg-ngongping",
@@ -76027,16 +67112,6 @@ module.exports = {
         "lon": 114.101900815556
       },
       {
-        "id": "jpn-nahako",
-        "iso": "JPN",
-        "label": "NAHA KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 26.2363956388873,
-        "lon": 127.666159248309
-      },
-      {
         "id": "jpn-kinwan",
         "iso": "JPN",
         "label": "KIN WAN",
@@ -76045,16 +67120,6 @@ module.exports = {
         ],
         "lat": 26.438782282927,
         "lon": 127.918995218028
-      },
-      {
-        "id": "jpn-nishihara",
-        "iso": "JPN",
-        "label": "NISHIHARA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 26.212562126835,
-        "lon": 127.79456395852
       },
       {
         "id": "jpn-jpmbt",
@@ -76177,16 +67242,6 @@ module.exports = {
         "lon": 127.806335088213
       },
       {
-        "id": "jpn-jpnwa",
-        "iso": "JPN",
-        "label": "JP NWA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 26.7057325867557,
-        "lon": 127.807817695616
-      },
-      {
         "id": "jpn-sea",
         "iso": "JPN",
         "label": "SEA",
@@ -76195,16 +67250,6 @@ module.exports = {
         ],
         "lat": 29.1641999999994,
         "lon": 129.975000000004
-      },
-      {
-        "id": "jpn-ishigaki",
-        "iso": "JPN",
-        "label": "ISHIGAKI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 24.3381852943641,
-        "lon": 124.131596482219
       },
       {
         "id": "jpn-yonaguni",
@@ -76287,16 +67332,6 @@ module.exports = {
         "lon": 127.974443169335
       },
       {
-        "id": "mac-macau",
-        "iso": "MAC",
-        "label": "MACAU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 22.1851421506605,
-        "lon": 113.567694306956
-      },
-      {
         "id": "phl-spratlyislands",
         "iso": "PHL",
         "label": "SPRATLY ISLANDS",
@@ -76327,36 +67362,6 @@ module.exports = {
         "lon": 121.753891459529
       },
       {
-        "id": "twn-kaohsiung",
-        "iso": "TWN",
-        "label": "KAOHSIUNG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 22.583307662846,
-        "lon": 120.27008388368
-      },
-      {
-        "id": "twn-kaosiung",
-        "iso": "TWN",
-        "label": "KAOSIUNG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 22.5798425321825,
-        "lon": 120.300035570248
-      },
-      {
-        "id": "twn-taichung",
-        "iso": "TWN",
-        "label": "TAICHUNG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 24.2603139338848,
-        "lon": 120.458327052211
-      },
-      {
         "id": "twn-mailiao",
         "iso": "TWN",
         "label": "MAILIAO",
@@ -76375,16 +67380,6 @@ module.exports = {
         ],
         "lat": 26.1562552359329,
         "lon": 119.90503151188
-      },
-      {
-        "id": "twn-tan-shui",
-        "iso": "TWN",
-        "label": "TAN-SHUI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 25.1679781207794,
-        "lon": 121.381414258344
       },
       {
         "id": "twn-shu",
@@ -76427,26 +67422,6 @@ module.exports = {
         "lon": 120.375876322445
       },
       {
-        "id": "twn-ang",
-        "iso": "TWN",
-        "label": "ANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 24.1406546179966,
-        "lon": 121.21144575242
-      },
-      {
-        "id": "twn-tainancity",
-        "iso": "TWN",
-        "label": "TAINAN CITY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 23.2121191187123,
-        "lon": 120.082636997001
-      },
-      {
         "id": "twn-newtaipeicity",
         "iso": "TWN",
         "label": "NEW TAIPEI CITY",
@@ -76487,16 +67462,6 @@ module.exports = {
         "lon": 121.35086450638
       },
       {
-        "id": "twn-tai-chungkang",
-        "iso": "TWN",
-        "label": "TAI-CHUNG KANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 24.2837456497748,
-        "lon": 120.490576466091
-      },
-      {
         "id": "twn-jincheng",
         "iso": "TWN",
         "label": "JINCHENG",
@@ -76515,16 +67480,6 @@ module.exports = {
         ],
         "lat": 23.5545894043252,
         "lon": 119.478244944445
-      },
-      {
-        "id": "twn-donggang",
-        "iso": "TWN",
-        "label": "DONGGANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 22.46280646308,
-        "lon": 120.433531293292
       },
       {
         "id": "twn-adalian",
@@ -76597,16 +67552,6 @@ module.exports = {
         "lon": 121.902273406912
       },
       {
-        "id": "twn-bf",
-        "iso": "TWN",
-        "label": "BF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 24.5386633749598,
-        "lon": 121.263067348485
-      },
-      {
         "id": "twn-hua",
         "iso": "TWN",
         "label": "HUA",
@@ -76625,16 +67570,6 @@ module.exports = {
         ],
         "lat": 23.5965942944967,
         "lon": 119.508748404054
-      },
-      {
-        "id": "twn-xiamen",
-        "iso": "TWN",
-        "label": "XIA MEN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 23.5563587397852,
-        "lon": 119.495413102737
       },
       {
         "id": "twn-aungtw",
@@ -76807,16 +67742,6 @@ module.exports = {
         "lon": 120.384396349883
       },
       {
-        "id": "twn-twtxg",
-        "iso": "TWN",
-        "label": "TW TXG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 24.2295802744152,
-        "lon": 120.404206711824
-      },
-      {
         "id": "twn-oragec",
         "iso": "TWN",
         "label": "ORAGE C",
@@ -76917,16 +67842,6 @@ module.exports = {
         "lon": 12.4755489441388
       },
       {
-        "id": "cod-matadi",
-        "iso": "COD",
-        "label": "MATADI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -6.03275005297938,
-        "lon": 12.3567392049706
-      },
-      {
         "id": "cog-n'kossaterminal",
         "iso": "COG",
         "label": "N'KOSSA TERMINAL",
@@ -76945,16 +67860,6 @@ module.exports = {
         ],
         "lat": -4.94104970430481,
         "lon": 11.8835245504326
-      },
-      {
-        "id": "cog-pointenoire",
-        "iso": "COG",
-        "label": "POINTE NOIRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -4.75314942772469,
-        "lon": 11.7615345016965
       },
       {
         "id": "cog-sefp",
@@ -77037,16 +67942,6 @@ module.exports = {
         "lon": 12.1028950526516
       },
       {
-        "id": "gab-portgentil",
-        "iso": "GAB",
-        "label": "PORT GENTIL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -0.647386357135779,
-        "lon": 8.80458458461436
-      },
-      {
         "id": "gab-oguendjoterminal",
         "iso": "GAB",
         "label": "OGUENDJO TERMINAL",
@@ -77107,46 +68002,6 @@ module.exports = {
         "lon": 9.96978777907889
       },
       {
-        "id": "gab-caplopez",
-        "iso": "GAB",
-        "label": "CAP LOPEZ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -0.619580209176803,
-        "lon": 8.73968332469998
-      },
-      {
-        "id": "arg-zonacomun",
-        "iso": "ARG",
-        "label": "ZONA COMUN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -34.7494972251164,
-        "lon": -57.8402124778378
-      },
-      {
-        "id": "arg-laplata",
-        "iso": "ARG",
-        "label": "LA PLATA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -34.7703896127138,
-        "lon": -57.8125170855829
-      },
-      {
-        "id": "arg-buenosaires",
-        "iso": "ARG",
-        "label": "BUENOS AIRES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -34.6603384753837,
-        "lon": -58.1265608522783
-      },
-      {
         "id": "arg-recalada",
         "iso": "ARG",
         "label": "RECALADA",
@@ -77155,16 +68010,6 @@ module.exports = {
         ],
         "lat": -34.7401476506219,
         "lon": -57.8369162362457
-      },
-      {
-        "id": "arg-docksud",
-        "iso": "ARG",
-        "label": "DOCK SUD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -34.7453013445028,
-        "lon": -57.8478953268139
       },
       {
         "id": "arg-rotterdam",
@@ -77187,16 +68032,6 @@ module.exports = {
         "lon": -57.8279809610593
       },
       {
-        "id": "arg-bahiablanca",
-        "iso": "ARG",
-        "label": "BAHIA BLANCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -34.7893459892731,
-        "lon": -57.6107788785321
-      },
-      {
         "id": "arg-radalaplata",
         "iso": "ARG",
         "label": "RADA LA PLATA",
@@ -77205,16 +68040,6 @@ module.exports = {
         ],
         "lat": -34.7516279873561,
         "lon": -57.8526718299287
-      },
-      {
-        "id": "arg-sanlorenzo",
-        "iso": "ARG",
-        "label": "SAN LORENZO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -34.7538987633087,
-        "lon": -57.8341943061688
       },
       {
         "id": "arg-avellaneda",
@@ -77227,16 +68052,6 @@ module.exports = {
         "lon": -58.3430874883965
       },
       {
-        "id": "arg-sannicolas",
-        "iso": "ARG",
-        "label": "SAN NICOLAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -34.7301458365761,
-        "lon": -57.8223142757494
-      },
-      {
         "id": "arg-docksudddi",
         "iso": "ARG",
         "label": "DOCK SUD DDI",
@@ -77245,16 +68060,6 @@ module.exports = {
         ],
         "lat": -34.754318758558,
         "lon": -57.8853758086776
-      },
-      {
-        "id": "arg-gibraltar",
-        "iso": "ARG",
-        "label": "GIBRALTAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -34.8534205518764,
-        "lon": -57.3777454332463
       },
       {
         "id": "arg-arbhi",
@@ -77307,16 +68112,6 @@ module.exports = {
         "lon": -57.8052524008515
       },
       {
-        "id": "ury-nuevapalmira",
-        "iso": "URY",
-        "label": "NUEVA PALMIRA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -33.838364524382,
-        "lon": -58.4288667902278
-      },
-      {
         "id": "ury-piriapolis",
         "iso": "URY",
         "label": "PIRIAPOLIS",
@@ -77357,16 +68152,6 @@ module.exports = {
         "lon": -54.9549442852424
       },
       {
-        "id": "ury-montevideo",
-        "iso": "URY",
-        "label": "MONTEVIDEO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": -34.9761071607938,
-        "lon": -56.2452256227134
-      },
-      {
         "id": "ury-puntapereira",
         "iso": "URY",
         "label": "PUNTA PEREIRA",
@@ -77385,39 +68170,6 @@ module.exports = {
         ],
         "lat": -33.6656025855716,
         "lon": -58.4441251028821
-      },
-      {
-        "id": "arg-bahiablanca",
-        "iso": "ARG",
-        "label": "BAHIA BLANCA",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -39.166505100334,
-        "lon": -61.7034979862568
-      },
-      {
-        "id": "arg-puertorosales",
-        "iso": "ARG",
-        "label": "PUERTO ROSALES",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -38.9628483770409,
-        "lon": -61.9935061170187
-      },
-      {
-        "id": "arg-mardelplata",
-        "iso": "ARG",
-        "label": "MAR DEL PLATA",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -38.0376738165451,
-        "lon": -57.5309447537074
       },
       {
         "id": "arg-puertobelgrano",
@@ -77453,28 +68205,6 @@ module.exports = {
         "lon": -57.9520556528868
       },
       {
-        "id": "flk-stanley",
-        "iso": "FLK",
-        "label": "STANLEY",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -51.6548548479541,
-        "lon": -57.7505048259751
-      },
-      {
-        "id": "nam-walvisbay",
-        "iso": "NAM",
-        "label": "WALVIS BAY",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -22.8817567094823,
-        "lon": 14.4873308531395
-      },
-      {
         "id": "nam-luderitzbay",
         "iso": "NAM",
         "label": "LUDERITZ BAY",
@@ -77497,28 +68227,6 @@ module.exports = {
         "lon": 17.9830218805578
       },
       {
-        "id": "zaf-capetown",
-        "iso": "ZAF",
-        "label": "CAPE TOWN",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -33.8639699731976,
-        "lon": 18.4337330982334
-      },
-      {
-        "id": "zaf-capetown",
-        "iso": "ZAF",
-        "label": "CAPETOWN",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -33.824081976111,
-        "lon": 18.4244942387506
-      },
-      {
         "id": "zaf-bspiekerhoopte",
         "iso": "ZAF",
         "label": "BSPIEKER HOOPTE",
@@ -77528,28 +68236,6 @@ module.exports = {
         ],
         "lat": -34.1287804376693,
         "lon": 18.4498742963389
-      },
-      {
-        "id": "zaf-ba",
-        "iso": "ZAF",
-        "label": "BA",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -32.7325610007692,
-        "lon": 17.9989470239137
-      },
-      {
-        "id": "zaf-simonstown",
-        "iso": "ZAF",
-        "label": "SIMONSTOWN",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -34.1893842189339,
-        "lon": 18.4372861132096
       },
       {
         "id": "zaf-bnaarverder",
@@ -77583,17 +68269,6 @@ module.exports = {
         ],
         "lat": -45.858379294616,
         "lon": -67.4598453342243
-      },
-      {
-        "id": "arg-puertomadryn",
-        "iso": "ARG",
-        "label": "PUERTO MADRYN",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -42.750045882925,
-        "lon": -65.0198603976128
       },
       {
         "id": "arg-ptorawson",
@@ -77662,16 +68337,6 @@ module.exports = {
         "lon": -64.8869892867983
       },
       {
-        "id": "egy-suez",
-        "iso": "EGY",
-        "label": "SUEZ",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 29.9139779805324,
-        "lon": 32.470348571282
-      },
-      {
         "id": "egy-bursafaga",
         "iso": "EGY",
         "label": "BUR SAFAGA",
@@ -77680,16 +68345,6 @@ module.exports = {
         ],
         "lat": 26.7459558964333,
         "lon": 33.9484919262282
-      },
-      {
-        "id": "egy-safaga",
-        "iso": "EGY",
-        "label": "SAFAGA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 26.697264911884,
-        "lon": 33.9402329858469
       },
       {
         "id": "egy-elghardaqa",
@@ -77702,46 +68357,6 @@ module.exports = {
         "lon": 33.8437542827233
       },
       {
-        "id": "egy-rasshukhier",
-        "iso": "EGY",
-        "label": "RAS SHUKHIER",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 28.1348650869359,
-        "lon": 33.2794193729888
-      },
-      {
-        "id": "egy-el-adabiya",
-        "iso": "EGY",
-        "label": "EL-ADABIYA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 29.8784476777438,
-        "lon": 32.4761259663536
-      },
-      {
-        "id": "egy-assuways",
-        "iso": "EGY",
-        "label": "AS SUWAYS",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 29.9409616954578,
-        "lon": 32.564866198127
-      },
-      {
-        "id": "egy-rasgharib",
-        "iso": "EGY",
-        "label": "RAS GHARIB",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 28.3214534833948,
-        "lon": 33.1216908751661
-      },
-      {
         "id": "egy-aburudeis",
         "iso": "EGY",
         "label": "ABU RUDEIS",
@@ -77750,16 +68365,6 @@ module.exports = {
         ],
         "lat": 28.6102896992712,
         "lon": 33.1953267728761
-      },
-      {
-        "id": "egy-rasabuzanimah",
-        "iso": "EGY",
-        "label": "RAS ABU ZANIMAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 29.0377611594338,
-        "lon": 33.1164051135981
       },
       {
         "id": "egy-northainsukhnaport",
@@ -77812,16 +68417,6 @@ module.exports = {
         "lon": 100.351740326491
       },
       {
-        "id": "idn-bungus",
-        "iso": "IDN",
-        "label": "BUNGUS",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -1.02484613622073,
-        "lon": 100.369325221417
-      },
-      {
         "id": "idn-padangindonesia",
         "iso": "IDN",
         "label": "PADANG INDONESIA",
@@ -77840,26 +68435,6 @@ module.exports = {
         ],
         "lat": -2.77504992485,
         "lon": 100.200073242
-      },
-      {
-        "id": "idn-palabuhanratu",
-        "iso": "IDN",
-        "label": "PALABUHAN RATU",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -7.02332739023069,
-        "lon": 106.541354057514
-      },
-      {
-        "id": "idn-pulaubaai",
-        "iso": "IDN",
-        "label": "PULAU BAAI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -3.91941973239516,
-        "lon": 102.282321654807
       },
       {
         "id": "idn-cilauteureun",
@@ -77932,16 +68507,6 @@ module.exports = {
         "lon": -70.0371688150824
       },
       {
-        "id": "abw-sintnicolaasbaai",
-        "iso": "ABW",
-        "label": "SINT NICOLAAS BAAI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 12.4342176217906,
-        "lon": -69.9276910335758
-      },
-      {
         "id": "ant-steustatius",
         "iso": "ANT",
         "label": "ST EUSTATIUS",
@@ -77950,16 +68515,6 @@ module.exports = {
         ],
         "lat": 17.4959807054648,
         "lon": -63.0282703079002
-      },
-      {
-        "id": "ben-cotonou",
-        "iso": "BEN",
-        "label": "COTONOU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 6.27492996005615,
-        "lon": 2.5108961807774
       },
       {
         "id": "bes-oranjestad",
@@ -77990,16 +68545,6 @@ module.exports = {
         ],
         "lat": 25.7201087745775,
         "lon": -79.2989019060079
-      },
-      {
-        "id": "bhs-nassau",
-        "iso": "BHS",
-        "label": "NASSAU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 24.6880227161517,
-        "lon": -76.8938645985731
       },
       {
         "id": "bhs-cliftonpier",
@@ -78122,16 +68667,6 @@ module.exports = {
         "lon": -76.4763566278677
       },
       {
-        "id": "bhs-bahamas",
-        "iso": "BHS",
-        "label": "BAHAMAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 25.4157906349293,
-        "lon": -77.0457612969053
-      },
-      {
         "id": "bhs-fortlauderdale",
         "iso": "BHS",
         "label": "FORT LAUDERDALE",
@@ -78190,16 +68725,6 @@ module.exports = {
         ],
         "lat": 23.5164733075223,
         "lon": -75.7637203292759
-      },
-      {
-        "id": "bhs-georgetown",
-        "iso": "BHS",
-        "label": "GEORGETOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 23.5110420121526,
-        "lon": -75.7431663389342
       },
       {
         "id": "bhs-el",
@@ -78292,16 +68817,6 @@ module.exports = {
         "lon": -79.3041507326325
       },
       {
-        "id": "bhs-freeport",
-        "iso": "BHS",
-        "label": "FREEPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.5185114482533,
-        "lon": -78.7977779217468
-      },
-      {
         "id": "bhs-bl",
         "iso": "BHS",
         "label": "BL",
@@ -78330,16 +68845,6 @@ module.exports = {
         ],
         "lat": 24.0937062045212,
         "lon": -76.3981907731011
-      },
-      {
-        "id": "bhs-lucaya",
-        "iso": "BHS",
-        "label": "LUCAYA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.514339560903,
-        "lon": -78.6421154151768
       },
       {
         "id": "bhs-abaco",
@@ -78742,16 +69247,6 @@ module.exports = {
         "lon": -50.9747046156862
       },
       {
-        "id": "bra-fazendinha",
-        "iso": "BRA",
-        "label": "FAZENDINHA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 0.0563194225676697,
-        "lon": -50.9777966084147
-      },
-      {
         "id": "bra-fazendinhaanchorage",
         "iso": "BRA",
         "label": "FAZENDINHA ANCHORAGE",
@@ -78832,26 +69327,6 @@ module.exports = {
         "lon": -50.9837763276328
       },
       {
-        "id": "civ-abidjan",
-        "iso": "CIV",
-        "label": "ABIDJAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 5.28056145176922,
-        "lon": -4.02483958313479
-      },
-      {
-        "id": "civ-sanpedro",
-        "iso": "CIV",
-        "label": "SAN PEDRO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 4.70140320589006,
-        "lon": -6.60245373636013
-      },
-      {
         "id": "civ-baobabmarineterminal",
         "iso": "CIV",
         "label": "BAOBAB MARINE TERMINAL",
@@ -78872,26 +69347,6 @@ module.exports = {
         "lon": -74.2625460210596
       },
       {
-        "id": "col-cartagena",
-        "iso": "COL",
-        "label": "CARTAGENA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.2840773079213,
-        "lon": -75.5689752415197
-      },
-      {
-        "id": "col-elbosque",
-        "iso": "COL",
-        "label": "EL BOSQUE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.3832899160729,
-        "lon": -75.5510533515534
-      },
-      {
         "id": "col-puertobolivar",
         "iso": "COL",
         "label": "PUERTO BOLIVAR",
@@ -78902,16 +69357,6 @@ module.exports = {
         "lon": -72.0117975030553
       },
       {
-        "id": "col-mamonal",
-        "iso": "COL",
-        "label": "MAMONAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.3066315259969,
-        "lon": -75.5425234399601
-      },
-      {
         "id": "col-turbo",
         "iso": "COL",
         "label": "TURBO",
@@ -78920,16 +69365,6 @@ module.exports = {
         ],
         "lat": 7.97487800882748,
         "lon": -76.8045455489949
-      },
-      {
-        "id": "col-barranquilla",
-        "iso": "COL",
-        "label": "BARRANQUILLA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 11.0969814968564,
-        "lon": -74.9260513754443
       },
       {
         "id": "col-riocordoba",
@@ -78962,16 +69397,6 @@ module.exports = {
         "lon": -75.7322952532412
       },
       {
-        "id": "col-santamarta",
-        "iso": "COL",
-        "label": "SANTA MARTA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 11.2178798601713,
-        "lon": -74.2418138400443
-      },
-      {
         "id": "col-covenascolombia",
         "iso": "COL",
         "label": "COVENAS COLOMBIA",
@@ -79002,16 +69427,6 @@ module.exports = {
         "lon": -72.0242186471049
       },
       {
-        "id": "col-puertodrummond",
-        "iso": "COL",
-        "label": "PUERTO DRUMMOND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 11.1120137483631,
-        "lon": -74.2826214920963
-      },
-      {
         "id": "col-puertoprodeco",
         "iso": "COL",
         "label": "PUERTO PRODECO",
@@ -79040,16 +69455,6 @@ module.exports = {
         ],
         "lat": 10.2884215516025,
         "lon": -75.5414932882821
-      },
-      {
-        "id": "col-tolu",
-        "iso": "COL",
-        "label": "TOLU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 9.50847411107056,
-        "lon": -75.6241370404906
       },
       {
         "id": "cub-cienfuegos",
@@ -79122,16 +69527,6 @@ module.exports = {
         "lon": -77.2438975352341
       },
       {
-        "id": "cub-mariel",
-        "iso": "CUB",
-        "label": "MARIEL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 23.01728285962,
-        "lon": -82.7525205917676
-      },
-      {
         "id": "cub-guayabal",
         "iso": "CUB",
         "label": "GUAYABAL",
@@ -79152,16 +69547,6 @@ module.exports = {
         "lon": -68.6457338648762
       },
       {
-        "id": "cuw-willemstad",
-        "iso": "CUW",
-        "label": "WILLEMSTAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 12.1042261527707,
-        "lon": -68.9419547797476
-      },
-      {
         "id": "cym-ciyc",
         "iso": "CYM",
         "label": "CIYC",
@@ -79170,16 +69555,6 @@ module.exports = {
         ],
         "lat": 19.3553033509606,
         "lon": -81.3763762643554
-      },
-      {
-        "id": "cym-georgetown",
-        "iso": "CYM",
-        "label": "GEORGETOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 19.2934544669764,
-        "lon": -81.379468071003
       },
       {
         "id": "dom-ocoabay",
@@ -79192,16 +69567,6 @@ module.exports = {
         "lon": -70.6196910569197
       },
       {
-        "id": "dom-puertodehaina",
-        "iso": "DOM",
-        "label": "PUERTO DE HAINA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.4038554250332,
-        "lon": -70.0220920214343
-      },
-      {
         "id": "dom-cuc",
         "iso": "DOM",
         "label": "CUC",
@@ -79210,16 +69575,6 @@ module.exports = {
         ],
         "lat": 18.3583501416939,
         "lon": -69.0235374436966
-      },
-      {
-        "id": "dom-sanpedrodemacoris",
-        "iso": "DOM",
-        "label": "SAN PEDRO DE MACORIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.4203904788551,
-        "lon": -69.3111315686892
       },
       {
         "id": "dom-bahiaocoa",
@@ -79262,16 +69617,6 @@ module.exports = {
         "lon": -70.2023270356842
       },
       {
-        "id": "dom-santodomingo",
-        "iso": "DOM",
-        "label": "SANTO DOMINGO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.4581789828367,
-        "lon": -69.8815148941607
-      },
-      {
         "id": "dom-amvlissingen",
         "iso": "DOM",
         "label": "AM VLISSINGEN",
@@ -79290,16 +69635,6 @@ module.exports = {
         ],
         "lat": 18.502142992309,
         "lon": -68.3805846177648
-      },
-      {
-        "id": "dom-andres(andreslgnterminal)",
-        "iso": "DOM",
-        "label": "ANDRES (ANDRES LGN TERMINAL)",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.418678770308,
-        "lon": -69.6282489206721
       },
       {
         "id": "dom-buise",
@@ -79330,16 +69665,6 @@ module.exports = {
         ],
         "lat": 18.3989108433271,
         "lon": -68.9013790201719
-      },
-      {
-        "id": "dom-lascalderas",
-        "iso": "DOM",
-        "label": "LAS CALDERAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.2243538460134,
-        "lon": -70.5553825754564
       },
       {
         "id": "dom-santabarbaradesamana",
@@ -79390,16 +69715,6 @@ module.exports = {
         ],
         "lat": 27.0885933498913,
         "lon": -13.4634941699349
-      },
-      {
-        "id": "esp-laspalmas",
-        "iso": "ESP",
-        "label": "LAS PALMAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.1227807074378,
-        "lon": -15.4000233580435
       },
       {
         "id": "esp-ad",
@@ -79472,16 +69787,6 @@ module.exports = {
         "lon": -13.8625628750296
       },
       {
-        "id": "esp-bf",
-        "iso": "ESP",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.207309973758,
-        "lon": -14.0261247550331
-      },
-      {
         "id": "esp-aoff",
         "iso": "ESP",
         "label": "A OFF",
@@ -79500,16 +69805,6 @@ module.exports = {
         ],
         "lat": 28.6415711433206,
         "lon": -17.9432663420491
-      },
-      {
-        "id": "esp-santacruzdetenerife",
-        "iso": "ESP",
-        "label": "SANTA CRUZ DE TENERIFE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.47146674442,
-        "lon": -16.2278193126366
       },
       {
         "id": "esp-amvlissingen",
@@ -79562,26 +69857,6 @@ module.exports = {
         "lon": -16.7230574948483
       },
       {
-        "id": "esp-argineguin",
-        "iso": "ESP",
-        "label": "ARGINEGUIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 27.7638942087738,
-        "lon": -15.6908136436286
-      },
-      {
-        "id": "esp-gundersblum",
-        "iso": "ESP",
-        "label": "GUNDERSBLUM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.1121323174238,
-        "lon": -16.769911520251
-      },
-      {
         "id": "esp-dian",
         "iso": "ESP",
         "label": "DIAN",
@@ -79590,16 +69865,6 @@ module.exports = {
         ],
         "lat": 28.7372488036339,
         "lon": -13.8252970342268
-      },
-      {
-        "id": "esp-arrecife",
-        "iso": "ESP",
-        "label": "ARRECIFE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.961077050366,
-        "lon": -13.5394005243323
       },
       {
         "id": "esp-mogangrancanaria",
@@ -79620,16 +69885,6 @@ module.exports = {
         ],
         "lat": 27.782987380464,
         "lon": -17.9012852196962
-      },
-      {
-        "id": "esp-tenerife",
-        "iso": "ESP",
-        "label": "TENERIFE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.5020321471491,
-        "lon": -16.1670460619213
       },
       {
         "id": "esp-santacruztenerife",
@@ -79752,26 +70007,6 @@ module.exports = {
         "lon": -17.3275762258704
       },
       {
-        "id": "esp-lagomera",
-        "iso": "ESP",
-        "label": "LA GOMERA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.0790056883626,
-        "lon": -17.3304297326035
-      },
-      {
-        "id": "esp-maspalomas",
-        "iso": "ESP",
-        "label": "MASPALOMAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 27.7445405933307,
-        "lon": -15.6212074974388
-      },
-      {
         "id": "esp-agaete",
         "iso": "ESP",
         "label": "AGAETE",
@@ -79780,16 +70015,6 @@ module.exports = {
         ],
         "lat": 28.099183536299,
         "lon": -15.7111569282784
-      },
-      {
-        "id": "esp-off",
-        "iso": "ESP",
-        "label": "OFF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.1074705563464,
-        "lon": -16.7630623172604
       },
       {
         "id": "fra-baiedumarigot",
@@ -79812,16 +70037,6 @@ module.exports = {
         "lon": 1.22562148164258
       },
       {
-        "id": "gha-tema",
-        "iso": "GHA",
-        "label": "TEMA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 5.578613562392,
-        "lon": 0.0313198848010885
-      },
-      {
         "id": "gha-jubileefield",
         "iso": "GHA",
         "label": "JUBILEE FIELD",
@@ -79830,16 +70045,6 @@ module.exports = {
         ],
         "lat": 4.5303104304706,
         "lon": -2.99500318053402
-      },
-      {
-        "id": "gha-sekondi-takoradi",
-        "iso": "GHA",
-        "label": "SEKONDI-TAKORADI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 4.89607281538906,
-        "lon": -1.69872981398034
       },
       {
         "id": "gha-jubilee",
@@ -79900,26 +70105,6 @@ module.exports = {
         ],
         "lat": 15.8625908753424,
         "lon": -61.6005540522508
-      },
-      {
-        "id": "glp-guadeloupe",
-        "iso": "GLP",
-        "label": "GUADELOUPE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 15.9771683467582,
-        "lon": -61.6486340746714
-      },
-      {
-        "id": "glp-pointeapitre",
-        "iso": "GLP",
-        "label": "POINTE A PITRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 16.2249714764227,
-        "lon": -61.5385952838824
       },
       {
         "id": "glp-basseterre",
@@ -80020,16 +70205,6 @@ module.exports = {
         ],
         "lat": 15.8692106418032,
         "lon": -61.5865866092303
-      },
-      {
-        "id": "glp-antigua",
-        "iso": "GLP",
-        "label": "ANTIGUA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 16.3071239575169,
-        "lon": -61.799895301408
       },
       {
         "id": "gnq-bata",
@@ -80252,26 +70427,6 @@ module.exports = {
         "lon": -7.58037064788762
       },
       {
-        "id": "mar-agadir",
-        "iso": "MAR",
-        "label": "AGADIR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.4209783557174,
-        "lon": -9.67625097252738
-      },
-      {
-        "id": "mar-safi",
-        "iso": "MAR",
-        "label": "SAFI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 32.2923772584593,
-        "lon": -9.32033455561584
-      },
-      {
         "id": "mar-eljorflasfar",
         "iso": "MAR",
         "label": "EL JORF LASFAR",
@@ -80280,16 +70435,6 @@ module.exports = {
         ],
         "lat": 33.1286124442647,
         "lon": -8.6292407746188
-      },
-      {
-        "id": "mar-mohammedia",
-        "iso": "MAR",
-        "label": "MOHAMMEDIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 33.7474997299561,
-        "lon": -7.37251969911023
       },
       {
         "id": "mar-tantan",
@@ -80412,16 +70557,6 @@ module.exports = {
         "lon": -94.3942623482717
       },
       {
-        "id": "mex-coatzacoalcos",
-        "iso": "MEX",
-        "label": "COATZACOALCOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.2446794399073,
-        "lon": -94.408301902811
-      },
-      {
         "id": "mex-ciudaddelcarmen",
         "iso": "MEX",
         "label": "CIUDAD DEL CARMEN",
@@ -80430,26 +70565,6 @@ module.exports = {
         ],
         "lat": 18.6751910901974,
         "lon": -91.8462309934594
-      },
-      {
-        "id": "mex-tuxpan",
-        "iso": "MEX",
-        "label": "TUXPAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 20.9881291784282,
-        "lon": -97.2490225626399
-      },
-      {
-        "id": "mex-altamira",
-        "iso": "MEX",
-        "label": "ALTAMIRA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 22.5175328393375,
-        "lon": -97.7795315017306
       },
       {
         "id": "mex-takinfond",
@@ -80672,16 +70787,6 @@ module.exports = {
         "lon": -92.2305635110094
       },
       {
-        "id": "mex-tampico",
-        "iso": "MEX",
-        "label": "TAMPICO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 21.8553829799798,
-        "lon": -97.1841693892083
-      },
-      {
         "id": "mex-akalci",
         "iso": "MEX",
         "label": "AKAL CI",
@@ -80700,16 +70805,6 @@ module.exports = {
         ],
         "lat": 19.5123571542751,
         "lon": -92.1770181160362
-      },
-      {
-        "id": "mex-ao",
-        "iso": "MEX",
-        "label": "AO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 19.5096347119695,
-        "lon": -92.2001272622367
       },
       {
         "id": "mex-dcdelcarmen",
@@ -80932,16 +71027,6 @@ module.exports = {
         "lon": -92.1736478926035
       },
       {
-        "id": "mex-progreso",
-        "iso": "MEX",
-        "label": "PROGRESO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 21.3436756695772,
-        "lon": -89.6747685164581
-      },
-      {
         "id": "mex-progresoyuc",
         "iso": "MEX",
         "label": "PROGRESO YUC",
@@ -81000,16 +71085,6 @@ module.exports = {
         ],
         "lat": 19.0335393196343,
         "lon": -92.7175767045395
-      },
-      {
-        "id": "mex-veracruz",
-        "iso": "MEX",
-        "label": "VERA CRUZ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 19.1550068038819,
-        "lon": -96.0053032904536
       },
       {
         "id": "mex-cdc",
@@ -81272,16 +71347,6 @@ module.exports = {
         "lon": -92.0398751584206
       },
       {
-        "id": "mex-cdcarmen",
-        "iso": "MEX",
-        "label": "CD C ARMEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 19.4422799895803,
-        "lon": -92.1127856158684
-      },
-      {
         "id": "mex-etkal101",
         "iso": "MEX",
         "label": "ETKAL101",
@@ -81482,16 +71547,6 @@ module.exports = {
         "lon": -60.8894722658448
       },
       {
-        "id": "mtq-lemarin",
-        "iso": "MTQ",
-        "label": "LE MARIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 14.4450322511501,
-        "lon": -60.8872133344999
-      },
-      {
         "id": "mtq-martinique",
         "iso": "MTQ",
         "label": "MARTINIQUE",
@@ -81540,16 +71595,6 @@ module.exports = {
         ],
         "lat": 14.6639909158639,
         "lon": -61.1613475314694
-      },
-      {
-        "id": "mtq-fortdefrance",
-        "iso": "MTQ",
-        "label": "FORT DE FRANCE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 14.5660238731633,
-        "lon": -61.0972387187152
       },
       {
         "id": "mtq-bm",
@@ -81652,36 +71697,6 @@ module.exports = {
         "lon": -60.8344468115962
       },
       {
-        "id": "nga-lagos",
-        "iso": "NGA",
-        "label": "LAGOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 6.32452919830707,
-        "lon": 3.36554566333665
-      },
-      {
-        "id": "nga-escravos",
-        "iso": "NGA",
-        "label": "ESCRAVOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 5.50767123093204,
-        "lon": 4.90620718997888
-      },
-      {
-        "id": "nga-portharcourt",
-        "iso": "NGA",
-        "label": "PORT HARCOURT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 4.49149361479455,
-        "lon": 7.18233219261258
-      },
-      {
         "id": "nga-tincanisland",
         "iso": "NGA",
         "label": "TIN CAN ISLAND",
@@ -81702,16 +71717,6 @@ module.exports = {
         "lon": 7.15941705377468
       },
       {
-        "id": "nga-warri",
-        "iso": "NGA",
-        "label": "WARRI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 5.52390884743986,
-        "lon": 5.13015763018518
-      },
-      {
         "id": "nga-erha",
         "iso": "NGA",
         "label": "ERHA",
@@ -81730,16 +71735,6 @@ module.exports = {
         ],
         "lat": 4.10477779807521,
         "lon": 5.16296028458948
-      },
-      {
-        "id": "nga-apapa",
-        "iso": "NGA",
-        "label": "APAPA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 6.44494214981706,
-        "lon": 3.37258799395901
       },
       {
         "id": "nga-marin",
@@ -81892,16 +71887,6 @@ module.exports = {
         "lon": 8.09455462081539
       },
       {
-        "id": "nga-okrika",
-        "iso": "NGA",
-        "label": "OKRIKA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 4.72139732239816,
-        "lon": 7.08502926279545
-      },
-      {
         "id": "nga-quaiboenigeria",
         "iso": "NGA",
         "label": "QUA IBOE NIGERIA",
@@ -81940,16 +71925,6 @@ module.exports = {
         ],
         "lat": 4.14406968396866,
         "lon": 7.50066185140219
-      },
-      {
-        "id": "nga-onne",
-        "iso": "NGA",
-        "label": "ONNE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 4.4107367991206,
-        "lon": 7.83247748634003
       },
       {
         "id": "nga-akpo",
@@ -82072,16 +72047,6 @@ module.exports = {
         "lon": 7.82483033863337
       },
       {
-        "id": "nga-calabar",
-        "iso": "NGA",
-        "label": "CALABAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 4.81979988332502,
-        "lon": 8.30704230863533
-      },
-      {
         "id": "nga-twon-brass",
         "iso": "NGA",
         "label": "TWON-BRASS",
@@ -82202,26 +72167,6 @@ module.exports = {
         "lon": -66.5265489093357
       },
       {
-        "id": "pri-luism.cintron",
-        "iso": "PRI",
-        "label": "LUIS M. CINTRON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.2876761586328,
-        "lon": -65.6313429181073
-      },
-      {
-        "id": "pri-playadeponce",
-        "iso": "PRI",
-        "label": "PLAYA DE PONCE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.9640906568716,
-        "lon": -66.6172799576392
-      },
-      {
         "id": "pri-puertorico",
         "iso": "PRI",
         "label": "PUERTO RICO",
@@ -82280,26 +72225,6 @@ module.exports = {
         ],
         "lat": 18.480197533297,
         "lon": -66.701663878452
-      },
-      {
-        "id": "pri-mayaguez",
-        "iso": "PRI",
-        "label": "MAYAGUEZ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.2213573006786,
-        "lon": -67.1689111479342
-      },
-      {
-        "id": "pri-sanjuan",
-        "iso": "PRI",
-        "label": "SAN JUAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.4537961742128,
-        "lon": -66.1059637191869
       },
       {
         "id": "pri-bg",
@@ -82502,26 +72427,6 @@ module.exports = {
         "lon": -63.1413907614095
       },
       {
-        "id": "tgo-lome",
-        "iso": "TGO",
-        "label": "LOME",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 6.04622132354643,
-        "lon": 1.27724192494187
-      },
-      {
-        "id": "usa-houston",
-        "iso": "USA",
-        "label": "HOUSTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.2587590913281,
-        "lon": -94.5971296141447
-      },
-      {
         "id": "usa-fortmyersbeach",
         "iso": "USA",
         "label": "FORT MYERS BEACH",
@@ -82530,26 +72435,6 @@ module.exports = {
         ],
         "lat": 26.4562282772982,
         "lon": -81.9489979482239
-      },
-      {
-        "id": "usa-houstontx",
-        "iso": "USA",
-        "label": "HOUSTON TX",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.8423341282488,
-        "lon": -95.8251540682462
-      },
-      {
-        "id": "usa-tampa",
-        "iso": "USA",
-        "label": "TAMPA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 27.7418237128819,
-        "lon": -82.682112574501
       },
       {
         "id": "usa-gulfshores",
@@ -82562,16 +72447,6 @@ module.exports = {
         "lon": -88.0479078660051
       },
       {
-        "id": "usa-beaufort",
-        "iso": "USA",
-        "label": "BEAUFORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.4181530477793,
-        "lon": -77.2114682544156
-      },
-      {
         "id": "usa-terramar",
         "iso": "USA",
         "label": "TERRA MAR",
@@ -82582,26 +72457,6 @@ module.exports = {
         "lon": -80.0972491073027
       },
       {
-        "id": "usa-mobileal",
-        "iso": "USA",
-        "label": "MOBILE AL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.5175546825437,
-        "lon": -88.0386779528166
-      },
-      {
-        "id": "usa-lakecharles",
-        "iso": "USA",
-        "label": "LAKE CHARLES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.5799069122224,
-        "lon": -93.2576119979761
-      },
-      {
         "id": "usa-dunedin",
         "iso": "USA",
         "label": "DUNEDIN",
@@ -82610,16 +72465,6 @@ module.exports = {
         ],
         "lat": 28.0308804929301,
         "lon": -82.7898682225999
-      },
-      {
-        "id": "usa-corpuschristi",
-        "iso": "USA",
-        "label": "CORPUS CHRISTI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 27.829834608001,
-        "lon": -96.9882131458048
       },
       {
         "id": "usa-sunrise",
@@ -82672,16 +72517,6 @@ module.exports = {
         "lon": -80.3153676870145
       },
       {
-        "id": "usa-freeport",
-        "iso": "USA",
-        "label": "FREEPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.8710323905152,
-        "lon": -95.1934409022254
-      },
-      {
         "id": "usa-portisabel",
         "iso": "USA",
         "label": "PORT ISABEL",
@@ -82700,26 +72535,6 @@ module.exports = {
         ],
         "lat": 27.7107737300894,
         "lon": -82.8204112701695
-      },
-      {
-        "id": "usa-southport",
-        "iso": "USA",
-        "label": "SOUTHPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 33.9317926458233,
-        "lon": -77.9909631607298
-      },
-      {
-        "id": "usa-charleston",
-        "iso": "USA",
-        "label": "CHARLESTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 32.7777996454215,
-        "lon": -79.8995719163357
       },
       {
         "id": "usa-wrightsville",
@@ -82752,16 +72567,6 @@ module.exports = {
         "lon": -89.9512816858473
       },
       {
-        "id": "usa-fourchon",
-        "iso": "USA",
-        "label": "FOURCHON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.1111640342942,
-        "lon": -90.5784777180108
-      },
-      {
         "id": "usa-gola",
         "iso": "USA",
         "label": "GOLA",
@@ -82782,16 +72587,6 @@ module.exports = {
         "lon": -90.2021801647287
       },
       {
-        "id": "usa-mobile",
-        "iso": "USA",
-        "label": "MOBILE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.3154660426166,
-        "lon": -88.0595759289507
-      },
-      {
         "id": "usa-cameronla",
         "iso": "USA",
         "label": "CAMERON LA",
@@ -82810,16 +72605,6 @@ module.exports = {
         ],
         "lat": 26.8101591304785,
         "lon": -80.0501352110647
-      },
-      {
-        "id": "usa-swpass",
-        "iso": "USA",
-        "label": "SW PASS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.8770211285947,
-        "lon": -89.3446787449527
       },
       {
         "id": "usa-oceanridge",
@@ -82850,16 +72635,6 @@ module.exports = {
         ],
         "lat": 29.1069275065042,
         "lon": -90.1516948816749
-      },
-      {
-        "id": "usa-junobeach",
-        "iso": "USA",
-        "label": "JUNO BEACH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.8934679437407,
-        "lon": -80.0720908250264
       },
       {
         "id": "usa-portaransas",
@@ -82902,56 +72677,6 @@ module.exports = {
         "lon": -94.8986393747142
       },
       {
-        "id": "usa-ac857",
-        "iso": "USA",
-        "label": "AC 857",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.1284635951639,
-        "lon": -94.8978514485725
-      },
-      {
-        "id": "usa-biloxi",
-        "iso": "USA",
-        "label": "BILOXI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.4010103076329,
-        "lon": -88.8694794296501
-      },
-      {
-        "id": "usa-portarthur",
-        "iso": "USA",
-        "label": "PORT ARTHUR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.5415252919134,
-        "lon": -93.7383124016058
-      },
-      {
-        "id": "usa-portneches",
-        "iso": "USA",
-        "label": "PORT NECHES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.4168418406215,
-        "lon": -93.6568086841572
-      },
-      {
-        "id": "usa-savannah",
-        "iso": "USA",
-        "label": "SAVANNAH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.9997329869482,
-        "lon": -80.6702368400232
-      },
-      {
         "id": "usa-fernandinabeach",
         "iso": "USA",
         "label": "FERNANDINA BEACH",
@@ -82960,16 +72685,6 @@ module.exports = {
         ],
         "lat": 30.6771478961938,
         "lon": -81.4651106998078
-      },
-      {
-        "id": "usa-miami",
-        "iso": "USA",
-        "label": "MIAMI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 25.7741147608966,
-        "lon": -80.1513170988487
       },
       {
         "id": "usa-gc512",
@@ -83032,26 +72747,6 @@ module.exports = {
         "lon": -88.9287214310583
       },
       {
-        "id": "usa-neworleans",
-        "iso": "USA",
-        "label": "NEW ORLEANS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.9073695075607,
-        "lon": -89.7040934485221
-      },
-      {
-        "id": "usa-sabinepass",
-        "iso": "USA",
-        "label": "SABINE PASS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.6290141598761,
-        "lon": -93.8042231812364
-      },
-      {
         "id": "usa-pointcomfort",
         "iso": "USA",
         "label": "POINT COMFORT",
@@ -83070,16 +72765,6 @@ module.exports = {
         ],
         "lat": 33.2332189474793,
         "lon": -79.1911825212137
-      },
-      {
-        "id": "usa-panamacity",
-        "iso": "USA",
-        "label": "PANAMA CITY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.4833638146689,
-        "lon": -83.1688762134526
       },
       {
         "id": "usa-corpascristitx",
@@ -83122,16 +72807,6 @@ module.exports = {
         "lon": -94.8920184861437
       },
       {
-        "id": "usa-dickinson",
-        "iso": "USA",
-        "label": "DICKINSON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.5163575844534,
-        "lon": -94.8947098037333
-      },
-      {
         "id": "usa-oceanreef",
         "iso": "USA",
         "label": "OCEAN REEF",
@@ -83162,26 +72837,6 @@ module.exports = {
         "lon": -76.5476843627472
       },
       {
-        "id": "usa-plainsburns",
-        "iso": "USA",
-        "label": "PLAINSBURNS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.3434686866982,
-        "lon": -90.1814826058138
-      },
-      {
-        "id": "usa-baytown",
-        "iso": "USA",
-        "label": "BAYTOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.6186948313538,
-        "lon": -94.9409337178853
-      },
-      {
         "id": "usa-thunderhorsemc778",
         "iso": "USA",
         "label": "THUNDER HORSE MC778",
@@ -83202,16 +72857,6 @@ module.exports = {
         "lon": -93.860061107401
       },
       {
-        "id": "usa-portarthurtx",
-        "iso": "USA",
-        "label": "PORT ARTHUR TX",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.7951346630521,
-        "lon": -93.8362677175609
-      },
-      {
         "id": "usa-keybiscayne",
         "iso": "USA",
         "label": "KEY BISCAYNE",
@@ -83220,26 +72865,6 @@ module.exports = {
         ],
         "lat": 25.6951394864287,
         "lon": -80.1699634088601
-      },
-      {
-        "id": "usa-cameron",
-        "iso": "USA",
-        "label": "CAMERON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.2005461048586,
-        "lon": -93.2478892786392
-      },
-      {
-        "id": "usa-keywest",
-        "iso": "USA",
-        "label": "KEY WEST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 24.5639223082874,
-        "lon": -81.8082329516885
       },
       {
         "id": "usa-baysaintlouis",
@@ -83272,26 +72897,6 @@ module.exports = {
         "lon": -95.0421022594597
       },
       {
-        "id": "usa-capecanaveral",
-        "iso": "USA",
-        "label": "CAPE CANAVERAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.4108028073602,
-        "lon": -80.621268457989
-      },
-      {
-        "id": "usa-sabine",
-        "iso": "USA",
-        "label": "SABINE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.4947953770295,
-        "lon": -93.4908964611937
-      },
-      {
         "id": "usa-marionma",
         "iso": "USA",
         "label": "MARION MA",
@@ -83310,46 +72915,6 @@ module.exports = {
         ],
         "lat": 30.078112941778,
         "lon": -88.0588993505706
-      },
-      {
-        "id": "usa-venice",
-        "iso": "USA",
-        "label": "VENICE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.3189768721863,
-        "lon": -90.0666963035699
-      },
-      {
-        "id": "usa-galveston",
-        "iso": "USA",
-        "label": "GALVESTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.2548009643192,
-        "lon": -94.7858581155629
-      },
-      {
-        "id": "usa-northcharleston",
-        "iso": "USA",
-        "label": "NORTH CHARLESTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 32.8481227207205,
-        "lon": -79.9426593379871
-      },
-      {
-        "id": "usa-victoria",
-        "iso": "USA",
-        "label": "VICTORIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.5293715228288,
-        "lon": -96.3712288119577
       },
       {
         "id": "usa-burg",
@@ -83412,16 +72977,6 @@ module.exports = {
         "lon": -94.9719388622756
       },
       {
-        "id": "usa-usmsy",
-        "iso": "USA",
-        "label": "US MSY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.8842413953094,
-        "lon": -89.3444492798827
-      },
-      {
         "id": "usa-st311",
         "iso": "USA",
         "label": "ST 311",
@@ -83472,26 +73027,6 @@ module.exports = {
         "lon": -89.1078682552135
       },
       {
-        "id": "usa-jupiter",
-        "iso": "USA",
-        "label": "JUPITER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.9374415797137,
-        "lon": -80.081890252579
-      },
-      {
-        "id": "usa-cn",
-        "iso": "USA",
-        "label": "CN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.4089414031096,
-        "lon": -80.6651453774332
-      },
-      {
         "id": "usa-txcity",
         "iso": "USA",
         "label": "TX CITY",
@@ -83510,16 +73045,6 @@ module.exports = {
         ],
         "lat": 28.8436352537514,
         "lon": -89.3964333806912
-      },
-      {
-        "id": "usa-batonrouge",
-        "iso": "USA",
-        "label": "BATON ROUGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.7646493345776,
-        "lon": -91.7387574367682
       },
       {
         "id": "usa-calcasieurefining",
@@ -83542,16 +73067,6 @@ module.exports = {
         "lon": -82.5625429347072
       },
       {
-        "id": "usa-lauderdale-by-the-sea",
-        "iso": "USA",
-        "label": "LAUDERDALE-BY-THE-SEA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.1846544027762,
-        "lon": -80.100976901933
-      },
-      {
         "id": "usa-smi230",
         "iso": "USA",
         "label": "SMI 230",
@@ -83570,16 +73085,6 @@ module.exports = {
         ],
         "lat": 30.3123081097039,
         "lon": -88.0839159163322
-      },
-      {
-        "id": "usa-porteverglades",
-        "iso": "USA",
-        "label": "PORT EVERGLADES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.1043356252759,
-        "lon": -80.1025947455191
       },
       {
         "id": "usa-larosela",
@@ -83612,16 +73117,6 @@ module.exports = {
         "lon": -90.2394081391959
       },
       {
-        "id": "usa-bay",
-        "iso": "USA",
-        "label": "BAY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.4229545189311,
-        "lon": -92.2297818897523
-      },
-      {
         "id": "usa-mc127",
         "iso": "USA",
         "label": "MC 127",
@@ -83652,16 +73147,6 @@ module.exports = {
         "lon": -80.129713913373
       },
       {
-        "id": "usa-daytonabeach",
-        "iso": "USA",
-        "label": "DAYTONA BEACH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.2124385641964,
-        "lon": -81.0122777979238
-      },
-      {
         "id": "usa-hi595",
         "iso": "USA",
         "label": "HI 595",
@@ -83670,16 +73155,6 @@ module.exports = {
         ],
         "lat": 27.8679932687059,
         "lon": -93.9915071288587
-      },
-      {
-        "id": "usa-gulfport",
-        "iso": "USA",
-        "label": "GULFPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.3580041414199,
-        "lon": -89.0896566060727
       },
       {
         "id": "usa-hollywood",
@@ -83722,26 +73197,6 @@ module.exports = {
         "lon": -90.7700758123345
       },
       {
-        "id": "usa-leeville",
-        "iso": "USA",
-        "label": "LEEVILLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.0435400570172,
-        "lon": -90.1624113182894
-      },
-      {
-        "id": "usa-noharbor",
-        "iso": "USA",
-        "label": "N O HARBOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.145028892235,
-        "lon": -89.6422865442557
-      },
-      {
         "id": "usa-saintsimonmills",
         "iso": "USA",
         "label": "SAINT SIMON MILLS",
@@ -83750,16 +73205,6 @@ module.exports = {
         ],
         "lat": 31.1696735324582,
         "lon": -81.415545821388
-      },
-      {
-        "id": "usa-ck",
-        "iso": "USA",
-        "label": "CK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.6359158492763,
-        "lon": -88.7381182633731
       },
       {
         "id": "usa-stlucieinlet",
@@ -83810,16 +73255,6 @@ module.exports = {
         ],
         "lat": 26.3850971927633,
         "lon": -91.3676612397489
-      },
-      {
-        "id": "usa-texcity",
-        "iso": "USA",
-        "label": "TEXCITY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 27.8531865035679,
-        "lon": -97.174631376802
       },
       {
         "id": "usa-galvaston",
@@ -83942,16 +73377,6 @@ module.exports = {
         "lon": -81.7286363054952
       },
       {
-        "id": "usa-corpuschristitx",
-        "iso": "USA",
-        "label": "CORPUS CHRISTI TX",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 27.8631554583602,
-        "lon": -97.018898887423
-      },
-      {
         "id": "usa-sunnypoint",
         "iso": "USA",
         "label": "SUNNY POINT",
@@ -83980,16 +73405,6 @@ module.exports = {
         ],
         "lat": 27.5264377711047,
         "lon": -82.7214368404363
-      },
-      {
-        "id": "usa-bolivarpeninsula",
-        "iso": "USA",
-        "label": "BOLIVAR PENINSULA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.4931729275673,
-        "lon": -94.5765004803814
       },
       {
         "id": "usa-gc18",
@@ -84082,16 +73497,6 @@ module.exports = {
         "lon": -81.4709767318695
       },
       {
-        "id": "usa-sullivansisland",
-        "iso": "USA",
-        "label": "SULLIVANS ISLAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 32.7747615292057,
-        "lon": -79.8470210860534
-      },
-      {
         "id": "usa-pineknollshores",
         "iso": "USA",
         "label": "PINE KNOLL SHORES",
@@ -84182,26 +73587,6 @@ module.exports = {
         "lon": -82.7546865507049
       },
       {
-        "id": "usa-morgancity",
-        "iso": "USA",
-        "label": "MORGAN CITY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.1533363181257,
-        "lon": -90.0095210287826
-      },
-      {
-        "id": "usa-pascagoula",
-        "iso": "USA",
-        "label": "PASCAGOULA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.1936198739195,
-        "lon": -88.5488360711987
-      },
-      {
         "id": "usa-melbourne",
         "iso": "USA",
         "label": "MELBOURNE",
@@ -84210,16 +73595,6 @@ module.exports = {
         ],
         "lat": 28.0775342605421,
         "lon": -80.6007839203261
-      },
-      {
-        "id": "usa-bbbbb",
-        "iso": "USA",
-        "label": "BBBBB",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.5471447569622,
-        "lon": -90.1557753656377
       },
       {
         "id": "usa-sunsetbeach",
@@ -84250,16 +73625,6 @@ module.exports = {
         ],
         "lat": 29.5254735259957,
         "lon": -91.4063445040335
-      },
-      {
-        "id": "usa-brunswick",
-        "iso": "USA",
-        "label": "BRUNSWICK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.130274042191,
-        "lon": -81.4927042956056
       },
       {
         "id": "usa-mc773",
@@ -84312,16 +73677,6 @@ module.exports = {
         "lon": -78.0004655515444
       },
       {
-        "id": "usa-annapolis",
-        "iso": "USA",
-        "label": "ANNAPOLIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 33.8768293067262,
-        "lon": -78.0000729340457
-      },
-      {
         "id": "usa-houstonusa",
         "iso": "USA",
         "label": "HOUSTON USA",
@@ -84340,16 +73695,6 @@ module.exports = {
         ],
         "lat": 29.2340395197956,
         "lon": -81.0233274554769
-      },
-      {
-        "id": "usa-iona",
-        "iso": "USA",
-        "label": "IONA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.5227207016929,
-        "lon": -81.9901790708293
       },
       {
         "id": "usa-rockledge",
@@ -84372,16 +73717,6 @@ module.exports = {
         "lon": -76.546679078376
       },
       {
-        "id": "usa-keylargo",
-        "iso": "USA",
-        "label": "KEY LARGO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 25.0584646032739,
-        "lon": -80.4510728674161
-      },
-      {
         "id": "usa-moreheadcity",
         "iso": "USA",
         "label": "MOREHEAD CITY",
@@ -84402,16 +73737,6 @@ module.exports = {
         "lon": -82.6369219472519
       },
       {
-        "id": "usa-harvey",
-        "iso": "USA",
-        "label": "HARVEY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.0013901517932,
-        "lon": -93.5759291617457
-      },
-      {
         "id": "usa-gc743",
         "iso": "USA",
         "label": "GC 743",
@@ -84420,16 +73745,6 @@ module.exports = {
         ],
         "lat": 27.2242427639848,
         "lon": -90.0326562354491
-      },
-      {
-        "id": "usa-georgetown",
-        "iso": "USA",
-        "label": "GEORGETOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 33.3643737146896,
-        "lon": -79.274099430007
       },
       {
         "id": "usa-cypresslake",
@@ -84472,26 +73787,6 @@ module.exports = {
         "lon": -80.1435666012741
       },
       {
-        "id": "usa-thunderbolt",
-        "iso": "USA",
-        "label": "THUNDERBOLT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 27.1150336859402,
-        "lon": -80.1426124021086
-      },
-      {
-        "id": "usa-staugustine",
-        "iso": "USA",
-        "label": "ST AUGUSTINE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.918983037136,
-        "lon": -81.3040356358461
-      },
-      {
         "id": "usa-beaumont",
         "iso": "USA",
         "label": "BEAUMONT",
@@ -84500,16 +73795,6 @@ module.exports = {
         ],
         "lat": 29.5197944188186,
         "lon": -93.7162926460787
-      },
-      {
-        "id": "usa-hiltonhead",
-        "iso": "USA",
-        "label": "HILTON HEAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 32.1382685508061,
-        "lon": -80.8125776583899
       },
       {
         "id": "usa-gc683",
@@ -84672,16 +73957,6 @@ module.exports = {
         "lon": -77.3602911580522
       },
       {
-        "id": "usa-everglades",
-        "iso": "USA",
-        "label": "EVERGLADES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.6666876504423,
-        "lon": -82.2124236623286
-      },
-      {
         "id": "usa-puntagorda",
         "iso": "USA",
         "label": "PUNTA GORDA",
@@ -84690,16 +73965,6 @@ module.exports = {
         ],
         "lat": 26.929509228022,
         "lon": -82.064168877274
-      },
-      {
-        "id": "usa-bf",
-        "iso": "USA",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 31.0464690635671,
-        "lon": -81.4226780310625
       },
       {
         "id": "usa-tybeeisland",
@@ -84782,26 +74047,6 @@ module.exports = {
         "lon": -81.87455735695
       },
       {
-        "id": "usa-pensacola",
-        "iso": "USA",
-        "label": "PENSACOLA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.4032278561925,
-        "lon": -87.2136407675858
-      },
-      {
-        "id": "usa-berwick",
-        "iso": "USA",
-        "label": "BERWICK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.4581122087651,
-        "lon": -89.1840468063227
-      },
-      {
         "id": "usa-tavernier",
         "iso": "USA",
         "label": "TAVERNIER",
@@ -84810,16 +74055,6 @@ module.exports = {
         ],
         "lat": 25.0015018782043,
         "lon": -80.5026285424334
-      },
-      {
-        "id": "usa-indianharbourbeach",
-        "iso": "USA",
-        "label": "INDIAN HARBOUR BEACH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.1434611369194,
-        "lon": -80.6152876775652
       },
       {
         "id": "usa-harlemheights",
@@ -84840,16 +74075,6 @@ module.exports = {
         ],
         "lat": 26.2079399299669,
         "lon": -91.4435727131837
-      },
-      {
-        "id": "usa-palmbeach",
-        "iso": "USA",
-        "label": "PALM BEACH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.7417213853817,
-        "lon": -80.0222710163971
       },
       {
         "id": "usa-longboatkey",
@@ -84902,26 +74127,6 @@ module.exports = {
         "lon": -90.5000179170883
       },
       {
-        "id": "usa-uppergrandlagoon",
-        "iso": "USA",
-        "label": "UPPER GRAND LAGOON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.1784854067539,
-        "lon": -85.7319179455439
-      },
-      {
-        "id": "usa-carolinabeach",
-        "iso": "USA",
-        "label": "CAROLINA BEACH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.0462732209787,
-        "lon": -77.8899733927675
-      },
-      {
         "id": "usa-clearwater",
         "iso": "USA",
         "label": "CLEARWATER",
@@ -84930,16 +74135,6 @@ module.exports = {
         ],
         "lat": 27.9683685651146,
         "lon": -82.8138784676078
-      },
-      {
-        "id": "usa-coconutgrove",
-        "iso": "USA",
-        "label": "COCONUT GROVE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 25.7205001870769,
-        "lon": -80.224835020123
       },
       {
         "id": "usa-smi234",
@@ -85000,36 +74195,6 @@ module.exports = {
         ],
         "lat": 27.9057478516013,
         "lon": -97.1326011305934
-      },
-      {
-        "id": "usa-wd73",
-        "iso": "USA",
-        "label": "WD73",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.954950082543,
-        "lon": -89.6978784045981
-      },
-      {
-        "id": "usa-portlavaca",
-        "iso": "USA",
-        "label": "PORT LAVACA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.6231548676952,
-        "lon": -96.6240176996474
-      },
-      {
-        "id": "usa-texascity",
-        "iso": "USA",
-        "label": "TEXAS CITY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.3712638302035,
-        "lon": -94.891203237726
       },
       {
         "id": "usa-southpatrickshores",
@@ -85132,16 +74297,6 @@ module.exports = {
         "lon": -89.9692106344421
       },
       {
-        "id": "usa-settoonhouma",
-        "iso": "USA",
-        "label": "SETTOON HOUMA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.4392415943357,
-        "lon": -89.8574096336266
-      },
-      {
         "id": "usa-superioringleside",
         "iso": "USA",
         "label": "SUPERIOR INGLESIDE",
@@ -85160,16 +74315,6 @@ module.exports = {
         ],
         "lat": 30.0623682776243,
         "lon": -90.2733566159593
-      },
-      {
-        "id": "usa-portofiberia",
-        "iso": "USA",
-        "label": "PORT OF IBERIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.5104820985502,
-        "lon": -94.5289164709316
       },
       {
         "id": "usa-seabreeze",
@@ -85282,16 +74427,6 @@ module.exports = {
         "lon": -80.8858086497633
       },
       {
-        "id": "usa-charlestonsc",
-        "iso": "USA",
-        "label": "CHARLESTON SC",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 32.4270938350089,
-        "lon": -80.4173233436019
-      },
-      {
         "id": "usa-vr67b",
         "iso": "USA",
         "label": "VR67B",
@@ -85350,26 +74485,6 @@ module.exports = {
         ],
         "lat": 28.2274245236112,
         "lon": -96.795436872638
-      },
-      {
-        "id": "usa-delraybeach",
-        "iso": "USA",
-        "label": "DELRAY BEACH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.4596334751149,
-        "lon": -80.0639710656587
-      },
-      {
-        "id": "usa-icy",
-        "iso": "USA",
-        "label": "ICY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 28.2203499408061,
-        "lon": -92.7949653173325
       },
       {
         "id": "usa-grandcheniere",
@@ -85482,26 +74597,6 @@ module.exports = {
         "lon": -81.4737784508518
       },
       {
-        "id": "usa-wilmington",
-        "iso": "USA",
-        "label": "WILMINGTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 33.7735277037485,
-        "lon": -78.1111897672679
-      },
-      {
-        "id": "usa-cchristi",
-        "iso": "USA",
-        "label": "C CHRISTI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.9668007806911,
-        "lon": -93.8611208594445
-      },
-      {
         "id": "usa-masonboro",
         "iso": "USA",
         "label": "MASONBORO",
@@ -85582,16 +74677,6 @@ module.exports = {
         "lon": -90.5472045665293
       },
       {
-        "id": "usa-northpalmbeach",
-        "iso": "USA",
-        "label": "NORTH PALM BEACH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 26.8336255810002,
-        "lon": -80.0537287135128
-      },
-      {
         "id": "usa-cp",
         "iso": "USA",
         "label": "CP",
@@ -85612,16 +74697,6 @@ module.exports = {
         "lon": -90.1705848428615
       },
       {
-        "id": "usa-wilmingtonnc",
-        "iso": "USA",
-        "label": "WILMINGTON NC",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.0094071960973,
-        "lon": -77.9528780862911
-      },
-      {
         "id": "usa-gc640",
         "iso": "USA",
         "label": "GC 640",
@@ -85640,26 +74715,6 @@ module.exports = {
         ],
         "lat": 27.8825032817065,
         "lon": -82.5329506373794
-      },
-      {
-        "id": "usa-bg",
-        "iso": "USA",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.5509316768063,
-        "lon": -77.3248670007073
-      },
-      {
-        "id": "usa-yin",
-        "iso": "USA",
-        "label": "YIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 34.5520667471252,
-        "lon": -77.3247505561637
       },
       {
         "id": "usa-titusville",
@@ -85732,26 +74787,6 @@ module.exports = {
         "lon": -90.4749759224977
       },
       {
-        "id": "usa-bayoulabatre",
-        "iso": "USA",
-        "label": "BAYOU LA BATRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 30.3829504754726,
-        "lon": -88.2690520846687
-      },
-      {
-        "id": "usa-houmala",
-        "iso": "USA",
-        "label": "HOUMA LA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.2507258783805,
-        "lon": -95.0040780766339
-      },
-      {
         "id": "usa-aphazar",
         "iso": "USA",
         "label": "AP HAZAR",
@@ -85800,16 +74835,6 @@ module.exports = {
         ],
         "lat": 26.6366820705445,
         "lon": -81.8820436046419
-      },
-      {
-        "id": "usa-clearlakeshores",
-        "iso": "USA",
-        "label": "CLEAR LAKE SHORES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.5461139591057,
-        "lon": -95.0200387452825
       },
       {
         "id": "usa-baymar",
@@ -85882,16 +74907,6 @@ module.exports = {
         "lon": -82.5445486613553
       },
       {
-        "id": "usa-dulac",
-        "iso": "USA",
-        "label": "DULAC",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 29.2185386485478,
-        "lon": -90.4899586099383
-      },
-      {
         "id": "usa-valerostcharles",
         "iso": "USA",
         "label": "VALERO ST CHARLES",
@@ -85910,16 +74925,6 @@ module.exports = {
         ],
         "lat": 30.2517433483586,
         "lon": -88.081083558668
-      },
-      {
-        "id": "ven-maracaibo",
-        "iso": "VEN",
-        "label": "MARACAIBO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.6411407290428,
-        "lon": -71.580871068793
       },
       {
         "id": "ven-ptolacruz",
@@ -86012,16 +75017,6 @@ module.exports = {
         "lon": -68.1382867100261
       },
       {
-        "id": "ven-puertocabello",
-        "iso": "VEN",
-        "label": "PUERTO CABELLO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.5215357788688,
-        "lon": -68.0144094294511
-      },
-      {
         "id": "ven-jose",
         "iso": "VEN",
         "label": "JOSE",
@@ -86060,16 +75055,6 @@ module.exports = {
         ],
         "lat": 9.78317771642751,
         "lon": -71.4764403919994
-      },
-      {
-        "id": "ven-guanta",
-        "iso": "VEN",
-        "label": "GUANTA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.2625680080625,
-        "lon": -64.5931060874224
       },
       {
         "id": "ven-puertojose",
@@ -86112,26 +75097,6 @@ module.exports = {
         "lon": -70.2544823486541
       },
       {
-        "id": "ven-elguamache",
-        "iso": "VEN",
-        "label": "EL GUAMACHE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.8694007469928,
-        "lon": -64.0536363266266
-      },
-      {
-        "id": "ven-laspiedras",
-        "iso": "VEN",
-        "label": "LAS PIEDRAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 11.675254806412,
-        "lon": -70.236863804124
-      },
-      {
         "id": "ven-puertoordaz",
         "iso": "VEN",
         "label": "PUERTO ORDAZ",
@@ -86160,16 +75125,6 @@ module.exports = {
         ],
         "lat": 10.7786362496627,
         "lon": -71.3191868882415
-      },
-      {
-        "id": "ven-amuay(bahiadeamuay)",
-        "iso": "VEN",
-        "label": "AMUAY (BAHIA DE AMUAY)",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 11.7476617379877,
-        "lon": -70.2630007452547
       },
       {
         "id": "ven-ciudadojeda",
@@ -86212,26 +75167,6 @@ module.exports = {
         "lon": -71.2678448038939
       },
       {
-        "id": "ven-puertoborburata",
-        "iso": "VEN",
-        "label": "PUERTO BORBURATA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.5018455044764,
-        "lon": -67.9880875601449
-      },
-      {
-        "id": "ven-laguaira",
-        "iso": "VEN",
-        "label": "LA GUAIRA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.6218046323182,
-        "lon": -66.9402853765412
-      },
-      {
         "id": "ven-puertomiranda",
         "iso": "VEN",
         "label": "PUERTO MIRANDA",
@@ -86260,16 +75195,6 @@ module.exports = {
         ],
         "lat": 8.95510101878439,
         "lon": -60.1907607765428
-      },
-      {
-        "id": "ven-vejot",
-        "iso": "VEN",
-        "label": "VE JOT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.1601942144862,
-        "lon": -64.7961008771211
       },
       {
         "id": "ven-guaranao",
@@ -86482,16 +75407,6 @@ module.exports = {
         "lon": -70.5604259002061
       },
       {
-        "id": "vgb-tortola",
-        "iso": "VGB",
-        "label": "TORTOLA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.4066623394286,
-        "lon": -64.6077616551276
-      },
-      {
         "id": "vgb-bd",
         "iso": "VGB",
         "label": "BD",
@@ -86502,16 +75417,6 @@ module.exports = {
         "lon": -64.4857665802564
       },
       {
-        "id": "vgb-bvi",
-        "iso": "VGB",
-        "label": "BVI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.4404431763622,
-        "lon": -64.5052512587551
-      },
-      {
         "id": "vgb-jostvandyke",
         "iso": "VGB",
         "label": "JOST VAN DYKE",
@@ -86520,16 +75425,6 @@ module.exports = {
         ],
         "lat": 18.443096813058,
         "lon": -64.7290022868392
-      },
-      {
-        "id": "vgb-virgingorda",
-        "iso": "VGB",
-        "label": "VIRGIN GORDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.4622797335553,
-        "lon": -64.4293717480535
       },
       {
         "id": "vgb-chon",
@@ -86630,16 +75525,6 @@ module.exports = {
         ],
         "lat": 18.7228708996275,
         "lon": -64.3832210662758
-      },
-      {
-        "id": "vgb-roadharbor",
-        "iso": "VGB",
-        "label": "ROAD HARBOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.4013917392096,
-        "lon": -64.6258948519177
       },
       {
         "id": "vgb-canegardenbay",
@@ -86752,16 +75637,6 @@ module.exports = {
         "lon": -64.5617517093287
       },
       {
-        "id": "vir-charlotteamalie",
-        "iso": "VIR",
-        "label": "CHARLOTTE AMALIE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.3258933308011,
-        "lon": -64.9450740238125
-      },
-      {
         "id": "vir-limetreebay",
         "iso": "VIR",
         "label": "LIMETREE BAY",
@@ -86790,16 +75665,6 @@ module.exports = {
         ],
         "lat": 18.3379662362511,
         "lon": -64.7891379708758
-      },
-      {
-        "id": "vir-stthomas",
-        "iso": "VIR",
-        "label": "ST THOMAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.3225906208462,
-        "lon": -64.8454644037121
       },
       {
         "id": "vir-stjohn",
@@ -86850,16 +75715,6 @@ module.exports = {
         ],
         "lat": 18.3376747887965,
         "lon": -64.7079936427432
-      },
-      {
-        "id": "vir-portalucroix",
-        "iso": "VIR",
-        "label": "PORT ALUCROIX",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.6936162232688,
-        "lon": -64.7624220771155
       },
       {
         "id": "vir-ce",
@@ -86962,26 +75817,6 @@ module.exports = {
         "lon": -64.861280566137
       },
       {
-        "id": "civ-abidjan",
-        "iso": "CIV",
-        "label": "ABIDJAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 5.21173462812401,
-        "lon": -4.05270035207891
-      },
-      {
-        "id": "civ-portbouet",
-        "iso": "CIV",
-        "label": "PORT BOUET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 5.23435486395095,
-        "lon": -3.96516236069776
-      },
-      {
         "id": "gin-conakry",
         "iso": "GIN",
         "label": "CONAKRY",
@@ -87010,36 +75845,6 @@ module.exports = {
         ],
         "lat": 17.786709955851,
         "lon": -64.628913359862
-      },
-      {
-        "id": "per-talara",
-        "iso": "PER",
-        "label": "TALARA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 4.57305555556,
-        "lon": 81.2983888889
-      },
-      {
-        "id": "per-paita",
-        "iso": "PER",
-        "label": "PAITA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 5.08463888889,
-        "lon": 81.1069444444
-      },
-      {
-        "id": "kir-london",
-        "iso": "KIR",
-        "label": "LONDON",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.98031497606416,
-        "lon": -157.488018156145
       },
       {
         "id": "kir-tarawa",
@@ -87102,16 +75907,6 @@ module.exports = {
         "lon": 73.4900063083385
       },
       {
-        "id": "cri-puertocaldera",
-        "iso": "CRI",
-        "label": "PUERTO CALDERA",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 9.9228683886357,
-        "lon": -84.7344788377358
-      },
-      {
         "id": "cri-papagayo",
         "iso": "CRI",
         "label": "PAPAGAYO",
@@ -87132,16 +75927,6 @@ module.exports = {
         "lon": -84.9703360761498
       },
       {
-        "id": "gtm-puertoquetzal",
-        "iso": "GTM",
-        "label": "PUERTO QUETZAL",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 13.9189514400964,
-        "lon": -90.8029260407575
-      },
-      {
         "id": "gtm-sanjose",
         "iso": "GTM",
         "label": "SAN JOSE",
@@ -87150,16 +75935,6 @@ module.exports = {
         ],
         "lat": 13.9070092956729,
         "lon": -90.8587181007229
-      },
-      {
-        "id": "nic-corinto",
-        "iso": "NIC",
-        "label": "CORINTO",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 12.4814490150439,
-        "lon": -87.1677249220937
       },
       {
         "id": "pan-vacamonte",
@@ -87180,16 +75955,6 @@ module.exports = {
         ],
         "lat": 13.5709063319221,
         "lon": -89.8412694685894
-      },
-      {
-        "id": "slv-acajutlaoffshoreterminal",
-        "iso": "SLV",
-        "label": "ACAJUTLA OFFSHORE TERMINAL",
-        "rfmo": [
-          "IATTC"
-        ],
-        "lat": 13.5866686917993,
-        "lon": -89.8524214403134
       },
       {
         "id": "idn-ciwandan",
@@ -87222,46 +75987,6 @@ module.exports = {
         "lon": 105.767912179208
       },
       {
-        "id": "idn-banten",
-        "iso": "IDN",
-        "label": "BANTEN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.9965670521659,
-        "lon": 105.943477951936
-      },
-      {
-        "id": "idn-anyerlor",
-        "iso": "IDN",
-        "label": "ANYER LOR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -6.02256458112719,
-        "lon": 105.913102104184
-      },
-      {
-        "id": "idn-panjang",
-        "iso": "IDN",
-        "label": "PANJANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.49589413448027,
-        "lon": 105.304976307016
-      },
-      {
-        "id": "idn-ujungbom",
-        "iso": "IDN",
-        "label": "UJUNG BOM",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.47518082335362,
-        "lon": 105.296478719347
-      },
-      {
         "id": "idn-lempasing",
         "iso": "IDN",
         "label": "LEMPASING",
@@ -87280,16 +76005,6 @@ module.exports = {
         ],
         "lat": -5.5519068123261,
         "lon": 104.582665927522
-      },
-      {
-        "id": "idn-rangai",
-        "iso": "IDN",
-        "label": "RANGAI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.51696899213295,
-        "lon": 105.334703076574
       },
       {
         "id": "idn-karanganyer",
@@ -87470,26 +76185,6 @@ module.exports = {
         ],
         "lat": -17.3137161019618,
         "lon": 178.228691242531
-      },
-      {
-        "id": "fji-lautokaharbor",
-        "iso": "FJI",
-        "label": "LAUTOKA HARBOR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -17.5967572278404,
-        "lon": 177.431000817224
-      },
-      {
-        "id": "fji-suva",
-        "iso": "FJI",
-        "label": "SUVA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -18.1312840836483,
-        "lon": 178.414509877489
       },
       {
         "id": "fji-aaaaaaaaaa",
@@ -87832,26 +76527,6 @@ module.exports = {
         "lon": 167.734641645707
       },
       {
-        "id": "plw-malakalharbor",
-        "iso": "PLW",
-        "label": "MALAKAL HARBOR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 7.33653343270016,
-        "lon": 134.450012971387
-      },
-      {
-        "id": "png-portmoresby",
-        "iso": "PNG",
-        "label": "PORT MORESBY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -9.47437572775609,
-        "lon": 147.137456916684
-      },
-      {
         "id": "png-vidar",
         "iso": "PNG",
         "label": "VIDAR",
@@ -87860,16 +76535,6 @@ module.exports = {
         ],
         "lat": -5.08109078088198,
         "lon": 145.80754699502
-      },
-      {
-        "id": "png-madangpng",
-        "iso": "PNG",
-        "label": "MADANG PNG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.08342440957848,
-        "lon": 145.808109661726
       },
       {
         "id": "png-kieta",
@@ -87900,16 +76565,6 @@ module.exports = {
         ],
         "lat": -2.44829665315187,
         "lon": 150.387570259803
-      },
-      {
-        "id": "png-lae",
-        "iso": "PNG",
-        "label": "LAE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -6.7928147054525,
-        "lon": 146.976708688303
       },
       {
         "id": "png-alotoa",
@@ -87950,16 +76605,6 @@ module.exports = {
         ],
         "lat": -3.55022704962355,
         "lon": 143.648538752138
-      },
-      {
-        "id": "png-rabaul",
-        "iso": "PNG",
-        "label": "RABAUL",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -4.25434146633164,
-        "lon": 152.186186234118
       },
       {
         "id": "png-madang",
@@ -88212,16 +76857,6 @@ module.exports = {
         "lon": -174.289941924404
       },
       {
-        "id": "ton-neiafu",
-        "iso": "TON",
-        "label": "NEIAFU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -18.6759885270534,
-        "lon": -173.988525666164
-      },
-      {
         "id": "ton-b2aoambacht",
         "iso": "TON",
         "label": "B 2 A O AMBACHT",
@@ -88312,16 +76947,6 @@ module.exports = {
         "lon": -174.069258887948
       },
       {
-        "id": "ton-nukualofa",
-        "iso": "TON",
-        "label": "NUKUALOFA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -18.750788982435,
-        "lon": -174.081966717758
-      },
-      {
         "id": "ton-bd",
         "iso": "TON",
         "label": "BD",
@@ -88392,16 +77017,6 @@ module.exports = {
         "lon": 167.180608830394
       },
       {
-        "id": "vut-bf",
-        "iso": "VUT",
-        "label": "BF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -17.0501809545188,
-        "lon": 168.370774762505
-      },
-      {
         "id": "vut-fiji",
         "iso": "VUT",
         "label": "FIJI",
@@ -88410,16 +77025,6 @@ module.exports = {
         ],
         "lat": -17.5633661351586,
         "lon": 168.274126094442
-      },
-      {
-        "id": "vut-portvila",
-        "iso": "VUT",
-        "label": "PORT VILA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -17.7120675111401,
-        "lon": 168.301904485883
       },
       {
         "id": "vut-denerau",
@@ -88504,17 +77109,6 @@ module.exports = {
         "lon": 117.34311077369
       },
       {
-        "id": "aus-geraldton",
-        "iso": "AUS",
-        "label": "GERALDTON",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -28.6990035276144,
-        "lon": 114.530139003353
-      },
-      {
         "id": "aus-geraldtonaus",
         "iso": "AUS",
         "label": "GERALDTON AUS",
@@ -88524,28 +77118,6 @@ module.exports = {
         ],
         "lat": -28.6787164310721,
         "lon": 114.539336960615
-      },
-      {
-        "id": "aus-dampier",
-        "iso": "AUS",
-        "label": "DAMPIER",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -20.6432018571861,
-        "lon": 116.625514416739
-      },
-      {
-        "id": "aus-esperance",
-        "iso": "AUS",
-        "label": "ESPERANCE",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -33.8710591682804,
-        "lon": 121.931003878303
       },
       {
         "id": "aus-uwan",
@@ -88590,17 +77162,6 @@ module.exports = {
         ],
         "lat": -34.7751992356869,
         "lon": 138.483801111525
-      },
-      {
-        "id": "aus-adelaide",
-        "iso": "AUS",
-        "label": "ADELAIDE",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -34.7883409068156,
-        "lon": 138.417337105981
       },
       {
         "id": "aus-dampieraus",
@@ -88713,28 +77274,6 @@ module.exports = {
         "lon": 117.178137283301
       },
       {
-        "id": "aus-whyalla",
-        "iso": "AUS",
-        "label": "WHYALLA",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -33.1195165574113,
-        "lon": 137.627718209821
-      },
-      {
-        "id": "aus-kwinana",
-        "iso": "AUS",
-        "label": "KWINANA",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -32.0327198788432,
-        "lon": 115.674775548981
-      },
-      {
         "id": "aus-auwya",
         "iso": "AUS",
         "label": "AU WYA",
@@ -88843,17 +77382,6 @@ module.exports = {
         ],
         "lat": -33.8843913135644,
         "lon": 121.941138395736
-      },
-      {
-        "id": "aus-fremantle",
-        "iso": "AUS",
-        "label": "FREMANTLE",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -32.135779269152,
-        "lon": 115.680505313669
       },
       {
         "id": "aus-portgiles",
@@ -88999,17 +77527,6 @@ module.exports = {
         "lon": 117.954846464197
       },
       {
-        "id": "aus-bunbury",
-        "iso": "AUS",
-        "label": "BUNBURY",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -33.2747850722111,
-        "lon": 115.590199940598
-      },
-      {
         "id": "aus-ardrossan",
         "iso": "AUS",
         "label": "ARDROSSAN",
@@ -89131,17 +77648,6 @@ module.exports = {
         "lon": 115.203121938317
       },
       {
-        "id": "aus-exmouth",
-        "iso": "AUS",
-        "label": "EXMOUTH",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -21.9569812860143,
-        "lon": 114.13901288999
-      },
-      {
         "id": "aus-kwinanaaus",
         "iso": "AUS",
         "label": "KWINANA AUS",
@@ -89164,17 +77670,6 @@ module.exports = {
         "lon": 114.117546970003
       },
       {
-        "id": "aus-ore",
-        "iso": "AUS",
-        "label": "ORE",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -37.161234060407,
-        "lon": 139.750345195016
-      },
-      {
         "id": "aus-wandoo",
         "iso": "AUS",
         "label": "WANDOO",
@@ -89195,17 +77690,6 @@ module.exports = {
         ],
         "lat": -20.7244702046864,
         "lon": 115.474631224332
-      },
-      {
-        "id": "aus-coralbay",
-        "iso": "AUS",
-        "label": "CORAL BAY",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -35.5340550155089,
-        "lon": 137.819497726638
       },
       {
         "id": "aus-westlewisisland",
@@ -89294,17 +77778,6 @@ module.exports = {
         ],
         "lat": -34.6583596471887,
         "lon": 135.968092221981
-      },
-      {
-        "id": "aus-capecuvier",
-        "iso": "AUS",
-        "label": "CAPE CUVIER",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -24.2006421780207,
-        "lon": 113.39795032681
       },
       {
         "id": "aus-cockatooisland",
@@ -89505,17 +77978,6 @@ module.exports = {
         "lon": -146.775245855434
       },
       {
-        "id": "pyf-b2acnnalokta",
-        "iso": "PYF",
-        "label": "B 2 A CNNA LOKTA",
-        "rfmo": [
-          "WCPFC",
-          "IATTC"
-        ],
-        "lat": -14.9669543920469,
-        "lon": -147.637571373022
-      },
-      {
         "id": "pyf-and",
         "iso": "PYF",
         "label": "AND",
@@ -89558,17 +78020,6 @@ module.exports = {
         ],
         "lat": -10.4645522427331,
         "lon": -138.670428410374
-      },
-      {
-        "id": "pyf-b2aafen",
-        "iso": "PYF",
-        "label": "B 2 A AFEN",
-        "rfmo": [
-          "WCPFC",
-          "IATTC"
-        ],
-        "lat": -13.6741407392287,
-        "lon": -141.640886512405
       },
       {
         "id": "pyf-teavaro",
@@ -89923,16 +78374,6 @@ module.exports = {
         "lon": -146.241537853066
       },
       {
-        "id": "aus-weipa",
-        "iso": "AUS",
-        "label": "WEIPA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -12.7604574171103,
-        "lon": 141.634092392126
-      },
-      {
         "id": "aus-augov",
         "iso": "AUS",
         "label": "AU GOV",
@@ -89951,16 +78392,6 @@ module.exports = {
         ],
         "lat": -13.8610952428068,
         "lon": 136.399301221018
-      },
-      {
-        "id": "aus-darwin",
-        "iso": "AUS",
-        "label": "DARWIN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -12.4488835847143,
-        "lon": 130.825097670308
       },
       {
         "id": "aus-aubbg",
@@ -89993,16 +78424,6 @@ module.exports = {
         "lon": 141.604858446788
       },
       {
-        "id": "aus-karumba",
-        "iso": "AUS",
-        "label": "KARUMBA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -17.3240926080573,
-        "lon": 140.629588381489
-      },
-      {
         "id": "aus-audrw",
         "iso": "AUS",
         "label": "AU DRW",
@@ -90011,16 +78432,6 @@ module.exports = {
         ],
         "lat": -12.5244245124293,
         "lon": 130.8494349897
-      },
-      {
-        "id": "aus-fanniebay",
-        "iso": "AUS",
-        "label": "FANNIE BAY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -12.4264001898762,
-        "lon": 130.820173477368
       },
       {
         "id": "aus-gove",
@@ -90151,17 +78562,6 @@ module.exports = {
         "lon": 152.152103164113
       },
       {
-        "id": "aus-newcastle",
-        "iso": "AUS",
-        "label": "NEWCASTLE",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -33.1335545239401,
-        "lon": 151.72408091737
-      },
-      {
         "id": "aus-coniston",
         "iso": "AUS",
         "label": "CONISTON",
@@ -90171,17 +78571,6 @@ module.exports = {
         ],
         "lat": -34.4538316519076,
         "lon": 150.888184382725
-      },
-      {
-        "id": "aus-coralbay",
-        "iso": "AUS",
-        "label": "CORAL BAY",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -33.0132966164195,
-        "lon": 151.931227815285
       },
       {
         "id": "aus-ersburgrussia",
@@ -90195,17 +78584,6 @@ module.exports = {
         "lon": 153.059413893559
       },
       {
-        "id": "aus-bf",
-        "iso": "AUS",
-        "label": "BF",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -35.0867617619713,
-        "lon": 150.71042366699
-      },
-      {
         "id": "aus-ulladulla",
         "iso": "AUS",
         "label": "ULLADULLA",
@@ -90215,17 +78593,6 @@ module.exports = {
         ],
         "lat": -35.3573298742322,
         "lon": 150.476853331423
-      },
-      {
-        "id": "aus-sydney",
-        "iso": "AUS",
-        "label": "SYDNEY",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -33.8270297003277,
-        "lon": 151.556798845425
       },
       {
         "id": "aus-hawksnest",
@@ -90261,83 +78628,6 @@ module.exports = {
         "lon": 150.906440176001
       },
       {
-        "id": "aus-eden",
-        "iso": "AUS",
-        "label": "EDEN",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -37.0786388172305,
-        "lon": 149.908825290326
-      },
-      {
-        "id": "aus-botanybay",
-        "iso": "AUS",
-        "label": "BOTANY BAY",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -34.000477741674,
-        "lon": 151.21057927234
-      },
-      {
-        "id": "aus-aria",
-        "iso": "AUS",
-        "label": "ARIA",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -32.6123387370939,
-        "lon": 152.31276284361
-      },
-      {
-        "id": "aus-cairns",
-        "iso": "AUS",
-        "label": "CAIRNS",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -32.6196529420751,
-        "lon": 152.317139485821
-      },
-      {
-        "id": "aus-ath",
-        "iso": "AUS",
-        "label": "ATH",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -37.1093650328458,
-        "lon": 149.92609363273
-      },
-      {
-        "id": "aus-ore",
-        "iso": "AUS",
-        "label": "ORE",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -37.1093487135123,
-        "lon": 149.928125076735
-      },
-      {
-        "id": "aus-tasmania",
-        "iso": "AUS",
-        "label": "TASMANIA",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -37.107939435685,
-        "lon": 149.928063810238
-      },
-      {
         "id": "nzl-pareanuibay",
         "iso": "NZL",
         "label": "PAREANUI BAY",
@@ -90360,28 +78650,6 @@ module.exports = {
         "lon": 175.093628639246
       },
       {
-        "id": "nzl-aucklandnz",
-        "iso": "NZL",
-        "label": "AUCKLAND NZ",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -35.0894723648846,
-        "lon": 173.99301935609
-      },
-      {
-        "id": "nzl-paihia",
-        "iso": "NZL",
-        "label": "PAIHIA",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -35.2668609538595,
-        "lon": 174.117648166278
-      },
-      {
         "id": "nzl-newplymouth",
         "iso": "NZL",
         "label": "NEW PLYMOUTH",
@@ -90402,39 +78670,6 @@ module.exports = {
         ],
         "lat": -36.4284567279272,
         "lon": 174.823565870863
-      },
-      {
-        "id": "nzl-auckland",
-        "iso": "NZL",
-        "label": "AUCKLAND",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -36.4909605864604,
-        "lon": 174.969306013236
-      },
-      {
-        "id": "nzl-akielcan",
-        "iso": "NZL",
-        "label": "A KIEL CAN",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -35.0094344302913,
-        "lon": 173.933332147519
-      },
-      {
-        "id": "nzl-wellington",
-        "iso": "NZL",
-        "label": "WELLINGTON",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -41.2750385591451,
-        "lon": 174.799946397706
       },
       {
         "id": "nzl-bf",
@@ -90470,17 +78705,6 @@ module.exports = {
         "lon": 174.932459744835
       },
       {
-        "id": "nzl-whangarei",
-        "iso": "NZL",
-        "label": "WHANGAREI",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -35.8934715125268,
-        "lon": 174.541718365658
-      },
-      {
         "id": "nzl-marsdenpointnz",
         "iso": "NZL",
         "label": "MARSDEN POINT NZ",
@@ -90503,17 +78727,6 @@ module.exports = {
         "lon": 176.202958118691
       },
       {
-        "id": "nzl-picton",
-        "iso": "NZL",
-        "label": "PICTON",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -41.1226120768853,
-        "lon": 173.545840969204
-      },
-      {
         "id": "nzl-6d73148d",
         "iso": "NZL",
         "label": "6D73148D",
@@ -90523,17 +78736,6 @@ module.exports = {
         ],
         "lat": -36.2084564010091,
         "lon": 175.337406008578
-      },
-      {
-        "id": "nzl-burg",
-        "iso": "NZL",
-        "label": "BURG",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -36.6484843775431,
-        "lon": 174.887862976851
       },
       {
         "id": "nzl-va0",
@@ -90589,28 +78791,6 @@ module.exports = {
         ],
         "lat": -36.6041877231182,
         "lon": 175.793172957764
-      },
-      {
-        "id": "nzl-opua",
-        "iso": "NZL",
-        "label": "OPUA",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -35.2804616705156,
-        "lon": 174.117103480038
-      },
-      {
-        "id": "nzl-bbor",
-        "iso": "NZL",
-        "label": "BBOR",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -36.439020366176,
-        "lon": 174.931201561179
       },
       {
         "id": "nzl-aucklandnewzealand",
@@ -90690,17 +78870,6 @@ module.exports = {
         "lon": 170.690826009416
       },
       {
-        "id": "nzl-marsdenpoint",
-        "iso": "NZL",
-        "label": "MARSDEN POINT",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -35.8734110991222,
-        "lon": 174.549945354603
-      },
-      {
         "id": "nzl-moturuaisland",
         "iso": "NZL",
         "label": "MOTURUA ISLAND",
@@ -90721,17 +78890,6 @@ module.exports = {
         ],
         "lat": -37.3066898716774,
         "lon": 176.258557983111
-      },
-      {
-        "id": "nzl-dunedin",
-        "iso": "NZL",
-        "label": "DUNEDIN",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -45.7128012411291,
-        "lon": 170.694078523509
       },
       {
         "id": "nzl-opuaboi",
@@ -90767,28 +78925,6 @@ module.exports = {
         "lon": 174.788898265147
       },
       {
-        "id": "nzl-pozzallo",
-        "iso": "NZL",
-        "label": "POZZALLO",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -35.0128286745999,
-        "lon": 173.939331671268
-      },
-      {
-        "id": "nzl-gisborne",
-        "iso": "NZL",
-        "label": "GISBORNE",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -38.7270157622754,
-        "lon": 177.989684591514
-      },
-      {
         "id": "nzl-nzmap",
         "iso": "NZL",
         "label": "NZ MAP",
@@ -90809,17 +78945,6 @@ module.exports = {
         ],
         "lat": -36.8367285717787,
         "lon": 175.706834427396
-      },
-      {
-        "id": "nzl-napier",
-        "iso": "NZL",
-        "label": "NAPIER",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -39.4454228020183,
-        "lon": 176.940361068314
       },
       {
         "id": "nzl-nznpe",
@@ -91020,28 +79145,6 @@ module.exports = {
         "lon": 174.82932393378
       },
       {
-        "id": "nzl-bluffharbor",
-        "iso": "NZL",
-        "label": "BLUFF HARBOR",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -46.5933286429336,
-        "lon": 168.344946012207
-      },
-      {
-        "id": "nzl-greatbarrierisland",
-        "iso": "NZL",
-        "label": "GREAT BARRIER ISLAND",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -36.1973859780726,
-        "lon": 175.337285087674
-      },
-      {
         "id": "nzl-motuihe",
         "iso": "NZL",
         "label": "MOTUIHE",
@@ -91073,17 +79176,6 @@ module.exports = {
         ],
         "lat": -36.2007406521669,
         "lon": 175.331960790455
-      },
-      {
-        "id": "nzl-otagoharbor",
-        "iso": "NZL",
-        "label": "OTAGO HARBOR",
-        "rfmo": [
-          "WCPFC",
-          "CCSBT"
-        ],
-        "lat": -45.811156930121,
-        "lon": 170.626063557934
       },
       {
         "id": "nzl-cs",
@@ -91152,28 +79244,6 @@ module.exports = {
         "lon": 43.6640580930241
       },
       {
-        "id": "moz-maputo",
-        "iso": "MOZ",
-        "label": "MAPUTO",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -25.9412984229098,
-        "lon": 32.8004315613943
-      },
-      {
-        "id": "mus-portlouis",
-        "iso": "MUS",
-        "label": "PORT LOUIS",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -20.1477501311845,
-        "lon": 57.4458858516412
-      },
-      {
         "id": "reu-reunion",
         "iso": "REU",
         "label": "REUNION",
@@ -91185,17 +79255,6 @@ module.exports = {
         "lon": 55.3502172432821
       },
       {
-        "id": "reu-portouest",
-        "iso": "REU",
-        "label": "PORT OUEST",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -20.9363259872176,
-        "lon": 55.2853817165108
-      },
-      {
         "id": "reu-saint-pierre",
         "iso": "REU",
         "label": "SAINT-PIERRE",
@@ -91205,28 +79264,6 @@ module.exports = {
         ],
         "lat": -21.3445309652472,
         "lon": 55.4763494927442
-      },
-      {
-        "id": "zaf-durban",
-        "iso": "ZAF",
-        "label": "DURBAN",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -29.7674471085184,
-        "lon": 31.162084445568
-      },
-      {
-        "id": "zaf-richardsbay",
-        "iso": "ZAF",
-        "label": "RICHARDS BAY",
-        "rfmo": [
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -28.9128078705096,
-        "lon": 32.1412701798252
       },
       {
         "id": "zaf-durbansbm",
@@ -91260,16 +79297,6 @@ module.exports = {
         "lon": -63.1110545018293
       },
       {
-        "id": "aia-sandygroundvillage",
-        "iso": "AIA",
-        "label": "SANDY GROUND VILLAGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 18.2091569491519,
-        "lon": -63.1221622994407
-      },
-      {
         "id": "aia-anguilla",
         "iso": "AIA",
         "label": "ANGUILLA",
@@ -91278,16 +79305,6 @@ module.exports = {
         ],
         "lat": 18.2622767316823,
         "lon": -63.1778912907075
-      },
-      {
-        "id": "brb-bridgetown",
-        "iso": "BRB",
-        "label": "BRIDGETOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 13.0944913519749,
-        "lon": -59.6289771753763
       },
       {
         "id": "brb-oistins",
@@ -91310,16 +79327,6 @@ module.exports = {
         "lon": -61.4481716836297
       },
       {
-        "id": "dma-roseau",
-        "iso": "DMA",
-        "label": "ROSEAU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 15.2928701359719,
-        "lon": -61.3862944252024
-      },
-      {
         "id": "dma-saintjoseph",
         "iso": "DMA",
         "label": "SAINT JOSEPH",
@@ -91338,26 +79345,6 @@ module.exports = {
         ],
         "lat": 15.2698558698052,
         "lon": -61.3769367791163
-      },
-      {
-        "id": "grd-mornerouge",
-        "iso": "GRD",
-        "label": "MORNE ROUGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 11.998847552861,
-        "lon": -61.7489088989662
-      },
-      {
-        "id": "grd-stgeorge's",
-        "iso": "GRD",
-        "label": "ST GEORGE'S",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 12.0717027890885,
-        "lon": -61.7609032246707
       },
       {
         "id": "grd-saintdavid's",
@@ -91490,26 +79477,6 @@ module.exports = {
         "lon": -61.3841741369067
       },
       {
-        "id": "guy-newamsterdam",
-        "iso": "GUY",
-        "label": "NEW AMSTERDAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 6.31022468718471,
-        "lon": -57.5236787307112
-      },
-      {
-        "id": "guy-georgetown",
-        "iso": "GUY",
-        "label": "GEORGETOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 6.81310687732886,
-        "lon": -58.1706468015492
-      },
-      {
         "id": "hti-portauprince",
         "iso": "HTI",
         "label": "PORT AU PRINCE",
@@ -91570,26 +79537,6 @@ module.exports = {
         "lon": -72.3651715189718
       },
       {
-        "id": "kna-stkitts",
-        "iso": "KNA",
-        "label": "ST KITTS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.2383516178617,
-        "lon": -62.6606095748647
-      },
-      {
-        "id": "kna-basseterre",
-        "iso": "KNA",
-        "label": "BASSETERRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.2773658833434,
-        "lon": -62.7127683802364
-      },
-      {
         "id": "kna-charlestown",
         "iso": "KNA",
         "label": "CHARLESTOWN",
@@ -91600,36 +79547,6 @@ module.exports = {
         "lon": -62.6326998833525
       },
       {
-        "id": "lca-grosislet",
-        "iso": "LCA",
-        "label": "GROS ISLET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 14.0831169570165,
-        "lon": -60.9611006900568
-      },
-      {
-        "id": "lca-grandculdesacbay",
-        "iso": "LCA",
-        "label": "GRAND CUL DE SAC BAY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 13.9671814231247,
-        "lon": -61.0277683358903
-      },
-      {
-        "id": "lca-stlucia",
-        "iso": "LCA",
-        "label": "ST LUCIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 14.0982161146754,
-        "lon": -61.0098365430886
-      },
-      {
         "id": "lca-laborie",
         "iso": "LCA",
         "label": "LABORIE",
@@ -91638,16 +79555,6 @@ module.exports = {
         ],
         "lat": 13.7472623349619,
         "lon": -60.9977671159269
-      },
-      {
-        "id": "lca-castries",
-        "iso": "LCA",
-        "label": "CASTRIES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 14.0160426703271,
-        "lon": -60.9982169090908
       },
       {
         "id": "tca-grandturk",
@@ -91808,26 +79715,6 @@ module.exports = {
         ],
         "lat": 10.3204458306239,
         "lon": -61.5029246572762
-      },
-      {
-        "id": "tto-portofspain",
-        "iso": "TTO",
-        "label": "PORT OF SPAIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.6286975684011,
-        "lon": -61.6063997011554
-      },
-      {
-        "id": "tto-chaguaramas",
-        "iso": "TTO",
-        "label": "CHAGUARAMAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.6534802392604,
-        "lon": -61.6366915378637
       },
       {
         "id": "tto-b3",
@@ -92060,16 +79947,6 @@ module.exports = {
         "lon": -61.3350362620729
       },
       {
-        "id": "vct-barrouallie",
-        "iso": "VCT",
-        "label": "BARROUALLIE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 13.2541886810624,
-        "lon": -61.2732277950517
-      },
-      {
         "id": "vct-portelizabeth",
         "iso": "VCT",
         "label": "PORT ELIZABETH",
@@ -92078,16 +79955,6 @@ module.exports = {
         ],
         "lat": 13.005416870092,
         "lon": -61.2431855088184
-      },
-      {
-        "id": "vct-kingstown",
-        "iso": "VCT",
-        "label": "KINGSTOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 13.1430931955331,
-        "lon": -61.2197156340071
       },
       {
         "id": "vct-bga",
@@ -92268,28 +80135,6 @@ module.exports = {
         ],
         "lat": 12.6244508185104,
         "lon": -61.349451437425
-      },
-      {
-        "id": "ury-montevideo",
-        "iso": "URY",
-        "label": "MONTEVIDEO",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -35.0843462722198,
-        "lon": -55.8691479160925
-      },
-      {
-        "id": "ury-nuevapalmira",
-        "iso": "URY",
-        "label": "NUEVA PALMIRA",
-        "rfmo": [
-          "ICCAT",
-          "CCSBT"
-        ],
-        "lat": -35.1249676769477,
-        "lon": -55.6948782376799
       },
       {
         "id": "ury-recalada",
@@ -92574,16 +80419,6 @@ module.exports = {
         "lon": -23.499174138011
       },
       {
-        "id": "mrt-nouadhibou",
-        "iso": "MRT",
-        "label": "NOUADHIBOU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 20.8231337553427,
-        "lon": -17.0007281379319
-      },
-      {
         "id": "sle-freetown",
         "iso": "SLE",
         "label": "FREETOWN",
@@ -92624,16 +80459,6 @@ module.exports = {
         "lon": -13.1887416224059
       },
       {
-        "id": "atg-bolands",
-        "iso": "ATG",
-        "label": "BOLANDS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.0789346183254,
-        "lon": -61.8965458006364
-      },
-      {
         "id": "atg-ana",
         "iso": "ATG",
         "label": "ANA",
@@ -92642,26 +80467,6 @@ module.exports = {
         ],
         "lat": 17.1412946394693,
         "lon": -61.7297821912297
-      },
-      {
-        "id": "atg-antigua",
-        "iso": "ATG",
-        "label": "ANTIGUA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.1705968934174,
-        "lon": -61.811183170149
-      },
-      {
-        "id": "atg-aao",
-        "iso": "ATG",
-        "label": "AAO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.1218326065078,
-        "lon": -61.8020685443755
       },
       {
         "id": "atg-barbuda",
@@ -92714,16 +80519,6 @@ module.exports = {
         "lon": -61.7647218421992
       },
       {
-        "id": "atg-codrington",
-        "iso": "ATG",
-        "label": "CODRINGTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.6105644773727,
-        "lon": -61.8558952036246
-      },
-      {
         "id": "atg-aer",
         "iso": "ATG",
         "label": "AER",
@@ -92734,16 +80529,6 @@ module.exports = {
         "lon": -61.691408947869
       },
       {
-        "id": "jam-kingston",
-        "iso": "JAM",
-        "label": "KINGSTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.9155004137073,
-        "lon": -76.7915002079182
-      },
-      {
         "id": "jam-discoverybay",
         "iso": "JAM",
         "label": "DISCOVERY BAY",
@@ -92752,16 +80537,6 @@ module.exports = {
         ],
         "lat": 18.461872436516,
         "lon": -77.4111947494694
-      },
-      {
-        "id": "jam-portesquivel",
-        "iso": "JAM",
-        "label": "PORT ESQUIVEL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.8610606683341,
-        "lon": -77.0945934262195
       },
       {
         "id": "jam-portroyal",
@@ -92854,26 +80629,6 @@ module.exports = {
         "lon": 29.3436396075236
       },
       {
-        "id": "tur-akcansa",
-        "iso": "TUR",
-        "label": "AKCANSA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.8886329095487,
-        "lon": 26.1390316388328
-      },
-      {
-        "id": "tur-canakkale",
-        "iso": "TUR",
-        "label": "CANAKKALE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.8891442093819,
-        "lon": 26.1417885289838
-      },
-      {
         "id": "tur-alapli",
         "iso": "TUR",
         "label": "ALAPLI",
@@ -92884,176 +80639,6 @@ module.exports = {
         "lon": 31.3849979839213
       },
       {
-        "id": "tur-bartin",
-        "iso": "TUR",
-        "label": "BARTIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6833609482944,
-        "lon": 32.2164647052158
-      },
-      {
-        "id": "tur-gemlik",
-        "iso": "TUR",
-        "label": "GEMLIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4350567426555,
-        "lon": 28.8309794249142
-      },
-      {
-        "id": "tur-sariyer",
-        "iso": "TUR",
-        "label": "SARIYER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1424953769614,
-        "lon": 29.0722182678898
-      },
-      {
-        "id": "tur-borusanfertilizerjetty",
-        "iso": "TUR",
-        "label": "BORUSAN FERTILIZER JETTY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.416794301956,
-        "lon": 29.1064501086735
-      },
-      {
-        "id": "tur-icmeler",
-        "iso": "TUR",
-        "label": "ICMELER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8158585702652,
-        "lon": 29.2983617516569
-      },
-      {
-        "id": "tur-eregli",
-        "iso": "TUR",
-        "label": "EREGLI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2711084984637,
-        "lon": 31.4095062539569
-      },
-      {
-        "id": "tur-defterdarburnu",
-        "iso": "TUR",
-        "label": "DEFTERDAR BURNU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0519649433844,
-        "lon": 29.0308602327549
-      },
-      {
-        "id": "tur-haydarpasa",
-        "iso": "TUR",
-        "label": "HAYDARPASA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9887543136762,
-        "lon": 29.0241473594076
-      },
-      {
-        "id": "tur-istanbul",
-        "iso": "TUR",
-        "label": "ISTANBUL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0801078418048,
-        "lon": 29.0522686267711
-      },
-      {
-        "id": "tur-izmit",
-        "iso": "TUR",
-        "label": "IZMIT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7469959423775,
-        "lon": 29.9110244656983
-      },
-      {
-        "id": "tur-aliaga",
-        "iso": "TUR",
-        "label": "ALIAGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.8308389554074,
-        "lon": 26.9302313826818
-      },
-      {
-        "id": "tur-bozburun",
-        "iso": "TUR",
-        "label": "BOZBURUN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.652207731552,
-        "lon": 28.0557581808285
-      },
-      {
-        "id": "tur-marmaris",
-        "iso": "TUR",
-        "label": "MARMARIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6494575844051,
-        "lon": 28.0560382788444
-      },
-      {
-        "id": "tur-trabzon",
-        "iso": "TUR",
-        "label": "TRABZON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.010514823429,
-        "lon": 39.7054805964202
-      },
-      {
-        "id": "mar-tangermed",
-        "iso": "MAR",
-        "label": "TANGER MED",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.8661633228123,
-        "lon": -5.59581733393731
-      },
-      {
-        "id": "gin-singapore",
-        "iso": "GIN",
-        "label": "SINGAPORE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.733037651756,
-        "lon": -14.5941094985799
-      },
-      {
-        "id": "gin-kamsar",
-        "iso": "GIN",
-        "label": "KAMSAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 10.4725771266937,
-        "lon": -14.7376371128486
-      },
-      {
         "id": "gin-portkamsar",
         "iso": "GIN",
         "label": "PORT KAMSAR",
@@ -93062,16 +80647,6 @@ module.exports = {
         ],
         "lat": 10.4398875607078,
         "lon": -14.7549674904404
-      },
-      {
-        "id": "gin-conakry",
-        "iso": "GIN",
-        "label": "CONAKRY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 9.48062802313011,
-        "lon": -13.7189349429724
       },
       {
         "id": "gin-fororders",
@@ -93114,16 +80689,6 @@ module.exports = {
         "lon": -17.3600192340031
       },
       {
-        "id": "mrt-nouakchott",
-        "iso": "MRT",
-        "label": "NOUAKCHOTT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 17.9793840306414,
-        "lon": -16.0869693607074
-      },
-      {
         "id": "usa-ah",
         "iso": "USA",
         "label": "AH",
@@ -93154,16 +80719,6 @@ module.exports = {
         "lon": -75.6278042551565
       },
       {
-        "id": "usa-wanchesenc",
-        "iso": "USA",
-        "label": "WANCHESE NC",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.1147487642687,
-        "lon": -75.9855061764574
-      },
-      {
         "id": "usa-manteo",
         "iso": "USA",
         "label": "MANTEO",
@@ -93184,16 +80739,6 @@ module.exports = {
         "lon": -76.0288677276404
       },
       {
-        "id": "usa-ang",
-        "iso": "USA",
-        "label": "ANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 35.0844932739091,
-        "lon": -76.6006403947417
-      },
-      {
         "id": "usa-cite",
         "iso": "USA",
         "label": "CITE",
@@ -93202,16 +80747,6 @@ module.exports = {
         ],
         "lat": 35.0843690994798,
         "lon": -76.6012321218252
-      },
-      {
-        "id": "usa-bg",
-        "iso": "USA",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.2454148491075,
-        "lon": -75.9377602969389
       },
       {
         "id": "usa-bsheyang",
@@ -93242,36 +80777,6 @@ module.exports = {
         ],
         "lat": 35.0238014968148,
         "lon": -76.6996629750848
-      },
-      {
-        "id": "usa-as",
-        "iso": "USA",
-        "label": "AS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.2674820193348,
-        "lon": -75.9557417584611
-      },
-      {
-        "id": "usa-bd",
-        "iso": "USA",
-        "label": "BD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.2670778389799,
-        "lon": -75.9588315397844
-      },
-      {
-        "id": "usa-yin",
-        "iso": "USA",
-        "label": "YIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.2047182089464,
-        "lon": -75.9630198881983
       },
       {
         "id": "usa-elizabethcity",
@@ -93314,16 +80819,6 @@ module.exports = {
         "lon": 118.710425473938
       },
       {
-        "id": "idn-belawan",
-        "iso": "IDN",
-        "label": "BELAWAN",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 3.89562443695455,
-        "lon": 98.7622932567429
-      },
-      {
         "id": "idn-tanjungbenoa",
         "iso": "IDN",
         "label": "TANJUNG BENOA",
@@ -93342,16 +80837,6 @@ module.exports = {
         ],
         "lat": -9.63829858932765,
         "lon": 120.249417625727
-      },
-      {
-        "id": "idn-ketapang",
-        "iso": "IDN",
-        "label": "KETAPANG",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -8.14435610838609,
-        "lon": 114.412952312995
       },
       {
         "id": "idn-possumur",
@@ -93424,16 +80909,6 @@ module.exports = {
         "lon": 99.4632425970456
       },
       {
-        "id": "idn-lembar",
-        "iso": "IDN",
-        "label": "LEMBAR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -8.73717749892704,
-        "lon": 116.057560014451
-      },
-      {
         "id": "idn-muncar",
         "iso": "IDN",
         "label": "MUNCAR",
@@ -93504,16 +80979,6 @@ module.exports = {
         "lon": 115.437040136788
       },
       {
-        "id": "idn-manggis",
-        "iso": "IDN",
-        "label": "MANGGIS",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -8.51747355356505,
-        "lon": 115.558473228372
-      },
-      {
         "id": "idn-sekotongtengah",
         "iso": "IDN",
         "label": "SEKOTONG TENGAH",
@@ -93574,26 +81039,6 @@ module.exports = {
         "lon": 124.492570074506
       },
       {
-        "id": "idn-banyuwangi",
-        "iso": "IDN",
-        "label": "BANYUWANGI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -8.12109230934497,
-        "lon": 114.406163121087
-      },
-      {
-        "id": "mmr-yangon",
-        "iso": "MMR",
-        "label": "YANGON",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 16.6749612807875,
-        "lon": 96.2230700655425
-      },
-      {
         "id": "mmr-syriam",
         "iso": "MMR",
         "label": "SYRIAM",
@@ -93622,36 +81067,6 @@ module.exports = {
         ],
         "lat": 2.53170569384608,
         "lon": 101.742929326626
-      },
-      {
-        "id": "mys-portklang",
-        "iso": "MYS",
-        "label": "PORT KLANG",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 2.83562487832509,
-        "lon": 101.283618925325
-      },
-      {
-        "id": "mys-portkelang",
-        "iso": "MYS",
-        "label": "PORT KELANG",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 2.89425714836381,
-        "lon": 101.308647613497
-      },
-      {
-        "id": "mys-pulaupinang",
-        "iso": "MYS",
-        "label": "PULAU PINANG",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 5.41558551009068,
-        "lon": 100.350823576518
       },
       {
         "id": "mys-penang",
@@ -93724,36 +81139,6 @@ module.exports = {
         "lon": 101.301017957517
       },
       {
-        "id": "mys-portklang",
-        "iso": "MYS",
-        "label": "PORTKLANG",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 3.00727193306604,
-        "lon": 101.344409927131
-      },
-      {
-        "id": "mys-singapore",
-        "iso": "MYS",
-        "label": "SINGAPORE",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 2.7954984919102,
-        "lon": 101.255084122841
-      },
-      {
-        "id": "mys-lumut",
-        "iso": "MYS",
-        "label": "LUMUT",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 4.15918142170718,
-        "lon": 100.60013424543
-      },
-      {
         "id": "mys-pantaicenang",
         "iso": "MYS",
         "label": "PANTAI CENANG",
@@ -93762,16 +81147,6 @@ module.exports = {
         ],
         "lat": 6.29337764965683,
         "lon": 99.6960719278974
-      },
-      {
-        "id": "mys-kualakedah",
-        "iso": "MYS",
-        "label": "KUALA KEDAH",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 6.1065669606591,
-        "lon": 100.28862507848
       },
       {
         "id": "mys-portklangmalaysia",
@@ -93794,16 +81169,6 @@ module.exports = {
         "lon": 100.320322169111
       },
       {
-        "id": "mys-portkelang",
-        "iso": "MYS",
-        "label": "PORTKELANG",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 3.06401665524755,
-        "lon": 101.350770313836
-      },
-      {
         "id": "mys-butterworth",
         "iso": "MYS",
         "label": "BUTTERWORTH",
@@ -93822,16 +81187,6 @@ module.exports = {
         ],
         "lat": 6.43100281729215,
         "lon": 99.7621582682615
-      },
-      {
-        "id": "mys-lumutmalaysia",
-        "iso": "MYS",
-        "label": "LUMUT MALAYSIA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 4.15685878256248,
-        "lon": 100.598927268923
       },
       {
         "id": "mys-telukrubiah",
@@ -93884,16 +81239,6 @@ module.exports = {
         "lon": 98.4464281385054
       },
       {
-        "id": "tha-phuket",
-        "iso": "THA",
-        "label": "PHUKET",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 7.88665809222393,
-        "lon": 98.4216104705067
-      },
-      {
         "id": "tha-penang",
         "iso": "THA",
         "label": "PENANG",
@@ -93912,16 +81257,6 @@ module.exports = {
         ],
         "lat": 7.73468703278753,
         "lon": 98.7719892757504
-      },
-      {
-        "id": "tha-bankokaeo",
-        "iso": "THA",
-        "label": "BAN KO KAEO",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 7.95593985348206,
-        "lon": 98.39863785778
       },
       {
         "id": "tha-ailan",
@@ -94054,26 +81389,6 @@ module.exports = {
         "lon": 98.4466530200509
       },
       {
-        "id": "tls-dili",
-        "iso": "TLS",
-        "label": "DILI",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": -8.53652921715249,
-        "lon": 125.573092663208
-      },
-      {
-        "id": "idn-sibolga",
-        "iso": "IDN",
-        "label": "SIBOLGA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 1.72571017864447,
-        "lon": 98.7669948174505
-      },
-      {
         "id": "idn-monikeun",
         "iso": "IDN",
         "label": "MON IKEUN",
@@ -94092,17 +81407,6 @@ module.exports = {
         ],
         "lat": 5.58542013168,
         "lon": 95.3184661865
-      },
-      {
-        "id": "idn-teluksemangka",
-        "iso": "IDN",
-        "label": "TELUK SEMANGKA",
-        "rfmo": [
-          "WCPFC",
-          "IOTC"
-        ],
-        "lat": -5.55407991800332,
-        "lon": 104.574909203272
       },
       {
         "id": "sgs-southgeorgia",
@@ -94126,16 +81430,6 @@ module.exports = {
         "lon": 9.80379535851396
       },
       {
-        "id": "cmr-limbe",
-        "iso": "CMR",
-        "label": "LIMBE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 3.99197780439513,
-        "lon": 9.16773436976158
-      },
-      {
         "id": "cmr-limbohterminal",
         "iso": "CMR",
         "label": "LIMBOH TERMINAL",
@@ -94144,16 +81438,6 @@ module.exports = {
         ],
         "lat": 3.9993588116129,
         "lon": 9.14728796814208
-      },
-      {
-        "id": "cmr-douala",
-        "iso": "CMR",
-        "label": "DOUALA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 3.87526469756144,
-        "lon": 9.50824983370995
       },
       {
         "id": "cmr-moudimarineterminal",
@@ -94184,16 +81468,6 @@ module.exports = {
         ],
         "lat": 4.26302348871742,
         "lon": 8.41823886152272
-      },
-      {
-        "id": "gab-libreville",
-        "iso": "GAB",
-        "label": "LIBREVILLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 0.304114405377507,
-        "lon": 9.41586920217541
       },
       {
         "id": "gab-owendo",
@@ -94236,46 +81510,6 @@ module.exports = {
         "lon": 6.74728933539076
       },
       {
-        "id": "geo-anaklia",
-        "iso": "GEO",
-        "label": "ANAKLIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.3749905073074,
-        "lon": 41.5673094597688
-      },
-      {
-        "id": "geo-p'ot'i",
-        "iso": "GEO",
-        "label": "P'OT'I",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.1534201881742,
-        "lon": 41.6518619798384
-      },
-      {
-        "id": "geo-batumi",
-        "iso": "GEO",
-        "label": "BATUMI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6479442073973,
-        "lon": 41.6514651120066
-      },
-      {
-        "id": "geo-poti",
-        "iso": "GEO",
-        "label": "POTI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.0239356399358,
-        "lon": 41.7090832363877
-      },
-      {
         "id": "geo-supsa",
         "iso": "GEO",
         "label": "SUPSA",
@@ -94284,66 +81518,6 @@ module.exports = {
         ],
         "lat": 42.0203378347689,
         "lon": 41.7105761093903
-      },
-      {
-        "id": "tur-sinop",
-        "iso": "TUR",
-        "label": "SINOP",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.9989298203072,
-        "lon": 35.1346917334351
-      },
-      {
-        "id": "tur-samsun",
-        "iso": "TUR",
-        "label": "SAMSUN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.996364337939,
-        "lon": 35.1308669691103
-      },
-      {
-        "id": "tur-yakakent",
-        "iso": "TUR",
-        "label": "YAKAKENT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6397608539624,
-        "lon": 35.5027822281256
-      },
-      {
-        "id": "tur-cityx07404",
-        "iso": "TUR",
-        "label": "CITYX07404",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4448771436353,
-        "lon": 28.0109682275661
-      },
-      {
-        "id": "tur-kaytazdere",
-        "iso": "TUR",
-        "label": "KAYTAZDERE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6923723871205,
-        "lon": 29.5519675420302
-      },
-      {
-        "id": "tur-mersin",
-        "iso": "TUR",
-        "label": "MERSIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7750352247657,
-        "lon": 34.6325532526222
       },
       {
         "id": "tur-bf",
@@ -94376,16 +81550,6 @@ module.exports = {
         "lon": 27.6765642827827
       },
       {
-        "id": "tur-casablanca",
-        "iso": "TUR",
-        "label": "CASABLANCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6936621786709,
-        "lon": 27.6769203380271
-      },
-      {
         "id": "tur-phuket",
         "iso": "TUR",
         "label": "PHUKET",
@@ -94396,16 +81560,6 @@ module.exports = {
         "lon": 28.8520942643953
       },
       {
-        "id": "bgd-chittagong",
-        "iso": "BGD",
-        "label": "CHITTAGONG",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 22.2036234598436,
-        "lon": 91.7416213138338
-      },
-      {
         "id": "bgd-mongla",
         "iso": "BGD",
         "label": "MONGLA",
@@ -94414,26 +81568,6 @@ module.exports = {
         ],
         "lat": 21.8053394180087,
         "lon": 89.5225562557687
-      },
-      {
-        "id": "ind-krishnapatnam",
-        "iso": "IND",
-        "label": "KRISHNAPATNAM",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 14.2254562310268,
-        "lon": 80.2291811224824
-      },
-      {
-        "id": "ind-paradip",
-        "iso": "IND",
-        "label": "PARADIP",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 20.1718613848939,
-        "lon": 86.731566594576
       },
       {
         "id": "ind-kakinadabay",
@@ -94506,16 +81640,6 @@ module.exports = {
         "lon": 78.2726243393285
       },
       {
-        "id": "ind-vizag",
-        "iso": "IND",
-        "label": "VIZAG",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 17.6246409166452,
-        "lon": 83.3838412438452
-      },
-      {
         "id": "ind-kakinada",
         "iso": "IND",
         "label": "KAKINADA",
@@ -94576,16 +81700,6 @@ module.exports = {
         "lon": 88.1639189149994
       },
       {
-        "id": "ind-gangavaram",
-        "iso": "IND",
-        "label": "GANGAVARAM",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 17.5912834094757,
-        "lon": 83.2856598287975
-      },
-      {
         "id": "ind-dhamra",
         "iso": "IND",
         "label": "DHAMRA",
@@ -94604,26 +81718,6 @@ module.exports = {
         ],
         "lat": 21.6956091414248,
         "lon": 88.0238746691056
-      },
-      {
-        "id": "ind-kolkata",
-        "iso": "IND",
-        "label": "KOLKATA",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 21.672005724873,
-        "lon": 88.0229432633733
-      },
-      {
-        "id": "ind-haldiaport",
-        "iso": "IND",
-        "label": "HALDIA PORT",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 22.0273997722649,
-        "lon": 88.0935812432467
       },
       {
         "id": "ind-haldiaindia",
@@ -94666,16 +81760,6 @@ module.exports = {
         "lon": 83.4090637604019
       },
       {
-        "id": "ind-diamondharbour",
-        "iso": "IND",
-        "label": "DIAMOND HARBOUR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 22.1940194066641,
-        "lon": 88.1487863338141
-      },
-      {
         "id": "ind-sandheads",
         "iso": "IND",
         "label": "SANDHEADS",
@@ -94684,16 +81768,6 @@ module.exports = {
         ],
         "lat": 21.0233461763565,
         "lon": 87.7735334738842
-      },
-      {
-        "id": "ind-vishakhapatnam",
-        "iso": "IND",
-        "label": "VISHAKHAPATNAM",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 17.6520266073522,
-        "lon": 83.314175474035
       },
       {
         "id": "ind-karaikalport",
@@ -94746,16 +81820,6 @@ module.exports = {
         "lon": 79.8272828860314
       },
       {
-        "id": "lka-trincomalee",
-        "iso": "LKA",
-        "label": "TRINCOMALEE",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 8.60500459994809,
-        "lon": 81.246928661656
-      },
-      {
         "id": "lka-hambantotasrilanka",
         "iso": "LKA",
         "label": "HAMBANTOTA SRI LANKA",
@@ -94764,16 +81828,6 @@ module.exports = {
         ],
         "lat": 6.12379304255063,
         "lon": 81.0999649570986
-      },
-      {
-        "id": "per-eten",
-        "iso": "PER",
-        "label": "ETEN",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 6.94828706576245,
-        "lon": 79.8470517600157
       },
       {
         "id": "per-pacasmayo",
@@ -94794,36 +81848,6 @@ module.exports = {
         ],
         "lat": 7.69536111111,
         "lon": 79.4359166667
-      },
-      {
-        "id": "per-bayovar",
-        "iso": "PER",
-        "label": "BAYOVAR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 5.79497222222,
-        "lon": 81.0563333333
-      },
-      {
-        "id": "brn-muaraharbor",
-        "iso": "BRN",
-        "label": "MUARA HARBOR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 5.01357070470997,
-        "lon": 115.069580682376
-      },
-      {
-        "id": "brn-kualabelait",
-        "iso": "BRN",
-        "label": "KUALA BELAIT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 4.62022287759775,
-        "lon": 114.193410031688
       },
       {
         "id": "brn-seria",
@@ -94936,46 +81960,6 @@ module.exports = {
         "lon": 115.128217731798
       },
       {
-        "id": "idn-sekupang",
-        "iso": "IDN",
-        "label": "SEKUPANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.12862245162096,
-        "lon": 103.918545917334
-      },
-      {
-        "id": "idn-batam",
-        "iso": "IDN",
-        "label": "BATAM",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.10572905297702,
-        "lon": 104.111338765392
-      },
-      {
-        "id": "idn-kalibaru",
-        "iso": "IDN",
-        "label": "KALIBARU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -6.09181905347236,
-        "lon": 106.900550470841
-      },
-      {
-        "id": "idn-jakarta",
-        "iso": "IDN",
-        "label": "JAKARTA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.9986669085321,
-        "lon": 106.875460170287
-      },
-      {
         "id": "idn-taboneo",
         "iso": "IDN",
         "label": "TABONEO",
@@ -95024,16 +82008,6 @@ module.exports = {
         ],
         "lat": 0.552546822081058,
         "lon": 117.696955350667
-      },
-      {
-        "id": "idn-bontang",
-        "iso": "IDN",
-        "label": "BONTANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 0.0764547839203844,
-        "lon": 117.59403798526
       },
       {
         "id": "idn-tuban",
@@ -95146,36 +82120,6 @@ module.exports = {
         "lon": 117.628806496804
       },
       {
-        "id": "idn-balikpapan",
-        "iso": "IDN",
-        "label": "BALIKPAPAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -1.26084346631408,
-        "lon": 116.890842457355
-      },
-      {
-        "id": "idn-mahakamdelta",
-        "iso": "IDN",
-        "label": "MAHAKAM DELTA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -0.672025302487267,
-        "lon": 117.509751763981
-      },
-      {
-        "id": "idn-banjarmasin",
-        "iso": "IDN",
-        "label": "BANJARMASIN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -3.80300454777028,
-        "lon": 114.582829547444
-      },
-      {
         "id": "idn-marunda",
         "iso": "IDN",
         "label": "MARUNDA",
@@ -95214,26 +82158,6 @@ module.exports = {
         ],
         "lat": 0.743491783160591,
         "lon": 104.503202591918
-      },
-      {
-        "id": "idn-cilincing",
-        "iso": "IDN",
-        "label": "CILINCING",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -6.07704551902555,
-        "lon": 106.952441890154
-      },
-      {
-        "id": "idn-kampungbarutengah",
-        "iso": "IDN",
-        "label": "KAMPUNG BARU TENGAH",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -1.25559054585311,
-        "lon": 116.799725308544
       },
       {
         "id": "idn-kotabaru",
@@ -95276,16 +82200,6 @@ module.exports = {
         "lon": 104.016632587356
       },
       {
-        "id": "idn-kotabaru",
-        "iso": "IDN",
-        "label": "KOTA BARU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -3.23259025645421,
-        "lon": 116.218897082598
-      },
-      {
         "id": "idn-balongan",
         "iso": "IDN",
         "label": "BALONGAN",
@@ -95324,16 +82238,6 @@ module.exports = {
         ],
         "lat": 0.173280293383594,
         "lon": 117.493120503247
-      },
-      {
-        "id": "idn-pecikoarea",
-        "iso": "IDN",
-        "label": "PECIKO AREA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -1.03130870102806,
-        "lon": 117.375826165185
       },
       {
         "id": "idn-totalarea",
@@ -95436,16 +82340,6 @@ module.exports = {
         "lon": 119.405613262192
       },
       {
-        "id": "idn-merak",
-        "iso": "IDN",
-        "label": "MERAK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.87909792863012,
-        "lon": 106.07627024385
-      },
-      {
         "id": "idn-ambon",
         "iso": "IDN",
         "label": "AMBON",
@@ -95464,16 +82358,6 @@ module.exports = {
         ],
         "lat": 1.66218702236764,
         "lon": 101.63388304718
-      },
-      {
-        "id": "idn-pontianak",
-        "iso": "IDN",
-        "label": "PONTIANAK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 0.084328097725287,
-        "lon": 109.058592554999
       },
       {
         "id": "idn-idsri",
@@ -95504,16 +82388,6 @@ module.exports = {
         ],
         "lat": 0.932935970526463,
         "lon": 102.304050714187
-      },
-      {
-        "id": "idn-handil",
-        "iso": "IDN",
-        "label": "HANDIL",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -0.827121079691314,
-        "lon": 117.730192711749
       },
       {
         "id": "idn-tguban",
@@ -95556,16 +82430,6 @@ module.exports = {
         "lon": 109.749786377
       },
       {
-        "id": "idn-sorong",
-        "iso": "IDN",
-        "label": "SORONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -0.887046969247892,
-        "lon": 131.243990694065
-      },
-      {
         "id": "idn-tg.sorong",
         "iso": "IDN",
         "label": "TG. SORONG",
@@ -95596,16 +82460,6 @@ module.exports = {
         "lon": 116.640326010214
       },
       {
-        "id": "idn-palembang",
-        "iso": "IDN",
-        "label": "PALEMBANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -2.17821622473227,
-        "lon": 104.951283892731
-      },
-      {
         "id": "idn-samarindaindonesia",
         "iso": "IDN",
         "label": "SAMARINDA INDONESIA",
@@ -95626,26 +82480,6 @@ module.exports = {
         "lon": 117.287076871541
       },
       {
-        "id": "idn-wameo",
-        "iso": "IDN",
-        "label": "WAMEO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.45432578767434,
-        "lon": 122.613233806847
-      },
-      {
-        "id": "idn-pantoloan",
-        "iso": "IDN",
-        "label": "PANTOLOAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -0.720038003560765,
-        "lon": 119.853499604571
-      },
-      {
         "id": "idn-pemangkat",
         "iso": "IDN",
         "label": "PEMANGKAT",
@@ -95654,16 +82488,6 @@ module.exports = {
         ],
         "lat": 1.19960999489,
         "lon": 108.991996765
-      },
-      {
-        "id": "idn-kendari",
-        "iso": "IDN",
-        "label": "KENDARI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -3.9465132583976,
-        "lon": 122.598466182677
       },
       {
         "id": "idn-badeindonesia",
@@ -95724,16 +82548,6 @@ module.exports = {
         ],
         "lat": 1.35598582781543,
         "lon": 102.170022959941
-      },
-      {
-        "id": "idn-amamapare",
-        "iso": "IDN",
-        "label": "AMAMAPARE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -4.93860442595655,
-        "lon": 136.679324501275
       },
       {
         "id": "idn-taboneoindonesia",
@@ -95816,26 +82630,6 @@ module.exports = {
         "lon": 116.36869946197
       },
       {
-        "id": "idn-bangsalaceh",
-        "iso": "IDN",
-        "label": "BANGSAL ACEH",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.7435098540075,
-        "lon": 101.3768102718
-      },
-      {
-        "id": "idn-bahodopi",
-        "iso": "IDN",
-        "label": "BAHODOPI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -2.7939660711438,
-        "lon": 122.16850108672
-      },
-      {
         "id": "idn-bahudopi",
         "iso": "IDN",
         "label": "BAHUDOPI",
@@ -95844,26 +82638,6 @@ module.exports = {
         ],
         "lat": -2.79623388800885,
         "lon": 122.161433565285
-      },
-      {
-        "id": "idn-morowali",
-        "iso": "IDN",
-        "label": "MOROWALI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -2.79866027253234,
-        "lon": 122.166541807691
-      },
-      {
-        "id": "idn-baubau",
-        "iso": "IDN",
-        "label": "BAU BAU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.50948771733,
-        "lon": 122.548497420047
       },
       {
         "id": "idn-ujungpandang",
@@ -95924,16 +82698,6 @@ module.exports = {
         ],
         "lat": 1.04774057745041,
         "lon": 104.132078148078
-      },
-      {
-        "id": "idn-kumai",
-        "iso": "IDN",
-        "label": "KUMAI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -2.75722746018004,
-        "lon": 111.722491414193
       },
       {
         "id": "idn-tinanggea",
@@ -96026,16 +82790,6 @@ module.exports = {
         "lon": 106.23707115505
       },
       {
-        "id": "idn-bitung",
-        "iso": "IDN",
-        "label": "BITUNG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.43410613653048,
-        "lon": 125.187418603304
-      },
-      {
         "id": "idn-lubuktutung",
         "iso": "IDN",
         "label": "LUBUK TUTUNG",
@@ -96116,16 +82870,6 @@ module.exports = {
         "lon": 109.059571419168
       },
       {
-        "id": "idn-batuampar",
-        "iso": "IDN",
-        "label": "BATUAMPAR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.16932732222761,
-        "lon": 103.946506182404
-      },
-      {
         "id": "idn-bintuni",
         "iso": "IDN",
         "label": "BINTUNI",
@@ -96194,16 +82938,6 @@ module.exports = {
         ],
         "lat": -6.23684978485,
         "lon": 107.701141357
-      },
-      {
-        "id": "idn-nizamzachmanjakarta",
-        "iso": "IDN",
-        "label": "NIZAM ZACHMAN JAKARTA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -6.0994300223096,
-        "lon": 106.805632946229
       },
       {
         "id": "idn-pangkalanbun",
@@ -96376,16 +83110,6 @@ module.exports = {
         "lon": 121.590354838242
       },
       {
-        "id": "idn-tanjunguban",
-        "iso": "IDN",
-        "label": "TANJUNGUBAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.0609791534773,
-        "lon": 104.210724400755
-      },
-      {
         "id": "idn-banda",
         "iso": "IDN",
         "label": "BANDA",
@@ -96444,16 +83168,6 @@ module.exports = {
         ],
         "lat": 1.13035508443475,
         "lon": 103.346658115294
-      },
-      {
-        "id": "idn-hamadi",
-        "iso": "IDN",
-        "label": "HAMADI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -2.54933678997587,
-        "lon": 140.738812778276
       },
       {
         "id": "idn-jambula",
@@ -96676,36 +83390,6 @@ module.exports = {
         "lon": 117.220830404435
       },
       {
-        "id": "idn-gebe",
-        "iso": "IDN",
-        "label": "GEBE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -0.0564719910667471,
-        "lon": 129.374968519856
-      },
-      {
-        "id": "idn-sanggeng",
-        "iso": "IDN",
-        "label": "SANGGENG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -0.886355613791466,
-        "lon": 134.065179213526
-      },
-      {
-        "id": "idn-tanjungbalaikarimun",
-        "iso": "IDN",
-        "label": "TANJUNG BALAI KARIMUN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 0.98699863092745,
-        "lon": 103.438642582167
-      },
-      {
         "id": "idn-camplong",
         "iso": "IDN",
         "label": "CAMPLONG",
@@ -96714,16 +83398,6 @@ module.exports = {
         ],
         "lat": -7.22917843824603,
         "lon": 113.319198585782
-      },
-      {
-        "id": "idn-muarapegah",
-        "iso": "IDN",
-        "label": "MUARA PEGAH",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -1.43460835166009,
-        "lon": 116.968244777495
       },
       {
         "id": "idn-garongkong",
@@ -96756,16 +83430,6 @@ module.exports = {
         "lon": 112.693055962592
       },
       {
-        "id": "idn-handilenam",
-        "iso": "IDN",
-        "label": "HANDILENAM",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -0.818170509882745,
-        "lon": 117.281918981592
-      },
-      {
         "id": "idn-changiimmigration",
         "iso": "IDN",
         "label": "CHANGI IMMIGRATION",
@@ -96796,16 +83460,6 @@ module.exports = {
         "lon": 134.239676268646
       },
       {
-        "id": "idn-tenda",
-        "iso": "IDN",
-        "label": "TENDA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 0.501701010996007,
-        "lon": 123.061011367697
-      },
-      {
         "id": "idn-tgpriok",
         "iso": "IDN",
         "label": "TG PRIOK",
@@ -96814,16 +83468,6 @@ module.exports = {
         ],
         "lat": -6.04717103790544,
         "lon": 106.875231998606
-      },
-      {
-        "id": "idn-tobelo",
-        "iso": "IDN",
-        "label": "TOBELO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.71803660706311,
-        "lon": 128.016336367631
       },
       {
         "id": "idn-phefield",
@@ -96914,16 +83558,6 @@ module.exports = {
         ],
         "lat": -0.984640449602679,
         "lon": 134.03233361229
-      },
-      {
-        "id": "idn-kasimterminal",
-        "iso": "IDN",
-        "label": "KASIM TERMINAL",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -1.32518469019935,
-        "lon": 131.012008183352
       },
       {
         "id": "idn-futong",
@@ -97066,16 +83700,6 @@ module.exports = {
         "lon": 108.596829840073
       },
       {
-        "id": "idn-rajawali",
-        "iso": "IDN",
-        "label": "RAJAWALI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.09840440164075,
-        "lon": 119.420709721787
-      },
-      {
         "id": "idn-telukbatang",
         "iso": "IDN",
         "label": "TELUK BATANG",
@@ -97156,16 +83780,6 @@ module.exports = {
         "lon": 116.080056452705
       },
       {
-        "id": "mys-johor",
-        "iso": "MYS",
-        "label": "JOHOR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.43126138442425,
-        "lon": 103.894699188042
-      },
-      {
         "id": "mys-tanjungmanis",
         "iso": "MYS",
         "label": "TANJUNG MANIS",
@@ -97206,16 +83820,6 @@ module.exports = {
         "lon": 102.184113878504
       },
       {
-        "id": "mys-miri",
-        "iso": "MYS",
-        "label": "MIRI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 4.51330437475842,
-        "lon": 113.861200750821
-      },
-      {
         "id": "mys-lahaddatu",
         "iso": "MYS",
         "label": "LAHAD DATU",
@@ -97236,16 +83840,6 @@ module.exports = {
         "lon": 103.66116947368
       },
       {
-        "id": "mys-endau",
-        "iso": "MYS",
-        "label": "ENDAU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 2.67533232765632,
-        "lon": 103.749330868092
-      },
-      {
         "id": "mys-cutav09y",
         "iso": "MYS",
         "label": "CU TAV09Y",
@@ -97254,16 +83848,6 @@ module.exports = {
         ],
         "lat": 2.24583977977133,
         "lon": 102.080570699463
-      },
-      {
-        "id": "mys-kuantan",
-        "iso": "MYS",
-        "label": "KUANTAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 3.95751296819362,
-        "lon": 103.478029608481
       },
       {
         "id": "mys-tawa",
@@ -97316,16 +83900,6 @@ module.exports = {
         "lon": 102.126832582531
       },
       {
-        "id": "mys-tanjungpelepas",
-        "iso": "MYS",
-        "label": "TANJUNG PELEPAS",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.33283607879061,
-        "lon": 103.556139841878
-      },
-      {
         "id": "mys-kuantannewport",
         "iso": "MYS",
         "label": "KUANTAN NEW PORT",
@@ -97334,16 +83908,6 @@ module.exports = {
         ],
         "lat": 3.97455269975154,
         "lon": 103.437055326585
-      },
-      {
-        "id": "mys-kemamanharbor",
-        "iso": "MYS",
-        "label": "KEMAMAN HARBOR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 4.24635124499061,
-        "lon": 103.484907585988
       },
       {
         "id": "mys-victoria",
@@ -97486,16 +84050,6 @@ module.exports = {
         "lon": 113.070599409906
       },
       {
-        "id": "mys-portklang",
-        "iso": "MYS",
-        "label": "PORT KLANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 2.25446952260085,
-        "lon": 102.086750546196
-      },
-      {
         "id": "mys-sgudangmy",
         "iso": "MYS",
         "label": "SG UDANG MY",
@@ -97576,16 +84130,6 @@ module.exports = {
         "lon": 102.113192962552
       },
       {
-        "id": "mys-singapore",
-        "iso": "MYS",
-        "label": "SINGAPORE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.66398199367551,
-        "lon": 103.460566621865
-      },
-      {
         "id": "mys-mymyy",
         "iso": "MYS",
         "label": "MY MYY",
@@ -97614,26 +84158,6 @@ module.exports = {
         ],
         "lat": 4.25815029909894,
         "lon": 117.846219876387
-      },
-      {
-        "id": "mys-bintulu",
-        "iso": "MYS",
-        "label": "BINTULU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 3.24306862458637,
-        "lon": 112.99872513862
-      },
-      {
-        "id": "mys-kuching",
-        "iso": "MYS",
-        "label": "KUCHING",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.64116475180635,
-        "lon": 110.482827262967
       },
       {
         "id": "mys-linggimalaysia",
@@ -97674,16 +84198,6 @@ module.exports = {
         ],
         "lat": 5.26436179506262,
         "lon": 115.270624515456
-      },
-      {
-        "id": "mys-johorbahru",
-        "iso": "MYS",
-        "label": "JOHOR BAHRU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.45313370255606,
-        "lon": 103.775905524928
       },
       {
         "id": "mys-mostyn",
@@ -97746,16 +84260,6 @@ module.exports = {
         "lon": 113.746795434801
       },
       {
-        "id": "phl-isabel",
-        "iso": "PHL",
-        "label": "ISABEL",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.9024480896538,
-        "lon": 124.425124982653
-      },
-      {
         "id": "phl-talaga",
         "iso": "PHL",
         "label": "TALAGA",
@@ -97786,16 +84290,6 @@ module.exports = {
         "lon": 123.861048309986
       },
       {
-        "id": "phl-manila",
-        "iso": "PHL",
-        "label": "MANILA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 14.5924399395822,
-        "lon": 120.894912879232
-      },
-      {
         "id": "phl-toril",
         "iso": "PHL",
         "label": "TORIL",
@@ -97814,26 +84308,6 @@ module.exports = {
         ],
         "lat": 7.1803453055326,
         "lon": 125.663564850665
-      },
-      {
-        "id": "phl-cebu",
-        "iso": "PHL",
-        "label": "CEBU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.1702763102673,
-        "lon": 124.247789526445
-      },
-      {
-        "id": "phl-surigao",
-        "iso": "PHL",
-        "label": "SURIGAO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 9.65518499944328,
-        "lon": 125.825265071018
       },
       {
         "id": "phl-langatian",
@@ -97956,16 +84430,6 @@ module.exports = {
         "lon": 122.587228244031
       },
       {
-        "id": "phl-bolo",
-        "iso": "PHL",
-        "label": "BOLO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 13.7724043624862,
-        "lon": 120.981750909791
-      },
-      {
         "id": "phl-mabini",
         "iso": "PHL",
         "label": "MABINI",
@@ -97984,16 +84448,6 @@ module.exports = {
         ],
         "lat": 5.31683980927668,
         "lon": 120.132925535064
-      },
-      {
-        "id": "phl-tawitawi",
-        "iso": "PHL",
-        "label": "TAWI TAWI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 5.34591316058448,
-        "lon": 120.185237812123
       },
       {
         "id": "phl-cabcaben",
@@ -98046,16 +84500,6 @@ module.exports = {
         "lon": 122.793587184076
       },
       {
-        "id": "phl-mariveles",
-        "iso": "PHL",
-        "label": "MARIVELES",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 14.434616876902,
-        "lon": 120.531521072094
-      },
-      {
         "id": "phl-langtad",
         "iso": "PHL",
         "label": "LANGTAD",
@@ -98074,26 +84518,6 @@ module.exports = {
         ],
         "lat": 9.42735136791684,
         "lon": 125.943235031735
-      },
-      {
-        "id": "phl-subicbay",
-        "iso": "PHL",
-        "label": "SUBIC BAY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 14.8106633054958,
-        "lon": 120.252656885629
-      },
-      {
-        "id": "phl-lapu-lapucity",
-        "iso": "PHL",
-        "label": "LAPU-LAPU CITY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.3182538486096,
-        "lon": 123.952686953472
       },
       {
         "id": "phl-pagbilao",
@@ -98196,26 +84620,6 @@ module.exports = {
         "lon": 125.160755073236
       },
       {
-        "id": "phl-subic",
-        "iso": "PHL",
-        "label": "SUBIC",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 14.8160113817954,
-        "lon": 120.217187611596
-      },
-      {
-        "id": "phl-zamboanga",
-        "iso": "PHL",
-        "label": "ZAMBOANGA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 6.90625887579991,
-        "lon": 122.056386312636
-      },
-      {
         "id": "phl-riotuba",
         "iso": "PHL",
         "label": "RIO TUBA",
@@ -98244,16 +84648,6 @@ module.exports = {
         ],
         "lat": 8.52043185851375,
         "lon": 124.746858952671
-      },
-      {
-        "id": "phl-calero",
-        "iso": "PHL",
-        "label": "CALERO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.3487201031087,
-        "lon": 123.997366570564
       },
       {
         "id": "phl-lugait",
@@ -98286,16 +84680,6 @@ module.exports = {
         "lon": 123.683215959258
       },
       {
-        "id": "phl-villanueva",
-        "iso": "PHL",
-        "label": "VILLANUEVA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 8.58234294445813,
-        "lon": 124.753043233179
-      },
-      {
         "id": "phl-cagdianao",
         "iso": "PHL",
         "label": "CAGDIANAO",
@@ -98304,16 +84688,6 @@ module.exports = {
         ],
         "lat": 10.1521734828408,
         "lon": 125.670913419523
-      },
-      {
-        "id": "phl-bauan",
-        "iso": "PHL",
-        "label": "BAUAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 13.7731465301263,
-        "lon": 121.001996633877
       },
       {
         "id": "phl-santaritaaplaya",
@@ -98606,16 +84980,6 @@ module.exports = {
         "lon": 118.72769032808
       },
       {
-        "id": "phl-dalipuga",
-        "iso": "PHL",
-        "label": "DALIPUGA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 8.2814450437432,
-        "lon": 124.26104250789
-      },
-      {
         "id": "phl-palawan",
         "iso": "PHL",
         "label": "PALAWAN",
@@ -98654,16 +85018,6 @@ module.exports = {
         ],
         "lat": 9.75852487853514,
         "lon": 125.718701653502
-      },
-      {
-        "id": "phl-surigaocity",
-        "iso": "PHL",
-        "label": "SURIGAO CITY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 9.79305897942404,
-        "lon": 125.508365481092
       },
       {
         "id": "phl-sanfernandoharbor",
@@ -98736,16 +85090,6 @@ module.exports = {
         "lon": 120.620508002279
       },
       {
-        "id": "phl-obong",
-        "iso": "PHL",
-        "label": "OBONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 9.73411665325422,
-        "lon": 123.514547215533
-      },
-      {
         "id": "phl-castanas",
         "iso": "PHL",
         "label": "CASTANAS",
@@ -98806,16 +85150,6 @@ module.exports = {
         "lon": 123.758908569183
       },
       {
-        "id": "phl-gensan",
-        "iso": "PHL",
-        "label": "GENSAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 6.03363783687784,
-        "lon": 125.144638460803
-      },
-      {
         "id": "phl-winsubicbayonly",
         "iso": "PHL",
         "label": "W IN SUBIC BAY ONLY",
@@ -98844,16 +85178,6 @@ module.exports = {
         ],
         "lat": 10.4602946184967,
         "lon": 124.728853034055
-      },
-      {
-        "id": "sgp-singapore",
-        "iso": "SGP",
-        "label": "SINGAPORE",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 1.27265271458664,
-        "lon": 103.835623987783
       },
       {
         "id": "sgp-serangoonharbor",
@@ -98904,26 +85228,6 @@ module.exports = {
         ],
         "lat": 13.1075368778935,
         "lon": 100.774733173311
-      },
-      {
-        "id": "tha-rayong",
-        "iso": "THA",
-        "label": "RAYONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 12.6063346594809,
-        "lon": 101.259484781077
-      },
-      {
-        "id": "tha-maptaphut",
-        "iso": "THA",
-        "label": "MAPTAPHUT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 12.6008075475821,
-        "lon": 101.142361454921
       },
       {
         "id": "tha-kosichang",
@@ -98986,16 +85290,6 @@ module.exports = {
         "lon": 100.818003504788
       },
       {
-        "id": "tha-sattahip",
-        "iso": "THA",
-        "label": "SATTAHIP",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 12.6354038526356,
-        "lon": 100.89884762773
-      },
-      {
         "id": "tha-sinthlch",
         "iso": "THA",
         "label": "SIN THLCH",
@@ -99004,16 +85298,6 @@ module.exports = {
         ],
         "lat": 13.101371405256,
         "lon": 100.735468892463
-      },
-      {
-        "id": "tha-sriracha",
-        "iso": "THA",
-        "label": "SRI RACHA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 13.1094108211428,
-        "lon": 100.755334214224
       },
       {
         "id": "tha-phatthaya",
@@ -99096,16 +85380,6 @@ module.exports = {
         "lon": 101.200357982653
       },
       {
-        "id": "tha-maptaphut",
-        "iso": "THA",
-        "label": "MAP TA PHUT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 12.6069253313912,
-        "lon": 101.189772343463
-      },
-      {
         "id": "tha-thbkk",
         "iso": "THA",
         "label": "TH BKK",
@@ -99114,36 +85388,6 @@ module.exports = {
         ],
         "lat": 13.3435593473199,
         "lon": 100.618328996176
-      },
-      {
-        "id": "tha-rayongtpiterminal",
-        "iso": "THA",
-        "label": "RAYONG TPI TERMINAL",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 12.6275506616924,
-        "lon": 101.281756674127
-      },
-      {
-        "id": "tha-kosichang",
-        "iso": "THA",
-        "label": "KO SI CHANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 13.1433014818431,
-        "lon": 100.829084428361
-      },
-      {
-        "id": "tha-siracha",
-        "iso": "THA",
-        "label": "SI RACHA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 13.1737968417384,
-        "lon": 100.885604908639
       },
       {
         "id": "tha-srirachaopl",
@@ -99166,16 +85410,6 @@ module.exports = {
         "lon": 100.759400134062
       },
       {
-        "id": "tha-thbkk",
-        "iso": "THA",
-        "label": "THBKK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 13.329457017885,
-        "lon": 100.600174219939
-      },
-      {
         "id": "tha-songkhla",
         "iso": "THA",
         "label": "SONGKHLA",
@@ -99194,26 +85428,6 @@ module.exports = {
         ],
         "lat": 13.0519500432902,
         "lon": 100.864952046111
-      },
-      {
-        "id": "tha-leamchabang",
-        "iso": "THA",
-        "label": "LEAM CHABANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 13.0455780262765,
-        "lon": 100.859413446574
-      },
-      {
-        "id": "tha-kohsichang",
-        "iso": "THA",
-        "label": "KOH SI CHANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 13.1996988650969,
-        "lon": 100.848119703384
       },
       {
         "id": "tha-bangsaphan",
@@ -99316,16 +85530,6 @@ module.exports = {
         "lon": 107.044926970851
       },
       {
-        "id": "vnm-haiphong",
-        "iso": "VNM",
-        "label": "HAIPHONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 20.6584404375322,
-        "lon": 106.862492954914
-      },
-      {
         "id": "vnm-vnhph",
         "iso": "VNM",
         "label": "VN HPH",
@@ -99334,46 +85538,6 @@ module.exports = {
         ],
         "lat": 20.6844115988042,
         "lon": 106.862265038659
-      },
-      {
-        "id": "vnm-campha",
-        "iso": "VNM",
-        "label": "CAMPHA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 20.9183353825973,
-        "lon": 107.283410004632
-      },
-      {
-        "id": "vnm-hochiminh",
-        "iso": "VNM",
-        "label": "HOCHIMINH",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.9599925885043,
-        "lon": 106.969437375252
-      },
-      {
-        "id": "vnm-haiphong",
-        "iso": "VNM",
-        "label": "HAI PHONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 20.237375242996,
-        "lon": 107.029570320279
-      },
-      {
-        "id": "vnm-phumy",
-        "iso": "VNM",
-        "label": "PHU MY",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.4906200541346,
-        "lon": 107.026770116125
       },
       {
         "id": "vnm-typhoonpanchorage",
@@ -99396,26 +85560,6 @@ module.exports = {
         "lon": 108.188811513457
       },
       {
-        "id": "vnm-danang",
-        "iso": "VNM",
-        "label": "DA NANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 16.1221856403188,
-        "lon": 108.204346208679
-      },
-      {
-        "id": "vnm-danang",
-        "iso": "VNM",
-        "label": "DANANG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 16.1539066184949,
-        "lon": 108.193055751068
-      },
-      {
         "id": "vnm-hongai",
         "iso": "VNM",
         "label": "HON GAI",
@@ -99434,16 +85578,6 @@ module.exports = {
         ],
         "lat": 19.3146622885161,
         "lon": 105.818334201551
-      },
-      {
-        "id": "vnm-hongai",
-        "iso": "VNM",
-        "label": "HONGAI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 20.8617001667795,
-        "lon": 107.115453283329
       },
       {
         "id": "vnm-hongaivietnam",
@@ -99506,26 +85640,6 @@ module.exports = {
         "lon": 107.033318271103
       },
       {
-        "id": "vnm-campha",
-        "iso": "VNM",
-        "label": "CAM PHA",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 20.9495559381912,
-        "lon": 107.319396531485
-      },
-      {
-        "id": "vnm-caimep",
-        "iso": "VNM",
-        "label": "CAIMEP",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.2410239211754,
-        "lon": 107.056800936617
-      },
-      {
         "id": "vnm-vietnam",
         "iso": "VNM",
         "label": "VIETNAM",
@@ -99534,26 +85648,6 @@ module.exports = {
         ],
         "lat": 10.2408825332395,
         "lon": 107.06325567902
-      },
-      {
-        "id": "vnm-vungtau",
-        "iso": "VNM",
-        "label": "VUNGTAU",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.2906775774744,
-        "lon": 107.033226113812
-      },
-      {
-        "id": "vnm-vungtaubachho",
-        "iso": "VNM",
-        "label": "VUNG TAU BACH HO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.389955401584,
-        "lon": 107.093097295415
       },
       {
         "id": "vnm-vungtauvietnam",
@@ -99606,16 +85700,6 @@ module.exports = {
         "lon": 107.110108662397
       },
       {
-        "id": "vnm-hochiminh",
-        "iso": "VNM",
-        "label": "HO CHI MINH",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.3186642682195,
-        "lon": 106.992284309691
-      },
-      {
         "id": "vnm-vnsgn",
         "iso": "VNM",
         "label": "VN SGN",
@@ -99634,16 +85718,6 @@ module.exports = {
         ],
         "lat": 20.8083045999177,
         "lon": 107.14030014515
-      },
-      {
-        "id": "vnm-cailan",
-        "iso": "VNM",
-        "label": "CAI LAN",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 20.8383453211483,
-        "lon": 107.121576339268
       },
       {
         "id": "vnm-mya",
@@ -99716,26 +85790,6 @@ module.exports = {
         "lon": 106.919886847784
       },
       {
-        "id": "vnm-vndqt",
-        "iso": "VNM",
-        "label": "VN DQT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 15.4152344030205,
-        "lon": 108.795306775379
-      },
-      {
-        "id": "vnm-saigon",
-        "iso": "VNM",
-        "label": "SAIGON",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.2331455961224,
-        "lon": 107.01641482351
-      },
-      {
         "id": "vnm-vnvut",
         "iso": "VNM",
         "label": "VN VUT",
@@ -99786,16 +85840,6 @@ module.exports = {
         "lon": 106.438505673887
       },
       {
-        "id": "vnm-vungtauvietnam",
-        "iso": "VNM",
-        "label": "VUNGTAU VIETNAM",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.3825472063779,
-        "lon": 107.033522281803
-      },
-      {
         "id": "vnm-lachhuyeh",
         "iso": "VNM",
         "label": "LACH HUYEH",
@@ -99814,16 +85858,6 @@ module.exports = {
         ],
         "lat": 10.277899916159,
         "lon": 107.016271283783
-      },
-      {
-        "id": "vnm-phumyvietnam",
-        "iso": "VNM",
-        "label": "PHUMY VIETNAM",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 10.2509071424445,
-        "lon": 107.056248821312
       },
       {
         "id": "idn-merakmasterminal",
@@ -99876,26 +85910,6 @@ module.exports = {
         "lon": 117.648766213215
       },
       {
-        "id": "idn-tanjungsekong",
-        "iso": "IDN",
-        "label": "TANJUNG SEKONG",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.89903311101475,
-        "lon": 106.001851283916
-      },
-      {
-        "id": "idn-tanjunggerem",
-        "iso": "IDN",
-        "label": "TANJUNG GEREM",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.95798374721464,
-        "lon": 105.968442411704
-      },
-      {
         "id": "idn-amurang",
         "iso": "IDN",
         "label": "AMURANG",
@@ -99904,16 +85918,6 @@ module.exports = {
         ],
         "lat": 1.1951512480466,
         "lon": 124.554582427433
-      },
-      {
-        "id": "idn-kubangkepuh",
-        "iso": "IDN",
-        "label": "KUBANGKEPUH",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.87578412817504,
-        "lon": 106.013585143397
       },
       {
         "id": "idn-suralaya",
@@ -99934,16 +85938,6 @@ module.exports = {
         ],
         "lat": -5.97137775925776,
         "lon": 105.94359476573
-      },
-      {
-        "id": "idn-cigading",
-        "iso": "IDN",
-        "label": "CIGADING",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": -5.97196751188112,
-        "lon": 105.937449836557
       },
       {
         "id": "idn-tarakanindonesia",
@@ -99996,66 +85990,6 @@ module.exports = {
         "lon": 125.564300537
       },
       {
-        "id": "jpn-kamiiso",
-        "iso": "JPN",
-        "label": "KAMIISO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 41.8058955363607,
-        "lon": 140.649015814046
-      },
-      {
-        "id": "jpn-rumoiko",
-        "iso": "JPN",
-        "label": "RUMOI KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 43.9483080110421,
-        "lon": 141.639469646744
-      },
-      {
-        "id": "jpn-hakodateko",
-        "iso": "JPN",
-        "label": "HAKODATE KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 41.7867059493254,
-        "lon": 140.717844521895
-      },
-      {
-        "id": "jpn-ishikaribaynewport",
-        "iso": "JPN",
-        "label": "ISHIKARI BAY NEW PORT",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 43.1937767042986,
-        "lon": 141.293251858724
-      },
-      {
-        "id": "jpn-mombetsuko",
-        "iso": "JPN",
-        "label": "MOMBETSU KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 44.3457204188868,
-        "lon": 143.363355984446
-      },
-      {
-        "id": "jpn-jptmkoff",
-        "iso": "JPN",
-        "label": "JP TMK OFF",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.5968942710727,
-        "lon": 141.785604538419
-      },
-      {
         "id": "jpn-jptmkekoooff",
         "iso": "JPN",
         "label": "JP TMK E KOO OFF",
@@ -100064,76 +85998,6 @@ module.exports = {
         ],
         "lat": 42.5985098226286,
         "lon": 141.790381558905
-      },
-      {
-        "id": "jpn-otaruko",
-        "iso": "JPN",
-        "label": "OTARU KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 43.2031518245622,
-        "lon": 141.010203675917
-      },
-      {
-        "id": "jpn-wakkanai",
-        "iso": "JPN",
-        "label": "WAKKANAI",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 45.4096523935762,
-        "lon": 141.682941023834
-      },
-      {
-        "id": "jpn-jpmur",
-        "iso": "JPN",
-        "label": "JP MUR",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.3690289478754,
-        "lon": 140.920024111215
-      },
-      {
-        "id": "jpn-kushiroko",
-        "iso": "JPN",
-        "label": "KUSHIRO KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.9797603610594,
-        "lon": 144.357902815862
-      },
-      {
-        "id": "jpn-muroranko",
-        "iso": "JPN",
-        "label": "MURORAN KO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.3587145631327,
-        "lon": 140.924627198841
-      },
-      {
-        "id": "jpn-jptmk",
-        "iso": "JPN",
-        "label": "JP TMK",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.6042396752806,
-        "lon": 141.804265584006
-      },
-      {
-        "id": "jpn-hiroo",
-        "iso": "JPN",
-        "label": "HIROO",
-        "rfmo": [
-          "WCPFC"
-        ],
-        "lat": 42.2999425242215,
-        "lon": 143.330333102847
       },
       {
         "id": "aus-safetybeach",
@@ -100146,42 +86010,6 @@ module.exports = {
         ],
         "lat": -38.3088155444238,
         "lon": 145.002225925861
-      },
-      {
-        "id": "aus-melbourne",
-        "iso": "AUS",
-        "label": "MELBOURNE",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -37.9458716675412,
-        "lon": 144.888230129777
-      },
-      {
-        "id": "aus-bo",
-        "iso": "AUS",
-        "label": "B O",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -43.1384257350281,
-        "lon": 147.311338426718
-      },
-      {
-        "id": "aus-ccn",
-        "iso": "AUS",
-        "label": "C CN",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -43.1370114974229,
-        "lon": 147.311889684197
       },
       {
         "id": "aus-taroona",
@@ -100232,18 +86060,6 @@ module.exports = {
         "lon": 145.30229210169
       },
       {
-        "id": "aus-geelong",
-        "iso": "AUS",
-        "label": "GEELONG",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -38.0064256400116,
-        "lon": 144.76478248089
-      },
-      {
         "id": "aus-auptj",
         "iso": "AUS",
         "label": "AU PTJ",
@@ -100280,18 +86096,6 @@ module.exports = {
         "lon": 143.676241639252
       },
       {
-        "id": "aus-hobart",
-        "iso": "AUS",
-        "label": "HOBART",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -42.8876661586166,
-        "lon": 147.336739357361
-      },
-      {
         "id": "aus-portland",
         "iso": "AUS",
         "label": "PORTLAND",
@@ -100304,54 +86108,6 @@ module.exports = {
         "lon": 141.625508204284
       },
       {
-        "id": "aus-devonport",
-        "iso": "AUS",
-        "label": "DEVONPORT",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -41.184900548035,
-        "lon": 146.363313692764
-      },
-      {
-        "id": "aus-cre",
-        "iso": "AUS",
-        "label": "CRE",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -42.2741956906666,
-        "lon": 148.290392217398
-      },
-      {
-        "id": "aus-ch",
-        "iso": "AUS",
-        "label": "CH",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -43.3531237211335,
-        "lon": 146.068123191169
-      },
-      {
-        "id": "aus-crtuk",
-        "iso": "AUS",
-        "label": "CRT UK",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -43.1711442253775,
-        "lon": 146.933136036365
-      },
-      {
         "id": "aus-somerville",
         "iso": "AUS",
         "label": "SOMERVILLE",
@@ -100362,18 +86118,6 @@ module.exports = {
         ],
         "lat": -38.2483104993303,
         "lon": 145.250057857392
-      },
-      {
-        "id": "aus-bt",
-        "iso": "AUS",
-        "label": "BT",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -43.0475953046069,
-        "lon": 147.860829060349
       },
       {
         "id": "aus-porthuon",
@@ -100436,30 +86180,6 @@ module.exports = {
         "lon": 146.860545204959
       },
       {
-        "id": "aus-queenscliff",
-        "iso": "AUS",
-        "label": "QUEENSCLIFF",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -38.2650359384425,
-        "lon": 144.671666789771
-      },
-      {
-        "id": "aus-bbastoy",
-        "iso": "AUS",
-        "label": "B BASTOY",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -40.064606777928,
-        "lon": 144.062017385219
-      },
-      {
         "id": "aus-and",
         "iso": "AUS",
         "label": "AND",
@@ -100472,18 +86192,6 @@ module.exports = {
         "lon": 145.343625317511
       },
       {
-        "id": "aus-ath",
-        "iso": "AUS",
-        "label": "ATH",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -43.2571095120909,
-        "lon": 147.24115622343
-      },
-      {
         "id": "aus-westernport",
         "iso": "AUS",
         "label": "WESTERN PORT",
@@ -100494,18 +86202,6 @@ module.exports = {
         ],
         "lat": -38.3493547227795,
         "lon": 145.226245306012
-      },
-      {
-        "id": "aus-cffe",
-        "iso": "AUS",
-        "label": "CFF E",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -41.7525777060445,
-        "lon": 148.291705998757
       },
       {
         "id": "aus-blairgowrie",
@@ -100532,18 +86228,6 @@ module.exports = {
         "lon": 147.250903001617
       },
       {
-        "id": "aus-williamstown",
-        "iso": "AUS",
-        "label": "WILLIAMSTOWN",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -37.8882868547137,
-        "lon": 144.909264077286
-      },
-      {
         "id": "aus-welshpool",
         "iso": "AUS",
         "label": "WELSHPOOL",
@@ -100554,30 +86238,6 @@ module.exports = {
         ],
         "lat": -38.702205666711,
         "lon": 146.465277041724
-      },
-      {
-        "id": "aus-aria",
-        "iso": "AUS",
-        "label": "ARIA",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -40.2297352030953,
-        "lon": 148.0345646695
-      },
-      {
-        "id": "aus-westernport",
-        "iso": "AUS",
-        "label": "WESTERNPORT",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -38.3072631456843,
-        "lon": 145.229039029432
       },
       {
         "id": "aus-portlatta",
@@ -100604,18 +86264,6 @@ module.exports = {
         "lon": 146.92952907313
       },
       {
-        "id": "aus-ask",
-        "iso": "AUS",
-        "label": "ASK",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -42.7768222756323,
-        "lon": 147.794949128113
-      },
-      {
         "id": "aus-blockb00338",
         "iso": "AUS",
         "label": "BLOCKB00338",
@@ -100626,30 +86274,6 @@ module.exports = {
         ],
         "lat": -38.1102978381157,
         "lon": 144.651072399291
-      },
-      {
-        "id": "aus-bdong",
-        "iso": "AUS",
-        "label": "B DONG",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -38.111113360745,
-        "lon": 144.655462128816
-      },
-      {
-        "id": "aus-ay",
-        "iso": "AUS",
-        "label": "AY",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -42.2983848751435,
-        "lon": 148.279939098402
       },
       {
         "id": "aus-rbycmelbourne",
@@ -100674,30 +86298,6 @@ module.exports = {
         ],
         "lat": -41.0528505388366,
         "lon": 145.911167991593
-      },
-      {
-        "id": "aus-cang",
-        "iso": "AUS",
-        "label": "CANG",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -42.952263799699,
-        "lon": 147.708464999882
-      },
-      {
-        "id": "aus-bdpatrol",
-        "iso": "AUS",
-        "label": "BD PATROL",
-        "rfmo": [
-          "WCPFC",
-          "IOTC",
-          "CCSBT"
-        ],
-        "lat": -42.9507180889335,
-        "lon": 147.709103469361
       },
       {
         "id": "cri-puertomoin",
@@ -100800,16 +86400,6 @@ module.exports = {
         "lon": -86.4467182325004
       },
       {
-        "id": "hnd-puertocortes",
-        "iso": "HND",
-        "label": "PUERTO CORTES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 15.8362899548654,
-        "lon": -87.9656435464347
-      },
-      {
         "id": "hnd-omoa",
         "iso": "HND",
         "label": "OMOA",
@@ -100850,16 +86440,6 @@ module.exports = {
         "lon": -85.9699111710274
       },
       {
-        "id": "pan-cristobal",
-        "iso": "PAN",
-        "label": "CRISTOBAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 9.44387321429451,
-        "lon": -79.9464902237041
-      },
-      {
         "id": "pan-manzanillo",
         "iso": "PAN",
         "label": "MANZANILLO",
@@ -100878,16 +86458,6 @@ module.exports = {
         ],
         "lat": 9.55656486600377,
         "lon": -79.6662983421197
-      },
-      {
-        "id": "pan-puertocristobal",
-        "iso": "PAN",
-        "label": "PUERTO CRISTOBAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 9.36909823023747,
-        "lon": -79.9243957974675
       },
       {
         "id": "pan-bahiadelasminas",
@@ -100910,16 +86480,6 @@ module.exports = {
         "lon": -79.8382501454101
       },
       {
-        "id": "pan-panama",
-        "iso": "PAN",
-        "label": "PANAMA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 9.44394923569241,
-        "lon": -79.927992464737
-      },
-      {
         "id": "pan-shelterbay",
         "iso": "PAN",
         "label": "SHELTER BAY",
@@ -100928,16 +86488,6 @@ module.exports = {
         ],
         "lat": 9.36775946933333,
         "lon": -79.9508135303465
-      },
-      {
-        "id": "pan-puertocolon",
-        "iso": "PAN",
-        "label": "PUERTO COLON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 9.37592627398358,
-        "lon": -79.9026684275972
       },
       {
         "id": "pan-colonlasminas",
@@ -101010,56 +86560,6 @@ module.exports = {
         "lon": -78.8813494629572
       },
       {
-        "id": "bel-oostende",
-        "iso": "BEL",
-        "label": "OOSTENDE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.23070395416,
-        "lon": 2.92765370012684
-      },
-      {
-        "id": "bel-antwerp",
-        "iso": "BEL",
-        "label": "ANTWERP",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.4054457079494,
-        "lon": 2.62173167072852
-      },
-      {
-        "id": "bel-zeebrugge",
-        "iso": "BEL",
-        "label": "ZEEBRUGGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.3449294039227,
-        "lon": 3.19589501865042
-      },
-      {
-        "id": "bel-antwerpen",
-        "iso": "BEL",
-        "label": "ANTWERPEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.3459462246111,
-        "lon": 3.72225436663803
-      },
-      {
-        "id": "bel-nieuwpoort",
-        "iso": "BEL",
-        "label": "NIEUWPOORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.1539372850865,
-        "lon": 2.72180190555432
-      },
-      {
         "id": "bel-westhinderanchorage",
         "iso": "BEL",
         "label": "WESTHINDER ANCHORAGE",
@@ -101090,16 +86590,6 @@ module.exports = {
         "lon": 2.62812773180224
       },
       {
-        "id": "bel-blankenberge",
-        "iso": "BEL",
-        "label": "BLANKENBERGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.3137408370383,
-        "lon": 3.11073554795804
-      },
-      {
         "id": "bel-westhinder",
         "iso": "BEL",
         "label": "WESTHINDER",
@@ -101120,76 +86610,6 @@ module.exports = {
         "lon": 9.53071950342868
       },
       {
-        "id": "deu-hamburg",
-        "iso": "DEU",
-        "label": "HAMBURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.0618462951884,
-        "lon": 8.13916714549861
-      },
-      {
-        "id": "deu-bremerhaven",
-        "iso": "DEU",
-        "label": "BREMERHAVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.8543412287983,
-        "lon": 7.93654673569453
-      },
-      {
-        "id": "deu-flensburg",
-        "iso": "DEU",
-        "label": "FLENSBURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.8105133992036,
-        "lon": 9.45008013907799
-      },
-      {
-        "id": "deu-emden",
-        "iso": "DEU",
-        "label": "EMDEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.335211261497,
-        "lon": 7.18076051607695
-      },
-      {
-        "id": "deu-rostock",
-        "iso": "DEU",
-        "label": "ROSTOCK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.2247125119324,
-        "lon": 11.9722742517665
-      },
-      {
-        "id": "deu-selmsdorf",
-        "iso": "DEU",
-        "label": "SELMSDORF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.9046258482757,
-        "lon": 10.8505690645165
-      },
-      {
-        "id": "deu-lubeck-travemunde",
-        "iso": "DEU",
-        "label": "LUBECK-TRAVEMUNDE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.9531548896408,
-        "lon": 10.8801363540471
-      },
-      {
         "id": "deu-hamburgviakiel",
         "iso": "DEU",
         "label": "HAMBURG VIA KIEL",
@@ -101198,16 +86618,6 @@ module.exports = {
         ],
         "lat": 54.5416844905312,
         "lon": 10.2994146246949
-      },
-      {
-        "id": "deu-wilhelmshaven",
-        "iso": "DEU",
-        "label": "WILHELMSHAVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.7615869332282,
-        "lon": 7.885170221476
       },
       {
         "id": "deu-hooge",
@@ -101238,16 +86648,6 @@ module.exports = {
         ],
         "lat": 53.7255853334885,
         "lon": 7.49666547384603
-      },
-      {
-        "id": "deu-wedel",
-        "iso": "DEU",
-        "label": "WEDEL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.5729896462153,
-        "lon": 9.679796650171
       },
       {
         "id": "deu-jadedwanchorage",
@@ -101288,26 +86688,6 @@ module.exports = {
         ],
         "lat": 53.624782995287,
         "lon": 7.15915272682364
-      },
-      {
-        "id": "deu-cuxhaven",
-        "iso": "DEU",
-        "label": "CUXHAVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.8642340804494,
-        "lon": 8.73106422782745
-      },
-      {
-        "id": "deu-stade",
-        "iso": "DEU",
-        "label": "STADE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.0424272562893,
-        "lon": 8.14921908645216
       },
       {
         "id": "deu-bensersiel",
@@ -101440,16 +86820,6 @@ module.exports = {
         "lon": 7.43385805731061
       },
       {
-        "id": "deu-grossenbrode",
-        "iso": "DEU",
-        "label": "GROSSENBRODE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.3748956036967,
-        "lon": 11.0975106101045
-      },
-      {
         "id": "deu-bg",
         "iso": "DEU",
         "label": "BG",
@@ -101490,16 +86860,6 @@ module.exports = {
         "lon": 10.9975693181826
       },
       {
-        "id": "deu-wismar",
-        "iso": "DEU",
-        "label": "WISMAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.0847560568692,
-        "lon": 11.4003180125503
-      },
-      {
         "id": "deu-aes",
         "iso": "DEU",
         "label": "AES",
@@ -101538,26 +86898,6 @@ module.exports = {
         ],
         "lat": 53.4922431403766,
         "lon": 8.50123308890289
-      },
-      {
-        "id": "deu-brunsbuttelcanalterminals",
-        "iso": "DEU",
-        "label": "BRUNSBUTTEL CANAL TERMINALS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.8917739447983,
-        "lon": 9.14001819675111
-      },
-      {
-        "id": "deu-maasholm",
-        "iso": "DEU",
-        "label": "MAASHOLM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.6725828611069,
-        "lon": 10.0334201196576
       },
       {
         "id": "deu-otterndorf",
@@ -101720,16 +87060,6 @@ module.exports = {
         "lon": 10.6479565369487
       },
       {
-        "id": "deu-busum",
-        "iso": "DEU",
-        "label": "BUSUM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.1233880810169,
-        "lon": 8.86009343181274
-      },
-      {
         "id": "deu-ostseebadkuhlungsborn",
         "iso": "DEU",
         "label": "OSTSEEBAD KUHLUNGSBORN",
@@ -101768,26 +87098,6 @@ module.exports = {
         ],
         "lat": 53.7088030319322,
         "lon": 7.81049645401447
-      },
-      {
-        "id": "deu-jork",
-        "iso": "DEU",
-        "label": "JORK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.5542090584552,
-        "lon": 9.66923968664917
-      },
-      {
-        "id": "deu-butzfleth",
-        "iso": "DEU",
-        "label": "BUTZFLETH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.6508526038735,
-        "lon": 9.51404077032617
       },
       {
         "id": "deu-elbeanchorage",
@@ -101980,16 +87290,6 @@ module.exports = {
         "lon": 8.38229275982037
       },
       {
-        "id": "deu-neustadt",
-        "iso": "DEU",
-        "label": "NEUSTADT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.0930984514091,
-        "lon": 10.8085573598055
-      },
-      {
         "id": "deu-debmkrgowp",
         "iso": "DEU",
         "label": "DEBMK RG OWP",
@@ -102030,16 +87330,6 @@ module.exports = {
         "lon": 8.68716805309341
       },
       {
-        "id": "deu-debrv",
-        "iso": "DEU",
-        "label": "DE BRV",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.0275821623276,
-        "lon": 7.42046877229073
-      },
-      {
         "id": "deu-sylwinalpha",
         "iso": "DEU",
         "label": "SYLWIN ALPHA",
@@ -102048,16 +87338,6 @@ module.exports = {
         ],
         "lat": 55.0630745926348,
         "lon": 7.24071918481669
-      },
-      {
-        "id": "deu-gluckstadt",
-        "iso": "DEU",
-        "label": "GLUCKSTADT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.7816132530265,
-        "lon": 9.40978202814958
       },
       {
         "id": "deu-clades",
@@ -102110,16 +87390,6 @@ module.exports = {
         "lon": 10.6693977381621
       },
       {
-        "id": "dnk-arhus",
-        "iso": "DNK",
-        "label": "ARHUS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.1497002822222,
-        "lon": 10.2257442810102
-      },
-      {
         "id": "dnk-copenhagen",
         "iso": "DNK",
         "label": "COPENHAGEN",
@@ -102128,16 +87398,6 @@ module.exports = {
         ],
         "lat": 55.713027565974,
         "lon": 12.6292564116507
-      },
-      {
-        "id": "dnk-kalundborg",
-        "iso": "DNK",
-        "label": "KALUNDBORG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.6798867258056,
-        "lon": 10.9307529842603
       },
       {
         "id": "dnk-skagen",
@@ -102200,16 +87460,6 @@ module.exports = {
         "lon": 10.5842909798419
       },
       {
-        "id": "dnk-frederikssund",
-        "iso": "DNK",
-        "label": "FREDERIKSSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.8352640427338,
-        "lon": 12.0538165789938
-      },
-      {
         "id": "dnk-skaw",
         "iso": "DNK",
         "label": "SKAW",
@@ -102228,16 +87478,6 @@ module.exports = {
         ],
         "lat": 54.9091956733846,
         "lon": 9.60652909708593
-      },
-      {
-        "id": "dnk-skagenhavn",
-        "iso": "DNK",
-        "label": "SKAGEN HAVN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.6969656454735,
-        "lon": 10.6146508825301
       },
       {
         "id": "dnk-bogense",
@@ -102278,16 +87518,6 @@ module.exports = {
         ],
         "lat": 54.9669278284815,
         "lon": 10.5118337257518
-      },
-      {
-        "id": "dnk-middelfart",
-        "iso": "DNK",
-        "label": "MIDDELFART",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.4938412012435,
-        "lon": 9.71234130251521
       },
       {
         "id": "dnk-osterhurup",
@@ -102500,16 +87730,6 @@ module.exports = {
         "lon": 8.59679035378493
       },
       {
-        "id": "dnk-esbjerg",
-        "iso": "DNK",
-        "label": "ESBJERG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.4533815634743,
-        "lon": 8.44777886566917
-      },
-      {
         "id": "dnk-aan",
         "iso": "DNK",
         "label": "AAN",
@@ -102660,26 +87880,6 @@ module.exports = {
         "lon": 10.4349682307983
       },
       {
-        "id": "dnk-vejle",
-        "iso": "DNK",
-        "label": "VEJLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.7049571901203,
-        "lon": 9.56005460859587
-      },
-      {
-        "id": "dnk-horuphav",
-        "iso": "DNK",
-        "label": "HORUPHAV",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.8840564696177,
-        "lon": 9.87395706103131
-      },
-      {
         "id": "dnk-bremerhaven",
         "iso": "DNK",
         "label": "BREMERHAVEN",
@@ -102748,16 +87948,6 @@ module.exports = {
         ],
         "lat": 55.2616271662969,
         "lon": 9.88640875793351
-      },
-      {
-        "id": "dnk-hundested",
-        "iso": "DNK",
-        "label": "HUNDESTED",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.9625985302565,
-        "lon": 11.8459514888966
       },
       {
         "id": "dnk-ishoj",
@@ -103200,16 +88390,6 @@ module.exports = {
         "lon": 10.6119374096306
       },
       {
-        "id": "dnk-stigsnaesvaerket",
-        "iso": "DNK",
-        "label": "STIGSNAESVAERKET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.2079945241163,
-        "lon": 11.2212353492761
-      },
-      {
         "id": "dnk-bd",
         "iso": "DNK",
         "label": "BD",
@@ -103290,16 +88470,6 @@ module.exports = {
         "lon": 10.4369531090559
       },
       {
-        "id": "dnk-bounds",
-        "iso": "DNK",
-        "label": "BOUNDS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.2092639957412,
-        "lon": 10.289827390714
-      },
-      {
         "id": "dnk-fiskeri",
         "iso": "DNK",
         "label": "FISKERI",
@@ -103330,16 +88500,6 @@ module.exports = {
         "lon": 10.3797618445319
       },
       {
-        "id": "dnk-aven",
-        "iso": "DNK",
-        "label": "AVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.1517780087221,
-        "lon": 10.6893716484144
-      },
-      {
         "id": "dnk-gedserrostock",
         "iso": "DNK",
         "label": "GEDSER ROSTOCK",
@@ -103358,16 +88518,6 @@ module.exports = {
         ],
         "lat": 54.5722388106853,
         "lon": 11.928629924544
-      },
-      {
-        "id": "dnk-nykobing(falster)",
-        "iso": "DNK",
-        "label": "NYKOBING (FALSTER)",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.7648557727315,
-        "lon": 11.8648035188351
       },
       {
         "id": "dnk-can",
@@ -103420,16 +88570,6 @@ module.exports = {
         "lon": 10.0150278150344
       },
       {
-        "id": "dnk-nyborg",
-        "iso": "DNK",
-        "label": "NYBORG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.2731157944962,
-        "lon": 10.9214949620737
-      },
-      {
         "id": "dnk-fynshav",
         "iso": "DNK",
         "label": "FYNSHAV",
@@ -103468,26 +88608,6 @@ module.exports = {
         ],
         "lat": 55.5169048876892,
         "lon": 11.1190514494206
-      },
-      {
-        "id": "dnk-vordingborg",
-        "iso": "DNK",
-        "label": "VORDINGBORG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.0003455608933,
-        "lon": 11.9112099872426
-      },
-      {
-        "id": "dnk-rodbyhavn",
-        "iso": "DNK",
-        "label": "RODBY HAVN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.6539452603666,
-        "lon": 11.3483065716968
       },
       {
         "id": "dnk-avedore",
@@ -103730,16 +88850,6 @@ module.exports = {
         "lon": 11.1885135868326
       },
       {
-        "id": "dnk-faborg",
-        "iso": "DNK",
-        "label": "FABORG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.0713321035329,
-        "lon": 10.2182513951451
-      },
-      {
         "id": "dnk-onsevig",
         "iso": "DNK",
         "label": "ONSEVIG",
@@ -103760,16 +88870,6 @@ module.exports = {
         "lon": 4.56463483816055
       },
       {
-        "id": "dnk-kolbykaas",
-        "iso": "DNK",
-        "label": "KOLBY KAAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.9102045637237,
-        "lon": 10.2542593126754
-      },
-      {
         "id": "esp-hondarribia",
         "iso": "ESP",
         "label": "HONDARRIBIA",
@@ -103778,16 +88878,6 @@ module.exports = {
         ],
         "lat": 43.3726364772637,
         "lon": -1.78890049037204
-      },
-      {
-        "id": "est-muuga-portoftallin",
-        "iso": "EST",
-        "label": "MUUGA-PORT OF TALLIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.498214095967,
-        "lon": 24.963099498716
       },
       {
         "id": "est-apan",
@@ -103830,16 +88920,6 @@ module.exports = {
         "lon": 24.5537656350629
       },
       {
-        "id": "est-tallinn",
-        "iso": "EST",
-        "label": "TALLINN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.4788480745596,
-        "lon": 24.5991897360945
-      },
-      {
         "id": "est-tallinnestonia",
         "iso": "EST",
         "label": "TALLINN ESTONIA",
@@ -103858,16 +88938,6 @@ module.exports = {
         ],
         "lat": 59.4564545405687,
         "lon": 27.7211179223719
-      },
-      {
-        "id": "est-paldiski",
-        "iso": "EST",
-        "label": "PALDISKI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.3705077790176,
-        "lon": 23.9197314647868
       },
       {
         "id": "est-haapsalu",
@@ -103920,16 +88990,6 @@ module.exports = {
         "lon": 24.2059753029015
       },
       {
-        "id": "est-rohukula",
-        "iso": "EST",
-        "label": "ROHUKULA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.9066157774478,
-        "lon": 23.4189904141029
-      },
-      {
         "id": "est-rohukylaheltermaa",
         "iso": "EST",
         "label": "ROHUKYLA HELTERMAA",
@@ -103948,16 +89008,6 @@ module.exports = {
         ],
         "lat": 58.5724961397023,
         "lon": 23.3932342575918
-      },
-      {
-        "id": "est-kunda",
-        "iso": "EST",
-        "label": "KUNDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.5706164680857,
-        "lon": 26.5218647848838
       },
       {
         "id": "est-kardla",
@@ -104090,16 +89140,6 @@ module.exports = {
         "lon": 2.25168716308662
       },
       {
-        "id": "fra-lehavre",
-        "iso": "FRA",
-        "label": "LE HAVRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.5503152779187,
-        "lon": -0.125025527853743
-      },
-      {
         "id": "fra-lapallice",
         "iso": "FRA",
         "label": "LA PALLICE",
@@ -104138,16 +89178,6 @@ module.exports = {
         ],
         "lat": 47.3447995335445,
         "lon": -3.1457151885079
-      },
-      {
-        "id": "fra-saint-malo",
-        "iso": "FRA",
-        "label": "SAINT-MALO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.6446366573429,
-        "lon": -2.02204892553992
       },
       {
         "id": "fra-groix",
@@ -104230,16 +89260,6 @@ module.exports = {
         "lon": -1.99016876267614
       },
       {
-        "id": "fra-portoflehavre",
-        "iso": "FRA",
-        "label": "PORT OF LE HAVRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.4751183437737,
-        "lon": 0.125428089929229
-      },
-      {
         "id": "fra-donges",
         "iso": "FRA",
         "label": "DONGES",
@@ -104270,16 +89290,6 @@ module.exports = {
         "lon": -3.95040791521563
       },
       {
-        "id": "fra-stnazaire",
-        "iso": "FRA",
-        "label": "ST NAZAIRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.2785051700055,
-        "lon": -2.19553225791977
-      },
-      {
         "id": "fra-rouen",
         "iso": "FRA",
         "label": "ROUEN",
@@ -104288,26 +89298,6 @@ module.exports = {
         ],
         "lat": 49.4782630467748,
         "lon": -0.146531353456384
-      },
-      {
-        "id": "fra-blaye",
-        "iso": "FRA",
-        "label": "BLAYE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.1223372118529,
-        "lon": -0.665293805499675
-      },
-      {
-        "id": "fra-boulogne-sur-mer",
-        "iso": "FRA",
-        "label": "BOULOGNE-SUR-MER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.7247448519284,
-        "lon": 1.57338371679988
       },
       {
         "id": "fra-portjerome",
@@ -104380,16 +89370,6 @@ module.exports = {
         "lon": 1.85185278782318
       },
       {
-        "id": "fra-concarneau",
-        "iso": "FRA",
-        "label": "CONCARNEAU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.7220006040441,
-        "lon": -3.95967898855121
-      },
-      {
         "id": "fra-montoir",
         "iso": "FRA",
         "label": "MONTOIR",
@@ -104400,16 +89380,6 @@ module.exports = {
         "lon": -2.1964955247373
       },
       {
-        "id": "fra-benodet",
-        "iso": "FRA",
-        "label": "BENODET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.8678369043547,
-        "lon": -4.11048423204717
-      },
-      {
         "id": "fra-scheurhavn",
         "iso": "FRA",
         "label": "SCHEURHAVN",
@@ -104418,16 +89388,6 @@ module.exports = {
         ],
         "lat": 47.3760525083462,
         "lon": -3.21649270420491
-      },
-      {
-        "id": "fra-radedecherbourg",
-        "iso": "FRA",
-        "label": "RADE DE CHERBOURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.6500855143915,
-        "lon": -1.61853225300483
       },
       {
         "id": "fra-sein",
@@ -104450,26 +89410,6 @@ module.exports = {
         "lon": -4.8488655455164
       },
       {
-        "id": "fra-fecamp",
-        "iso": "FRA",
-        "label": "FECAMP",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.7622330629742,
-        "lon": 0.367996064009449
-      },
-      {
-        "id": "fra-bf",
-        "iso": "FRA",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.1177277579343,
-        "lon": -2.98680515309767
-      },
-      {
         "id": "fra-houat",
         "iso": "FRA",
         "label": "HOUAT",
@@ -104478,16 +89418,6 @@ module.exports = {
         ],
         "lat": 47.3802148793971,
         "lon": -2.9601295644078
-      },
-      {
-        "id": "fra-douarnenez",
-        "iso": "FRA",
-        "label": "DOUARNENEZ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.0982852926264,
-        "lon": -4.32826892831357
       },
       {
         "id": "fra-aire",
@@ -104560,16 +89490,6 @@ module.exports = {
         "lon": -2.93862946003026
       },
       {
-        "id": "fra-ouistreham",
-        "iso": "FRA",
-        "label": "OUISTREHAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.2796953982463,
-        "lon": -0.248619788991793
-      },
-      {
         "id": "fra-ant",
         "iso": "FRA",
         "label": "ANT",
@@ -104578,16 +89498,6 @@ module.exports = {
         ],
         "lat": 47.3798500020937,
         "lon": -3.08152092663443
-      },
-      {
-        "id": "fra-bay",
-        "iso": "FRA",
-        "label": "BAY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.3880176431685,
-        "lon": -2.94075235085022
       },
       {
         "id": "fra-chn",
@@ -104600,16 +89510,6 @@ module.exports = {
         "lon": -2.94449061889147
       },
       {
-        "id": "fra-dieppe",
-        "iso": "FRA",
-        "label": "DIEPPE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.9276615240054,
-        "lon": 1.08324835445029
-      },
-      {
         "id": "fra-bordeaux",
         "iso": "FRA",
         "label": "BORDEAUX",
@@ -104618,16 +89518,6 @@ module.exports = {
         ],
         "lat": 45.5957713666654,
         "lon": -1.46921022507764
-      },
-      {
-        "id": "fra-dunkerqueportouest",
-        "iso": "FRA",
-        "label": "DUNKERQUE PORT OUEST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.0498282416841,
-        "lon": 2.32871552430208
       },
       {
         "id": "fra-saint-jean-de-luz",
@@ -104650,26 +89540,6 @@ module.exports = {
         "lon": -3.02410017102284
       },
       {
-        "id": "fra-lessablesd'olonne",
-        "iso": "FRA",
-        "label": "LES SABLES D' OLONNE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.4777304003504,
-        "lon": -1.78320557598033
-      },
-      {
-        "id": "fra-bayonne",
-        "iso": "FRA",
-        "label": "BAYONNE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5644752681063,
-        "lon": -1.56027271506487
-      },
-      {
         "id": "fra-leconquet",
         "iso": "FRA",
         "label": "LE CONQUET",
@@ -104680,16 +89550,6 @@ module.exports = {
         "lon": -4.78108341622856
       },
       {
-        "id": "fra-dunkerqueportest",
-        "iso": "FRA",
-        "label": "DUNKERQUE PORT EST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.0487975445276,
-        "lon": 2.36396823655577
-      },
-      {
         "id": "fra-grandcamp-maisy",
         "iso": "FRA",
         "label": "GRANDCAMP-MAISY",
@@ -104698,16 +89558,6 @@ module.exports = {
         ],
         "lat": 49.3883208706957,
         "lon": -1.048132850634
-      },
-      {
-        "id": "fra-arradon",
-        "iso": "FRA",
-        "label": "ARRADON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.6063807955361,
-        "lon": -2.83686816211854
       },
       {
         "id": "fra-trevou-treguignec",
@@ -104750,26 +89600,6 @@ module.exports = {
         "lon": -1.94191737218714
       },
       {
-        "id": "fra-camaret-sur-mer",
-        "iso": "FRA",
-        "label": "CAMARET-SUR-MER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.2581137785726,
-        "lon": -4.6135046816617
-      },
-      {
-        "id": "fra-lelegue",
-        "iso": "FRA",
-        "label": "LE LEGUE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.5630166255306,
-        "lon": -2.68533806048579
-      },
-      {
         "id": "fra-honfleur",
         "iso": "FRA",
         "label": "HONFLEUR",
@@ -104778,16 +89608,6 @@ module.exports = {
         ],
         "lat": 49.4247106761279,
         "lon": 0.237595143156732
-      },
-      {
-        "id": "fra-lorient",
-        "iso": "FRA",
-        "label": "LORIENT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.6775338573131,
-        "lon": -3.52782489335668
       },
       {
         "id": "fra-arzon",
@@ -104820,16 +89640,6 @@ module.exports = {
         "lon": -3.32898195246638
       },
       {
-        "id": "fra-boucau",
-        "iso": "FRA",
-        "label": "BOUCAU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5278094264566,
-        "lon": -1.50958990699292
-      },
-      {
         "id": "fra-port-en-bessin-huppain",
         "iso": "FRA",
         "label": "PORT-EN-BESSIN-HUPPAIN",
@@ -104848,36 +89658,6 @@ module.exports = {
         ],
         "lat": 47.7962873235801,
         "lon": -4.21372788932261
-      },
-      {
-        "id": "fra-aa",
-        "iso": "FRA",
-        "label": "AA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.3964644111768,
-        "lon": -2.97302948051215
-      },
-      {
-        "id": "fra-ao",
-        "iso": "FRA",
-        "label": "AO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.7051022502009,
-        "lon": -1.83199895654615
-      },
-      {
-        "id": "fra-landeda",
-        "iso": "FRA",
-        "label": "LANDEDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.6086857649489,
-        "lon": -4.58361488086356
       },
       {
         "id": "fra-bchian",
@@ -104970,16 +89750,6 @@ module.exports = {
         "lon": -4.60136537885025
       },
       {
-        "id": "fra-bg",
-        "iso": "FRA",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.5875315293203,
-        "lon": -2.79127006680529
-      },
-      {
         "id": "fra-guilvinec",
         "iso": "FRA",
         "label": "GUILVINEC",
@@ -105000,26 +89770,6 @@ module.exports = {
         "lon": -3.50517203687725
       },
       {
-        "id": "fra-a3",
-        "iso": "FRA",
-        "label": "A3",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.8738401780137,
-        "lon": -1.8232156765399
-      },
-      {
-        "id": "fra-conde",
-        "iso": "FRA",
-        "label": "CONDE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.867618765825,
-        "lon": -1.82401803551296
-      },
-      {
         "id": "fra-arcachon",
         "iso": "FRA",
         "label": "ARCACHON",
@@ -105030,26 +89780,6 @@ module.exports = {
         "lon": -1.14828636281765
       },
       {
-        "id": "fra-latrinite-sur-mer",
-        "iso": "FRA",
-        "label": "LA TRINITE-SUR-MER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.5815895193354,
-        "lon": -3.01762101241817
-      },
-      {
-        "id": "fra-order",
-        "iso": "FRA",
-        "label": "ORDER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.5512729757361,
-        "lon": -1.09833584198716
-      },
-      {
         "id": "fra-roscanvel",
         "iso": "FRA",
         "label": "ROSCANVEL",
@@ -105058,16 +89788,6 @@ module.exports = {
         ],
         "lat": 48.318444336814,
         "lon": -4.53651769053808
-      },
-      {
-        "id": "fra-fort-mardyck",
-        "iso": "FRA",
-        "label": "FORT-MARDYCK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.0412065238036,
-        "lon": 2.27313750638796
       },
       {
         "id": "fra-ortugal",
@@ -105140,16 +89860,6 @@ module.exports = {
         "lon": -3.22924101709014
       },
       {
-        "id": "fra-calais",
-        "iso": "FRA",
-        "label": "CALAIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.9705816031167,
-        "lon": 1.85800748871272
-      },
-      {
         "id": "fra-pasajes",
         "iso": "FRA",
         "label": "PASAJES",
@@ -105168,16 +89878,6 @@ module.exports = {
         ],
         "lat": 48.7185818542774,
         "lon": -3.96517273553484
-      },
-      {
-        "id": "fra-audierne",
-        "iso": "FRA",
-        "label": "AUDIERNE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.0070256359326,
-        "lon": -4.55120968125762
       },
       {
         "id": "fra-tancarville",
@@ -105268,16 +89968,6 @@ module.exports = {
         ],
         "lat": 45.9677658632277,
         "lon": -1.24019787002378
-      },
-      {
-        "id": "fra-loon-plage",
-        "iso": "FRA",
-        "label": "LOON-PLAGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.017169368418,
-        "lon": 2.18391362721657
       },
       {
         "id": "fra-chm",
@@ -105560,26 +90250,6 @@ module.exports = {
         "lon": -4.41934121743724
       },
       {
-        "id": "gbr-brightlingsea",
-        "iso": "GBR",
-        "label": "BRIGHTLINGSEA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.8048937989954,
-        "lon": 0.994779202934526
-      },
-      {
-        "id": "gbr-aberdeen",
-        "iso": "GBR",
-        "label": "ABERDEEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.1894600405409,
-        "lon": -2.0182300010017
-      },
-      {
         "id": "gbr-newlyn",
         "iso": "GBR",
         "label": "NEWLYN",
@@ -105590,26 +90260,6 @@ module.exports = {
         "lon": -5.54175844611888
       },
       {
-        "id": "gbr-avonmouth",
-        "iso": "GBR",
-        "label": "AVONMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.4900705721293,
-        "lon": -2.75969110567962
-      },
-      {
-        "id": "gbr-lowestoft",
-        "iso": "GBR",
-        "label": "LOWESTOFT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.4739987270463,
-        "lon": 1.75239170307431
-      },
-      {
         "id": "gbr-thamesport",
         "iso": "GBR",
         "label": "THAMESPORT",
@@ -105618,66 +90268,6 @@ module.exports = {
         ],
         "lat": 51.4213143294978,
         "lon": 0.701463867799632
-      },
-      {
-        "id": "gbr-shotleygate",
-        "iso": "GBR",
-        "label": "SHOTLEY GATE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.9781472060745,
-        "lon": 1.2435941855586
-      },
-      {
-        "id": "gbr-bf",
-        "iso": "GBR",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.9707954849515,
-        "lon": -1.76920207671257
-      },
-      {
-        "id": "gbr-tees",
-        "iso": "GBR",
-        "label": "TEES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.6974487166832,
-        "lon": -1.05580332656976
-      },
-      {
-        "id": "gbr-kirkcaldy",
-        "iso": "GBR",
-        "label": "KIRKCALDY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.0986232237156,
-        "lon": -3.11580529255053
-      },
-      {
-        "id": "gbr-doverharbor",
-        "iso": "GBR",
-        "label": "DOVER HARBOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.1169729168256,
-        "lon": 1.32734686943229
-      },
-      {
-        "id": "gbr-immingham",
-        "iso": "GBR",
-        "label": "IMMINGHAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.6293867147137,
-        "lon": 0.269341100544133
       },
       {
         "id": "gbr-canveyisland",
@@ -105698,16 +90288,6 @@ module.exports = {
         ],
         "lat": 53.5868058668912,
         "lon": 0.0568860197432721
-      },
-      {
-        "id": "gbr-grimsby",
-        "iso": "GBR",
-        "label": "GRIMSBY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.5720841228613,
-        "lon": -0.0256756464631646
       },
       {
         "id": "gbr-grangemouth",
@@ -105740,16 +90320,6 @@ module.exports = {
         "lon": -1.58059299901027
       },
       {
-        "id": "gbr-tilbury",
-        "iso": "GBR",
-        "label": "TILBURY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.5041468543896,
-        "lon": 1.43039493868585
-      },
-      {
         "id": "gbr-tongue",
         "iso": "GBR",
         "label": "TONGUE",
@@ -105760,16 +90330,6 @@ module.exports = {
         "lon": 1.50046618124888
       },
       {
-        "id": "gbr-boston",
-        "iso": "GBR",
-        "label": "BOSTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.9703933122453,
-        "lon": 0.303631832357333
-      },
-      {
         "id": "gbr-kingslynn",
         "iso": "GBR",
         "label": "KINGS LYNN",
@@ -105778,16 +90338,6 @@ module.exports = {
         ],
         "lat": 52.9549639351877,
         "lon": 0.358747645371008
-      },
-      {
-        "id": "gbr-peterhead",
-        "iso": "GBR",
-        "label": "PETERHEAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.4999002751228,
-        "lon": -1.77600929699909
       },
       {
         "id": "gbr-seahouses",
@@ -105808,16 +90358,6 @@ module.exports = {
         ],
         "lat": 51.7579686163812,
         "lon": 0.850845680434001
-      },
-      {
-        "id": "gbr-gravesend",
-        "iso": "GBR",
-        "label": "GRAVESEND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.4469773632999,
-        "lon": 0.40047934911514
       },
       {
         "id": "gbr-aakiel",
@@ -105848,16 +90388,6 @@ module.exports = {
         ],
         "lat": 56.0541641810403,
         "lon": -2.93908198024348
-      },
-      {
-        "id": "gbr-swansea",
-        "iso": "GBR",
-        "label": "SWANSEA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.6128279061381,
-        "lon": -3.92287769438198
       },
       {
         "id": "gbr-toorder",
@@ -105920,16 +90450,6 @@ module.exports = {
         "lon": -1.7984644188718
       },
       {
-        "id": "gbr-ipswich",
-        "iso": "GBR",
-        "label": "IPSWICH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.950291864738,
-        "lon": 1.43216058201577
-      },
-      {
         "id": "gbr-capore",
         "iso": "GBR",
         "label": "CAPORE",
@@ -105940,16 +90460,6 @@ module.exports = {
         "lon": 1.24196364426542
       },
       {
-        "id": "gbr-lancaster",
-        "iso": "GBR",
-        "label": "LANCASTER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.9971299700929,
-        "lon": 1.23574025019947
-      },
-      {
         "id": "gbr-westgateonsea",
         "iso": "GBR",
         "label": "WESTGATE ON SEA",
@@ -105958,16 +90468,6 @@ module.exports = {
         ],
         "lat": 51.414628084962,
         "lon": 1.35744698284284
-      },
-      {
-        "id": "gbr-cu",
-        "iso": "GBR",
-        "label": "CU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.7201267782498,
-        "lon": 0.795658091954776
       },
       {
         "id": "gbr-eyemouth",
@@ -106000,26 +90500,6 @@ module.exports = {
         "lon": -0.367311287091515
       },
       {
-        "id": "gbr-kingstonuponhull",
-        "iso": "GBR",
-        "label": "KINGSTON UPON HULL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.734821283749,
-        "lon": -0.347656276339848
-      },
-      {
-        "id": "gbr-felixstowe",
-        "iso": "GBR",
-        "label": "FELIXSTOWE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.91301304923,
-        "lon": 1.63692101978025
-      },
-      {
         "id": "gbr-margateroad",
         "iso": "GBR",
         "label": "MARGATE ROAD",
@@ -106038,16 +90518,6 @@ module.exports = {
         ],
         "lat": 50.2120804219765,
         "lon": -5.47459893777882
-      },
-      {
-        "id": "gbr-teesport",
-        "iso": "GBR",
-        "label": "TEESPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.6887971809173,
-        "lon": -1.01118322627342
       },
       {
         "id": "gbr-harwich",
@@ -106078,26 +90548,6 @@ module.exports = {
         ],
         "lat": 54.9115481794184,
         "lon": -1.36258588850293
-      },
-      {
-        "id": "gbr-suttonbridge",
-        "iso": "GBR",
-        "label": "SUTTON BRIDGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.9240870566036,
-        "lon": 0.262560854204459
-      },
-      {
-        "id": "gbr-methil",
-        "iso": "GBR",
-        "label": "METHIL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.1799802172208,
-        "lon": -3.0020237690803
       },
       {
         "id": "gbr-erith",
@@ -106170,16 +90620,6 @@ module.exports = {
         "lon": -0.993248887197459
       },
       {
-        "id": "gbr-greatyarmouth",
-        "iso": "GBR",
-        "label": "GREAT YARMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.5737049791728,
-        "lon": 1.74619676502971
-      },
-      {
         "id": "gbr-tyneuk",
         "iso": "GBR",
         "label": "TYNE UK",
@@ -106188,16 +90628,6 @@ module.exports = {
         ],
         "lat": 55.0386423977799,
         "lon": -1.36357689191617
-      },
-      {
-        "id": "gbr-rosyth",
-        "iso": "GBR",
-        "label": "ROSYTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.007674189214,
-        "lon": -3.42606403971115
       },
       {
         "id": "gbr-houndpointterminal",
@@ -106218,26 +90648,6 @@ module.exports = {
         ],
         "lat": 50.014334805783,
         "lon": -5.26284665154802
-      },
-      {
-        "id": "gbr-walton-on-the-naze",
-        "iso": "GBR",
-        "label": "WALTON-ON-THE-NAZE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.8789395974651,
-        "lon": 1.26517219862897
-      },
-      {
-        "id": "gbr-tynemouth",
-        "iso": "GBR",
-        "label": "TYNEMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.0299730034098,
-        "lon": -1.38378301206269
       },
       {
         "id": "gbr-newcastle",
@@ -106360,16 +90770,6 @@ module.exports = {
         "lon": 0.497516506431272
       },
       {
-        "id": "gbr-braefootbayterminal",
-        "iso": "GBR",
-        "label": "BRAEFOOT BAY TERMINAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.0337395527888,
-        "lon": -3.31035896858505
-      },
-      {
         "id": "gbr-leith",
         "iso": "GBR",
         "label": "LEITH",
@@ -106388,16 +90788,6 @@ module.exports = {
         ],
         "lat": 50.4182036032814,
         "lon": -5.08659055752435
-      },
-      {
-        "id": "gbr-falmouth",
-        "iso": "GBR",
-        "label": "FALMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.1669417905859,
-        "lon": -4.65684489126993
       },
       {
         "id": "gbr-whitstable",
@@ -106450,16 +90840,6 @@ module.exports = {
         "lon": -4.6544136742746
       },
       {
-        "id": "gbr-ber",
-        "iso": "GBR",
-        "label": "BER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.7186651338812,
-        "lon": 0.781822545475328
-      },
-      {
         "id": "gbr-london",
         "iso": "GBR",
         "label": "LONDON",
@@ -106500,16 +90880,6 @@ module.exports = {
         "lon": 0.812940206986293
       },
       {
-        "id": "gbr-dundee",
-        "iso": "GBR",
-        "label": "DUNDEE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.4649937721854,
-        "lon": -2.93393327830952
-      },
-      {
         "id": "gbr-lundy",
         "iso": "GBR",
         "label": "LUNDY",
@@ -106538,26 +90908,6 @@ module.exports = {
         ],
         "lat": 51.4150897050285,
         "lon": 1.43852704332715
-      },
-      {
-        "id": "gbr-arbroath",
-        "iso": "GBR",
-        "label": "ARBROATH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.5542005147724,
-        "lon": -2.58156946933415
-      },
-      {
-        "id": "gbr-whitby",
-        "iso": "GBR",
-        "label": "WHITBY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.4868934744489,
-        "lon": -0.613146997802367
       },
       {
         "id": "gbr-londongateway",
@@ -106608,16 +90958,6 @@ module.exports = {
         ],
         "lat": 51.5789336082317,
         "lon": -3.79891011485185
-      },
-      {
-        "id": "gbr-tyneuk",
-        "iso": "GBR",
-        "label": "TYNE U K",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.0414648554876,
-        "lon": -1.37059171165965
       },
       {
         "id": "gbr-ridham",
@@ -106680,26 +91020,6 @@ module.exports = {
         "lon": 1.43212380760525
       },
       {
-        "id": "gbr-cardiff",
-        "iso": "GBR",
-        "label": "CARDIFF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.4622929683434,
-        "lon": -3.15206060767022
-      },
-      {
-        "id": "gbr-chathamdocks",
-        "iso": "GBR",
-        "label": "CHATHAM DOCKS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.3994443519774,
-        "lon": 0.55586346725796
-      },
-      {
         "id": "gbr-whitleybay",
         "iso": "GBR",
         "label": "WHITLEY BAY",
@@ -106758,16 +91078,6 @@ module.exports = {
         ],
         "lat": 51.499601232293,
         "lon": 0.771200780097449
-      },
-      {
-        "id": "gbr-birdport",
-        "iso": "GBR",
-        "label": "BIRDPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.2095843527596,
-        "lon": -3.38345455527605
       },
       {
         "id": "gbr-corkanchorage",
@@ -106880,46 +91190,6 @@ module.exports = {
         "lon": 3.37130332351502
       },
       {
-        "id": "nld-denhelder",
-        "iso": "NLD",
-        "label": "DEN HELDER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.9079370678931,
-        "lon": 4.73633026365698
-      },
-      {
-        "id": "nld-rotterdam",
-        "iso": "NLD",
-        "label": "ROTTERDAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.0334215389238,
-        "lon": 3.6705042945985
-      },
-      {
-        "id": "nld-volendam",
-        "iso": "NLD",
-        "label": "VOLENDAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.4888837423959,
-        "lon": 5.08278560458974
-      },
-      {
-        "id": "nld-oudeschild",
-        "iso": "NLD",
-        "label": "OUDESCHILD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.0347638520587,
-        "lon": 4.85037086400503
-      },
-      {
         "id": "nld-huizen",
         "iso": "NLD",
         "label": "HUIZEN",
@@ -106928,26 +91198,6 @@ module.exports = {
         ],
         "lat": 52.3142909310326,
         "lon": 5.23764996483331
-      },
-      {
-        "id": "nld-diemen",
-        "iso": "NLD",
-        "label": "DIEMEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.3611101544792,
-        "lon": 4.98343602361173
-      },
-      {
-        "id": "nld-ijmuiden",
-        "iso": "NLD",
-        "label": "IJMUIDEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.4635371160128,
-        "lon": 4.51535483592929
       },
       {
         "id": "nld-muiderberg",
@@ -106960,16 +91210,6 @@ module.exports = {
         "lon": 5.1260874784046
       },
       {
-        "id": "nld-amsterdam",
-        "iso": "NLD",
-        "label": "AMSTERDAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.4613256042844,
-        "lon": 4.28618157706996
-      },
-      {
         "id": "nld-scharendijke",
         "iso": "NLD",
         "label": "SCHARENDIJKE",
@@ -106978,36 +91218,6 @@ module.exports = {
         ],
         "lat": 51.7503956033575,
         "lon": 3.84935885367639
-      },
-      {
-        "id": "nld-emden",
-        "iso": "NLD",
-        "label": "EMDEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.5649553910172,
-        "lon": 6.37820593472643
-      },
-      {
-        "id": "nld-delfzijl",
-        "iso": "NLD",
-        "label": "DELFZIJL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.3956936149605,
-        "lon": 6.77153735399286
-      },
-      {
-        "id": "nld-makkum",
-        "iso": "NLD",
-        "label": "MAKKUM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.0571116454081,
-        "lon": 5.37434582058415
       },
       {
         "id": "nld-weetikvee",
@@ -107040,66 +91250,6 @@ module.exports = {
         "lon": 4.1742521107715
       },
       {
-        "id": "nld-malta",
-        "iso": "NLD",
-        "label": "MALTA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.6324173649752,
-        "lon": 3.89215476779415
-      },
-      {
-        "id": "nld-denoever",
-        "iso": "NLD",
-        "label": "DEN OEVER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.8762887736623,
-        "lon": 5.14839561650083
-      },
-      {
-        "id": "nld-edam",
-        "iso": "NLD",
-        "label": "EDAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.5179735196376,
-        "lon": 5.07492914111288
-      },
-      {
-        "id": "nld-bruinisse",
-        "iso": "NLD",
-        "label": "BRUINISSE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.6703981488224,
-        "lon": 4.09959063009515
-      },
-      {
-        "id": "nld-urk",
-        "iso": "NLD",
-        "label": "URK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.6058284341293,
-        "lon": 5.48874770689163
-      },
-      {
-        "id": "nld-eemshaven",
-        "iso": "NLD",
-        "label": "EEMSHAVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.4554910180521,
-        "lon": 6.82504778985641
-      },
-      {
         "id": "nld-menen",
         "iso": "NLD",
         "label": "MENEN",
@@ -107118,36 +91268,6 @@ module.exports = {
         ],
         "lat": 51.3954278497256,
         "lon": 3.60169502106276
-      },
-      {
-        "id": "nld-harlingen",
-        "iso": "NLD",
-        "label": "HARLINGEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.1758395040272,
-        "lon": 5.3637646057268
-      },
-      {
-        "id": "nld-lemmer",
-        "iso": "NLD",
-        "label": "LEMMER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.8415988201559,
-        "lon": 5.69526193446185
-      },
-      {
-        "id": "nld-vlissingen",
-        "iso": "NLD",
-        "label": "VLISSINGEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.4532120723522,
-        "lon": 3.65145747938841
       },
       {
         "id": "nld-alepas",
@@ -107180,16 +91300,6 @@ module.exports = {
         "lon": 5.40286620739455
       },
       {
-        "id": "nld-borssele",
-        "iso": "NLD",
-        "label": "BORSSELE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.4011773642945,
-        "lon": 3.74554855617348
-      },
-      {
         "id": "nld-schiermonnikoog",
         "iso": "NLD",
         "label": "SCHIERMONNIKOOG",
@@ -107200,16 +91310,6 @@ module.exports = {
         "lon": 6.17703457360833
       },
       {
-        "id": "nld-workum",
-        "iso": "NLD",
-        "label": "WORKUM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.9603631061869,
-        "lon": 5.40693760261065
-      },
-      {
         "id": "nld-npve",
         "iso": "NLD",
         "label": "NPVE",
@@ -107218,16 +91318,6 @@ module.exports = {
         ],
         "lat": 52.1914367061102,
         "lon": 4.13658845437064
-      },
-      {
-        "id": "nld-terneuzen",
-        "iso": "NLD",
-        "label": "TERNEUZEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.3650756254342,
-        "lon": 3.80842724969036
       },
       {
         "id": "nld-oost-vlieland",
@@ -107250,16 +91340,6 @@ module.exports = {
         "lon": 3.58581321128262
       },
       {
-        "id": "nld-lelystad",
-        "iso": "NLD",
-        "label": "LELYSTAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.539699875154,
-        "lon": 5.4360430263807
-      },
-      {
         "id": "nld-zandzuigerwestersch",
         "iso": "NLD",
         "label": "ZANDZUIGER WESTERSCH",
@@ -107268,16 +91348,6 @@ module.exports = {
         ],
         "lat": 51.3440884270266,
         "lon": 4.25302925676225
-      },
-      {
-        "id": "nld-leiden",
-        "iso": "NLD",
-        "label": "LEIDEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.9939290246493,
-        "lon": 5.99844174028314
       },
       {
         "id": "nld-patrouillevaart",
@@ -107320,16 +91390,6 @@ module.exports = {
         "lon": 5.4573924626382
       },
       {
-        "id": "nld-enkhuizen",
-        "iso": "NLD",
-        "label": "ENKHUIZEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.736622681089,
-        "lon": 5.27357088415345
-      },
-      {
         "id": "nld-brouwershaven",
         "iso": "NLD",
         "label": "BROUWERSHAVEN",
@@ -107338,16 +91398,6 @@ module.exports = {
         ],
         "lat": 51.737302339894,
         "lon": 3.9240136968924
-      },
-      {
-        "id": "nld-yerseke",
-        "iso": "NLD",
-        "label": "YERSEKE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.908438905202,
-        "lon": 4.27972199724956
       },
       {
         "id": "nld-greveling",
@@ -107370,26 +91420,6 @@ module.exports = {
         "lon": 3.98682574525141
       },
       {
-        "id": "nld-velsen-zuid",
-        "iso": "NLD",
-        "label": "VELSEN-ZUID",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.4648829666756,
-        "lon": 4.64994012405008
-      },
-      {
-        "id": "nld-antwerpen",
-        "iso": "NLD",
-        "label": "ANTWERPEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.4781012128828,
-        "lon": 4.21220730632507
-      },
-      {
         "id": "nld-sr",
         "iso": "NLD",
         "label": "SR",
@@ -107408,16 +91438,6 @@ module.exports = {
         ],
         "lat": 52.4177554550996,
         "lon": 5.21504594227858
-      },
-      {
-        "id": "nld-stavoren",
-        "iso": "NLD",
-        "label": "STAVOREN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.8832081604482,
-        "lon": 5.36115629728246
       },
       {
         "id": "nld-ang",
@@ -107460,16 +91480,6 @@ module.exports = {
         "lon": 4.08314882164985
       },
       {
-        "id": "nld-maassluis",
-        "iso": "NLD",
-        "label": "MAASSLUIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.3716117931712,
-        "lon": 4.7898699452907
-      },
-      {
         "id": "nld-noordgeest",
         "iso": "NLD",
         "label": "NOORDGEEST",
@@ -107490,16 +91500,6 @@ module.exports = {
         "lon": 4.78115674126223
       },
       {
-        "id": "nld-kampen",
-        "iso": "NLD",
-        "label": "KAMPEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.5668680166403,
-        "lon": 5.79718179722474
-      },
-      {
         "id": "nld-waddenzee",
         "iso": "NLD",
         "label": "WADDENZEE",
@@ -107518,16 +91518,6 @@ module.exports = {
         ],
         "lat": 51.7764075944842,
         "lon": 3.96353331359475
-      },
-      {
-        "id": "nld-flushing",
-        "iso": "NLD",
-        "label": "FLUSHING",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.4018641407161,
-        "lon": 3.89548660693424
       },
       {
         "id": "nld-zanderover",
@@ -107680,26 +91670,6 @@ module.exports = {
         "lon": 5.76178524659224
       },
       {
-        "id": "nld-nlrtm",
-        "iso": "NLD",
-        "label": "NL RTM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.077345687411,
-        "lon": 2.76461774890873
-      },
-      {
-        "id": "nld-wolphaartsdijk",
-        "iso": "NLD",
-        "label": "WOLPHAARTSDIJK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.5466031191994,
-        "lon": 3.836013072213
-      },
-      {
         "id": "nld-stavenisse",
         "iso": "NLD",
         "label": "STAVENISSE",
@@ -107708,26 +91678,6 @@ module.exports = {
         ],
         "lat": 51.5902669226397,
         "lon": 4.01189939594864
-      },
-      {
-        "id": "nld-weesp",
-        "iso": "NLD",
-        "label": "WEESP",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.3393592194488,
-        "lon": 5.05618387357593
-      },
-      {
-        "id": "nld-wemeldinge",
-        "iso": "NLD",
-        "label": "WEMELDINGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.5181472331526,
-        "lon": 4.00474726302815
       },
       {
         "id": "nld-durgerdam",
@@ -107800,16 +91750,6 @@ module.exports = {
         "lon": 5.07187620805323
       },
       {
-        "id": "nld-west-terschelling",
-        "iso": "NLD",
-        "label": "WEST-TERSCHELLING",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.3518621093696,
-        "lon": 5.23518410955949
-      },
-      {
         "id": "nld-farmsum",
         "iso": "NLD",
         "label": "FARMSUM",
@@ -107818,16 +91758,6 @@ module.exports = {
         ],
         "lat": 53.3036636076845,
         "lon": 6.97851412646617
-      },
-      {
-        "id": "nld-ouddorp",
-        "iso": "NLD",
-        "label": "OUDDORP",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.778885366786,
-        "lon": 3.88519720778917
       },
       {
         "id": "nld-marken",
@@ -107868,16 +91798,6 @@ module.exports = {
         ],
         "lat": 53.4887743399731,
         "lon": 6.78910391406191
-      },
-      {
-        "id": "nld-texel",
-        "iso": "NLD",
-        "label": "TEXEL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.1447432070696,
-        "lon": 4.97062017906367
       },
       {
         "id": "nld-zandvliet",
@@ -107950,16 +91870,6 @@ module.exports = {
         "lon": 4.27020891673137
       },
       {
-        "id": "nld-lauwersoog",
-        "iso": "NLD",
-        "label": "LAUWERSOOG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.4058336308408,
-        "lon": 6.2054667747056
-      },
-      {
         "id": "nld-eemnes",
         "iso": "NLD",
         "label": "EEMNES",
@@ -108008,16 +91918,6 @@ module.exports = {
         ],
         "lat": 51.5911969792728,
         "lon": 3.99954999660009
-      },
-      {
-        "id": "nld-alu",
-        "iso": "NLD",
-        "label": "ALU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.6075381586795,
-        "lon": 4.10915275473991
       },
       {
         "id": "nld-sintannaland",
@@ -108100,16 +92000,6 @@ module.exports = {
         "lon": 5.5250685724179
       },
       {
-        "id": "nld-bakhuizen",
-        "iso": "NLD",
-        "label": "BAKHUIZEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.8515433706606,
-        "lon": 5.4109580322597
-      },
-      {
         "id": "nld-woudrichem",
         "iso": "NLD",
         "label": "WOUDRICHEM",
@@ -108138,26 +92028,6 @@ module.exports = {
         ],
         "lat": 52.03944335114,
         "lon": 3.90385677706709
-      },
-      {
-        "id": "nld-taalpsnegtloo",
-        "iso": "NLD",
-        "label": "TAALPSNEGTLOO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.7468922202143,
-        "lon": 5.26810409569573
-      },
-      {
-        "id": "nld-brunnepe",
-        "iso": "NLD",
-        "label": "BRUNNEPE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.5457624679381,
-        "lon": 5.85634785349201
       },
       {
         "id": "nld-hollum",
@@ -108280,16 +92150,6 @@ module.exports = {
         "lon": 5.11587880260771
       },
       {
-        "id": "nld-blocqkuffe",
-        "iso": "NLD",
-        "label": "BLOCQKUFFE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.345259063921,
-        "lon": 5.06009202294281
-      },
-      {
         "id": "nld-wijdenes",
         "iso": "NLD",
         "label": "WIJDENES",
@@ -108308,16 +92168,6 @@ module.exports = {
         ],
         "lat": 52.7279753467522,
         "lon": 5.56183984838295
-      },
-      {
-        "id": "nld-walsoorden",
-        "iso": "NLD",
-        "label": "WALSOORDEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.382385702084,
-        "lon": 4.03367443722024
       },
       {
         "id": "nld-breezanddijk",
@@ -108450,16 +92300,6 @@ module.exports = {
         "lon": 3.7092821146464
       },
       {
-        "id": "nld-tholen",
-        "iso": "NLD",
-        "label": "THOLEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.5114168557261,
-        "lon": 4.17099319955268
-      },
-      {
         "id": "nld-poortvliet",
         "iso": "NLD",
         "label": "POORTVLIET",
@@ -108490,16 +92330,6 @@ module.exports = {
         "lon": 5.76276208952266
       },
       {
-        "id": "nld-spakenburg",
-        "iso": "NLD",
-        "label": "SPAKENBURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.2699161215299,
-        "lon": 5.32896314841307
-      },
-      {
         "id": "nld-beiro",
         "iso": "NLD",
         "label": "BEIRO",
@@ -108508,26 +92338,6 @@ module.exports = {
         ],
         "lat": 51.5377219885269,
         "lon": 3.92364516096041
-      },
-      {
-        "id": "nld-breezand",
-        "iso": "NLD",
-        "label": "BREEZAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.9161315334962,
-        "lon": 4.79538863280558
-      },
-      {
-        "id": "nld-europoort",
-        "iso": "NLD",
-        "label": "EUROPOORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.9762411679174,
-        "lon": 4.12355546344831
       },
       {
         "id": "nld-q1d",
@@ -108548,16 +92358,6 @@ module.exports = {
         ],
         "lat": 52.7469207578282,
         "lon": 5.26237877076446
-      },
-      {
-        "id": "nld-monnickendam",
-        "iso": "NLD",
-        "label": "MONNICKENDAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.3634630851671,
-        "lon": 5.06875259533497
       },
       {
         "id": "nld-veere",
@@ -108598,16 +92398,6 @@ module.exports = {
         ],
         "lat": 52.7672058981323,
         "lon": 5.59167293618852
-      },
-      {
-        "id": "nld-dordrecht",
-        "iso": "NLD",
-        "label": "DORDRECHT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.7707320943483,
-        "lon": 5.58688515200358
       },
       {
         "id": "nld-noordland",
@@ -108690,16 +92480,6 @@ module.exports = {
         "lon": 10.3373907960232
       },
       {
-        "id": "nor-tromsoe",
-        "iso": "NOR",
-        "label": "TROMSOE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 70.3148971460949,
-        "lon": 28.4358012863252
-      },
-      {
         "id": "nor-borgheim",
         "iso": "NOR",
         "label": "BORGHEIM",
@@ -108760,46 +92540,6 @@ module.exports = {
         "lon": 10.5019800529793
       },
       {
-        "id": "nor-cn",
-        "iso": "NOR",
-        "label": "CN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.9707050724583,
-        "lon": 10.1471201579963
-      },
-      {
-        "id": "nor-vardo",
-        "iso": "NOR",
-        "label": "VARDO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 70.3687518411126,
-        "lon": 31.0689279871349
-      },
-      {
-        "id": "nor-grimstad",
-        "iso": "NOR",
-        "label": "GRIMSTAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.3285644378985,
-        "lon": 8.6128809516357
-      },
-      {
-        "id": "nor-fredrikstad",
-        "iso": "NOR",
-        "label": "FREDRIKSTAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.0652767599189,
-        "lon": 10.9465940774775
-      },
-      {
         "id": "nor-skjaerhalden",
         "iso": "NOR",
         "label": "SKJAERHALDEN",
@@ -108828,16 +92568,6 @@ module.exports = {
         ],
         "lat": 59.8217585936526,
         "lon": 10.4830632746811
-      },
-      {
-        "id": "nor-moss",
-        "iso": "NOR",
-        "label": "MOSS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.4320283191105,
-        "lon": 10.6522180669985
       },
       {
         "id": "nor-brevik",
@@ -108880,36 +92610,6 @@ module.exports = {
         "lon": 11.0976478270991
       },
       {
-        "id": "nor-skalevik",
-        "iso": "NOR",
-        "label": "SKALEVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.0775364230015,
-        "lon": 8.0013104714504
-      },
-      {
-        "id": "nor-and",
-        "iso": "NOR",
-        "label": "AND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.7651277928285,
-        "lon": 9.37743582689486
-      },
-      {
-        "id": "nor-pbg",
-        "iso": "NOR",
-        "label": "PBG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.6275889944526,
-        "lon": 9.10895588344595
-      },
-      {
         "id": "nor-bhou",
         "iso": "NOR",
         "label": "BHOU",
@@ -108918,16 +92618,6 @@ module.exports = {
         ],
         "lat": 58.629307185876,
         "lon": 9.11496210823667
-      },
-      {
-        "id": "nor-stavanger",
-        "iso": "NOR",
-        "label": "STAVANGER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.2639193785672,
-        "lon": 8.5112512479614
       },
       {
         "id": "nor-hvaler",
@@ -108940,16 +92630,6 @@ module.exports = {
         "lon": 10.8720017210096
       },
       {
-        "id": "nor-risor",
-        "iso": "NOR",
-        "label": "RISOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.7328612453282,
-        "lon": 9.29745007486244
-      },
-      {
         "id": "nor-vadso",
         "iso": "NOR",
         "label": "VADSO",
@@ -108958,16 +92638,6 @@ module.exports = {
         ],
         "lat": 70.0721686601961,
         "lon": 29.7359160937655
-      },
-      {
-        "id": "nor-herre",
-        "iso": "NOR",
-        "label": "HERRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.1067981919553,
-        "lon": 9.59868552375742
       },
       {
         "id": "nor-rafnes",
@@ -109000,26 +92670,6 @@ module.exports = {
         "lon": 10.6799319851859
       },
       {
-        "id": "nor-arendal",
-        "iso": "NOR",
-        "label": "ARENDAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.4842247930825,
-        "lon": 8.84156578154045
-      },
-      {
-        "id": "nor-norwegian",
-        "iso": "NOR",
-        "label": "NORWEGIAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.174925244254,
-        "lon": 10.8526066724931
-      },
-      {
         "id": "nor-berlevag",
         "iso": "NOR",
         "label": "BERLEVAG",
@@ -109028,16 +92678,6 @@ module.exports = {
         ],
         "lat": 70.858079199598,
         "lon": 29.0985959632795
-      },
-      {
-        "id": "nor-ct2",
-        "iso": "NOR",
-        "label": "CT 2",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.8554653776245,
-        "lon": 10.550476038169
       },
       {
         "id": "nor-aroysund",
@@ -109110,26 +92750,6 @@ module.exports = {
         "lon": 10.762735760328
       },
       {
-        "id": "nor-fagerstrand",
-        "iso": "NOR",
-        "label": "FAGERSTRAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7081545850636,
-        "lon": 10.5571656793674
-      },
-      {
-        "id": "nor-stusvik",
-        "iso": "NOR",
-        "label": "STUSVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.9927552555638,
-        "lon": 7.08792900719798
-      },
-      {
         "id": "nor-bugoynes",
         "iso": "NOR",
         "label": "BUGOYNES",
@@ -109150,26 +92770,6 @@ module.exports = {
         "lon": 8.33808879144477
       },
       {
-        "id": "nor-drobak",
-        "iso": "NOR",
-        "label": "DROBAK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.6681289024815,
-        "lon": 10.5859997026667
-      },
-      {
-        "id": "nor-burg",
-        "iso": "NOR",
-        "label": "BURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.807474909438,
-        "lon": 9.43614826656324
-      },
-      {
         "id": "nor-atuyama",
         "iso": "NOR",
         "label": "ATUYAMA",
@@ -109188,16 +92788,6 @@ module.exports = {
         ],
         "lat": 59.5508685989045,
         "lon": 10.4184472468003
-      },
-      {
-        "id": "nor-sandvika",
-        "iso": "NOR",
-        "label": "SANDVIKA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.8659694764316,
-        "lon": 10.576249262669
       },
       {
         "id": "nor-bfe",
@@ -109240,26 +92830,6 @@ module.exports = {
         "lon": 10.3248837654365
       },
       {
-        "id": "nor-tonsberg",
-        "iso": "NOR",
-        "label": "TONSBERG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.2328181121159,
-        "lon": 10.4843841346586
-      },
-      {
-        "id": "nor-stavern",
-        "iso": "NOR",
-        "label": "STAVERN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.9976560189147,
-        "lon": 10.0438226353883
-      },
-      {
         "id": "nor-storsteilene",
         "iso": "NOR",
         "label": "STORSTEILENE",
@@ -109300,16 +92870,6 @@ module.exports = {
         "lon": 9.58977882404708
       },
       {
-        "id": "nor-lervik",
-        "iso": "NOR",
-        "label": "LERVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.2505241936034,
-        "lon": 10.7336959414411
-      },
-      {
         "id": "nor-mississippi",
         "iso": "NOR",
         "label": "MIS SISSIPPI",
@@ -109330,16 +92890,6 @@ module.exports = {
         "lon": 10.3855307804445
       },
       {
-        "id": "nor-porsgrunn",
-        "iso": "NOR",
-        "label": "PORSGRUNN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.1120498003725,
-        "lon": 9.6287493130908
-      },
-      {
         "id": "nor-nesoddtangen",
         "iso": "NOR",
         "label": "NESODDTANGEN",
@@ -109348,16 +92898,6 @@ module.exports = {
         ],
         "lat": 59.8546815379662,
         "lon": 10.6584540821154
-      },
-      {
-        "id": "nor-ano",
-        "iso": "NOR",
-        "label": "ANO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.0761152255467,
-        "lon": 10.3079515392915
       },
       {
         "id": "nor-b4f",
@@ -109390,16 +92930,6 @@ module.exports = {
         "lon": 10.3439243884401
       },
       {
-        "id": "nor-lillesand",
-        "iso": "NOR",
-        "label": "LILLESAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.2357776591026,
-        "lon": 8.38630062242541
-      },
-      {
         "id": "nor-batsfjorden",
         "iso": "NOR",
         "label": "BATSFJORDEN",
@@ -109410,16 +92940,6 @@ module.exports = {
         "lon": 29.7134558658486
       },
       {
-        "id": "nor-ck",
-        "iso": "NOR",
-        "label": "CK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.1808919975489,
-        "lon": 10.536349304581
-      },
-      {
         "id": "nor-ang",
         "iso": "NOR",
         "label": "ANG",
@@ -109428,26 +92948,6 @@ module.exports = {
         ],
         "lat": 59.105106520072,
         "lon": 10.8428550450878
-      },
-      {
-        "id": "nor-bg",
-        "iso": "NOR",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.8545841993504,
-        "lon": 9.78277747424181
-      },
-      {
-        "id": "nor-oslo",
-        "iso": "NOR",
-        "label": "OSLO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7310724516204,
-        "lon": 10.6625051308926
       },
       {
         "id": "nor-bny",
@@ -109540,26 +93040,6 @@ module.exports = {
         "lon": 10.6510635392324
       },
       {
-        "id": "nor-larkollen",
-        "iso": "NOR",
-        "label": "LARKOLLEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.3421178848252,
-        "lon": 10.6595046247038
-      },
-      {
-        "id": "nor-ert",
-        "iso": "NOR",
-        "label": "ERT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.6677232093072,
-        "lon": 9.80789126884451
-      },
-      {
         "id": "nor-gamvik",
         "iso": "NOR",
         "label": "GAMVI K",
@@ -109630,46 +93110,6 @@ module.exports = {
         "lon": 39.8447016574518
       },
       {
-        "id": "rus-murmansk",
-        "iso": "RUS",
-        "label": "MURMANSK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.0471515904705,
-        "lon": 33.0821418505197
-      },
-      {
-        "id": "rus-arkhangelsk",
-        "iso": "RUS",
-        "label": "ARKHANGELSK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.5573098565803,
-        "lon": 40.407301138194
-      },
-      {
-        "id": "rus-arkhangels'k",
-        "iso": "RUS",
-        "label": "ARKHANGELS'K",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.557016873071,
-        "lon": 40.5100280929948
-      },
-      {
-        "id": "rus-roslyakovo",
-        "iso": "RUS",
-        "label": "ROSLYAKOVO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.0674062117788,
-        "lon": 33.1319948075539
-      },
-      {
         "id": "rus-kandalaksha",
         "iso": "RUS",
         "label": "KANDALAKSHA",
@@ -109680,16 +93120,6 @@ module.exports = {
         "lon": 32.3988489221668
       },
       {
-        "id": "rus-mysabram",
-        "iso": "RUS",
-        "label": "MYS ABRAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.0046232604354,
-        "lon": 33.0300782684482
-      },
-      {
         "id": "rus-safonovo",
         "iso": "RUS",
         "label": "SAFONOVO",
@@ -109698,16 +93128,6 @@ module.exports = {
         ],
         "lat": 69.0785964487408,
         "lon": 33.2267652580865
-      },
-      {
-        "id": "rus-arkhangel'sk",
-        "iso": "RUS",
-        "label": "ARKHANGEL'SK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.5689902876798,
-        "lon": 40.5077297791284
       },
       {
         "id": "rus-barentssea",
@@ -109750,16 +93170,6 @@ module.exports = {
         "lon": 11.4716433343728
       },
       {
-        "id": "swe-brofjorden",
-        "iso": "SWE",
-        "label": "BROFJORDEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.1925093226892,
-        "lon": 11.1912327100055
-      },
-      {
         "id": "swe-torekov",
         "iso": "SWE",
         "label": "TOREKOV",
@@ -109768,26 +93178,6 @@ module.exports = {
         ],
         "lat": 56.4288018719943,
         "lon": 12.6071863790885
-      },
-      {
-        "id": "swe-rskaringon",
-        "iso": "SWE",
-        "label": "RS KARINGON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.1130501498736,
-        "lon": 11.3677793140096
-      },
-      {
-        "id": "swe-stenungsund",
-        "iso": "SWE",
-        "label": "STENUNGSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.9482525948438,
-        "lon": 11.4777870995838
       },
       {
         "id": "swe-malmo",
@@ -109830,16 +93220,6 @@ module.exports = {
         "lon": 12.696730020575
       },
       {
-        "id": "swe-bd",
-        "iso": "SWE",
-        "label": "BD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.7787539729218,
-        "lon": 11.6669827320826
-      },
-      {
         "id": "swe-cterdam",
         "iso": "SWE",
         "label": "CTERDAM",
@@ -109878,16 +93258,6 @@ module.exports = {
         ],
         "lat": 56.4456389047372,
         "lon": 12.5670351924938
-      },
-      {
-        "id": "swe-gothenburg",
-        "iso": "SWE",
-        "label": "GOTHENBURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.5813326334702,
-        "lon": 11.6779605598118
       },
       {
         "id": "swe-vigo",
@@ -109960,16 +93330,6 @@ module.exports = {
         "lon": 11.0012463231285
       },
       {
-        "id": "swe-bf",
-        "iso": "SWE",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.5123223729626,
-        "lon": 11.7313381827722
-      },
-      {
         "id": "swe-ck",
         "iso": "SWE",
         "label": "CK",
@@ -109978,16 +93338,6 @@ module.exports = {
         ],
         "lat": 57.946482342372,
         "lon": 11.6280621707252
-      },
-      {
-        "id": "swe-andalen",
-        "iso": "SWE",
-        "label": "ANDALEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.685256318212,
-        "lon": 11.8027967580627
       },
       {
         "id": "swe-bjarred",
@@ -110040,26 +93390,6 @@ module.exports = {
         "lon": 11.0618279931386
       },
       {
-        "id": "swe-skarhamn",
-        "iso": "SWE",
-        "label": "SKARHAMN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.1983481240713,
-        "lon": 11.4034524892016
-      },
-      {
-        "id": "swe-julsminde",
-        "iso": "SWE",
-        "label": "JULSMINDE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.5773281398872,
-        "lon": 11.0711163235149
-      },
-      {
         "id": "swe-tjuvkil",
         "iso": "SWE",
         "label": "TJUVKIL",
@@ -110108,26 +93438,6 @@ module.exports = {
         ],
         "lat": 57.2451587461636,
         "lon": 12.1116872938347
-      },
-      {
-        "id": "swe-lysekil",
-        "iso": "SWE",
-        "label": "LYSEKIL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.2439488694348,
-        "lon": 11.4303599691104
-      },
-      {
-        "id": "swe-marstrand",
-        "iso": "SWE",
-        "label": "MARSTRAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.7793618284247,
-        "lon": 11.6562718352091
       },
       {
         "id": "swe-bjorko",
@@ -110210,16 +93520,6 @@ module.exports = {
         "lon": 11.8489277595601
       },
       {
-        "id": "swe-majorna",
-        "iso": "SWE",
-        "label": "MAJORNA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.6875227987374,
-        "lon": 11.8674904488502
-      },
-      {
         "id": "swe-koster",
         "iso": "SWE",
         "label": "KOSTER",
@@ -110238,16 +93538,6 @@ module.exports = {
         ],
         "lat": 55.9035388399477,
         "lon": 12.7231669539647
-      },
-      {
-        "id": "swe-smogen",
-        "iso": "SWE",
-        "label": "SMOGEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.3495467776732,
-        "lon": 11.2152287815849
       },
       {
         "id": "swe-bmr",
@@ -110410,16 +93700,6 @@ module.exports = {
         "lon": 11.0375720527928
       },
       {
-        "id": "swe-ronnang",
-        "iso": "SWE",
-        "label": "RONNANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.9279067311773,
-        "lon": 11.5903357315918
-      },
-      {
         "id": "swe-oambacht",
         "iso": "SWE",
         "label": "O AMBACHT",
@@ -110580,16 +93860,6 @@ module.exports = {
         "lon": 11.6323950588089
       },
       {
-        "id": "swe-ps",
-        "iso": "SWE",
-        "label": "P S",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.1427641214048,
-        "lon": 11.3783026961091
-      },
-      {
         "id": "swe-orage6rj",
         "iso": "SWE",
         "label": "ORAGE 6 RJ",
@@ -110608,26 +93878,6 @@ module.exports = {
         ],
         "lat": 56.1164893352186,
         "lon": 12.603902379509
-      },
-      {
-        "id": "swe-grebbestad",
-        "iso": "SWE",
-        "label": "GREBBESTAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.6626613340122,
-        "lon": 11.2425559057934
-      },
-      {
-        "id": "swe-henan",
-        "iso": "SWE",
-        "label": "HENAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.2536291143532,
-        "lon": 11.6146976664076
       },
       {
         "id": "swe-ouchina",
@@ -110760,16 +94010,6 @@ module.exports = {
         "lon": 12.9311803449358
       },
       {
-        "id": "swe-billdal",
-        "iso": "SWE",
-        "label": "BILLDAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.5496868614881,
-        "lon": 11.9223300981531
-      },
-      {
         "id": "swe-hoviksnas",
         "iso": "SWE",
         "label": "HOVIKSNAS",
@@ -110788,16 +94028,6 @@ module.exports = {
         ],
         "lat": 58.5841670640092,
         "lon": 11.1840752199327
-      },
-      {
-        "id": "swe-b6517lql",
-        "iso": "SWE",
-        "label": "B 6517 LQ L",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.0533652604949,
-        "lon": 11.52406052341
       },
       {
         "id": "swe-changdao",
@@ -110870,16 +94100,6 @@ module.exports = {
         "lon": 12.7791340531885
       },
       {
-        "id": "swe-stromstad",
-        "iso": "SWE",
-        "label": "STROMSTAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.9202546943424,
-        "lon": 11.152996132337
-      },
-      {
         "id": "swe-bastad",
         "iso": "SWE",
         "label": "BASTAD",
@@ -110930,26 +94150,6 @@ module.exports = {
         "lon": 11.3670868704022
       },
       {
-        "id": "swe-lomma",
-        "iso": "SWE",
-        "label": "LOMMA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.6744441013931,
-        "lon": 13.0579774696822
-      },
-      {
-        "id": "esp-ferrol",
-        "iso": "ESP",
-        "label": "FERROL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.4626308070518,
-        "lon": -8.32503799690502
-      },
-      {
         "id": "esp-elferrol",
         "iso": "ESP",
         "label": "EL FERROL",
@@ -110958,16 +94158,6 @@ module.exports = {
         ],
         "lat": 43.459017794812,
         "lon": -8.33291949640209
-      },
-      {
-        "id": "esp-bilbao",
-        "iso": "ESP",
-        "label": "BILBAO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.3853805706337,
-        "lon": -3.11534439893951
       },
       {
         "id": "esp-zierbena",
@@ -111000,16 +94190,6 @@ module.exports = {
         "lon": -1.99264177947377
       },
       {
-        "id": "esp-aviles",
-        "iso": "ESP",
-        "label": "AVILES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.6078035025797,
-        "lon": -5.96895524822878
-      },
-      {
         "id": "esp-aguarda",
         "iso": "ESP",
         "label": "A GUARDA",
@@ -111038,16 +94218,6 @@ module.exports = {
         ],
         "lat": 43.4186850221905,
         "lon": -2.7171104535137
-      },
-      {
-        "id": "esp-lacoruna",
-        "iso": "ESP",
-        "label": "LA CORUNA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.3505921056813,
-        "lon": -8.50917644456061
       },
       {
         "id": "esp-ribadeo",
@@ -111080,16 +94250,6 @@ module.exports = {
         "lon": -8.92367730234723
       },
       {
-        "id": "esp-puertodepasajes",
-        "iso": "ESP",
-        "label": "PUERTO DE PASAJES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.3505811311558,
-        "lon": -1.91504453928458
-      },
-      {
         "id": "esp-puntaumbria",
         "iso": "ESP",
         "label": "PUNTA UMBRIA",
@@ -111100,16 +94260,6 @@ module.exports = {
         "lon": -6.93533335099307
       },
       {
-        "id": "esp-moana",
-        "iso": "ESP",
-        "label": "MOANA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.270658527631,
-        "lon": -8.67936509349691
-      },
-      {
         "id": "esp-rota",
         "iso": "ESP",
         "label": "ROTA",
@@ -111118,16 +94268,6 @@ module.exports = {
         ],
         "lat": 36.618647938996,
         "lon": -6.33434981447918
-      },
-      {
-        "id": "esp-huelva",
-        "iso": "ESP",
-        "label": "HUELVA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.1012487832322,
-        "lon": -6.87386435504852
       },
       {
         "id": "esp-gijon",
@@ -111158,16 +94298,6 @@ module.exports = {
         ],
         "lat": 36.5421429992679,
         "lon": -6.29024965345138
-      },
-      {
-        "id": "esp-puertodebilbao",
-        "iso": "ESP",
-        "label": "PUERTO DE BILBAO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.3552167979269,
-        "lon": -3.06394533134711
       },
       {
         "id": "esp-chipiona",
@@ -111210,16 +94340,6 @@ module.exports = {
         "lon": -8.86443437430902
       },
       {
-        "id": "esp-cangas",
-        "iso": "ESP",
-        "label": "CANGAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.2317306314824,
-        "lon": -8.74886472747899
-      },
-      {
         "id": "esp-malpica",
         "iso": "ESP",
         "label": "MALPICA",
@@ -111228,16 +94348,6 @@ module.exports = {
         ],
         "lat": 43.322355554724,
         "lon": -8.80543868409358
-      },
-      {
-        "id": "esp-sanciprian",
-        "iso": "ESP",
-        "label": "SAN CIPRIAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7303523633658,
-        "lon": -7.43540170932382
       },
       {
         "id": "esp-ondarroa",
@@ -111250,26 +94360,6 @@ module.exports = {
         "lon": -2.42092200271678
       },
       {
-        "id": "esp-algeciras",
-        "iso": "ESP",
-        "label": "ALGECIRAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.0795103589899,
-        "lon": -6.28286703478409
-      },
-      {
-        "id": "esp-bueu",
-        "iso": "ESP",
-        "label": "BUEU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.3332042352197,
-        "lon": -8.79574349348023
-      },
-      {
         "id": "esp-aven",
         "iso": "ESP",
         "label": "AVEN",
@@ -111278,16 +94368,6 @@ module.exports = {
         ],
         "lat": 42.3872810212851,
         "lon": -8.92505073197141
-      },
-      {
-        "id": "esp-nl",
-        "iso": "ESP",
-        "label": "NL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.9320571247466,
-        "lon": -8.94376691014064
       },
       {
         "id": "esp-gang",
@@ -111318,26 +94398,6 @@ module.exports = {
         ],
         "lat": 42.2971043673965,
         "lon": -8.65052893969219
-      },
-      {
-        "id": "esp-santander",
-        "iso": "ESP",
-        "label": "SANTANDER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.4861126126922,
-        "lon": -3.76427290045192
-      },
-      {
-        "id": "esp-cedeira",
-        "iso": "ESP",
-        "label": "CEDEIRA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.6565183286711,
-        "lon": -8.06824222088608
       },
       {
         "id": "esp-fororders",
@@ -111388,26 +94448,6 @@ module.exports = {
         ],
         "lat": 36.0848354943748,
         "lon": -6.29090137080175
-      },
-      {
-        "id": "esp-elpuertodesantamaria",
-        "iso": "ESP",
-        "label": "EL PUERTO DE SANTA MARIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.5805989517598,
-        "lon": -6.24802741182676
-      },
-      {
-        "id": "esp-corcubion",
-        "iso": "ESP",
-        "label": "CORCUBION",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.943907491279,
-        "lon": -9.18492773227063
       },
       {
         "id": "esp-air",
@@ -111540,46 +94580,6 @@ module.exports = {
         "lon": -8.91810839494089
       },
       {
-        "id": "esp-sanfernando",
-        "iso": "ESP",
-        "label": "SAN FERNANDO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.4957405046746,
-        "lon": -6.1820947900047
-      },
-      {
-        "id": "esp-carino",
-        "iso": "ESP",
-        "label": "CARINO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7346079991588,
-        "lon": -7.86443318932317
-      },
-      {
-        "id": "esp-cwm",
-        "iso": "ESP",
-        "label": "C WM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.4595735699274,
-        "lon": -8.91166211093182
-      },
-      {
-        "id": "esp-and",
-        "iso": "ESP",
-        "label": "AND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.9163470228301,
-        "lon": -8.92371068329435
-      },
-      {
         "id": "esp-aa",
         "iso": "ESP",
         "label": "AA",
@@ -111598,16 +94598,6 @@ module.exports = {
         ],
         "lat": 43.307907544005,
         "lon": -2.38173868146872
-      },
-      {
-        "id": "esp-tenerife",
-        "iso": "ESP",
-        "label": "TENERIFE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.0999511413583,
-        "lon": -6.31458063070093
       },
       {
         "id": "esp-awa",
@@ -111710,26 +94700,6 @@ module.exports = {
         "lon": -9.00108651679609
       },
       {
-        "id": "esp-hondarribia",
-        "iso": "ESP",
-        "label": "HONDARRIBIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.386122022485,
-        "lon": -1.79122660039434
-      },
-      {
-        "id": "esp-sanxenxo",
-        "iso": "ESP",
-        "label": "SANXENXO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.3947418641802,
-        "lon": -8.82120887884293
-      },
-      {
         "id": "esp-mazagon",
         "iso": "ESP",
         "label": "MAZAGON",
@@ -111778,26 +94748,6 @@ module.exports = {
         ],
         "lat": 62.2232612946988,
         "lon": -7.02381644294008
-      },
-      {
-        "id": "fro-oyri",
-        "iso": "FRO",
-        "label": "OYRI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.1879985418168,
-        "lon": -6.98236404466678
-      },
-      {
-        "id": "fro-torshavn",
-        "iso": "FRO",
-        "label": "TORSHAVN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.0003613596914,
-        "lon": -6.6959975947436
       },
       {
         "id": "fro-klaksvik",
@@ -111900,16 +94850,6 @@ module.exports = {
         "lon": -6.37373196162172
       },
       {
-        "id": "gbr-bg",
-        "iso": "GBR",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.4319750876375,
-        "lon": -6.08164832883855
-      },
-      {
         "id": "gbr-gigha",
         "iso": "GBR",
         "label": "GIGHA",
@@ -111948,16 +94888,6 @@ module.exports = {
         ],
         "lat": 53.5606838528027,
         "lon": -3.37756208046699
-      },
-      {
-        "id": "gbr-shalfleet",
-        "iso": "GBR",
-        "label": "SHALFLEET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.7289986271563,
-        "lon": -1.41855550342117
       },
       {
         "id": "gbr-bembridge",
@@ -112010,26 +94940,6 @@ module.exports = {
         "lon": -2.87884738195966
       },
       {
-        "id": "gbr-liverpool",
-        "iso": "GBR",
-        "label": "LIVERPOOL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.4276725281612,
-        "lon": -3.23794456760134
-      },
-      {
-        "id": "gbr-saintpeterport",
-        "iso": "GBR",
-        "label": "SAINT PETER PORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.4491376412947,
-        "lon": -2.52552651220962
-      },
-      {
         "id": "gbr-bdale",
         "iso": "GBR",
         "label": "BDALE",
@@ -112038,16 +94948,6 @@ module.exports = {
         ],
         "lat": 51.7001330131693,
         "lon": -5.15403282687624
-      },
-      {
-        "id": "gbr-portsmouth",
-        "iso": "GBR",
-        "label": "PORTSMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.823804260857,
-        "lon": -1.12485156165117
       },
       {
         "id": "gbr-holyhead",
@@ -112140,16 +95040,6 @@ module.exports = {
         "lon": -4.55996762893974
       },
       {
-        "id": "gbr-oban",
-        "iso": "GBR",
-        "label": "OBAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.4546968647339,
-        "lon": -5.63264281458492
-      },
-      {
         "id": "gbr-fawley",
         "iso": "GBR",
         "label": "FAWLEY",
@@ -112158,26 +95048,6 @@ module.exports = {
         ],
         "lat": 50.6536745640511,
         "lon": -1.06243143924273
-      },
-      {
-        "id": "gbr-bangor",
-        "iso": "GBR",
-        "label": "BANGOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.5813777781849,
-        "lon": -5.51164708275836
-      },
-      {
-        "id": "gbr-plymouth",
-        "iso": "GBR",
-        "label": "PLYMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.3459380728398,
-        "lon": -4.16057656627238
       },
       {
         "id": "gbr-carrickfergus",
@@ -112260,16 +95130,6 @@ module.exports = {
         "lon": -2.49588380596625
       },
       {
-        "id": "gbr-neyland",
-        "iso": "GBR",
-        "label": "NEYLAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.700492068438,
-        "lon": -4.95772527417024
-      },
-      {
         "id": "gbr-invergordon",
         "iso": "GBR",
         "label": "INVERGORDON",
@@ -112290,16 +95150,6 @@ module.exports = {
         "lon": 0.201025177401033
       },
       {
-        "id": "gbr-falmouthharbour",
-        "iso": "GBR",
-        "label": "FALMOUTH HARBOUR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.1381233726365,
-        "lon": -5.04810407967794
-      },
-      {
         "id": "gbr-portsmouthharbour",
         "iso": "GBR",
         "label": "PORTSMOUTH HARBOUR",
@@ -112308,16 +95158,6 @@ module.exports = {
         ],
         "lat": 50.801869491413,
         "lon": -1.10947807997797
-      },
-      {
-        "id": "gbr-dartmouthharbour",
-        "iso": "GBR",
-        "label": "DARTMOUTH HARBOUR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.3557668990723,
-        "lon": -3.57567802220907
       },
       {
         "id": "gbr-flotta",
@@ -112340,36 +95180,6 @@ module.exports = {
         "lon": -2.90542596570254
       },
       {
-        "id": "gbr-larne",
-        "iso": "GBR",
-        "label": "LARNE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.8470504186167,
-        "lon": -5.79662382829799
-      },
-      {
-        "id": "gbr-belfast",
-        "iso": "GBR",
-        "label": "BELFAST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.6209397806892,
-        "lon": -5.75185646079251
-      },
-      {
-        "id": "gbr-milfordhaven",
-        "iso": "GBR",
-        "label": "MILFORD HAVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.698581453014,
-        "lon": -5.03679189271457
-      },
-      {
         "id": "gbr-cpl",
         "iso": "GBR",
         "label": "CPL",
@@ -112388,16 +95198,6 @@ module.exports = {
         ],
         "lat": 55.8727753464799,
         "lon": -5.31527037276793
-      },
-      {
-        "id": "gbr-hullmarina",
-        "iso": "GBR",
-        "label": "HULL MARINA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.2209942589899,
-        "lon": -3.67998816670826
       },
       {
         "id": "gbr-albanorth",
@@ -112440,16 +95240,6 @@ module.exports = {
         "lon": -5.30054343765434
       },
       {
-        "id": "gbr-castlebay",
-        "iso": "GBR",
-        "label": "CASTLE BAY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.9247114093737,
-        "lon": -7.52831235741771
-      },
-      {
         "id": "gbr-pooleharbour",
         "iso": "GBR",
         "label": "POOLE HARBOUR",
@@ -112470,16 +95260,6 @@ module.exports = {
         "lon": -6.25052479877753
       },
       {
-        "id": "gbr-finnartoilterminal",
-        "iso": "GBR",
-        "label": "FINNART OIL TERMINAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.1117892686898,
-        "lon": -4.84135419256624
-      },
-      {
         "id": "gbr-kilcreggan",
         "iso": "GBR",
         "label": "KILCREGGAN",
@@ -112488,16 +95268,6 @@ module.exports = {
         ],
         "lat": 55.9728979617376,
         "lon": -4.85586010783248
-      },
-      {
-        "id": "gbr-bosham",
-        "iso": "GBR",
-        "label": "BOSHAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.8094323888547,
-        "lon": -0.877077026899485
       },
       {
         "id": "gbr-kallin",
@@ -112580,16 +95350,6 @@ module.exports = {
         "lon": -5.62154577794219
       },
       {
-        "id": "gbr-falmouth",
-        "iso": "GBR",
-        "label": "FALMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.5990737363352,
-        "lon": -5.1324505656492
-      },
-      {
         "id": "gbr-aang",
         "iso": "GBR",
         "label": "AANG",
@@ -112640,16 +95400,6 @@ module.exports = {
         "lon": -3.50588117160144
       },
       {
-        "id": "gbr-barrowinfurness",
-        "iso": "GBR",
-        "label": "BARROW IN FURNESS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.0966121163841,
-        "lon": -3.23021164265773
-      },
-      {
         "id": "gbr-denia",
         "iso": "GBR",
         "label": "DENIA",
@@ -112658,16 +95408,6 @@ module.exports = {
         ],
         "lat": 56.4518785750351,
         "lon": -5.43095997032017
-      },
-      {
-        "id": "gbr-lerwick",
-        "iso": "GBR",
-        "label": "LERWICK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.1660352077252,
-        "lon": -1.13732418166344
       },
       {
         "id": "gbr-johnshaw",
@@ -112730,16 +95470,6 @@ module.exports = {
         "lon": -2.98585978412288
       },
       {
-        "id": "gbr-tarbert",
-        "iso": "GBR",
-        "label": "TARBERT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.8649463775895,
-        "lon": -5.4114807293815
-      },
-      {
         "id": "gbr-st.mary's(scillyisl.)",
         "iso": "GBR",
         "label": "ST. MARY'S (SCILLY ISL.)",
@@ -112750,16 +95480,6 @@ module.exports = {
         "lon": -6.32131122921873
       },
       {
-        "id": "gbr-peterhead",
-        "iso": "GBR",
-        "label": "PETERHEAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.5078655069608,
-        "lon": -1.7813367645796
-      },
-      {
         "id": "gbr-heysham",
         "iso": "GBR",
         "label": "HEYSHAM",
@@ -112768,16 +95488,6 @@ module.exports = {
         ],
         "lat": 54.0061789134703,
         "lon": -2.97932605767474
-      },
-      {
-        "id": "gbr-cowesharbour",
-        "iso": "GBR",
-        "label": "COWES HARBOUR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.7641948379281,
-        "lon": -1.28130972849572
       },
       {
         "id": "gbr-beplekje",
@@ -112840,16 +95550,6 @@ module.exports = {
         "lon": -1.24311578965619
       },
       {
-        "id": "gbr-aroermond",
-        "iso": "GBR",
-        "label": "AROERMOND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.4691595716888,
-        "lon": -6.21604495803379
-      },
-      {
         "id": "gbr-cromarty",
         "iso": "GBR",
         "label": "CROMARTY",
@@ -112860,36 +95560,6 @@ module.exports = {
         "lon": -4.02597245009654
       },
       {
-        "id": "gbr-bf",
-        "iso": "GBR",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.2838143517457,
-        "lon": -4.11485875212853
-      },
-      {
-        "id": "gbr-cn",
-        "iso": "GBR",
-        "label": "CN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.6962577004004,
-        "lon": -2.97294876740992
-      },
-      {
-        "id": "gbr-stenaspey",
-        "iso": "GBR",
-        "label": "STENA SPEY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 61.4669106860267,
-        "lon": 1.53228373426239
-      },
-      {
         "id": "gbr-carsaigbay",
         "iso": "GBR",
         "label": "CARSAIG BAY",
@@ -112898,16 +95568,6 @@ module.exports = {
         ],
         "lat": 56.030619891617,
         "lon": -5.64656526494169
-      },
-      {
-        "id": "gbr-cguangzhou",
-        "iso": "GBR",
-        "label": "CGUANGZHOU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.7423312106289,
-        "lon": -1.2274946181062
       },
       {
         "id": "gbr-bromborough",
@@ -113010,26 +95670,6 @@ module.exports = {
         "lon": -1.51791934180299
       },
       {
-        "id": "gbr-finnart",
-        "iso": "GBR",
-        "label": "FINNART",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.5904473233621,
-        "lon": -5.11627582804933
-      },
-      {
-        "id": "gbr-shorehamharbour",
-        "iso": "GBR",
-        "label": "SHOREHAM HARBOUR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.7916793927979,
-        "lon": -0.249480362762142
-      },
-      {
         "id": "gbr-caernarvon",
         "iso": "GBR",
         "label": "CAERNARVON",
@@ -113068,16 +95708,6 @@ module.exports = {
         ],
         "lat": 53.2868026179942,
         "lon": -2.87661575479343
-      },
-      {
-        "id": "gbr-poole",
-        "iso": "GBR",
-        "label": "POOLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.7080896796391,
-        "lon": -2.00388401951295
       },
       {
         "id": "gbr-fraserburghharbor",
@@ -113200,16 +95830,6 @@ module.exports = {
         "lon": -0.975322593126028
       },
       {
-        "id": "gbr-corpach",
-        "iso": "GBR",
-        "label": "CORPACH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.7572871284361,
-        "lon": -5.2223208981329
-      },
-      {
         "id": "gbr-a41",
         "iso": "GBR",
         "label": "A41",
@@ -113290,16 +95910,6 @@ module.exports = {
         "lon": -7.27279273590627
       },
       {
-        "id": "gbr-rothesayharbor",
-        "iso": "GBR",
-        "label": "ROTHESAY HARBOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.8466862635088,
-        "lon": -5.06143958091413
-      },
-      {
         "id": "gbr-buckieharbor",
         "iso": "GBR",
         "label": "BUCKIE HARBOR",
@@ -113378,16 +95988,6 @@ module.exports = {
         ],
         "lat": 50.7887143180801,
         "lon": -0.939645363480104
-      },
-      {
-        "id": "gbr-howth",
-        "iso": "GBR",
-        "label": "HOWTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.3233789054878,
-        "lon": -5.58811031813703
       },
       {
         "id": "gbr-kharbor",
@@ -113500,16 +96100,6 @@ module.exports = {
         "lon": -5.84993611455891
       },
       {
-        "id": "gbr-sullomvoe",
-        "iso": "GBR",
-        "label": "SULLOM VOE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.4556590907122,
-        "lon": -1.28344069985424
-      },
-      {
         "id": "gbr-thistle",
         "iso": "GBR",
         "label": "THISTLE",
@@ -113518,16 +96108,6 @@ module.exports = {
         ],
         "lat": 61.3626057801674,
         "lon": 1.57775263729527
-      },
-      {
-        "id": "gbr-lamlashharbor",
-        "iso": "GBR",
-        "label": "LAMLASH HARBOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.5321050816033,
-        "lon": -5.09156017750678
       },
       {
         "id": "gbr-mostyn",
@@ -113548,16 +96128,6 @@ module.exports = {
         ],
         "lat": 55.8658754729971,
         "lon": -5.40928761352184
-      },
-      {
-        "id": "gbr-lochaline",
-        "iso": "GBR",
-        "label": "LOCHALINE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.532123783173,
-        "lon": -5.78503095796926
       },
       {
         "id": "gbr-southhayling",
@@ -113620,16 +96190,6 @@ module.exports = {
         "lon": -4.85860589533045
       },
       {
-        "id": "gbr-ongviewup",
-        "iso": "GBR",
-        "label": "ONGVIEW UP",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.670829388022,
-        "lon": -5.93877567490794
-      },
-      {
         "id": "gbr-lymeregis",
         "iso": "GBR",
         "label": "LYME REGIS",
@@ -113638,16 +96198,6 @@ module.exports = {
         ],
         "lat": 50.719751292627,
         "lon": -2.9361957280021
-      },
-      {
-        "id": "gbr-belgium",
-        "iso": "GBR",
-        "label": "BELGIUM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.9645171970842,
-        "lon": -6.305906797583
       },
       {
         "id": "gbr-canada",
@@ -113678,26 +96228,6 @@ module.exports = {
         ],
         "lat": 58.9106482396089,
         "lon": -3.05631189656208
-      },
-      {
-        "id": "gbr-saintsampson",
-        "iso": "GBR",
-        "label": "SAINT SAMPSON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.496198772062,
-        "lon": -2.50671105016436
-      },
-      {
-        "id": "gbr-inverness",
-        "iso": "GBR",
-        "label": "INVERNESS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.5019709053844,
-        "lon": -4.21452684892812
       },
       {
         "id": "gbr-recalda",
@@ -113810,16 +96340,6 @@ module.exports = {
         "lon": 0.864226315565006
       },
       {
-        "id": "gbr-astokkvtr",
-        "iso": "GBR",
-        "label": "ASTOKKV T R",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 49.96714873506,
-        "lon": -6.32339637496308
-      },
-      {
         "id": "gbr-whitehall",
         "iso": "GBR",
         "label": "WHITEHALL",
@@ -113870,16 +96390,6 @@ module.exports = {
         "lon": 0.845190135952787
       },
       {
-        "id": "gbr-cullivoe",
-        "iso": "GBR",
-        "label": "CULLIVOE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.6975577643997,
-        "lon": -0.994474333158494
-      },
-      {
         "id": "gbr-rcbinrigg",
         "iso": "GBR",
         "label": "RCBIN RIGG",
@@ -113928,16 +96438,6 @@ module.exports = {
         ],
         "lat": 60.4221615492909,
         "lon": -0.751124093060445
-      },
-      {
-        "id": "gbr-kilkeel",
-        "iso": "GBR",
-        "label": "KILKEEL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.0540480822657,
-        "lon": -5.98534620939923
       },
       {
         "id": "gbr-al",
@@ -114038,16 +96538,6 @@ module.exports = {
         ],
         "lat": 55.8347705788464,
         "lon": -5.94558458354892
-      },
-      {
-        "id": "gbr-tobermory",
-        "iso": "GBR",
-        "label": "TOBERMORY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.6150765007873,
-        "lon": -6.05348991317735
       },
       {
         "id": "gbr-beaumaris",
@@ -114160,26 +96650,6 @@ module.exports = {
         "lon": -5.95114042475062
       },
       {
-        "id": "gbr-starcross",
-        "iso": "GBR",
-        "label": "STARCROSS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.6117312715887,
-        "lon": -3.43476884160749
-      },
-      {
-        "id": "gbr-lee-on-the-solent",
-        "iso": "GBR",
-        "label": "LEE-ON-THE-SOLENT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 50.7808098332071,
-        "lon": -1.22436473861751
-      },
-      {
         "id": "gbr-gosport",
         "iso": "GBR",
         "label": "GOSPORT",
@@ -114198,16 +96668,6 @@ module.exports = {
         ],
         "lat": 49.9612213731156,
         "lon": -6.32886917698179
-      },
-      {
-        "id": "gbr-demallorca",
-        "iso": "GBR",
-        "label": "DE MALLORCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.0665231424289,
-        "lon": -5.89393008307715
       },
       {
         "id": "gbr-kyleakin",
@@ -114390,16 +96850,6 @@ module.exports = {
         "lon": -7.50439811384346
       },
       {
-        "id": "irl-cobh",
-        "iso": "IRL",
-        "label": "COBH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.853388812989,
-        "lon": -8.3176755047735
-      },
-      {
         "id": "irl-foynes",
         "iso": "IRL",
         "label": "FOYNES",
@@ -114428,26 +96878,6 @@ module.exports = {
         ],
         "lat": 52.3405943685593,
         "lon": -6.46010838835513
-      },
-      {
-        "id": "irl-drogheda",
-        "iso": "IRL",
-        "label": "DROGHEDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.7319368730451,
-        "lon": -6.18243163586622
-      },
-      {
-        "id": "irl-hausen",
-        "iso": "IRL",
-        "label": "HAUSEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.6390712333328,
-        "lon": -9.83765801999523
       },
       {
         "id": "irl-greenore",
@@ -114480,16 +96910,6 @@ module.exports = {
         "lon": -8.26002504119491
       },
       {
-        "id": "irl-cork",
-        "iso": "IRL",
-        "label": "CORK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.8374036177233,
-        "lon": -8.26766743885857
-      },
-      {
         "id": "irl-moville",
         "iso": "IRL",
         "label": "MOVILLE",
@@ -114508,16 +96928,6 @@ module.exports = {
         ],
         "lat": 51.8281979053023,
         "lon": -8.00094972988748
-      },
-      {
-        "id": "irl-kilrush",
-        "iso": "IRL",
-        "label": "KILRUSH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.6057731474179,
-        "lon": -9.48535564525498
       },
       {
         "id": "irl-aughinish",
@@ -114560,16 +96970,6 @@ module.exports = {
         "lon": -6.97289983500362
       },
       {
-        "id": "irl-waterford",
-        "iso": "IRL",
-        "label": "WATERFORD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.2440231678731,
-        "lon": -6.97228761862332
-      },
-      {
         "id": "irl-youghal",
         "iso": "IRL",
         "label": "YOUGHAL",
@@ -114600,26 +97000,6 @@ module.exports = {
         "lon": -9.47019219289091
       },
       {
-        "id": "irl-baltimore",
-        "iso": "IRL",
-        "label": "BALTIMORE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 51.4792879063755,
-        "lon": -9.39579950276337
-      },
-      {
-        "id": "irl-dublin",
-        "iso": "IRL",
-        "label": "DUBLIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.3349739693213,
-        "lon": -6.16118760952815
-      },
-      {
         "id": "irl-bantrybay",
         "iso": "IRL",
         "label": "BANTRY BAY",
@@ -114630,16 +97010,6 @@ module.exports = {
         "lon": -9.53468881939866
       },
       {
-        "id": "irl-arklow",
-        "iso": "IRL",
-        "label": "ARKLOW",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 52.794046318166,
-        "lon": -6.14381470604939
-      },
-      {
         "id": "irl-rossaranislands",
         "iso": "IRL",
         "label": "ROSS ARANISLANDS",
@@ -114648,16 +97018,6 @@ module.exports = {
         ],
         "lat": 53.115930579688,
         "lon": -9.66737552656432
-      },
-      {
-        "id": "irl-rosamhilaranisle",
-        "iso": "IRL",
-        "label": "ROS A MHIL ARAN ISLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.1180805742733,
-        "lon": -9.66658760429111
       },
       {
         "id": "irl-muff",
@@ -114760,16 +97120,6 @@ module.exports = {
         "lon": -9.46222349466605
       },
       {
-        "id": "irl-bd",
-        "iso": "IRL",
-        "label": "BD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.2625250314399,
-        "lon": -8.22600765808102
-      },
-      {
         "id": "irl-clogherhead",
         "iso": "IRL",
         "label": "CLOGHERHEAD",
@@ -114788,16 +97138,6 @@ module.exports = {
         ],
         "lat": 52.599146296805,
         "lon": -9.6025126438552
-      },
-      {
-        "id": "irl-downings",
-        "iso": "IRL",
-        "label": "DOWNINGS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.1985296216168,
-        "lon": -7.81296326764602
       },
       {
         "id": "irl-canada",
@@ -114880,16 +97220,6 @@ module.exports = {
         "lon": -21.8270380769619
       },
       {
-        "id": "isl-budir",
-        "iso": "ISL",
-        "label": "BUDIR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.9242161312604,
-        "lon": -13.9944137149941
-      },
-      {
         "id": "isl-vestmannaeyjar",
         "iso": "ISL",
         "label": "VESTMANNAEYJAR",
@@ -114960,16 +97290,6 @@ module.exports = {
         "lon": -20.3167571247621
       },
       {
-        "id": "isl-sandgerdi",
-        "iso": "ISL",
-        "label": "SANDGERDI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 65.9792258413005,
-        "lon": -18.3813674879208
-      },
-      {
         "id": "isl-akureyri",
         "iso": "ISL",
         "label": "AKUREYRI",
@@ -114988,16 +97308,6 @@ module.exports = {
         ],
         "lat": 64.7865708446972,
         "lon": -14.0079526792856
-      },
-      {
-        "id": "isl-hafnarfjordur",
-        "iso": "ISL",
-        "label": "HAFNARFJORDUR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.066605145447,
-        "lon": -21.9755618331555
       },
       {
         "id": "isl-stykkisholmur",
@@ -115100,16 +97410,6 @@ module.exports = {
         "lon": -21.3716844946341
       },
       {
-        "id": "isl-sudavik",
-        "iso": "ISL",
-        "label": "SUDAVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.0412555966501,
-        "lon": -22.9792423575128
-      },
-      {
         "id": "isl-pebgb",
         "iso": "ISL",
         "label": "PEBGB",
@@ -115148,16 +97448,6 @@ module.exports = {
         ],
         "lat": 66.5388183527956,
         "lon": -18.0158499849037
-      },
-      {
-        "id": "isl-reykjavik",
-        "iso": "ISL",
-        "label": "REYKJAVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.1542660691427,
-        "lon": -21.9183482392798
       },
       {
         "id": "isl-westmanislands",
@@ -115230,16 +97520,6 @@ module.exports = {
         "lon": -23.7012395089304
       },
       {
-        "id": "isl-akranes",
-        "iso": "ISL",
-        "label": "AKRANES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.3166544088728,
-        "lon": -22.096494029889
-      },
-      {
         "id": "isl-kopasker",
         "iso": "ISL",
         "label": "KOPASKER",
@@ -115300,16 +97580,6 @@ module.exports = {
         "lon": 5.45086199009137
       },
       {
-        "id": "nor-leirvik",
-        "iso": "NOR",
-        "label": "LEIRVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7679056218907,
-        "lon": 5.4983316368276
-      },
-      {
         "id": "nor-bvianok",
         "iso": "NOR",
         "label": "B VIA NOK",
@@ -115328,26 +97598,6 @@ module.exports = {
         ],
         "lat": 58.9789857829783,
         "lon": 5.84699651468012
-      },
-      {
-        "id": "nor-brattholmen",
-        "iso": "NOR",
-        "label": "BRATTHOLMEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.3578853601791,
-        "lon": 5.14517057172202
-      },
-      {
-        "id": "nor-mongstad",
-        "iso": "NOR",
-        "label": "MONGSTAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.8097828100223,
-        "lon": 5.02982190296963
       },
       {
         "id": "nor-vats",
@@ -115380,16 +97630,6 @@ module.exports = {
         "lon": 2.19813386424984
       },
       {
-        "id": "nor-stavanger",
-        "iso": "NOR",
-        "label": "STAVANGER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.9914855410547,
-        "lon": 5.72464869351649
-      },
-      {
         "id": "nor-skudeneshavn",
         "iso": "NOR",
         "label": "SKUDENESHAVN",
@@ -115408,16 +97648,6 @@ module.exports = {
         ],
         "lat": 58.8303655025068,
         "lon": 5.37964501990165
-      },
-      {
-        "id": "nor-tau",
-        "iso": "NOR",
-        "label": "TAU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.1285343049791,
-        "lon": 5.90113827159459
       },
       {
         "id": "nor-kirkehamn",
@@ -115468,16 +97698,6 @@ module.exports = {
         ],
         "lat": 59.0224739030154,
         "lon": 5.71604408694331
-      },
-      {
-        "id": "nor-beoff",
-        "iso": "NOR",
-        "label": "BE OFF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7075467040105,
-        "lon": 5.53816494347296
       },
       {
         "id": "nor-kopervik",
@@ -115540,16 +97760,6 @@ module.exports = {
         "lon": 5.70190712262381
       },
       {
-        "id": "nor-bobeilun",
-        "iso": "NOR",
-        "label": "BO BEI LUN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.8056988169099,
-        "lon": 5.67952622831243
-      },
-      {
         "id": "nor-bekkjarvik",
         "iso": "NOR",
         "label": "BEKKJARVIK",
@@ -115558,16 +97768,6 @@ module.exports = {
         ],
         "lat": 60.0065836854184,
         "lon": 5.20729745456477
-      },
-      {
-        "id": "nor-maloy",
-        "iso": "NOR",
-        "label": "MALOY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 61.9357389144536,
-        "lon": 5.11933430088505
       },
       {
         "id": "nor-ckoff",
@@ -115590,16 +97790,6 @@ module.exports = {
         "lon": 5.77249198588378
       },
       {
-        "id": "nor-fredrikshavn",
-        "iso": "NOR",
-        "label": "FREDRIKSHAVN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.0765011866042,
-        "lon": 5.2888173387379
-      },
-      {
         "id": "nor-floro",
         "iso": "NOR",
         "label": "FLORO",
@@ -115618,16 +97808,6 @@ module.exports = {
         ],
         "lat": 59.0827276700779,
         "lon": 5.78403281908557
-      },
-      {
-        "id": "nor-hommersak",
-        "iso": "NOR",
-        "label": "HOMMERSAK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.955368610106,
-        "lon": 5.83914439314309
       },
       {
         "id": "nor-ladstein",
@@ -115690,16 +97870,6 @@ module.exports = {
         "lon": 5.5342242905394
       },
       {
-        "id": "nor-ch164741217806",
-        "iso": "NOR",
-        "label": "CH16 4741217806",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.4560064258848,
-        "lon": 5.48061179231228
-      },
-      {
         "id": "nor-rcvaerhaugesund",
         "iso": "NOR",
         "label": "RCVAER HAUGESUND",
@@ -115718,26 +97888,6 @@ module.exports = {
         ],
         "lat": 61.2845863640577,
         "lon": 4.63449704628782
-      },
-      {
-        "id": "nor-eikefet",
-        "iso": "NOR",
-        "label": "EIKEFET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.6402306179987,
-        "lon": 5.57916245518655
-      },
-      {
-        "id": "nor-bf",
-        "iso": "NOR",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.1164057496504,
-        "lon": 5.27792638299198
       },
       {
         "id": "nor-langevaag",
@@ -115780,46 +97930,6 @@ module.exports = {
         "lon": 2.24805546351866
       },
       {
-        "id": "nor-lyngdal",
-        "iso": "NOR",
-        "label": "LYNGDAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.2393375527632,
-        "lon": 6.65691229931789
-      },
-      {
-        "id": "nor-kvinesdal",
-        "iso": "NOR",
-        "label": "KVINESDAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.2207858796245,
-        "lon": 6.73226712963875
-      },
-      {
-        "id": "nor-vormedal",
-        "iso": "NOR",
-        "label": "VORMEDAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.3344184652756,
-        "lon": 5.29921637823756
-      },
-      {
-        "id": "nor-mosterhamn",
-        "iso": "NOR",
-        "label": "MOSTERHAMN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7115608980262,
-        "lon": 5.37220069617225
-      },
-      {
         "id": "nor-snorrea",
         "iso": "NOR",
         "label": "SNORRE A",
@@ -115840,26 +97950,6 @@ module.exports = {
         "lon": 4.74148286801008
       },
       {
-        "id": "nor-bergen",
-        "iso": "NOR",
-        "label": "BERGEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.4656587218306,
-        "lon": 5.06434563065597
-      },
-      {
-        "id": "nor-svelgen",
-        "iso": "NOR",
-        "label": "SVELGEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 61.7646192923403,
-        "lon": 5.04976497705128
-      },
-      {
         "id": "nor-martinlinge",
         "iso": "NOR",
         "label": "MARTIN LINGE",
@@ -115868,16 +97958,6 @@ module.exports = {
         ],
         "lat": 60.505946840621,
         "lon": 2.01444191547868
-      },
-      {
-        "id": "nor-askoy",
-        "iso": "NOR",
-        "label": "ASKOY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.4380419751601,
-        "lon": 5.12235113761332
       },
       {
         "id": "nor-radoy",
@@ -115980,16 +98060,6 @@ module.exports = {
         "lon": 5.64032721438881
       },
       {
-        "id": "nor-kysten",
-        "iso": "NOR",
-        "label": "KYSTEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.234106899706,
-        "lon": 5.22130920211979
-      },
-      {
         "id": "nor-cort",
         "iso": "NOR",
         "label": "CORT",
@@ -115998,16 +98068,6 @@ module.exports = {
         ],
         "lat": 61.6200000184042,
         "lon": 4.81856842967894
-      },
-      {
-        "id": "nor-jelsa",
-        "iso": "NOR",
-        "label": "JELSA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.3718107834433,
-        "lon": 6.04496404186498
       },
       {
         "id": "nor-stura",
@@ -116038,26 +98098,6 @@ module.exports = {
         ],
         "lat": 59.1733967619683,
         "lon": 6.0070915606796
-      },
-      {
-        "id": "nor-kleppesto",
-        "iso": "NOR",
-        "label": "KLEPPESTO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.4182694420354,
-        "lon": 5.23618450871116
-      },
-      {
-        "id": "nor-norheimsund",
-        "iso": "NOR",
-        "label": "NORHEIMSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.3869337955457,
-        "lon": 6.20632133763659
       },
       {
         "id": "nor-hinna",
@@ -116110,16 +98150,6 @@ module.exports = {
         "lon": 5.52438652437262
       },
       {
-        "id": "nor-hylkje",
-        "iso": "NOR",
-        "label": "HYLKJE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.523911736749,
-        "lon": 5.33786269417793
-      },
-      {
         "id": "nor-ydstebohamn",
         "iso": "NOR",
         "label": "YDSTEBOHAMN",
@@ -116140,16 +98170,6 @@ module.exports = {
         "lon": 5.29214943993447
       },
       {
-        "id": "nor-nlams01005dockx00012",
-        "iso": "NOR",
-        "label": "NLAMS01005DOCKX00012",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.1499837015371,
-        "lon": 5.30232039786538
-      },
-      {
         "id": "nor-ah",
         "iso": "NOR",
         "label": "AH",
@@ -116168,16 +98188,6 @@ module.exports = {
         ],
         "lat": 59.0409302307124,
         "lon": 5.69871781210974
-      },
-      {
-        "id": "nor-skipavika",
-        "iso": "NOR",
-        "label": "SKIPAVIKA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.857481560962,
-        "lon": 5.03332804133387
       },
       {
         "id": "nor-termc00770",
@@ -116218,16 +98228,6 @@ module.exports = {
         ],
         "lat": 61.7651640309252,
         "lon": 4.8763598087678
-      },
-      {
-        "id": "nor-ang",
-        "iso": "NOR",
-        "label": "ANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 61.7652201717036,
-        "lon": 4.87913058965119
       },
       {
         "id": "nor-iriver",
@@ -116328,16 +98328,6 @@ module.exports = {
         ],
         "lat": 59.1016171726372,
         "lon": 5.8427305572126
-      },
-      {
-        "id": "nor-rubbestadneset",
-        "iso": "NOR",
-        "label": "RUBBESTADNESET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.8182169255843,
-        "lon": 5.26972724595006
       },
       {
         "id": "nor-ag",
@@ -116530,16 +98520,6 @@ module.exports = {
         "lon": 5.08349132322326
       },
       {
-        "id": "nor-skogsvagen",
-        "iso": "NOR",
-        "label": "SKOGSVAGEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.2686324914123,
-        "lon": 5.1071827225418
-      },
-      {
         "id": "nor-johansverdrup",
         "iso": "NOR",
         "label": "JOHAN SVERDRUP",
@@ -116640,56 +98620,6 @@ module.exports = {
         "lon": 5.8356061036117
       },
       {
-        "id": "nor-gokk",
-        "iso": "NOR",
-        "label": "GOKK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 61.3153962669404,
-        "lon": 4.73092643849599
-      },
-      {
-        "id": "nor-askvoll",
-        "iso": "NOR",
-        "label": "ASKVOLL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 61.3153129264886,
-        "lon": 4.7324848118717
-      },
-      {
-        "id": "nor-sagvag",
-        "iso": "NOR",
-        "label": "SAGVAG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7489359140153,
-        "lon": 5.43379724436267
-      },
-      {
-        "id": "nor-fiske",
-        "iso": "NOR",
-        "label": "FISKE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7966168556261,
-        "lon": 5.73914231387638
-      },
-      {
-        "id": "nor-straume",
-        "iso": "NOR",
-        "label": "STRAUME",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.3599225562942,
-        "lon": 5.08349000807
-      },
-      {
         "id": "nor-westepsilon",
         "iso": "NOR",
         "label": "WEST EPSILON",
@@ -116698,16 +98628,6 @@ module.exports = {
         ],
         "lat": 58.8441220222173,
         "lon": 1.7449523840846
-      },
-      {
-        "id": "nor-ck",
-        "iso": "NOR",
-        "label": "CK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.1582062320461,
-        "lon": 5.31303718781322
       },
       {
         "id": "nor-herdla",
@@ -116760,16 +98680,6 @@ module.exports = {
         "lon": 1.69667740163863
       },
       {
-        "id": "nor-egersund",
-        "iso": "NOR",
-        "label": "EGERSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.113551659489,
-        "lon": 5.15654235463556
-      },
-      {
         "id": "nor-austevoll",
         "iso": "NOR",
         "label": "AUSTEVOLL",
@@ -116780,16 +98690,6 @@ module.exports = {
         "lon": 5.16194055878951
       },
       {
-        "id": "nor-aria",
-        "iso": "NOR",
-        "label": "ARIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 61.9826327283757,
-        "lon": 5.13686456193805
-      },
-      {
         "id": "nor-vaktnr47927000",
         "iso": "NOR",
         "label": "VAKTNR 47927000",
@@ -116798,16 +98698,6 @@ module.exports = {
         ],
         "lat": 60.2037236384789,
         "lon": 5.04227727683182
-      },
-      {
-        "id": "nor-ai",
-        "iso": "NOR",
-        "label": "AI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.2235201681205,
-        "lon": 5.15745543665002
       },
       {
         "id": "nor-gulenandsolundarea",
@@ -116880,16 +98770,6 @@ module.exports = {
         "lon": 6.1040059975959
       },
       {
-        "id": "nor-fitjar",
-        "iso": "NOR",
-        "label": "FITJAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.9233712668013,
-        "lon": 5.26061467368455
-      },
-      {
         "id": "nor-cburgvv",
         "iso": "NOR",
         "label": "CBURG V V",
@@ -116960,26 +98840,6 @@ module.exports = {
         "lon": 5.10070097599996
       },
       {
-        "id": "prt-setubal",
-        "iso": "PRT",
-        "label": "SETUBAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.4922646519176,
-        "lon": -8.8554401914442
-      },
-      {
-        "id": "prt-gafanhadanazare",
-        "iso": "PRT",
-        "label": "GAFANHA DA NAZARE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6502316318292,
-        "lon": -8.72462144413532
-      },
-      {
         "id": "prt-sines",
         "iso": "PRT",
         "label": "SINES",
@@ -117010,26 +98870,6 @@ module.exports = {
         "lon": -8.76825362948633
       },
       {
-        "id": "prt-vilarealdesantonio",
-        "iso": "PRT",
-        "label": "VILA REAL DE S ANTONIO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.198451000564,
-        "lon": -7.41416410019301
-      },
-      {
-        "id": "prt-lagos",
-        "iso": "PRT",
-        "label": "LAGOS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.1009729933334,
-        "lon": -8.66393690039197
-      },
-      {
         "id": "prt-blik",
         "iso": "PRT",
         "label": "BLIK",
@@ -117038,16 +98878,6 @@ module.exports = {
         ],
         "lat": 38.4058360057067,
         "lon": -28.185642304929
-      },
-      {
-        "id": "prt-faro",
-        "iso": "PRT",
-        "label": "FARO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.0024360136817,
-        "lon": -7.92859165421669
       },
       {
         "id": "prt-lisbon",
@@ -117090,16 +98920,6 @@ module.exports = {
         "lon": -9.14406008922901
       },
       {
-        "id": "prt-aveiro",
-        "iso": "PRT",
-        "label": "AVEIRO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6629600815593,
-        "lon": -8.82360713922641
-      },
-      {
         "id": "prt-lagoa",
         "iso": "PRT",
         "label": "LAGOA",
@@ -117120,26 +98940,6 @@ module.exports = {
         "lon": -8.87047241529325
       },
       {
-        "id": "prt-olhao",
-        "iso": "PRT",
-        "label": "OLHAO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.0060422261669,
-        "lon": -7.83507724194793
-      },
-      {
-        "id": "prt-cascais",
-        "iso": "PRT",
-        "label": "CASCAIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.6744928313825,
-        "lon": -9.40915142436105
-      },
-      {
         "id": "prt-gafanhadaencarnacao",
         "iso": "PRT",
         "label": "GAFANHA DA ENCARNACAO",
@@ -117148,16 +98948,6 @@ module.exports = {
         ],
         "lat": 40.6320734808163,
         "lon": -8.73166028858922
-      },
-      {
-        "id": "prt-figueiradafoz",
-        "iso": "PRT",
-        "label": "FIGUEIRA DA FOZ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.149058183612,
-        "lon": -8.93693063581227
       },
       {
         "id": "prt-moscavide",
@@ -117190,26 +98980,6 @@ module.exports = {
         "lon": -9.23260058457659
       },
       {
-        "id": "prt-alges",
-        "iso": "PRT",
-        "label": "ALGES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.6927296626975,
-        "lon": -9.2124123796635
-      },
-      {
-        "id": "prt-portodeleixoes",
-        "iso": "PRT",
-        "label": "PORTO DE LEIXOES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1808298564081,
-        "lon": -8.70770636723844
-      },
-      {
         "id": "prt-cacilhas",
         "iso": "PRT",
         "label": "CACILHAS",
@@ -117228,16 +98998,6 @@ module.exports = {
         ],
         "lat": 36.9785013449498,
         "lon": -7.87332058334886
-      },
-      {
-        "id": "prt-sesimbra",
-        "iso": "PRT",
-        "label": "SESIMBRA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.4320290203674,
-        "lon": -9.10282277227645
       },
       {
         "id": "prt-saoroquedopico",
@@ -117270,16 +99030,6 @@ module.exports = {
         "lon": -9.37155895013062
       },
       {
-        "id": "prt-horta",
-        "iso": "PRT",
-        "label": "HORTA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.5312916379358,
-        "lon": -28.6225266058641
-      },
-      {
         "id": "prt-lacoruna",
         "iso": "PRT",
         "label": "LA CORUNA",
@@ -117310,26 +99060,6 @@ module.exports = {
         "lon": -9.06452814516884
       },
       {
-        "id": "prt-vianadocastelo",
-        "iso": "PRT",
-        "label": "VIANA DO CASTELO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6775494741244,
-        "lon": -8.88292773324096
-      },
-      {
-        "id": "prt-vilamoura",
-        "iso": "PRT",
-        "label": "VILAMOURA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.0702059549762,
-        "lon": -8.1239887548333
-      },
-      {
         "id": "prt-parede",
         "iso": "PRT",
         "label": "PAREDE",
@@ -117338,26 +99068,6 @@ module.exports = {
         ],
         "lat": 38.6725348166948,
         "lon": -9.38721703726001
-      },
-      {
-        "id": "prt-estoril",
-        "iso": "PRT",
-        "label": "ESTORIL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.6744885225101,
-        "lon": -9.39248060492533
-      },
-      {
-        "id": "prt-viladoporto",
-        "iso": "PRT",
-        "label": "VILA DO PORTO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9425720008568,
-        "lon": -25.149661518542
       },
       {
         "id": "prt-albufeira",
@@ -117390,16 +99100,6 @@ module.exports = {
         "lon": -25.4294376111848
       },
       {
-        "id": "prt-praiadevitoria",
-        "iso": "PRT",
-        "label": "PRAIA DE VITORIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.7171364052854,
-        "lon": -27.0363358751959
-      },
-      {
         "id": "prt-and",
         "iso": "PRT",
         "label": "AND",
@@ -117430,16 +99130,6 @@ module.exports = {
         "lon": -54.7666806078954
       },
       {
-        "id": "usa-providence",
-        "iso": "USA",
-        "label": "PROVIDENCE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.7291451671271,
-        "lon": -71.3774780614372
-      },
-      {
         "id": "usa-newshoreham",
         "iso": "USA",
         "label": "NEW SHOREHAM",
@@ -117448,36 +99138,6 @@ module.exports = {
         ],
         "lat": 41.1868656429649,
         "lon": -71.5775907833865
-      },
-      {
-        "id": "usa-woodshole",
-        "iso": "USA",
-        "label": "WOODS HOLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.5156442215343,
-        "lon": -70.6942395453308
-      },
-      {
-        "id": "usa-vineyardhaven",
-        "iso": "USA",
-        "label": "VINEYARD HAVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4627817113543,
-        "lon": -70.5780183550661
-      },
-      {
-        "id": "usa-newport",
-        "iso": "USA",
-        "label": "NEWPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.5086787160367,
-        "lon": -71.3425966675921
       },
       {
         "id": "usa-davisvilledepot",
@@ -117490,56 +99150,6 @@ module.exports = {
         "lon": -71.4070121488343
       },
       {
-        "id": "usa-melville",
-        "iso": "USA",
-        "label": "MELVILLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.5934490586788,
-        "lon": -71.2890405155972
-      },
-      {
-        "id": "usa-boston",
-        "iso": "USA",
-        "label": "BOSTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6696388698889,
-        "lon": -70.6909330385486
-      },
-      {
-        "id": "usa-pocasset",
-        "iso": "USA",
-        "label": "POCASSET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6835275244049,
-        "lon": -70.6375419240283
-      },
-      {
-        "id": "usa-fallriver",
-        "iso": "USA",
-        "label": "FALL RIVER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.7070047292632,
-        "lon": -71.1744328726442
-      },
-      {
-        "id": "usa-bristol",
-        "iso": "USA",
-        "label": "BRISTOL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6612783137022,
-        "lon": -71.2740355366496
-      },
-      {
         "id": "usa-chatham",
         "iso": "USA",
         "label": "CHATHAM",
@@ -117550,26 +99160,6 @@ module.exports = {
         "lon": -69.9652284513936
       },
       {
-        "id": "usa-falmouth",
-        "iso": "USA",
-        "label": "FALMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.5446100619813,
-        "lon": -70.6058117923846
-      },
-      {
-        "id": "usa-nantucket",
-        "iso": "USA",
-        "label": "NANTUCKET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.3160202633349,
-        "lon": -70.0895247217662
-      },
-      {
         "id": "usa-are",
         "iso": "USA",
         "label": "ARE",
@@ -117578,16 +99168,6 @@ module.exports = {
         ],
         "lat": 41.6417537040568,
         "lon": -71.3384949032489
-      },
-      {
-        "id": "usa-edgartown",
-        "iso": "USA",
-        "label": "EDGARTOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.3899913383915,
-        "lon": -70.4972114093813
       },
       {
         "id": "usa-hyannisport",
@@ -117650,26 +99230,6 @@ module.exports = {
         "lon": -71.3881590997006
       },
       {
-        "id": "usa-ai",
-        "iso": "USA",
-        "label": "AI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4255476426421,
-        "lon": -70.9263528627945
-      },
-      {
-        "id": "usa-annapolis",
-        "iso": "USA",
-        "label": "ANNAPOLIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4251881742654,
-        "lon": -70.9121060459417
-      },
-      {
         "id": "usa-axxxxx01580",
         "iso": "USA",
         "label": "AXXXXX01580",
@@ -117680,26 +99240,6 @@ module.exports = {
         "lon": -70.9147757605285
       },
       {
-        "id": "usa-quonsetpoint",
-        "iso": "USA",
-        "label": "QUONSET POINT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.5870671779983,
-        "lon": -71.4096155429057
-      },
-      {
-        "id": "usa-bf",
-        "iso": "USA",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.3592134783737,
-        "lon": -71.5056258040873
-      },
-      {
         "id": "usa-pointjudith",
         "iso": "USA",
         "label": "POINT JUDITH",
@@ -117708,26 +99248,6 @@ module.exports = {
         ],
         "lat": 41.3594798893327,
         "lon": -71.5087735663433
-      },
-      {
-        "id": "usa-hyannis",
-        "iso": "USA",
-        "label": "HYANNIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6363696100239,
-        "lon": -70.2691612527246
-      },
-      {
-        "id": "usa-ang",
-        "iso": "USA",
-        "label": "ANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6363412153362,
-        "lon": -71.3318029141792
       },
       {
         "id": "usa-gdy",
@@ -117760,16 +99280,6 @@ module.exports = {
         "lon": -71.3908065576328
       },
       {
-        "id": "usa-newportri",
-        "iso": "USA",
-        "label": "NEWPORT RI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4903837542951,
-        "lon": -71.2423417085667
-      },
-      {
         "id": "usa-marion",
         "iso": "USA",
         "label": "MARION",
@@ -117778,16 +99288,6 @@ module.exports = {
         ],
         "lat": 41.6978295773232,
         "lon": -70.7518075417214
-      },
-      {
-        "id": "usa-cegypt",
-        "iso": "USA",
-        "label": "CEGYPT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.5144751661087,
-        "lon": -71.0769772128035
       },
       {
         "id": "usa-osterville",
@@ -117800,26 +99300,6 @@ module.exports = {
         "lon": -70.3962970599032
       },
       {
-        "id": "usa-marioncenter",
-        "iso": "USA",
-        "label": "MARION CENTER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.7032148030563,
-        "lon": -70.7513034418997
-      },
-      {
-        "id": "usa-mattapoisett",
-        "iso": "USA",
-        "label": "MATTAPOISETT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.6491558644387,
-        "lon": -70.803206469936
-      },
-      {
         "id": "can-shippegan",
         "iso": "CAN",
         "label": "SHIPPEGAN",
@@ -117828,16 +99308,6 @@ module.exports = {
         ],
         "lat": 47.7446790535368,
         "lon": -64.7025039603088
-      },
-      {
-        "id": "can-halifax",
-        "iso": "CAN",
-        "label": "HALIFAX",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.6397524247345,
-        "lon": -63.5584087298886
       },
       {
         "id": "can-baiecomeau",
@@ -117890,16 +99360,6 @@ module.exports = {
         "lon": -63.7883387413643
       },
       {
-        "id": "can-stjohn",
-        "iso": "CAN",
-        "label": "ST JOHN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 45.2299213728174,
-        "lon": -66.0832581769417
-      },
-      {
         "id": "can-conceptionbaysouth",
         "iso": "CAN",
         "label": "CONCEPTION BAY SOUTH",
@@ -117918,16 +99378,6 @@ module.exports = {
         ],
         "lat": 47.5899946899932,
         "lon": -53.2641149798472
-      },
-      {
-        "id": "can-dartmouth",
-        "iso": "CAN",
-        "label": "DARTMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.6808934346289,
-        "lon": -63.6231783775937
       },
       {
         "id": "can-portalfred",
@@ -117958,16 +99408,6 @@ module.exports = {
         ],
         "lat": 46.7815530569558,
         "lon": -56.1696652726796
-      },
-      {
-        "id": "can-charlottetown",
-        "iso": "CAN",
-        "label": "CHARLOTTETOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 46.2313240809456,
-        "lon": -63.1198811156693
       },
       {
         "id": "can-pointenoire",
@@ -118030,16 +99470,6 @@ module.exports = {
         "lon": -57.3852699340685
       },
       {
-        "id": "can-tadoussac",
-        "iso": "CAN",
-        "label": "TADOUSSAC",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.1379382313418,
-        "lon": -69.7144416600809
-      },
-      {
         "id": "can-belledune",
         "iso": "CAN",
         "label": "BELLEDUNE",
@@ -118088,16 +99518,6 @@ module.exports = {
         ],
         "lat": 53.343875077315,
         "lon": -60.3994223776837
-      },
-      {
-        "id": "can-comebychanceharbor",
-        "iso": "CAN",
-        "label": "COME BY CHANCE HARBOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 47.7804895863857,
-        "lon": -54.0231013869314
       },
       {
         "id": "can-comebychance",
@@ -118208,16 +99628,6 @@ module.exports = {
         ],
         "lat": 47.4430241745877,
         "lon": -53.1084701745862
-      },
-      {
-        "id": "can-pubnico",
-        "iso": "CAN",
-        "label": "PUBNICO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.61190622732,
-        "lon": -65.78186076968
       },
       {
         "id": "can-lesrasadesanchorag",
@@ -118520,16 +99930,6 @@ module.exports = {
         "lon": -56.3755427626356
       },
       {
-        "id": "usa-newyork",
-        "iso": "USA",
-        "label": "NEW YORK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.5187885078105,
-        "lon": -73.7129437030549
-      },
-      {
         "id": "usa-searsport",
         "iso": "USA",
         "label": "SEARSPORT",
@@ -118540,16 +99940,6 @@ module.exports = {
         "lon": -68.9027333323769
       },
       {
-        "id": "usa-sandyhook",
-        "iso": "USA",
-        "label": "SANDY HOOK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.5448748294389,
-        "lon": -74.1364535521353
-      },
-      {
         "id": "usa-nylowerbay",
         "iso": "USA",
         "label": "NY LOWER BAY",
@@ -118558,46 +99948,6 @@ module.exports = {
         ],
         "lat": 40.5426258337889,
         "lon": -74.1401455160581
-      },
-      {
-        "id": "usa-provincetown",
-        "iso": "USA",
-        "label": "PROVINCETOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.0394342854362,
-        "lon": -70.1786682352772
-      },
-      {
-        "id": "usa-boston",
-        "iso": "USA",
-        "label": "BOSTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.3675187243318,
-        "lon": -70.9667429889314
-      },
-      {
-        "id": "usa-atlanticcity",
-        "iso": "USA",
-        "label": "ATLANTIC CITY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.3813837562768,
-        "lon": -74.4204542561308
-      },
-      {
-        "id": "usa-southport",
-        "iso": "USA",
-        "label": "SOUTHPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.5043330923358,
-        "lon": -70.1391757896898
       },
       {
         "id": "usa-boothbaymaine",
@@ -118620,16 +99970,6 @@ module.exports = {
         "lon": -66.9917915667688
       },
       {
-        "id": "usa-newark",
-        "iso": "USA",
-        "label": "NEWARK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6904752936832,
-        "lon": -74.1396629178807
-      },
-      {
         "id": "usa-southbristol",
         "iso": "USA",
         "label": "SOUTH BRISTOL",
@@ -118650,16 +99990,6 @@ module.exports = {
         "lon": -71.9864615404579
       },
       {
-        "id": "usa-newhaven",
-        "iso": "USA",
-        "label": "NEW HAVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2091519625182,
-        "lon": -72.8935674487036
-      },
-      {
         "id": "usa-portrichmondsi",
         "iso": "USA",
         "label": "PORT RICHMOND SI",
@@ -118668,16 +99998,6 @@ module.exports = {
         ],
         "lat": 40.6551107129478,
         "lon": -74.1310082411946
-      },
-      {
-        "id": "usa-portsmouth",
-        "iso": "USA",
-        "label": "PORTSMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.0702547525987,
-        "lon": -70.7171775495537
       },
       {
         "id": "usa-tompkinsvillesi",
@@ -118690,26 +100010,6 @@ module.exports = {
         "lon": -74.0624606611878
       },
       {
-        "id": "usa-kennebunkport",
-        "iso": "USA",
-        "label": "KENNEBUNKPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.3577359343595,
-        "lon": -70.452213249007
-      },
-      {
-        "id": "usa-newlondon",
-        "iso": "USA",
-        "label": "NEW LONDON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.3188910317306,
-        "lon": -72.0596290684751
-      },
-      {
         "id": "usa-marblehead",
         "iso": "USA",
         "label": "MARBLEHEAD",
@@ -118718,36 +100018,6 @@ module.exports = {
         ],
         "lat": 42.5028292015869,
         "lon": -70.8423889261655
-      },
-      {
-        "id": "usa-edgewater",
-        "iso": "USA",
-        "label": "EDGEWATER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8040737092383,
-        "lon": -73.9797053438746
-      },
-      {
-        "id": "usa-gdy",
-        "iso": "USA",
-        "label": "GDY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7478624861546,
-        "lon": -69.7092929747997
-      },
-      {
-        "id": "usa-chelsea",
-        "iso": "USA",
-        "label": "CHELSEA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.3880757616681,
-        "lon": -71.0222172034479
       },
       {
         "id": "usa-ort",
@@ -118768,16 +100038,6 @@ module.exports = {
         ],
         "lat": 43.8976314979663,
         "lon": -69.5566189661981
-      },
-      {
-        "id": "usa-axxxxx01580",
-        "iso": "USA",
-        "label": "AXXXXX01580",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.9635892039765,
-        "lon": -69.1987520633318
       },
       {
         "id": "usa-portclyde",
@@ -118810,86 +100070,6 @@ module.exports = {
         "lon": -72.1804146439904
       },
       {
-        "id": "usa-montaukharbor",
-        "iso": "USA",
-        "label": "MONTAUK HARBOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0672575254922,
-        "lon": -71.9285143033106
-      },
-      {
-        "id": "usa-ang",
-        "iso": "USA",
-        "label": "ANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.083072753855,
-        "lon": -69.1815601122595
-      },
-      {
-        "id": "usa-shu",
-        "iso": "USA",
-        "label": "SHU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.2634398737413,
-        "lon": -68.9360094386183
-      },
-      {
-        "id": "usa-rockland",
-        "iso": "USA",
-        "label": "ROCKLAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.1034503718542,
-        "lon": -69.0905343201481
-      },
-      {
-        "id": "usa-brazil",
-        "iso": "USA",
-        "label": "BRAZIL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7255804895567,
-        "lon": -70.2009849289977
-      },
-      {
-        "id": "usa-bayonne",
-        "iso": "USA",
-        "label": "BAYONNE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6720875353144,
-        "lon": -74.0791341194223
-      },
-      {
-        "id": "usa-portland",
-        "iso": "USA",
-        "label": "PORTLAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.6576690157031,
-        "lon": -70.2360848142994
-      },
-      {
-        "id": "usa-andao",
-        "iso": "USA",
-        "label": "AN DAO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.869736585875,
-        "lon": -69.7373204819302
-      },
-      {
         "id": "usa-maurer",
         "iso": "USA",
         "label": "MAURER",
@@ -118898,36 +100078,6 @@ module.exports = {
         ],
         "lat": 40.5301621535449,
         "lon": -74.2512859873451
-      },
-      {
-        "id": "usa-ai",
-        "iso": "USA",
-        "label": "AI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9877286229243,
-        "lon": -72.6600327567161
-      },
-      {
-        "id": "usa-sagharbor",
-        "iso": "USA",
-        "label": "SAG HARBOR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0290870540516,
-        "lon": -72.294486450919
-      },
-      {
-        "id": "usa-loo",
-        "iso": "USA",
-        "label": "LOO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.06754626311,
-        "lon": -72.2918723475544
       },
       {
         "id": "usa-negro8",
@@ -118970,16 +100120,6 @@ module.exports = {
         "lon": -68.5756800623458
       },
       {
-        "id": "usa-amkavkaz",
-        "iso": "USA",
-        "label": "AM KAVKAZ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0281614294363,
-        "lon": -72.1811102987519
-      },
-      {
         "id": "usa-boothbayharbor",
         "iso": "USA",
         "label": "BOOTHBAY HARBOR",
@@ -118990,26 +100130,6 @@ module.exports = {
         "lon": -69.6009382031479
       },
       {
-        "id": "usa-greenwich",
-        "iso": "USA",
-        "label": "GREENWICH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0057178534393,
-        "lon": -73.6198045626351
-      },
-      {
-        "id": "usa-arsoog",
-        "iso": "USA",
-        "label": "ARSOOG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.026898886099,
-        "lon": -72.3184445935916
-      },
-      {
         "id": "usa-quincy",
         "iso": "USA",
         "label": "QUINCY",
@@ -119018,26 +100138,6 @@ module.exports = {
         ],
         "lat": 42.245710171583,
         "lon": -70.9628830731986
-      },
-      {
-        "id": "usa-bf",
-        "iso": "USA",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0512189184375,
-        "lon": -73.4215652317599
-      },
-      {
-        "id": "usa-brooklyn",
-        "iso": "USA",
-        "label": "BROOKLYN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6669813201271,
-        "lon": -74.0324519451301
       },
       {
         "id": "usa-barnegat",
@@ -119070,16 +100170,6 @@ module.exports = {
         "lon": -68.8770626925152
       },
       {
-        "id": "usa-plymouth",
-        "iso": "USA",
-        "label": "PLYMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.9575850449694,
-        "lon": -70.6596941731461
-      },
-      {
         "id": "usa-stonington",
         "iso": "USA",
         "label": "STONINGTON",
@@ -119090,16 +100180,6 @@ module.exports = {
         "lon": -71.2736930381008
       },
       {
-        "id": "usa-jerseycity",
-        "iso": "USA",
-        "label": "JERSEY CITY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7113704774753,
-        "lon": -74.0249412892143
-      },
-      {
         "id": "usa-convoi",
         "iso": "USA",
         "label": "CONVOI",
@@ -119108,16 +100188,6 @@ module.exports = {
         ],
         "lat": 43.7552992600131,
         "lon": -70.1099905267986
-      },
-      {
-        "id": "usa-stamford",
-        "iso": "USA",
-        "label": "STAMFORD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0236575227711,
-        "lon": -73.5353781652542
       },
       {
         "id": "usa-minturn",
@@ -119138,46 +100208,6 @@ module.exports = {
         ],
         "lat": 43.7459082288904,
         "lon": -70.0272590795054
-      },
-      {
-        "id": "usa-greenport",
-        "iso": "USA",
-        "label": "GREENPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0860455422842,
-        "lon": -72.3525727128623
-      },
-      {
-        "id": "usa-burg",
-        "iso": "USA",
-        "label": "BURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.1734647865067,
-        "lon": -68.5275100699428
-      },
-      {
-        "id": "usa-ny",
-        "iso": "USA",
-        "label": "NY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4609747747328,
-        "lon": -74.0146701202509
-      },
-      {
-        "id": "usa-newyork",
-        "iso": "USA",
-        "label": "NEWYORK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4649745828325,
-        "lon": -74.0144762104419
       },
       {
         "id": "usa-norfolkva",
@@ -119208,16 +100238,6 @@ module.exports = {
         ],
         "lat": 40.5476064658185,
         "lon": -74.2465302731694
-      },
-      {
-        "id": "usa-leonardo",
-        "iso": "USA",
-        "label": "LEONARDO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4436003617705,
-        "lon": -74.0655546816899
       },
       {
         "id": "usa-monhegan",
@@ -119270,46 +100290,6 @@ module.exports = {
         "lon": -74.1983120732005
       },
       {
-        "id": "usa-newyorkcity",
-        "iso": "USA",
-        "label": "NEW YORK CITY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6957748659104,
-        "lon": -74.0199763399938
-      },
-      {
-        "id": "usa-newyorkny",
-        "iso": "USA",
-        "label": "NEW YORK NY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6220458012593,
-        "lon": -74.0256116185742
-      },
-      {
-        "id": "usa-and",
-        "iso": "USA",
-        "label": "AND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0788822955423,
-        "lon": -72.2981054827159
-      },
-      {
-        "id": "usa-cityofmilford(balance)",
-        "iso": "USA",
-        "label": "CITY OF MILFORD (BALANCE)",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2038977621099,
-        "lon": -73.0529236036023
-      },
-      {
         "id": "usa-zhou",
         "iso": "USA",
         "label": "ZHOU",
@@ -119318,16 +100298,6 @@ module.exports = {
         ],
         "lat": 43.5775272817157,
         "lon": -70.2234667397523
-      },
-      {
-        "id": "usa-perthamboy",
-        "iso": "USA",
-        "label": "PERTH AMBOY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4954130887928,
-        "lon": -74.258333956001
       },
       {
         "id": "usa-geus",
@@ -119340,26 +100310,6 @@ module.exports = {
         "lon": -73.3683087579657
       },
       {
-        "id": "usa-aturkey",
-        "iso": "USA",
-        "label": "A TURKEY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0996584996986,
-        "lon": -73.36847150306
-      },
-      {
-        "id": "usa-camden",
-        "iso": "USA",
-        "label": "CAMDEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.207595196566,
-        "lon": -69.0516326047469
-      },
-      {
         "id": "usa-portlandmaine",
         "iso": "USA",
         "label": "PORTLAND MAINE",
@@ -119368,26 +100318,6 @@ module.exports = {
         ],
         "lat": 43.7276946295941,
         "lon": -70.206708390439
-      },
-      {
-        "id": "usa-norwalk",
-        "iso": "USA",
-        "label": "NORWALK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0756123686481,
-        "lon": -73.4153671086215
-      },
-      {
-        "id": "usa-bridgeport",
-        "iso": "USA",
-        "label": "BRIDGEPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1568773487652,
-        "lon": -73.2044786783162
       },
       {
         "id": "usa-cityisland",
@@ -119400,26 +100330,6 @@ module.exports = {
         "lon": -73.778218637149
       },
       {
-        "id": "usa-weehawken",
-        "iso": "USA",
-        "label": "WEEHAWKEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7717296150618,
-        "lon": -73.9978155840414
-      },
-      {
-        "id": "usa-salem",
-        "iso": "USA",
-        "label": "SALEM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.520515068639,
-        "lon": -70.874457189005
-      },
-      {
         "id": "usa-newyorkharbor",
         "iso": "USA",
         "label": "NEW YORK HARBOR",
@@ -119428,16 +100338,6 @@ module.exports = {
         ],
         "lat": 40.8703290817957,
         "lon": -73.9420379289326
-      },
-      {
-        "id": "usa-portjefferson",
-        "iso": "USA",
-        "label": "PORT JEFFERSON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9627369500471,
-        "lon": -73.0893028601382
       },
       {
         "id": "usa-amn",
@@ -119480,16 +100380,6 @@ module.exports = {
         "lon": -71.1112342753321
       },
       {
-        "id": "usa-ck",
-        "iso": "USA",
-        "label": "CK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.9871936076124,
-        "lon": -69.0040973504043
-      },
-      {
         "id": "usa-cuy",
         "iso": "USA",
         "label": "CUY",
@@ -119530,26 +100420,6 @@ module.exports = {
         "lon": -70.090832718833
       },
       {
-        "id": "usa-aan",
-        "iso": "USA",
-        "label": "AAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.6899773158176,
-        "lon": -70.0894716519199
-      },
-      {
-        "id": "usa-newhaven",
-        "iso": "USA",
-        "label": "NEWHAVEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9982827735163,
-        "lon": -72.6479984984581
-      },
-      {
         "id": "usa-riverhead",
         "iso": "USA",
         "label": "RIVERHEAD",
@@ -119568,16 +100438,6 @@ module.exports = {
         ],
         "lat": 44.3922442618831,
         "lon": -68.1997345818871
-      },
-      {
-        "id": "usa-westbrookcenter",
-        "iso": "USA",
-        "label": "WESTBROOK CENTER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2609065723221,
-        "lon": -72.4784822565942
       },
       {
         "id": "usa-gravesendanchorage",
@@ -119600,16 +100460,6 @@ module.exports = {
         "lon": -70.7219903941623
       },
       {
-        "id": "usa-baerk",
-        "iso": "USA",
-        "label": "BAERK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2855151972918,
-        "lon": -71.9445023404243
-      },
-      {
         "id": "usa-coeclesharbor",
         "iso": "USA",
         "label": "COECLES HARBOR",
@@ -119630,16 +100480,6 @@ module.exports = {
         "lon": -73.4288933911983
       },
       {
-        "id": "usa-gloucester",
-        "iso": "USA",
-        "label": "GLOUCESTER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.5887768739022,
-        "lon": -70.6657284911656
-      },
-      {
         "id": "usa-newhavendump",
         "iso": "USA",
         "label": "NEWHAVEN DUMP",
@@ -119648,16 +100488,6 @@ module.exports = {
         ],
         "lat": 40.935663010084,
         "lon": -73.7042282343131
-      },
-      {
-        "id": "usa-rockport",
-        "iso": "USA",
-        "label": "ROCKPORT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.1749675880106,
-        "lon": -69.0671923728536
       },
       {
         "id": "usa-shinnecockbay",
@@ -119700,26 +100530,6 @@ module.exports = {
         "lon": -72.678731730931
       },
       {
-        "id": "usa-mystic",
-        "iso": "USA",
-        "label": "MYSTIC",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.3432827611371,
-        "lon": -71.9733133356882
-      },
-      {
-        "id": "usa-bxx",
-        "iso": "USA",
-        "label": "B XX",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.650703810691,
-        "lon": -70.6798580814979
-      },
-      {
         "id": "usa-portreading",
         "iso": "USA",
         "label": "PORT READING",
@@ -119760,16 +100570,6 @@ module.exports = {
         "lon": -69.6283330968821
       },
       {
-        "id": "usa-carteret",
-        "iso": "USA",
-        "label": "CARTERET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.588722636212,
-        "lon": -74.2072237709289
-      },
-      {
         "id": "usa-cundyharbor",
         "iso": "USA",
         "label": "CUNDY HARBOR",
@@ -119800,26 +100600,6 @@ module.exports = {
         "lon": -69.9156284066365
       },
       {
-        "id": "usa-terdamvv",
-        "iso": "USA",
-        "label": "TERDAM VV",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.2747164348535,
-        "lon": -68.9417951144419
-      },
-      {
-        "id": "usa-longbeach",
-        "iso": "USA",
-        "label": "LONG BEACH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9202939097537,
-        "lon": -73.7383047190757
-      },
-      {
         "id": "usa-watchhillri",
         "iso": "USA",
         "label": "WATCH HILL RI",
@@ -119828,16 +100608,6 @@ module.exports = {
         ],
         "lat": 41.3112587035643,
         "lon": -71.8587156582251
-      },
-      {
-        "id": "usa-staugustinefl",
-        "iso": "USA",
-        "label": "ST AUGUSTINE FL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.9706650600207,
-        "lon": -69.1912065372991
       },
       {
         "id": "usa-vinalhaven",
@@ -119940,16 +100710,6 @@ module.exports = {
         "lon": -72.0091782519786
       },
       {
-        "id": "usa-0r",
-        "iso": "USA",
-        "label": "0R",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9196727076877,
-        "lon": -73.3985447220085
-      },
-      {
         "id": "usa-bse",
         "iso": "USA",
         "label": "BSE",
@@ -120000,16 +100760,6 @@ module.exports = {
         "lon": -74.0084364176704
       },
       {
-        "id": "usa-cegypt",
-        "iso": "USA",
-        "label": "CEGYPT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7879437627088,
-        "lon": -70.0407424348516
-      },
-      {
         "id": "usa-sagharbour",
         "iso": "USA",
         "label": "SAG HARBOUR",
@@ -120030,26 +100780,6 @@ module.exports = {
         "lon": -70.1047657060326
       },
       {
-        "id": "usa-belfast",
-        "iso": "USA",
-        "label": "BELFAST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 44.4225167741713,
-        "lon": -68.9895992463832
-      },
-      {
-        "id": "usa-bg",
-        "iso": "USA",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 43.7001583827524,
-        "lon": -70.0909400959171
-      },
-      {
         "id": "grl-tasiilaq",
         "iso": "GRL",
         "label": "TASIILAQ",
@@ -120058,16 +100788,6 @@ module.exports = {
         ],
         "lat": 65.6143881600909,
         "lon": -37.6253456735099
-      },
-      {
-        "id": "est-parnu",
-        "iso": "EST",
-        "label": "PARNU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.3067905688602,
-        "lon": 24.4185979711863
       },
       {
         "id": "est-kuressaare",
@@ -120140,16 +100860,6 @@ module.exports = {
         "lon": 19.4956584421204
       },
       {
-        "id": "nor-torsvaag",
-        "iso": "NOR",
-        "label": "TORSVAAG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 70.2422640907467,
-        "lon": 19.4980952046912
-      },
-      {
         "id": "nor-evjen",
         "iso": "NOR",
         "label": "EVJEN",
@@ -120180,16 +100890,6 @@ module.exports = {
         "lon": 13.4487841234873
       },
       {
-        "id": "nor-fiskefeltet",
-        "iso": "NOR",
-        "label": "FISKEFELTET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 67.8248594050088,
-        "lon": 14.1626269818111
-      },
-      {
         "id": "nor-harstad",
         "iso": "NOR",
         "label": "HARSTAD",
@@ -120208,16 +100908,6 @@ module.exports = {
         ],
         "lat": 66.2276378321188,
         "lon": 13.06051463898
-      },
-      {
-        "id": "nor-cillneth",
-        "iso": "NOR",
-        "label": "CILL NETH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.4923335100138,
-        "lon": 6.15743244308472
       },
       {
         "id": "nor-che",
@@ -120280,26 +100970,6 @@ module.exports = {
         "lon": 16.5381672602386
       },
       {
-        "id": "nor-aanok",
-        "iso": "NOR",
-        "label": "AA NOK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.7496309897121,
-        "lon": 9.04345769400376
-      },
-      {
-        "id": "nor-alesund",
-        "iso": "NOR",
-        "label": "ALESUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.4710525839213,
-        "lon": 6.21149975930694
-      },
-      {
         "id": "nor-sandnessjoen",
         "iso": "NOR",
         "label": "SANDNESSJOEN",
@@ -120330,16 +101000,6 @@ module.exports = {
         "lon": 6.1308531322589
       },
       {
-        "id": "nor-fishfarms",
-        "iso": "NOR",
-        "label": "FISH FARMS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.7550458262104,
-        "lon": 10.4612280849591
-      },
-      {
         "id": "nor-rost",
         "iso": "NOR",
         "label": "ROST",
@@ -120358,36 +101018,6 @@ module.exports = {
         ],
         "lat": 63.3322435020232,
         "lon": 10.0726957473693
-      },
-      {
-        "id": "nor-ck",
-        "iso": "NOR",
-        "label": "CK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.6612957782557,
-        "lon": 9.24144441410367
-      },
-      {
-        "id": "nor-honningsvag",
-        "iso": "NOR",
-        "label": "HONNINGSVAG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 70.9672637912183,
-        "lon": 25.8276454783919
-      },
-      {
-        "id": "nor-tromso",
-        "iso": "NOR",
-        "label": "TROMSO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.6497607720167,
-        "lon": 18.9725580387666
       },
       {
         "id": "nor-alta",
@@ -120430,16 +101060,6 @@ module.exports = {
         "lon": 14.9303528216268
       },
       {
-        "id": "nor-ulsteinvik",
-        "iso": "NOR",
-        "label": "ULSTEINVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.4866315721081,
-        "lon": 5.97691128423731
-      },
-      {
         "id": "nor-froya",
         "iso": "NOR",
         "label": "FROYA",
@@ -120448,16 +101068,6 @@ module.exports = {
         ],
         "lat": 63.8235558271541,
         "lon": 8.55949282498597
-      },
-      {
-        "id": "nor-kristiansund",
-        "iso": "NOR",
-        "label": "KRISTIANSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.1036191798704,
-        "lon": 7.75901407973194
       },
       {
         "id": "nor-fish",
@@ -120610,16 +101220,6 @@ module.exports = {
         "lon": 7.73283952148795
       },
       {
-        "id": "nor-lodingen",
-        "iso": "NOR",
-        "label": "LODINGEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 68.4189504592274,
-        "lon": 16.0020724531966
-      },
-      {
         "id": "nor-aum",
         "iso": "NOR",
         "label": "AUM",
@@ -120630,26 +101230,6 @@ module.exports = {
         "lon": 8.47911966265316
       },
       {
-        "id": "nor-channel16toknow",
-        "iso": "NOR",
-        "label": "CHANNEL 16 TO KNOW",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.6106302121181,
-        "lon": 9.1542159639286
-      },
-      {
-        "id": "nor-selje",
-        "iso": "NOR",
-        "label": "SELJE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.0179979821975,
-        "lon": 5.34957048002253
-      },
-      {
         "id": "nor-sandstad",
         "iso": "NOR",
         "label": "SANDSTAD",
@@ -120658,16 +101238,6 @@ module.exports = {
         ],
         "lat": 63.5162008032079,
         "lon": 9.11227456182972
-      },
-      {
-        "id": "nor-vestnes",
-        "iso": "NOR",
-        "label": "VESTNES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.6391374436671,
-        "lon": 7.0886462281944
       },
       {
         "id": "nor-field",
@@ -120700,16 +101270,6 @@ module.exports = {
         "lon": 8.67612917280818
       },
       {
-        "id": "nor-hammerfest",
-        "iso": "NOR",
-        "label": "HAMMERFEST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 70.661468732101,
-        "lon": 23.5474189189979
-      },
-      {
         "id": "nor-cs",
         "iso": "NOR",
         "label": "CS",
@@ -120738,26 +101298,6 @@ module.exports = {
         ],
         "lat": 63.6452904146419,
         "lon": 9.52146677241275
-      },
-      {
-        "id": "nor-moinlet",
-        "iso": "NOR",
-        "label": "MO INLET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.3112492152532,
-        "lon": 14.1171867479463
-      },
-      {
-        "id": "nor-senjahopen",
-        "iso": "NOR",
-        "label": "SENJAHOPEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.4957164304537,
-        "lon": 17.4919448222963
       },
       {
         "id": "nor-vennesundholm",
@@ -120790,16 +101330,6 @@ module.exports = {
         "lon": 8.92297172118287
       },
       {
-        "id": "nor-bronnoysund",
-        "iso": "NOR",
-        "label": "BRONNOYSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 65.4752379467832,
-        "lon": 12.1862033835098
-      },
-      {
         "id": "nor-uestreloppa",
         "iso": "NOR",
         "label": "UESTRE LOPPA",
@@ -120808,26 +101338,6 @@ module.exports = {
         ],
         "lat": 70.2518989803517,
         "lon": 21.7832158177489
-      },
-      {
-        "id": "nor-ckoff",
-        "iso": "NOR",
-        "label": "CK OFF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 65.5396150768068,
-        "lon": 11.6870223864002
-      },
-      {
-        "id": "nor-trondheim",
-        "iso": "NOR",
-        "label": "TRONDHEIM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.5364613147201,
-        "lon": 9.61475408406039
       },
       {
         "id": "nor-adoeya",
@@ -120868,16 +101378,6 @@ module.exports = {
         ],
         "lat": 63.8657722574861,
         "lon": 9.84566698180679
-      },
-      {
-        "id": "nor-ahongkong",
-        "iso": "NOR",
-        "label": "A HONGKONG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.3673878762546,
-        "lon": 12.3693538122783
       },
       {
         "id": "nor-fr0ya",
@@ -121010,16 +101510,6 @@ module.exports = {
         "lon": 6.4959998701548
       },
       {
-        "id": "nor-hitra",
-        "iso": "NOR",
-        "label": "HITRA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.5660995760262,
-        "lon": 8.63578350387287
-      },
-      {
         "id": "nor-sistranda",
         "iso": "NOR",
         "label": "SISTRANDA",
@@ -121120,16 +101610,6 @@ module.exports = {
         "lon": 14.7605962647114
       },
       {
-        "id": "nor-myre",
-        "iso": "NOR",
-        "label": "MYRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.0103124922139,
-        "lon": 15.5092205172225
-      },
-      {
         "id": "nor-haibaogang",
         "iso": "NOR",
         "label": "HAI BAO GANG",
@@ -121148,16 +101628,6 @@ module.exports = {
         ],
         "lat": 65.4725603776935,
         "lon": 10.3626945812139
-      },
-      {
-        "id": "nor-cang",
-        "iso": "NOR",
-        "label": "CANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 67.7584481197055,
-        "lon": 14.3427801574391
       },
       {
         "id": "nor-a95",
@@ -121260,26 +101730,6 @@ module.exports = {
         "lon": 9.99152894732465
       },
       {
-        "id": "nor-fauske",
-        "iso": "NOR",
-        "label": "FAUSKE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 67.2422454150013,
-        "lon": 15.4143510557863
-      },
-      {
-        "id": "nor-sandviksberget",
-        "iso": "NOR",
-        "label": "SANDVIKSBERGET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 68.0648749646996,
-        "lon": 13.5350999898373
-      },
-      {
         "id": "nor-risoyhamn",
         "iso": "NOR",
         "label": "RISOYHAMN",
@@ -121288,16 +101738,6 @@ module.exports = {
         ],
         "lat": 68.9680188141954,
         "lon": 15.641562823821
-      },
-      {
-        "id": "nor-bg",
-        "iso": "NOR",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.8367292367606,
-        "lon": 9.60412637954667
       },
       {
         "id": "nor-abu",
@@ -121360,26 +101800,6 @@ module.exports = {
         "lon": 13.8601858480249
       },
       {
-        "id": "nor-midsund",
-        "iso": "NOR",
-        "label": "MIDSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.6925131068841,
-        "lon": 6.64052022238935
-      },
-      {
-        "id": "nor-haroysundet",
-        "iso": "NOR",
-        "label": "HAROYSUNDET",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.0208316043009,
-        "lon": 7.37362107605338
-      },
-      {
         "id": "nor-lofoten",
         "iso": "NOR",
         "label": "LOFOTEN",
@@ -121388,26 +101808,6 @@ module.exports = {
         ],
         "lat": 68.2712851376232,
         "lon": 15.1243664944066
-      },
-      {
-        "id": "nor-fiskefelt",
-        "iso": "NOR",
-        "label": "FISKEFELT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.918578017789,
-        "lon": 12.4341861460949
-      },
-      {
-        "id": "nor-ca",
-        "iso": "NOR",
-        "label": "CA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.371204276844,
-        "lon": 11.7885690030335
       },
       {
         "id": "nor-stoe",
@@ -121420,16 +101820,6 @@ module.exports = {
         "lon": 15.1266553751379
       },
       {
-        "id": "nor-kristansund",
-        "iso": "NOR",
-        "label": "KRISTANSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.5511739504758,
-        "lon": 8.91655667533917
-      },
-      {
         "id": "nor-korsnes",
         "iso": "NOR",
         "label": "KORSNES",
@@ -121438,26 +101828,6 @@ module.exports = {
         ],
         "lat": 68.2525952523644,
         "lon": 16.0628165741721
-      },
-      {
-        "id": "nor-0rnes",
-        "iso": "NOR",
-        "label": "0RNES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.9252134516529,
-        "lon": 13.4349453733217
-      },
-      {
-        "id": "nor-ulsteinvikweatherpwsstation",
-        "iso": "NOR",
-        "label": "ULSTEINVIK WEATHER PWS STATION",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.3400002608303,
-        "lon": 5.77868347402129
       },
       {
         "id": "nor-anok",
@@ -121520,16 +101890,6 @@ module.exports = {
         "lon": 8.79387947959633
       },
       {
-        "id": "nor-bf",
-        "iso": "NOR",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.4139809633529,
-        "lon": 18.599354043889
-      },
-      {
         "id": "nor-aungtaiwan",
         "iso": "NOR",
         "label": "AUNG TAIWAN",
@@ -121580,36 +101940,6 @@ module.exports = {
         "lon": 8.2122815477766
       },
       {
-        "id": "nor-finnsnes",
-        "iso": "NOR",
-        "label": "FINNSNES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.2350160290709,
-        "lon": 17.9750933714819
-      },
-      {
-        "id": "nor-bo",
-        "iso": "NOR",
-        "label": "BO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.8019475315367,
-        "lon": 13.234862606054
-      },
-      {
-        "id": "nor-molde",
-        "iso": "NOR",
-        "label": "MOLDE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.7258124313585,
-        "lon": 7.15982677503046
-      },
-      {
         "id": "nor-skrovahavn",
         "iso": "NOR",
         "label": "SKROVA HAVN",
@@ -121618,16 +101948,6 @@ module.exports = {
         ],
         "lat": 68.1650180488161,
         "lon": 14.6588688228216
-      },
-      {
-        "id": "nor-brattvag",
-        "iso": "NOR",
-        "label": "BRATTVAG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.6036731509326,
-        "lon": 6.44689072372101
       },
       {
         "id": "nor-moldtustranda",
@@ -121660,16 +101980,6 @@ module.exports = {
         "lon": 13.8650866393804
       },
       {
-        "id": "nor-ch16forinfo",
-        "iso": "NOR",
-        "label": "CH16 FOR INFO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.1700253141803,
-        "lon": 5.46611429539323
-      },
-      {
         "id": "nor-melbu",
         "iso": "NOR",
         "label": "MELBU",
@@ -121698,16 +102008,6 @@ module.exports = {
         ],
         "lat": 70.0315625615461,
         "lon": 20.9774152721549
-      },
-      {
-        "id": "nor-cn",
-        "iso": "NOR",
-        "label": "CN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.8739301977946,
-        "lon": 9.84513425895489
       },
       {
         "id": "nor-dockx00006",
@@ -121750,16 +102050,6 @@ module.exports = {
         "lon": 5.80527853511979
       },
       {
-        "id": "nor-svolver",
-        "iso": "NOR",
-        "label": "SVOLVER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.6877492881146,
-        "lon": 18.734374930577
-      },
-      {
         "id": "nor-rounsenja",
         "iso": "NOR",
         "label": "ROUNSENJA",
@@ -121788,16 +102078,6 @@ module.exports = {
         ],
         "lat": 69.6324308129603,
         "lon": 18.0054899795538
-      },
-      {
-        "id": "nor-framogtilbake",
-        "iso": "NOR",
-        "label": "FRAM OG TILBAKE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 67.5580017406826,
-        "lon": 15.3901042573525
       },
       {
         "id": "nor-aallorca",
@@ -121850,16 +102130,6 @@ module.exports = {
         "lon": 10.546703624694
       },
       {
-        "id": "nor-bodoe",
-        "iso": "NOR",
-        "label": "BODOE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 67.1201772946733,
-        "lon": 14.3078993501255
-      },
-      {
         "id": "nor-sund",
         "iso": "NOR",
         "label": "SUND",
@@ -121868,16 +102138,6 @@ module.exports = {
         ],
         "lat": 63.8578430080913,
         "lon": 8.50550925281424
-      },
-      {
-        "id": "nor-haroysund",
-        "iso": "NOR",
-        "label": "HAROYSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.8821593037115,
-        "lon": 6.95783911598414
       },
       {
         "id": "nor-p0",
@@ -121940,16 +102200,6 @@ module.exports = {
         "lon": 17.6452112237962
       },
       {
-        "id": "nor-ang",
-        "iso": "NOR",
-        "label": "ANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 68.0736917088624,
-        "lon": 13.5472207088524
-      },
-      {
         "id": "nor-b8k",
         "iso": "NOR",
         "label": "B8K",
@@ -121978,16 +102228,6 @@ module.exports = {
         ],
         "lat": 63.4377349955908,
         "lon": 10.8356845328287
-      },
-      {
-        "id": "nor-bruhagen",
-        "iso": "NOR",
-        "label": "BRUHAGEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.0556960873569,
-        "lon": 7.66822688446113
       },
       {
         "id": "nor-mn",
@@ -122070,16 +102310,6 @@ module.exports = {
         "lon": 7.97366272411233
       },
       {
-        "id": "nor-aria",
-        "iso": "NOR",
-        "label": "ARIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.6601346730499,
-        "lon": 6.34925229985956
-      },
-      {
         "id": "nor-kvamsoy",
         "iso": "NOR",
         "label": "KVAMSOY",
@@ -122158,26 +102388,6 @@ module.exports = {
         ],
         "lat": 67.3804577715992,
         "lon": 15.5651896980371
-      },
-      {
-        "id": "nor-h16fordest",
-        "iso": "NOR",
-        "label": "H 16 FOR DEST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.618783468903,
-        "lon": 8.87901929807883
-      },
-      {
-        "id": "nor-rognan",
-        "iso": "NOR",
-        "label": "ROGNAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 67.1065585990788,
-        "lon": 15.3902561417536
       },
       {
         "id": "nor-inndyr",
@@ -122260,26 +102470,6 @@ module.exports = {
         "lon": 5.20244640972112
       },
       {
-        "id": "nor-adrdam",
-        "iso": "NOR",
-        "label": "AD R DAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 71.0433528018815,
-        "lon": 23.9627384490393
-      },
-      {
-        "id": "nor-volda",
-        "iso": "NOR",
-        "label": "VOLDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.1348557246003,
-        "lon": 6.02157791236165
-      },
-      {
         "id": "nor-smoela",
         "iso": "NOR",
         "label": "SMOELA",
@@ -122350,16 +102540,6 @@ module.exports = {
         "lon": 25.8318220710068
       },
       {
-        "id": "nor-honningsaag",
-        "iso": "NOR",
-        "label": "HONNINGSAAG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 71.1065483376239,
-        "lon": 25.605283496087
-      },
-      {
         "id": "nor-pt",
         "iso": "NOR",
         "label": "PT",
@@ -122378,16 +102558,6 @@ module.exports = {
         ],
         "lat": 63.3517988005462,
         "lon": 8.80771382134434
-      },
-      {
-        "id": "nor-lauvsnes",
-        "iso": "NOR",
-        "label": "LAUVSNES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.5077665629267,
-        "lon": 10.8715892089204
       },
       {
         "id": "nor-tovik",
@@ -122460,36 +102630,6 @@ module.exports = {
         "lon": 17.1241402519692
       },
       {
-        "id": "nor-reine",
-        "iso": "NOR",
-        "label": "REINE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 67.9404841746349,
-        "lon": 13.1227577897242
-      },
-      {
-        "id": "nor-roervik",
-        "iso": "NOR",
-        "label": "ROERVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.8808342685188,
-        "lon": 10.9380675508609
-      },
-      {
-        "id": "nor-henningsvaer",
-        "iso": "NOR",
-        "label": "HENNINGSVAER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 68.1536434248927,
-        "lon": 14.2061991811849
-      },
-      {
         "id": "nor-rypefjord",
         "iso": "NOR",
         "label": "RYPEFJORD",
@@ -122520,16 +102660,6 @@ module.exports = {
         "lon": 6.12806177323856
       },
       {
-        "id": "nor-mosjoen",
-        "iso": "NOR",
-        "label": "MOSJOEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.2309311451163,
-        "lon": 13.0644656203406
-      },
-      {
         "id": "nor-bodomoskenes",
         "iso": "NOR",
         "label": "BODO MOSKENES",
@@ -122548,16 +102678,6 @@ module.exports = {
         ],
         "lat": 66.7947447411648,
         "lon": 13.4436524633901
-      },
-      {
-        "id": "nor-stjernoy",
-        "iso": "NOR",
-        "label": "STJERNOY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 70.2019302182272,
-        "lon": 21.7488855557302
       },
       {
         "id": "nor-lysoysund",
@@ -122600,16 +102720,6 @@ module.exports = {
         "lon": 8.67979583016646
       },
       {
-        "id": "nor-vartdal",
-        "iso": "NOR",
-        "label": "VARTDAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.3132547844524,
-        "lon": 6.10107106308144
-      },
-      {
         "id": "nor-cina",
         "iso": "NOR",
         "label": "CINA",
@@ -122650,26 +102760,6 @@ module.exports = {
         "lon": 12.1588524283917
       },
       {
-        "id": "nor-bnbieoff",
-        "iso": "NOR",
-        "label": "BNB IE OFF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.7097497714676,
-        "lon": 13.7072273781432
-      },
-      {
-        "id": "nor-ch16",
-        "iso": "NOR",
-        "label": "CH16",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.3762016062386,
-        "lon": 8.20417192305664
-      },
-      {
         "id": "nor-hemnesberget",
         "iso": "NOR",
         "label": "HEMNESBERGET",
@@ -122698,16 +102788,6 @@ module.exports = {
         ],
         "lat": 70.7468642690038,
         "lon": 25.6700302442162
-      },
-      {
-        "id": "nor-fillan",
-        "iso": "NOR",
-        "label": "FILLAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.6381707539776,
-        "lon": 8.99676424427346
       },
       {
         "id": "nor-slottholmen",
@@ -122790,16 +102870,6 @@ module.exports = {
         "lon": 16.8290996201087
       },
       {
-        "id": "nor-svolvaer",
-        "iso": "NOR",
-        "label": "SVOLVAER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 68.2832706030217,
-        "lon": 14.268340247308
-      },
-      {
         "id": "nor-vengsoybellvik",
         "iso": "NOR",
         "label": "VENGSOY BELLVIK",
@@ -122878,16 +102948,6 @@ module.exports = {
         ],
         "lat": 69.3000337936431,
         "lon": 17.3660624002618
-      },
-      {
-        "id": "nor-rorvik",
-        "iso": "NOR",
-        "label": "RORVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.8606673868133,
-        "lon": 11.2369654641899
       },
       {
         "id": "nor-rute830835",
@@ -123010,16 +103070,6 @@ module.exports = {
         "lon": 12.4742525013584
       },
       {
-        "id": "nor-leknes",
-        "iso": "NOR",
-        "label": "LEKNES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 65.0883041449115,
-        "lon": 11.7399357119638
-      },
-      {
         "id": "nor-bessaker",
         "iso": "NOR",
         "label": "BESSAKER",
@@ -123028,26 +103078,6 @@ module.exports = {
         ],
         "lat": 64.2559217500021,
         "lon": 10.3327177913199
-      },
-      {
-        "id": "nor-sorreisa",
-        "iso": "NOR",
-        "label": "SORREISA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.156700891657,
-        "lon": 18.1206940309998
-      },
-      {
-        "id": "nor-fiske",
-        "iso": "NOR",
-        "label": "FISKE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.1027889355227,
-        "lon": 7.59680061473196
       },
       {
         "id": "nor-hedoctor",
@@ -123078,16 +103108,6 @@ module.exports = {
         ],
         "lat": 66.1440856094555,
         "lon": 8.23280661937821
-      },
-      {
-        "id": "nor-aam",
-        "iso": "NOR",
-        "label": "AAM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 66.0069633063369,
-        "lon": 12.4085021141244
       },
       {
         "id": "nor-hammersundet",
@@ -123208,16 +103228,6 @@ module.exports = {
         ],
         "lat": 66.5718743812315,
         "lon": 12.62582907059
-      },
-      {
-        "id": "nor-azbe",
-        "iso": "NOR",
-        "label": "AZ B E",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.6931703247807,
-        "lon": 18.6113702379735
       },
       {
         "id": "nor-bergneset",
@@ -123390,16 +103400,6 @@ module.exports = {
         "lon": 13.6828676627237
       },
       {
-        "id": "deu-stralsund",
-        "iso": "DEU",
-        "label": "STRALSUND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.3324321656564,
-        "lon": 13.108887585236
-      },
-      {
         "id": "deu-ckorea",
         "iso": "DEU",
         "label": "C KOREA",
@@ -123410,16 +103410,6 @@ module.exports = {
         "lon": 13.69344894811
       },
       {
-        "id": "deu-warnemunde",
-        "iso": "DEU",
-        "label": "WARNEMUNDE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.1815991186641,
-        "lon": 12.0977690506803
-      },
-      {
         "id": "deu-vierow",
         "iso": "DEU",
         "label": "VIEROW",
@@ -123428,26 +103418,6 @@ module.exports = {
         ],
         "lat": 54.4152421505858,
         "lon": 13.6909218942205
-      },
-      {
-        "id": "deu-kroslin",
-        "iso": "DEU",
-        "label": "KROSLIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.1342047720094,
-        "lon": 13.7497459166369
-      },
-      {
-        "id": "deu-rostock",
-        "iso": "DEU",
-        "label": "ROSTOCK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.2217962488582,
-        "lon": 12.0065790966261
       },
       {
         "id": "deu-sassnitz",
@@ -123478,16 +103448,6 @@ module.exports = {
         ],
         "lat": 54.4817472306515,
         "lon": 13.5907250408305
-      },
-      {
-        "id": "deu-wolgast",
-        "iso": "DEU",
-        "label": "WOLGAST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.052691706756,
-        "lon": 13.7835248968957
       },
       {
         "id": "deu-ostseebadprerow",
@@ -123588,16 +103548,6 @@ module.exports = {
         ],
         "lat": 54.104300084502,
         "lon": 13.4474327306712
-      },
-      {
-        "id": "deu-greifswald",
-        "iso": "DEU",
-        "label": "GREIFSWALD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.0989790655363,
-        "lon": 13.4534463365304
       },
       {
         "id": "deu-putbus",
@@ -123810,16 +103760,6 @@ module.exports = {
         "lon": 12.4644776871823
       },
       {
-        "id": "dnk-ronne",
-        "iso": "DNK",
-        "label": "RONNE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.0942634774326,
-        "lon": 14.69241564472
-      },
-      {
         "id": "dnk-cang",
         "iso": "DNK",
         "label": "CANG",
@@ -123828,16 +103768,6 @@ module.exports = {
         ],
         "lat": 54.8901500415546,
         "lon": 12.1328965320831
-      },
-      {
-        "id": "dnk-ang",
-        "iso": "DNK",
-        "label": "ANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.994377930855,
-        "lon": 12.1661835549335
       },
       {
         "id": "dnk-bhou",
@@ -123880,16 +103810,6 @@ module.exports = {
         "lon": 12.1386928695146
       },
       {
-        "id": "dnk-rostock",
-        "iso": "DNK",
-        "label": "ROSTOCK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.8224079570227,
-        "lon": 12.1386450678549
-      },
-      {
         "id": "dnk-klintholm",
         "iso": "DNK",
         "label": "KLINTHOLM",
@@ -123930,16 +103850,6 @@ module.exports = {
         "lon": 21.4713511833852
       },
       {
-        "id": "fin-porvoo",
-        "iso": "FIN",
-        "label": "PORVOO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.1361124018433,
-        "lon": 25.5242764299639
-      },
-      {
         "id": "fin-crgy",
         "iso": "FIN",
         "label": "CRGY",
@@ -123958,16 +103868,6 @@ module.exports = {
         ],
         "lat": 60.3178849072967,
         "lon": 21.2197232880563
-      },
-      {
-        "id": "fin-kokkola",
-        "iso": "FIN",
-        "label": "KOKKOLA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.8506589934139,
-        "lon": 23.0257876614378
       },
       {
         "id": "fin-torina",
@@ -124070,16 +103970,6 @@ module.exports = {
         "lon": 23.3601149596656
       },
       {
-        "id": "fin-hanko",
-        "iso": "FIN",
-        "label": "HANKO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7701021050932,
-        "lon": 22.9472801345222
-      },
-      {
         "id": "fin-awakinosawa",
         "iso": "FIN",
         "label": "A WAKINOSAWA",
@@ -124140,16 +104030,6 @@ module.exports = {
         "lon": 21.3171842601482
       },
       {
-        "id": "fin-oulu",
-        "iso": "FIN",
-        "label": "OULU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 65.0013413304924,
-        "lon": 25.4084387805523
-      },
-      {
         "id": "fin-teijo",
         "iso": "FIN",
         "label": "TEIJO",
@@ -124190,16 +104070,6 @@ module.exports = {
         "lon": 21.2151996525739
       },
       {
-        "id": "fin-kotka",
-        "iso": "FIN",
-        "label": "KOTKA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.3063665920876,
-        "lon": 26.6491922446714
-      },
-      {
         "id": "fin-rahja",
         "iso": "FIN",
         "label": "RAHJA",
@@ -124208,16 +104078,6 @@ module.exports = {
         ],
         "lat": 64.2224572702581,
         "lon": 23.7133198996274
-      },
-      {
-        "id": "fin-turku",
-        "iso": "FIN",
-        "label": "TURKU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.4108871444471,
-        "lon": 22.1299417495819
       },
       {
         "id": "fin-kotkaroads",
@@ -124250,16 +104110,6 @@ module.exports = {
         "lon": 24.4921748471748
       },
       {
-        "id": "fin-porkkala",
-        "iso": "FIN",
-        "label": "PORKKALA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.0224929744543,
-        "lon": 24.5171616483402
-      },
-      {
         "id": "fin-ca3k",
         "iso": "FIN",
         "label": "CA 3K",
@@ -124290,16 +104140,6 @@ module.exports = {
         "lon": 21.3418549625159
       },
       {
-        "id": "fin-aero",
-        "iso": "FIN",
-        "label": "AERO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.9557701973876,
-        "lon": 24.2493327202378
-      },
-      {
         "id": "fin-ckfo",
         "iso": "FIN",
         "label": "CK F O",
@@ -124320,16 +104160,6 @@ module.exports = {
         "lon": 20.7662246915355
       },
       {
-        "id": "fin-uusikaupunki",
-        "iso": "FIN",
-        "label": "UUSIKAUPUNKI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.7115075413062,
-        "lon": 21.0505225761731
-      },
-      {
         "id": "fin-patrol",
         "iso": "FIN",
         "label": "PATROL",
@@ -124348,16 +104178,6 @@ module.exports = {
         ],
         "lat": 63.7062720031249,
         "lon": 22.689306493432
-      },
-      {
-        "id": "fin-naantali",
-        "iso": "FIN",
-        "label": "NAANTALI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.4335245857397,
-        "lon": 22.0624025180369
       },
       {
         "id": "fin-bdingarea",
@@ -124470,16 +104290,6 @@ module.exports = {
         "lon": 22.352309416236
       },
       {
-        "id": "fin-vaasa",
-        "iso": "FIN",
-        "label": "VAASA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.0867689737557,
-        "lon": 21.5534547263674
-      },
-      {
         "id": "fin-helsinkiarea",
         "iso": "FIN",
         "label": "HELSINKI AREA",
@@ -124540,16 +104350,6 @@ module.exports = {
         "lon": 23.4641383461086
       },
       {
-        "id": "fin-helsinki",
-        "iso": "FIN",
-        "label": "HELSINKI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.1563665071986,
-        "lon": 25.1883426473418
-      },
-      {
         "id": "fin-houtskar",
         "iso": "FIN",
         "label": "HOUTSKAR",
@@ -124558,16 +104358,6 @@ module.exports = {
         ],
         "lat": 60.2249434230296,
         "lon": 21.3679192170646
-      },
-      {
-        "id": "fin-veitsiluoto",
-        "iso": "FIN",
-        "label": "VEITSILUOTO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 65.6892894627726,
-        "lon": 24.6139494466164
       },
       {
         "id": "fin-tolkkinen",
@@ -124598,16 +104388,6 @@ module.exports = {
         ],
         "lat": 59.9622553461999,
         "lon": 22.6877730879101
-      },
-      {
-        "id": "fin-rauma",
-        "iso": "FIN",
-        "label": "RAUMA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 61.1445986080254,
-        "lon": 21.3239873710957
       },
       {
         "id": "fin-klobbskat",
@@ -124680,16 +104460,6 @@ module.exports = {
         "lon": 21.584395009195
       },
       {
-        "id": "fin-lansi-turunmaa",
-        "iso": "FIN",
-        "label": "LANSI-TURUNMAA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.2949580556503,
-        "lon": 22.2999526565465
-      },
-      {
         "id": "fin-crks",
         "iso": "FIN",
         "label": "CRKS",
@@ -124728,16 +104498,6 @@ module.exports = {
         ],
         "lat": 60.0489597148147,
         "lon": 24.5997815048863
-      },
-      {
-        "id": "fin-czolg",
-        "iso": "FIN",
-        "label": "CZOLG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.176562737976,
-        "lon": 25.378518325059
       },
       {
         "id": "fin-botterdam",
@@ -124870,16 +104630,6 @@ module.exports = {
         "lon": 21.4887304739982
       },
       {
-        "id": "ltu-klaipeda",
-        "iso": "LTU",
-        "label": "KLAIPEDA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.7289785358739,
-        "lon": 20.9129443755183
-      },
-      {
         "id": "ltu-butingeoilterminal",
         "iso": "LTU",
         "label": "BUTINGE OIL TERMINAL",
@@ -124890,26 +104640,6 @@ module.exports = {
         "lon": 20.962165238326
       },
       {
-        "id": "lva-ventspils",
-        "iso": "LVA",
-        "label": "VENTSPILS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.4615076160785,
-        "lon": 21.4541628992735
-      },
-      {
-        "id": "lva-riga",
-        "iso": "LVA",
-        "label": "RIGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.1148876513473,
-        "lon": 23.8779779857728
-      },
-      {
         "id": "lva-liepaja",
         "iso": "LVA",
         "label": "LIEPAJA",
@@ -124918,16 +104648,6 @@ module.exports = {
         ],
         "lat": 56.529751381138,
         "lon": 20.9596464862067
-      },
-      {
-        "id": "lva-bolderaja",
-        "iso": "LVA",
-        "label": "BOLDERAJA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.0464853952099,
-        "lon": 24.0694998874061
       },
       {
         "id": "lva-daugavgriva",
@@ -124960,16 +104680,6 @@ module.exports = {
         "lon": 22.8049163019928
       },
       {
-        "id": "pol-gdansk",
-        "iso": "POL",
-        "label": "GDANSK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.450934279446,
-        "lon": 18.78481471363
-      },
-      {
         "id": "pol-jastarnia",
         "iso": "POL",
         "label": "JASTARNIA",
@@ -124980,16 +104690,6 @@ module.exports = {
         "lon": 18.6754304686562
       },
       {
-        "id": "pol-darlowo",
-        "iso": "POL",
-        "label": "DARLOWO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.4372259925523,
-        "lon": 16.3853748559594
-      },
-      {
         "id": "pol-txhalibur",
         "iso": "POL",
         "label": "TX HALIBUR",
@@ -124998,36 +104698,6 @@ module.exports = {
         ],
         "lat": 54.3579655604712,
         "lon": 18.7816827117129
-      },
-      {
-        "id": "pol-szczecin",
-        "iso": "POL",
-        "label": "SZCZECIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.9886101898657,
-        "lon": 14.2736838078872
-      },
-      {
-        "id": "pol-swinoujscie",
-        "iso": "POL",
-        "label": "SWINOUJSCIE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 53.9707906825342,
-        "lon": 14.2791265512049
-      },
-      {
-        "id": "pol-gdynia",
-        "iso": "POL",
-        "label": "GDYNIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.5216048781139,
-        "lon": 18.6347819748276
       },
       {
         "id": "pol-portpolnochny",
@@ -125210,36 +104880,6 @@ module.exports = {
         "lon": 14.2967209923548
       },
       {
-        "id": "rus-vistino",
-        "iso": "RUS",
-        "label": "VISTINO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7803420622689,
-        "lon": 28.4096506071308
-      },
-      {
-        "id": "rus-vyborg",
-        "iso": "RUS",
-        "label": "VYBORG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.6031089906925,
-        "lon": 28.4529791540459
-      },
-      {
-        "id": "rus-ustluga",
-        "iso": "RUS",
-        "label": "UST LUGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.8654844953124,
-        "lon": 28.5334535745416
-      },
-      {
         "id": "rus-bdalnya",
         "iso": "RUS",
         "label": "B DALNYA",
@@ -125270,16 +104910,6 @@ module.exports = {
         "lon": 29.9519246776561
       },
       {
-        "id": "rus-avtovo",
-        "iso": "RUS",
-        "label": "AVTOVO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.8863270655217,
-        "lon": 30.2071201860988
-      },
-      {
         "id": "rus-vysotsk",
         "iso": "RUS",
         "label": "VYSOTSK",
@@ -125290,16 +104920,6 @@ module.exports = {
         "lon": 28.1613953596081
       },
       {
-        "id": "rus-kaliningrad",
-        "iso": "RUS",
-        "label": "KALININGRAD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.6580396646536,
-        "lon": 19.8064511608536
-      },
-      {
         "id": "rus-kronshtadt",
         "iso": "RUS",
         "label": "KRONSHTADT",
@@ -125308,16 +104928,6 @@ module.exports = {
         ],
         "lat": 59.9829414069229,
         "lon": 29.7383061345332
-      },
-      {
-        "id": "rus-rekaluga",
-        "iso": "RUS",
-        "label": "REKA LUGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.688493342304,
-        "lon": 28.3357623292579
       },
       {
         "id": "rus-vasyl'evskyostrov",
@@ -125340,16 +104950,6 @@ module.exports = {
         "lon": 28.3688185395903
       },
       {
-        "id": "rus-baltiysk",
-        "iso": "RUS",
-        "label": "BALTIYSK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 54.6365168349294,
-        "lon": 19.9437678626736
-      },
-      {
         "id": "rus-buhtadalnyaya",
         "iso": "RUS",
         "label": "BUHTA DALNYAYA",
@@ -125358,16 +104958,6 @@ module.exports = {
         ],
         "lat": 60.5090167965782,
         "lon": 28.1791058623621
-      },
-      {
-        "id": "rus-imatra",
-        "iso": "RUS",
-        "label": "IMATRA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.7300399593451,
-        "lon": 28.6782423373951
       },
       {
         "id": "rus-volochayevskoye",
@@ -125398,16 +104988,6 @@ module.exports = {
         ],
         "lat": 60.6138759208374,
         "lon": 28.5626435487988
-      },
-      {
-        "id": "rus-admiralteisky",
-        "iso": "RUS",
-        "label": "ADMIRALTEISKY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.9032685434238,
-        "lon": 30.2231078760898
       },
       {
         "id": "rus-lomonosov",
@@ -125450,16 +105030,6 @@ module.exports = {
         "lon": 29.7821621878371
       },
       {
-        "id": "rus-krestovskiyostrov",
-        "iso": "RUS",
-        "label": "KRESTOVSKIY OSTROV",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.9640966551715,
-        "lon": 30.2334077440279
-      },
-      {
         "id": "rus-ust'-luga",
         "iso": "RUS",
         "label": "UST'-LUGA",
@@ -125470,16 +105040,6 @@ module.exports = {
         "lon": 28.2784773536899
       },
       {
-        "id": "rus-sankt-peterburg",
-        "iso": "RUS",
-        "label": "SANKT-PETERBURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.9265250558365,
-        "lon": 30.2335714371769
-      },
-      {
         "id": "rus-lngkulikovo",
         "iso": "RUS",
         "label": "LNG KULIKOVO",
@@ -125488,26 +105048,6 @@ module.exports = {
         ],
         "lat": 54.9824801546669,
         "lon": 20.359128753483
-      },
-      {
-        "id": "swe-stockholm",
-        "iso": "SWE",
-        "label": "STOCKHOLM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.2674007618275,
-        "lon": 18.3032481569938
-      },
-      {
-        "id": "swe-bf",
-        "iso": "SWE",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.760804401624,
-        "lon": 18.1574368697678
       },
       {
         "id": "swe-farosund",
@@ -125560,16 +105100,6 @@ module.exports = {
         "lon": 15.7298869377291
       },
       {
-        "id": "swe-skelleftehamn",
-        "iso": "SWE",
-        "label": "SKELLEFTEHAMN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 64.6819587292743,
-        "lon": 21.2322304319732
-      },
-      {
         "id": "swe-nynashamn",
         "iso": "SWE",
         "label": "NYNASHAMN",
@@ -125588,16 +105118,6 @@ module.exports = {
         ],
         "lat": 57.2647748856619,
         "lon": 16.4726307267006
-      },
-      {
-        "id": "swe-akersberga",
-        "iso": "SWE",
-        "label": "AKERSBERGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.4612734468618,
-        "lon": 18.2920530953158
       },
       {
         "id": "swe-storanassa",
@@ -125770,16 +105290,6 @@ module.exports = {
         "lon": 18.904252917431
       },
       {
-        "id": "swe-cang",
-        "iso": "SWE",
-        "label": "CANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.722298621696,
-        "lon": 17.8958208919463
-      },
-      {
         "id": "swe-astoftda",
         "iso": "SWE",
         "label": "ASTOFT DA",
@@ -125818,16 +105328,6 @@ module.exports = {
         ],
         "lat": 65.2334605295596,
         "lon": 21.6298053389695
-      },
-      {
-        "id": "swe-anch",
-        "iso": "SWE",
-        "label": "ANCH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 65.4556956193413,
-        "lon": 22.4029913360084
       },
       {
         "id": "swe-kalmar",
@@ -125940,26 +105440,6 @@ module.exports = {
         "lon": 16.7426782991158
       },
       {
-        "id": "swe-brevik",
-        "iso": "SWE",
-        "label": "BREVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.2805277372119,
-        "lon": 18.3272132141911
-      },
-      {
-        "id": "swe-atz",
-        "iso": "SWE",
-        "label": "ATZ",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.0846978584755,
-        "lon": 14.924940729315
-      },
-      {
         "id": "swe-bigrad",
         "iso": "SWE",
         "label": "BIGRAD",
@@ -126030,16 +105510,6 @@ module.exports = {
         "lon": 18.4098231644545
       },
       {
-        "id": "swe-hai",
-        "iso": "SWE",
-        "label": "HAI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.7519543153309,
-        "lon": 17.6943698597645
-      },
-      {
         "id": "swe-brantevik",
         "iso": "SWE",
         "label": "BRANTEVIK",
@@ -126058,36 +105528,6 @@ module.exports = {
         ],
         "lat": 59.0750079926885,
         "lon": 18.0217927944661
-      },
-      {
-        "id": "swe-bd",
-        "iso": "SWE",
-        "label": "BD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.24489285538,
-        "lon": 18.6395318862618
-      },
-      {
-        "id": "swe-cn",
-        "iso": "SWE",
-        "label": "CN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.5156499950338,
-        "lon": 17.3142121874376
-      },
-      {
-        "id": "swe-csal",
-        "iso": "SWE",
-        "label": "CSA L",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.3179070568856,
-        "lon": 17.178470958775
       },
       {
         "id": "swe-arkosund",
@@ -126130,16 +105570,6 @@ module.exports = {
         "lon": 19.2740357488289
       },
       {
-        "id": "swe-ahus",
-        "iso": "SWE",
-        "label": "AHUS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 55.9266847408026,
-        "lon": 14.3169479776252
-      },
-      {
         "id": "swe-ass",
         "iso": "SWE",
         "label": "A SS",
@@ -126148,16 +105578,6 @@ module.exports = {
         ],
         "lat": 57.4351137779405,
         "lon": 16.6335887011515
-      },
-      {
-        "id": "swe-ballebro",
-        "iso": "SWE",
-        "label": "BALLEBRO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.4289955499667,
-        "lon": 18.7012712932887
       },
       {
         "id": "swe-cdokxx00015",
@@ -126240,16 +105660,6 @@ module.exports = {
         "lon": 12.9438416853033
       },
       {
-        "id": "swe-nacka",
-        "iso": "SWE",
-        "label": "NACKA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.3253204683415,
-        "lon": 18.1597405618461
-      },
-      {
         "id": "swe-aahieu",
         "iso": "SWE",
         "label": "AAHIEU",
@@ -126270,16 +105680,6 @@ module.exports = {
         "lon": 18.8435030811953
       },
       {
-        "id": "swe-ani",
-        "iso": "SWE",
-        "label": "AN I",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.1672008265274,
-        "lon": 17.5970267412964
-      },
-      {
         "id": "swe-rangsta",
         "iso": "SWE",
         "label": "RANGSTA",
@@ -126288,16 +105688,6 @@ module.exports = {
         ],
         "lat": 58.8560513021584,
         "lon": 17.8795493208055
-      },
-      {
-        "id": "swe-anaseyard",
-        "iso": "SWE",
-        "label": "AN ASE YARD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.7463651523266,
-        "lon": 19.2414924617703
       },
       {
         "id": "swe-cluis",
@@ -126330,16 +105720,6 @@ module.exports = {
         "lon": 18.4047721282141
       },
       {
-        "id": "swe-ck",
-        "iso": "SWE",
-        "label": "CK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.2596657564923,
-        "lon": 17.1966711441417
-      },
-      {
         "id": "swe-acanal",
         "iso": "SWE",
         "label": "A CANAL",
@@ -126370,16 +105750,6 @@ module.exports = {
         "lon": 18.1221577745664
       },
       {
-        "id": "swe-norrkoping",
-        "iso": "SWE",
-        "label": "NORRKOPING",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.6407543774848,
-        "lon": 16.7580135270696
-      },
-      {
         "id": "swe-0244junct00000",
         "iso": "SWE",
         "label": "0244JUNCT00000",
@@ -126408,36 +105778,6 @@ module.exports = {
         ],
         "lat": 56.6501033665928,
         "lon": 16.4613101998655
-      },
-      {
-        "id": "swe-sundsvall",
-        "iso": "SWE",
-        "label": "SUNDSVALL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 62.381115559195,
-        "lon": 17.4571456057672
-      },
-      {
-        "id": "swe-monsteras",
-        "iso": "SWE",
-        "label": "MONSTERAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.1142114510833,
-        "lon": 16.5623659926905
-      },
-      {
-        "id": "swe-sodertalje",
-        "iso": "SWE",
-        "label": "SODERTALJE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.8706420654557,
-        "lon": 17.8336213019429
       },
       {
         "id": "swe-ebrv",
@@ -126478,16 +105818,6 @@ module.exports = {
         ],
         "lat": 59.3650040526229,
         "lon": 19.1295217145105
-      },
-      {
-        "id": "swe-ang",
-        "iso": "SWE",
-        "label": "ANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.4590871190639,
-        "lon": 17.6417733945854
       },
       {
         "id": "swe-ligang",
@@ -126710,16 +106040,6 @@ module.exports = {
         "lon": 18.3239366603755
       },
       {
-        "id": "swe-marstrand",
-        "iso": "SWE",
-        "label": "MARSTRAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.9376878252838,
-        "lon": 18.1761986676399
-      },
-      {
         "id": "swe-ak",
         "iso": "SWE",
         "label": "AK",
@@ -126748,16 +106068,6 @@ module.exports = {
         ],
         "lat": 59.1209308112079,
         "lon": 18.5269958294341
-      },
-      {
-        "id": "swe-gavle",
-        "iso": "SWE",
-        "label": "GAVLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.7043678865402,
-        "lon": 17.4208081838668
       },
       {
         "id": "swe-storajatterson",
@@ -126800,16 +106110,6 @@ module.exports = {
         "lon": 17.0136781868914
       },
       {
-        "id": "swe-bo",
-        "iso": "SWE",
-        "label": "BO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.3107436983296,
-        "lon": 18.7028456166468
-      },
-      {
         "id": "swe-cregon",
         "iso": "SWE",
         "label": "CREGON",
@@ -126848,16 +106148,6 @@ module.exports = {
         ],
         "lat": 59.8515706004029,
         "lon": 19.1077155761524
-      },
-      {
-        "id": "swe-nykoping",
-        "iso": "SWE",
-        "label": "NYKOPING",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.740111140927,
-        "lon": 17.0446983003075
       },
       {
         "id": "swe-as",
@@ -126950,16 +106240,6 @@ module.exports = {
         "lon": 18.1532814472721
       },
       {
-        "id": "swe-karskar",
-        "iso": "SWE",
-        "label": "KARSKAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.6872267863278,
-        "lon": 17.279473445213
-      },
-      {
         "id": "swe-ane",
         "iso": "SWE",
         "label": "ANE",
@@ -126990,16 +106270,6 @@ module.exports = {
         "lon": 17.2029312920239
       },
       {
-        "id": "swe-slite",
-        "iso": "SWE",
-        "label": "SLITE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.6450689929887,
-        "lon": 18.8372010851914
-      },
-      {
         "id": "swe-boekrdam",
         "iso": "SWE",
         "label": "BOEK R DAM",
@@ -127008,16 +106278,6 @@ module.exports = {
         ],
         "lat": 56.9435361653066,
         "lon": 18.3097991255123
-      },
-      {
-        "id": "swe-fyrudden",
-        "iso": "SWE",
-        "label": "FYRUDDEN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.1901294643733,
-        "lon": 16.8666550961374
       },
       {
         "id": "swe-vaja",
@@ -127158,16 +106418,6 @@ module.exports = {
         ],
         "lat": 58.6704666279439,
         "lon": 17.3989991804485
-      },
-      {
-        "id": "swe-aoff",
-        "iso": "SWE",
-        "label": "A OFF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.4779253439253,
-        "lon": 18.8100597441634
       },
       {
         "id": "swe-rafsnas",
@@ -127370,16 +106620,6 @@ module.exports = {
         "lon": 18.912281555135
       },
       {
-        "id": "swe-aa",
-        "iso": "SWE",
-        "label": "AA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.8535970394845,
-        "lon": 17.7093296816077
-      },
-      {
         "id": "swe-cund",
         "iso": "SWE",
         "label": "CUND",
@@ -127438,16 +106678,6 @@ module.exports = {
         ],
         "lat": 62.4762788661812,
         "lon": 17.3428941063268
-      },
-      {
-        "id": "swe-bg",
-        "iso": "SWE",
-        "label": "BG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.1553491966212,
-        "lon": 18.8105690004922
       },
       {
         "id": "swe-ananchor",
@@ -127640,16 +106870,6 @@ module.exports = {
         "lon": 18.8548977457198
       },
       {
-        "id": "swe-burg",
-        "iso": "SWE",
-        "label": "BURG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 58.3935725783953,
-        "lon": 16.9244692990792
-      },
-      {
         "id": "swe-alle",
         "iso": "SWE",
         "label": "ALLE",
@@ -127690,16 +106910,6 @@ module.exports = {
         "lon": 16.9492181470422
       },
       {
-        "id": "swe-kummelnas",
-        "iso": "SWE",
-        "label": "KUMMELNAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 59.3509597485596,
-        "lon": 18.2638574054052
-      },
-      {
         "id": "swe-rindo",
         "iso": "SWE",
         "label": "RINDO",
@@ -127708,16 +106918,6 @@ module.exports = {
         ],
         "lat": 59.3925984910298,
         "lon": 18.4385316757395
-      },
-      {
-        "id": "swe-husum",
-        "iso": "SWE",
-        "label": "HUSUM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 63.2550704059562,
-        "lon": 19.182654599118
       },
       {
         "id": "swe-buesum",
@@ -127780,26 +106980,6 @@ module.exports = {
         "lon": 18.7865386884917
       },
       {
-        "id": "swe-gaevle",
-        "iso": "SWE",
-        "label": "GAEVLE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 60.7153653531578,
-        "lon": 17.3093739724143
-      },
-      {
-        "id": "swe-hallevik",
-        "iso": "SWE",
-        "label": "HALLEVIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 56.0022293475697,
-        "lon": 14.7346348501168
-      },
-      {
         "id": "swe-skare",
         "iso": "SWE",
         "label": "SKARE",
@@ -127828,16 +107008,6 @@ module.exports = {
         ],
         "lat": 57.8633947286833,
         "lon": 19.0611564719902
-      },
-      {
-        "id": "swe-hoganas",
-        "iso": "SWE",
-        "label": "HOGANAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.2401989725433,
-        "lon": 17.0772814382094
       },
       {
         "id": "swe-b22",
@@ -127960,16 +107130,6 @@ module.exports = {
         "lon": 18.645369472674
       },
       {
-        "id": "swe-cancancho",
-        "iso": "SWE",
-        "label": "CAN C ANCHO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.8561334387307,
-        "lon": 19.0673042802167
-      },
-      {
         "id": "swe-marsgarn",
         "iso": "SWE",
         "label": "MARSGARN",
@@ -128018,16 +107178,6 @@ module.exports = {
         ],
         "lat": 56.1562301104075,
         "lon": 14.7282892925058
-      },
-      {
-        "id": "swe-sandarne",
-        "iso": "SWE",
-        "label": "SANDARNE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 61.2782325076597,
-        "lon": 17.2257537872376
       },
       {
         "id": "swe-hff",
@@ -128118,16 +107268,6 @@ module.exports = {
         ],
         "lat": 58.8525618722129,
         "lon": 17.8856887673676
-      },
-      {
-        "id": "swe-karlsborg",
-        "iso": "SWE",
-        "label": "KARLSBORG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 65.7904985668746,
-        "lon": 23.2832315022776
       },
       {
         "id": "swe-iggesund",
@@ -128290,16 +107430,6 @@ module.exports = {
         "lon": 17.5288825036099
       },
       {
-        "id": "swe-pebga",
-        "iso": "SWE",
-        "label": "PEBGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 57.9586054397642,
-        "lon": 16.7967682684619
-      },
-      {
         "id": "swe-enjiamen",
         "iso": "SWE",
         "label": "ENJIAMEN",
@@ -128340,26 +107470,6 @@ module.exports = {
         "lon": -5.05367979556148
       },
       {
-        "id": "fra-brest",
-        "iso": "FRA",
-        "label": "BREST",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.4587154273969,
-        "lon": -5.07859839934769
-      },
-      {
-        "id": "fra-ouessant",
-        "iso": "FRA",
-        "label": "OUESSANT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 48.4512096830921,
-        "lon": -5.09835431154978
-      },
-      {
         "id": "sjm-bellsund",
         "iso": "SJM",
         "label": "BELLSUND",
@@ -128398,16 +107508,6 @@ module.exports = {
         ],
         "lat": 78.9287290011456,
         "lon": 11.9346762241495
-      },
-      {
-        "id": "sjm-svalbard",
-        "iso": "SJM",
-        "label": "SVALBARD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 77.5131168549794,
-        "lon": 14.6488336925129
       },
       {
         "id": "sjm-nnorwegiansea",
@@ -128500,36 +107600,6 @@ module.exports = {
         "lon": -46.0452413177039
       },
       {
-        "id": "grl-illulissat(jakobshavn)",
-        "iso": "GRL",
-        "label": "ILLULISSAT (JAKOBSHAVN)",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 69.2277705251868,
-        "lon": -51.1097067702853
-      },
-      {
-        "id": "usa-solomonsisland",
-        "iso": "USA",
-        "label": "SOLOMONS ISLAND",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.3213761587022,
-        "lon": -76.4457589766064
-      },
-      {
-        "id": "usa-baltimore",
-        "iso": "USA",
-        "label": "BALTIMORE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.085042266854,
-        "lon": -76.480137574891
-      },
-      {
         "id": "usa-baltimoreusa",
         "iso": "USA",
         "label": "BALTIMORE USA",
@@ -128540,26 +107610,6 @@ module.exports = {
         "lon": -76.408220632627
       },
       {
-        "id": "usa-philadelphia",
-        "iso": "USA",
-        "label": "PHILADELPHIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.9478718531254,
-        "lon": -75.1788762996046
-      },
-      {
-        "id": "usa-off",
-        "iso": "USA",
-        "label": "OFF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9620460636943,
-        "lon": -76.2910559014952
-      },
-      {
         "id": "usa-adhaven",
         "iso": "USA",
         "label": "AD HAVEN",
@@ -128568,26 +107618,6 @@ module.exports = {
         ],
         "lat": 36.9609972817501,
         "lon": -76.296408941673
-      },
-      {
-        "id": "usa-cambridge",
-        "iso": "USA",
-        "label": "CAMBRIDGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.5726662063176,
-        "lon": -76.0730227757972
-      },
-      {
-        "id": "usa-norfolk",
-        "iso": "USA",
-        "label": "NORFOLK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9864726898889,
-        "lon": -76.2419819766035
       },
       {
         "id": "usa-norfolkusa",
@@ -128630,26 +107660,6 @@ module.exports = {
         "lon": -76.4239439198664
       },
       {
-        "id": "usa-saintmichaels",
-        "iso": "USA",
-        "label": "SAINT MICHAELS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.7893876421251,
-        "lon": -76.2105735126417
-      },
-      {
-        "id": "usa-ang",
-        "iso": "USA",
-        "label": "ANG",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.2378201275478,
-        "lon": -75.9377487241423
-      },
-      {
         "id": "usa-capehenry",
         "iso": "USA",
         "label": "CAPE HENRY",
@@ -128678,16 +107688,6 @@ module.exports = {
         ],
         "lat": 36.8844929302008,
         "lon": -76.3525493541347
-      },
-      {
-        "id": "usa-local",
-        "iso": "USA",
-        "label": "LOCAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8825287473764,
-        "lon": -76.351350520082
       },
       {
         "id": "usa-philadelpia",
@@ -128780,16 +107780,6 @@ module.exports = {
         "lon": -76.0846366272926
       },
       {
-        "id": "usa-portsmouth",
-        "iso": "USA",
-        "label": "PORTSMOUTH",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8978326118368,
-        "lon": -76.3493536861393
-      },
-      {
         "id": "usa-baltimoremd",
         "iso": "USA",
         "label": "BALTIMORE MD",
@@ -128840,36 +107830,6 @@ module.exports = {
         "lon": -75.5504671470841
       },
       {
-        "id": "usa-yorktown",
-        "iso": "USA",
-        "label": "YORKTOWN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.2391687491601,
-        "lon": -76.4705516595662
-      },
-      {
-        "id": "usa-usorf",
-        "iso": "USA",
-        "label": "US ORF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9149022142894,
-        "lon": -76.3282739538088
-      },
-      {
-        "id": "usa-norfolkva",
-        "iso": "USA",
-        "label": "NORFOLK VA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.2799078155422,
-        "lon": -76.0708073860763
-      },
-      {
         "id": "usa-stmichaels",
         "iso": "USA",
         "label": "ST MICHAELS",
@@ -128908,16 +107868,6 @@ module.exports = {
         ],
         "lat": 38.9795354721087,
         "lon": -75.2054947404589
-      },
-      {
-        "id": "usa-shadyside",
-        "iso": "USA",
-        "label": "SHADY SIDE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.840984872571,
-        "lon": -76.5340866004534
       },
       {
         "id": "usa-philapa",
@@ -128980,16 +107930,6 @@ module.exports = {
         "lon": -76.2082855514663
       },
       {
-        "id": "usa-salem",
-        "iso": "USA",
-        "label": "SALEM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.5380767417858,
-        "lon": -75.5487435780861
-      },
-      {
         "id": "usa-pineypoint",
         "iso": "USA",
         "label": "PINEY POINT",
@@ -129020,26 +107960,6 @@ module.exports = {
         "lon": -76.1820535158627
       },
       {
-        "id": "usa-mobileal",
-        "iso": "USA",
-        "label": "MOBILE AL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9161799428506,
-        "lon": -76.1823024795213
-      },
-      {
-        "id": "usa-wilmington",
-        "iso": "USA",
-        "label": "WILMINGTON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.7210834167796,
-        "lon": -75.5289654091127
-      },
-      {
         "id": "usa-stevensville",
         "iso": "USA",
         "label": "STEVENSVILLE",
@@ -129048,16 +107968,6 @@ module.exports = {
         ],
         "lat": 38.9794482792126,
         "lon": -76.3326228063769
-      },
-      {
-        "id": "usa-rockhall",
-        "iso": "USA",
-        "label": "ROCK HALL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.1439400847495,
-        "lon": -76.2599292139993
       },
       {
         "id": "usa-shipasist",
@@ -129078,16 +107988,6 @@ module.exports = {
         ],
         "lat": 36.9159437951263,
         "lon": -76.1680493450037
-      },
-      {
-        "id": "usa-sanjuan",
-        "iso": "USA",
-        "label": "SAN JUAN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.5097727032901,
-        "lon": -75.5722945296323
       },
       {
         "id": "usa-middleriver",
@@ -129150,16 +108050,6 @@ module.exports = {
         "lon": -75.1001538535626
       },
       {
-        "id": "usa-bd",
-        "iso": "USA",
-        "label": "BD",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.6360464201698,
-        "lon": -76.3193638209035
-      },
-      {
         "id": "usa-arket",
         "iso": "USA",
         "label": "ARKET",
@@ -129220,16 +108110,6 @@ module.exports = {
         "lon": -76.3303464294726
       },
       {
-        "id": "usa-charlestonsc",
-        "iso": "USA",
-        "label": "CHARLESTON SC",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.2400295119696,
-        "lon": -76.9634103664744
-      },
-      {
         "id": "usa-surveycorpsofeng",
         "iso": "USA",
         "label": "SURVEY CORPS OF ENG",
@@ -129238,16 +108118,6 @@ module.exports = {
         ],
         "lat": 38.7206563747827,
         "lon": -76.336548054341
-      },
-      {
-        "id": "usa-ai",
-        "iso": "USA",
-        "label": "AI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.5183849590764,
-        "lon": -75.5651061245269
       },
       {
         "id": "usa-iao",
@@ -129268,26 +108138,6 @@ module.exports = {
         ],
         "lat": 39.7877029044304,
         "lon": -75.4520737590088
-      },
-      {
-        "id": "usa-fortpierce",
-        "iso": "USA",
-        "label": "FORT PIERCE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.6157454378729,
-        "lon": -76.2910370065809
-      },
-      {
-        "id": "usa-capemay",
-        "iso": "USA",
-        "label": "CAPE MAY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.4781595900295,
-        "lon": -75.9381458438936
       },
       {
         "id": "usa-baltamoremd",
@@ -129382,17 +108232,6 @@ module.exports = {
         "lon": 123.574281265055
       },
       {
-        "id": "mys-portdickson",
-        "iso": "MYS",
-        "label": "PORT DICKSON",
-        "rfmo": [
-          "WCPFC",
-          "IOTC"
-        ],
-        "lat": 2.49388465468524,
-        "lon": 101.729615708718
-      },
-      {
         "id": "blz-belize",
         "iso": "BLZ",
         "label": "BELIZE",
@@ -129401,16 +108240,6 @@ module.exports = {
         ],
         "lat": 17.4474015827103,
         "lon": -88.1903643522115
-      },
-      {
-        "id": "blz-bigcreek",
-        "iso": "BLZ",
-        "label": "BIG CREEK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 16.4607431083889,
-        "lon": -88.3846539144324
       },
       {
         "id": "blz-belizecity",
@@ -129423,26 +108252,6 @@ module.exports = {
         "lon": -88.1978222293648
       },
       {
-        "id": "tur-gemlik",
-        "iso": "TUR",
-        "label": "GEMLIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4365703204887,
-        "lon": 29.0382535971428
-      },
-      {
-        "id": "tur-icdas",
-        "iso": "TUR",
-        "label": "ICDAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4505992353946,
-        "lon": 27.138961805056
-      },
-      {
         "id": "tur-ber",
         "iso": "TUR",
         "label": "BER",
@@ -129451,26 +108260,6 @@ module.exports = {
         ],
         "lat": 40.7325877552512,
         "lon": 29.5059694770188
-      },
-      {
-        "id": "tur-hopa",
-        "iso": "TUR",
-        "label": "HOPA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4104359511344,
-        "lon": 41.4219551563528
-      },
-      {
-        "id": "tur-icmeler",
-        "iso": "TUR",
-        "label": "ICMELER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8357282582173,
-        "lon": 29.2907667144671
       },
       {
         "id": "tur-cinarcik",
@@ -129483,56 +108272,6 @@ module.exports = {
         "lon": 29.1309125821071
       },
       {
-        "id": "tur-hereke",
-        "iso": "TUR",
-        "label": "HEREKE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7692982085499,
-        "lon": 29.6362076400746
-      },
-      {
-        "id": "tur-canakkale",
-        "iso": "TUR",
-        "label": "CANAKKALE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.1518044682284,
-        "lon": 26.4024545514219
-      },
-      {
-        "id": "tur-bandirma",
-        "iso": "TUR",
-        "label": "BANDIRMA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.3643722326604,
-        "lon": 27.9710872621116
-      },
-      {
-        "id": "tur-istanbul",
-        "iso": "TUR",
-        "label": "ISTANBUL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0691091651059,
-        "lon": 29.0743701444853
-      },
-      {
-        "id": "tur-ciftlikkoy",
-        "iso": "TUR",
-        "label": "CIFTLIKKOY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.6854139877205,
-        "lon": 29.3334342404897
-      },
-      {
         "id": "tur-bounds",
         "iso": "TUR",
         "label": "BOUNDS",
@@ -129541,136 +108280,6 @@ module.exports = {
         ],
         "lat": 41.4452538221101,
         "lon": 32.1174517461663
-      },
-      {
-        "id": "tur-sinop",
-        "iso": "TUR",
-        "label": "SINOP",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 42.0194692185864,
-        "lon": 35.1464607223947
-      },
-      {
-        "id": "tur-diliskelesi",
-        "iso": "TUR",
-        "label": "DILISKELESI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7607432863477,
-        "lon": 29.4534328158269
-      },
-      {
-        "id": "tur-rumelifeneri",
-        "iso": "TUR",
-        "label": "RUMELIFENERI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.206221173685,
-        "lon": 29.1272040527045
-      },
-      {
-        "id": "tur-pendik",
-        "iso": "TUR",
-        "label": "PENDIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8650715647213,
-        "lon": 29.2505740026061
-      },
-      {
-        "id": "tur-maltepe",
-        "iso": "TUR",
-        "label": "MALTEPE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9090942122394,
-        "lon": 29.1353268653978
-      },
-      {
-        "id": "tur-adalar",
-        "iso": "TUR",
-        "label": "ADALAR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8882210640786,
-        "lon": 29.1652675889754
-      },
-      {
-        "id": "tur-yarimca",
-        "iso": "TUR",
-        "label": "YARIMCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7697923791346,
-        "lon": 29.6915722496801
-      },
-      {
-        "id": "tur-darica",
-        "iso": "TUR",
-        "label": "DARICA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7620859826032,
-        "lon": 29.4312321715565
-      },
-      {
-        "id": "tur-trabzon",
-        "iso": "TUR",
-        "label": "TRABZON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0027865750982,
-        "lon": 39.7429737607333
-      },
-      {
-        "id": "tur-unye",
-        "iso": "TUR",
-        "label": "UNYE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1129843781248,
-        "lon": 37.3436271457339
-      },
-      {
-        "id": "tur-tuzla",
-        "iso": "TUR",
-        "label": "TUZLA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8787977566841,
-        "lon": 29.188592559322
-      },
-      {
-        "id": "tur-kartal",
-        "iso": "TUR",
-        "label": "KARTAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8788835973397,
-        "lon": 29.1953862106368
-      },
-      {
-        "id": "tur-borusanfertilizerjetty",
-        "iso": "TUR",
-        "label": "BORUSAN FERTILIZER JETTY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4485168231634,
-        "lon": 29.1003135328983
       },
       {
         "id": "tur-cey",
@@ -129683,56 +108292,6 @@ module.exports = {
         "lon": 26.3777470161698
       },
       {
-        "id": "tur-defterdarburnu",
-        "iso": "TUR",
-        "label": "DEFTERDAR BURNU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.0559296802513,
-        "lon": 29.0370635242863
-      },
-      {
-        "id": "tur-giresun",
-        "iso": "TUR",
-        "label": "GIRESUN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9184279633844,
-        "lon": 38.380971095057
-      },
-      {
-        "id": "tur-altinova",
-        "iso": "TUR",
-        "label": "ALTINOVA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7196689096071,
-        "lon": 29.4807334581896
-      },
-      {
-        "id": "tur-yalova",
-        "iso": "TUR",
-        "label": "YALOVA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.658673628367,
-        "lon": 29.3641622159243
-      },
-      {
-        "id": "tur-eregli",
-        "iso": "TUR",
-        "label": "EREGLI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2667539061057,
-        "lon": 31.4159272556058
-      },
-      {
         "id": "tur-istanbulbogazikuze",
         "iso": "TUR",
         "label": "ISTANBUL BOGAZI KUZE",
@@ -129741,16 +108300,6 @@ module.exports = {
         ],
         "lat": 40.4411342544215,
         "lon": 28.0043934149304
-      },
-      {
-        "id": "tur-haydarpasa",
-        "iso": "TUR",
-        "label": "HAYDARPASA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9751862607122,
-        "lon": 29.0374141160446
       },
       {
         "id": "tur-arhavi",
@@ -129783,26 +108332,6 @@ module.exports = {
         "lon": 28.9288272216898
       },
       {
-        "id": "tur-kababurnu",
-        "iso": "TUR",
-        "label": "KABA BURNU",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7641696362329,
-        "lon": 29.5286943413889
-      },
-      {
-        "id": "tur-abga",
-        "iso": "TUR",
-        "label": "ABGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.4478427101118,
-        "lon": 28.0149975111065
-      },
-      {
         "id": "tur-ulasli",
         "iso": "TUR",
         "label": "ULASLI",
@@ -129813,26 +108342,6 @@ module.exports = {
         "lon": 29.6593668718258
       },
       {
-        "id": "tur-ata",
-        "iso": "TUR",
-        "label": "ATA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.9304922032637,
-        "lon": 29.1021821665209
-      },
-      {
-        "id": "tur-istinye",
-        "iso": "TUR",
-        "label": "ISTINYE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1326124537751,
-        "lon": 29.084552265713
-      },
-      {
         "id": "tur-kepez",
         "iso": "TUR",
         "label": "KEPEZ",
@@ -129841,26 +108350,6 @@ module.exports = {
         ],
         "lat": 40.1045732815035,
         "lon": 26.3784492359645
-      },
-      {
-        "id": "tur-gebze",
-        "iso": "TUR",
-        "label": "GEBZE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.7685647192547,
-        "lon": 29.5448322206995
-      },
-      {
-        "id": "tur-sariyer",
-        "iso": "TUR",
-        "label": "SARIYER",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.1735042374926,
-        "lon": 29.0878162684782
       },
       {
         "id": "tur-tryla",
@@ -129903,26 +108392,6 @@ module.exports = {
         "lon": 27.0445332797252
       },
       {
-        "id": "tur-zonguldak",
-        "iso": "TUR",
-        "label": "ZONGULDAK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.4536635304358,
-        "lon": 31.7859816936023
-      },
-      {
-        "id": "tur-erdek",
-        "iso": "TUR",
-        "label": "ERDEK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.39365988952,
-        "lon": 27.7891156010105
-      },
-      {
         "id": "tur-bse",
         "iso": "TUR",
         "label": "BSE",
@@ -129931,16 +108400,6 @@ module.exports = {
         ],
         "lat": 40.8838148604865,
         "lon": 29.1840693867135
-      },
-      {
-        "id": "tur-constanta",
-        "iso": "TUR",
-        "label": "CONSTANTA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 40.8811387918983,
-        "lon": 29.1772731256823
       },
       {
         "id": "tur-rize",
@@ -129963,16 +108422,6 @@ module.exports = {
         "lon": 29.2119689075114
       },
       {
-        "id": "tur-eregli",
-        "iso": "TUR",
-        "label": "EREGLI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 41.2637084300461,
-        "lon": 31.4158264647262
-      },
-      {
         "id": "tur-botasdortyoloilterminal",
         "iso": "TUR",
         "label": "BOTAS DORTYOL OIL TERMINAL",
@@ -129981,16 +108430,6 @@ module.exports = {
         ],
         "lat": 36.8495391041557,
         "lon": 36.134425797407
-      },
-      {
-        "id": "tur-bodrum",
-        "iso": "TUR",
-        "label": "BODRUM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.009181026573,
-        "lon": 27.5018427293328
       },
       {
         "id": "tur-bage",
@@ -130003,26 +108442,6 @@ module.exports = {
         "lon": 28.0488210462696
       },
       {
-        "id": "tur-marmaris",
-        "iso": "TUR",
-        "label": "MARMARIS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7777822644201,
-        "lon": 28.3465668765929
-      },
-      {
-        "id": "tur-aes",
-        "iso": "TUR",
-        "label": "AES",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6389976017569,
-        "lon": 28.1356942553349
-      },
-      {
         "id": "tur-ave",
         "iso": "TUR",
         "label": "AVE",
@@ -130031,56 +108450,6 @@ module.exports = {
         ],
         "lat": 36.5769061032452,
         "lon": 28.0495842323024
-      },
-      {
-        "id": "tur-gocek",
-        "iso": "TUR",
-        "label": "GOCEK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7257077515714,
-        "lon": 28.8961719900794
-      },
-      {
-        "id": "tur-yalikavak",
-        "iso": "TUR",
-        "label": "YALIKAVAK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.1141345429263,
-        "lon": 27.2943475993473
-      },
-      {
-        "id": "tur-izmir",
-        "iso": "TUR",
-        "label": "IZMIR",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.4386508991725,
-        "lon": 27.1232359539224
-      },
-      {
-        "id": "tur-kibristoherzilya",
-        "iso": "TUR",
-        "label": "KIBRIS TO HERZILYA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6239841420178,
-        "lon": 28.0053827316051
-      },
-      {
-        "id": "tur-dikili",
-        "iso": "TUR",
-        "label": "DIKILI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.0749395343133,
-        "lon": 26.8719591931709
       },
       {
         "id": "tur-bhaven",
@@ -130093,16 +108462,6 @@ module.exports = {
         "lon": 27.302374508564
       },
       {
-        "id": "tur-london",
-        "iso": "TUR",
-        "label": "LONDON",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.97158709729,
-        "lon": 27.3041660342779
-      },
-      {
         "id": "tur-bea",
         "iso": "TUR",
         "label": "BEA",
@@ -130111,36 +108470,6 @@ module.exports = {
         ],
         "lat": 36.8281743054132,
         "lon": 28.5496203882464
-      },
-      {
-        "id": "tur-aliaga",
-        "iso": "TUR",
-        "label": "ALIAGA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.8088204824469,
-        "lon": 26.900701579047
-      },
-      {
-        "id": "tur-iskenderun",
-        "iso": "TUR",
-        "label": "ISKENDERUN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6421142076164,
-        "lon": 36.1341324709792
-      },
-      {
-        "id": "tur-alanya",
-        "iso": "TUR",
-        "label": "ALANYA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.5044329828112,
-        "lon": 32.0390748262244
       },
       {
         "id": "tur-nemrutbay",
@@ -130153,36 +108482,6 @@ module.exports = {
         "lon": 26.8710831792292
       },
       {
-        "id": "tur-nemrut",
-        "iso": "TUR",
-        "label": "NEMRUT",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.7948137602165,
-        "lon": 26.8793016465332
-      },
-      {
-        "id": "tur-kusadasi",
-        "iso": "TUR",
-        "label": "KUSADASI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.870666965104,
-        "lon": 27.2615991189355
-      },
-      {
-        "id": "tur-antalyaoffshoreterminal",
-        "iso": "TUR",
-        "label": "ANTALYA OFFSHORE TERMINAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8003899934588,
-        "lon": 30.580368022696
-      },
-      {
         "id": "tur-finike",
         "iso": "TUR",
         "label": "FINIKE",
@@ -130191,26 +108490,6 @@ module.exports = {
         ],
         "lat": 36.2940501543691,
         "lon": 30.1498993803611
-      },
-      {
-        "id": "tur-yakacik",
-        "iso": "TUR",
-        "label": "YAKACIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7498030046825,
-        "lon": 36.1948889467376
-      },
-      {
-        "id": "tur-salurho",
-        "iso": "TUR",
-        "label": "SALURHO",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9981329770655,
-        "lon": 27.6036165501469
       },
       {
         "id": "tur-turkbuku",
@@ -130223,26 +108502,6 @@ module.exports = {
         "lon": 27.4021141620265
       },
       {
-        "id": "tur-mersin",
-        "iso": "TUR",
-        "label": "MERSIN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8005254542383,
-        "lon": 34.6553918173918
-      },
-      {
-        "id": "tur-bozburun",
-        "iso": "TUR",
-        "label": "BOZBURUN",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6695265639612,
-        "lon": 28.0348459920089
-      },
-      {
         "id": "tur-kiulukioi",
         "iso": "TUR",
         "label": "KIULUKIOI",
@@ -130251,36 +108510,6 @@ module.exports = {
         ],
         "lat": 37.2578426420129,
         "lon": 27.570999815311
-      },
-      {
-        "id": "tur-datca",
-        "iso": "TUR",
-        "label": "DATCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7162763096422,
-        "lon": 27.6893752262495
-      },
-      {
-        "id": "tur-yesilovacik",
-        "iso": "TUR",
-        "label": "YESILOVACIK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.1810522535614,
-        "lon": 33.6539509080879
-      },
-      {
-        "id": "tur-antalya",
-        "iso": "TUR",
-        "label": "ANTALYA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.833134593301,
-        "lon": 30.6087950145332
       },
       {
         "id": "tur-beirut",
@@ -130293,36 +108522,6 @@ module.exports = {
         "lon": 27.7345015858642
       },
       {
-        "id": "tur-alexandria",
-        "iso": "TUR",
-        "label": "ALEXANDRIA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.7476761044816,
-        "lon": 27.734125461327
-      },
-      {
-        "id": "tur-kizkalesi",
-        "iso": "TUR",
-        "label": "KIZKALESI",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6646575914904,
-        "lon": 36.2072817972846
-      },
-      {
-        "id": "tur-deltaterminal",
-        "iso": "TUR",
-        "label": "DELTA TERMINAL",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8325590659502,
-        "lon": 36.1506783068843
-      },
-      {
         "id": "tur-ao",
         "iso": "TUR",
         "label": "AO",
@@ -130333,16 +108532,6 @@ module.exports = {
         "lon": 28.0661787452763
       },
       {
-        "id": "tur-usa",
-        "iso": "TUR",
-        "label": "USA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6689062708251,
-        "lon": 27.5037106316378
-      },
-      {
         "id": "tur-bdalian",
         "iso": "TUR",
         "label": "BDALIAN",
@@ -130351,26 +108540,6 @@ module.exports = {
         ],
         "lat": 36.6690594652687,
         "lon": 27.5024397480105
-      },
-      {
-        "id": "tur-chorage",
-        "iso": "TUR",
-        "label": "CHORAGE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6839426249477,
-        "lon": 27.376106465786
-      },
-      {
-        "id": "tur-torosgubre",
-        "iso": "TUR",
-        "label": "TOROS GUBRE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.9148578737357,
-        "lon": 35.9899345796337
       },
       {
         "id": "tur-rodos",
@@ -130413,36 +108582,6 @@ module.exports = {
         "lon": 36.0117140268926
       },
       {
-        "id": "tur-nemrutlimanibay",
-        "iso": "TUR",
-        "label": "NEMRUT LIMANI BAY",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.7895775453009,
-        "lon": 26.881999349476
-      },
-      {
-        "id": "tur-akcansa",
-        "iso": "TUR",
-        "label": "AKCANSA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.8793574269997,
-        "lon": 26.1533375932697
-      },
-      {
-        "id": "tur-canakkale",
-        "iso": "TUR",
-        "label": "CANAKKALE",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 39.8781230317512,
-        "lon": 26.1514353325994
-      },
-      {
         "id": "tur-oludeniz",
         "iso": "TUR",
         "label": "OLUDENIZ",
@@ -130451,56 +108590,6 @@ module.exports = {
         ],
         "lat": 36.5463748579425,
         "lon": 29.1120658859176
-      },
-      {
-        "id": "tur-bf",
-        "iso": "TUR",
-        "label": "BF",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.6697886559919,
-        "lon": 28.0082413376446
-      },
-      {
-        "id": "tur-cesme",
-        "iso": "TUR",
-        "label": "CESME",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 38.3126387787191,
-        "lon": 26.2681279393532
-      },
-      {
-        "id": "tur-casablanca",
-        "iso": "TUR",
-        "label": "CASABLANCA",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.0061160299718,
-        "lon": 27.3840398618447
-      },
-      {
-        "id": "tur-ck",
-        "iso": "TUR",
-        "label": "CK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.0163792513576,
-        "lon": 27.3898165617077
-      },
-      {
-        "id": "tur-didim",
-        "iso": "TUR",
-        "label": "DIDIM",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.4533824320644,
-        "lon": 27.2189130597955
       },
       {
         "id": "tur-ersburg",
@@ -130513,16 +108602,6 @@ module.exports = {
         "lon": 26.0655240259658
       },
       {
-        "id": "tur-botas",
-        "iso": "TUR",
-        "label": "BOTAS",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 36.8819798158126,
-        "lon": 35.939354899319
-      },
-      {
         "id": "tur-china",
         "iso": "TUR",
         "label": "CHINA",
@@ -130531,16 +108610,6 @@ module.exports = {
         ],
         "lat": 36.6200405587103,
         "lon": 29.0424165703438
-      },
-      {
-        "id": "tur-gulluk",
-        "iso": "TUR",
-        "label": "GULLUK",
-        "rfmo": [
-          "ICCAT"
-        ],
-        "lat": 37.250036608084,
-        "lon": 27.5780024389839
       },
       {
         "id": "tur-kucukkuyu",
@@ -130563,16 +108632,6 @@ module.exports = {
         "lon": 26.7826173127702
       },
       {
-        "id": "ind-portblair",
-        "iso": "IND",
-        "label": "PORTBLAIR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 8.63857451856029,
-        "lon": 93.159668759781
-      },
-      {
         "id": "ind-hutbay",
         "iso": "IND",
         "label": "HUTBAY",
@@ -130581,16 +108640,6 @@ module.exports = {
         ],
         "lat": 10.5912337537101,
         "lon": 92.5622052169339
-      },
-      {
-        "id": "ind-portblair",
-        "iso": "IND",
-        "label": "PORT BLAIR",
-        "rfmo": [
-          "IOTC"
-        ],
-        "lat": 6.99993273813167,
-        "lon": 93.9311869139099
       },
       {
         "id": "mmr-myanmar",
