@@ -1,4 +1,5 @@
 const datasets = require("../data/datasets");
+const configData = require("../data/config");
 const log = require("../data/log");
 
 module.exports = app => {
@@ -36,6 +37,24 @@ module.exports = app => {
         return res.sendStatus(404);
       }
       return res.json(result);
+    } catch (error) {
+      return next(error);
+    }
+  });
+
+  app.get("/datasets/:dataset/config", async (req, res, next) => {
+    try {
+      const id = req.swagger.params.dataset.value;
+
+      log.debug(`Loading dataset ${id}`);
+      const result = await datasets.get(id);
+      if (!result) {
+        log.debug(`Dataset ${id} does not exist`);
+        return res.sendStatus(404);
+      }
+      log.debug("Requesting dataset config");
+      const config = await configData.get();
+      return res.json(config);
     } catch (error) {
       return next(error);
     }
