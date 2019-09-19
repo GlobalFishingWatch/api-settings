@@ -378,7 +378,7 @@ paths:
       summary: |
         Obtains params config related to the dataset
       description: |
-        Obtains the list of params that are optionals to query or filter the dataset, for now only available for `carriers`
+        Obtains the list of params that are optionals to query or filter the dataset
       produces:
         - application/json
       parameters:
@@ -388,8 +388,6 @@ paths:
             Name of the dataset to query information about
           required: true
           type: string
-          enum:
-            - carriers
       responses:
         '200':
           description: |
