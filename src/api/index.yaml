@@ -61,6 +61,7 @@ definitions:
       - supportedEventTypes
       - startDate
       - endDate
+      - portsDataset
     properties:
       id:
         type: string
@@ -117,6 +118,10 @@ definitions:
           null if this dataset contains unbounded data, meaning that data is
           available up to the current date.
         format: date-time
+      portsDataset:
+        type: string
+        description: |
+          Name of the ports dataset generated for this dataset. Saved in storage
 
   FlagState:
     type: object
