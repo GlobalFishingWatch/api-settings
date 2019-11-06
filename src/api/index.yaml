@@ -61,6 +61,7 @@ definitions:
       - supportedEventTypes
       - startDate
       - endDate
+      - portsGCSPath
     properties:
       id:
         type: string
@@ -117,6 +118,10 @@ definitions:
           null if this dataset contains unbounded data, meaning that data is
           available up to the current date.
         format: date-time
+      portsGCSPath:
+        type: string
+        description: |
+          Path for the ports dataset generated save in the google cloud storage
 
   FlagState:
     type: object
