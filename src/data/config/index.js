@@ -5,7 +5,7 @@ const portsData = require("./ports");
 module.exports = {
   async get(dataset) {
     const [ports, rfmos, flagStates, flagStateGroups] = await Promise.all([
-      portsData.get(dataset.portsDataset),
+      portsData.get(dataset.portsGCSPath),
       rfmosData.get(),
       flagsData.get(),
       flagsData.getGroups()

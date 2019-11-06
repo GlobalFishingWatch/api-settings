@@ -3,11 +3,10 @@ const storage = require("../../google/storage");
 const BUCKET = 'world-fishing-827'
 
 module.exports = {
-  async get(portsDataset) {
-    console.log('TCL: BUCKET', BUCKET)
+  async get(portsGCSPath) {
     try {
       const bucket = storage.bucket(BUCKET);
-      const file = bucket.file('pelagos/data/ports/' + portsDataset + '.json');
+      const file = bucket.file(portsGCSPath);
       const buffer = await file.download();
       const ports = JSON.parse(buffer.toString())
       return ports
