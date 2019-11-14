@@ -261,9 +261,19 @@ definitions:
                   type: number
               example: [[86.1509, -98.0859], [-82.9834, 68.2031]]
       ports:
-        type: array
-        items:
-          $ref: '#/definitions/Port'
+        type: object
+        required:
+          - encounter
+          - loitering
+        properties:
+          encounter:
+            type: array
+            items:
+              $ref: '#/definitions/Port'
+          loitering:
+            type: array
+            items:
+              $ref: '#/definitions/Port'
       flagStates:
         type: array
         items:

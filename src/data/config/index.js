@@ -4,12 +4,13 @@ const portsData = require("./ports");
 
 module.exports = {
   async get(dataset) {
-    const [ports, rfmos, flagStates, flagStateGroups] = await Promise.all([
+    const [encounter, loitering, rfmos, flagStates, flagStateGroups] = await Promise.all([
       portsData.get(dataset.portsGCSPath),
+      portsData.get(dataset.portsLoiteringGCSPath),
       rfmosData.get(),
       flagsData.get(),
       flagsData.getGroups()
     ]);
-    return { ports, rfmos, flagStates, flagStateGroups };
+    return { ports: { encounter, loitering }, rfmos, flagStates, flagStateGroups };
   }
 };
