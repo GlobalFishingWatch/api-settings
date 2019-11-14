@@ -61,7 +61,7 @@ definitions:
       - supportedEventTypes
       - startDate
       - endDate
-      - portsGCSPath
+      - externalResources
     properties:
       id:
         type: string
@@ -118,10 +118,11 @@ definitions:
           null if this dataset contains unbounded data, meaning that data is
           available up to the current date.
         format: date-time
-      portsGCSPath:
-        type: string
+      externalResources:
+        type: object
         description: |
-          Path for the ports dataset generated save in the google cloud storage
+          Any external source or config that the dataset could need, normally
+          used for platform specific needs
 
   FlagState:
     type: object
@@ -261,9 +262,19 @@ definitions:
                   type: number
               example: [[86.1509, -98.0859], [-82.9834, 68.2031]]
       ports:
-        type: array
-        items:
-          $ref: '#/definitions/Port'
+        type: object
+        required:
+          - encounter
+          - loitering
+        properties:
+          encounter:
+            type: array
+            items:
+              $ref: '#/definitions/Port'
+          loitering:
+            type: array
+            items:
+              $ref: '#/definitions/Port'
       flagStates:
         type: array
         items:

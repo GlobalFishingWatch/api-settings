@@ -1,14 +1,10 @@
 const log = require("../log");
-const storage = require("../../google/storage");
-const BUCKET = 'world-fishing-827'
+const request = require('request-promise-native');
 
 module.exports = {
   async get(portsGCSPath) {
     try {
-      const bucket = storage.bucket(BUCKET);
-      const file = bucket.file(portsGCSPath);
-      const buffer = await file.download();
-      const ports = JSON.parse(buffer.toString())
+      const ports = await request.get({ uri: portsGCSPath, json: true })
       return ports
     } catch(e) {
       log.error(`Error fetching ports dataset: ${error}`);
