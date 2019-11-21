@@ -140,6 +140,14 @@ module.exports = greenpeace.sanitizeEnvironment(environments, {
   },
 
   gcloud: {
+    storage: {
+      projectId: greenpeace.entry({
+        key: "GCLOUD_DATASTORE_PROJECTID",
+        doc: "Google cloud platform project id for the storage service.",
+        defaults: { development: "world-fishing-827" },
+        required: true
+      })
+    },
     datastore: {
       projectId: greenpeace.entry({
         key: "GCLOUD_DATASTORE_PROJECTID",

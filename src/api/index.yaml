@@ -59,6 +59,9 @@ definitions:
       - vesselsTable
       - vesselIndex
       - supportedEventTypes
+      - startDate
+      - endDate
+      - externalResources
     properties:
       id:
         type: string
@@ -67,7 +70,8 @@ definitions:
       canonicalName:
         type: string
         description: |
-          Canonical name for this dataset. You can store a reference to the canonical name and use it as an id to always access the same dataset
+          Canonical name for this dataset. You can store a reference to the
+          canonical name and use it as an id to always access the same dataset
       pipeline:
         type: string
         description: |
@@ -75,25 +79,50 @@ definitions:
       eventsTable:
         type: string
         description: |
-          Table in the central api database which contains the indexed events of this dataset.
+          Table in the central api database which contains the indexed events
+          of this dataset.
       tracksTable:
         type: string
         description: |
-          Table in the PostGIS api database which contains the indexed vessel tracks for this dataset.
+          Table in the PostGIS api database which contains the indexed vessel
+          tracks for this dataset.
       vesselsTable:
         type: string
         description: |
-          Table in the PostGIS api database which contains the segment to vessel mapping for this dataset.
+          Table in the PostGIS api database which contains the segment to
+          vessel mapping for this dataset.
       vesselIndex:
         type: string
         description: |
-          Index in the ElasticSearch server which contains the vessel information index for this dataset.
+          Index in the ElasticSearch server which contains the vessel
+          information index for this dataset.
       supportedEventTypes:
         type: array
         description: |
           List of event types supported by this dataset.
         items:
           type: string
+      startDate:
+        type: string
+        description: |
+          Starting date for the data in this dataset. No data earlier than this
+          value should be requested in any endpoint for this dataset. May be
+          null if this dataset contains unbounded data, meaning that any start
+          date filter is valid.
+        format: date-time
+      endDate:
+        type: string
+        description: |
+          Ending date for the data in this dataset. No data later than this
+          value should be requested in any endpoint for this dataset. may be
+          null if this dataset contains unbounded data, meaning that data is
+          available up to the current date.
+        format: date-time
+      externalResources:
+        type: object
+        description: |
+          Any external source or config that the dataset could need, normally
+          used for platform specific needs
 
   FlagState:
     type: object
@@ -233,9 +262,19 @@ definitions:
                   type: number
               example: [[86.1509, -98.0859], [-82.9834, 68.2031]]
       ports:
-        type: array
-        items:
-          $ref: '#/definitions/Port'
+        type: object
+        required:
+          - encounter
+          - loitering
+        properties:
+          encounter:
+            type: array
+            items:
+              $ref: '#/definitions/Port'
+          loitering:
+            type: array
+            items:
+              $ref: '#/definitions/Port'
       flagStates:
         type: array
         items:
