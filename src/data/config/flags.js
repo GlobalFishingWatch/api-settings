@@ -997,7 +997,7 @@ module.exports = {
       },
       {
         id: "TWN",
-        label: "Taiwan, Province of China",
+        label: "Taiwan‚ Province of China",
         alias: ["Taipei", "Chinese Taipei"]
       },
       {
