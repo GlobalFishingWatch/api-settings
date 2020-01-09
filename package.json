@@ -25,17 +25,21 @@
   "dependencies": {
     "@google-cloud/datastore": "^3.1.0",
     "@google-cloud/storage": "^4.0.0",
-    "compression": "^1.7.4",
-    "cors": "^2.8.5",
-    "express": "^4.16.4",
-    "helmet": "^3.18.0",
+    "@hapi/joi": "16.1.8",
+    "@koa/cors": "^3.0.0",
+    "auth-middleware": "git://github.com/GlobalFishingWatch/auth-middleware.git#develop",
     "nodemon": "^1.18.6",
     "per-env": "^1.0.2",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8",
     "swagger-tools": "^0.10.1",
     "winston": "^3.0.0",
-    "yamljs": "^0.3.0"
+    "yamljs": "^0.3.0",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-helmet": "^5.2.0",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^7.4.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",

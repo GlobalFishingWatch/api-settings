@@ -1,6 +1,6 @@
-const datastore = require("../google/datastore");
+const datastore = require('../db/datastore');
 
-const datasetKind = "Dataset";
+const datasetKind = 'Dataset';
 
 const datastoreEntityToDataset = entity => {
   const key = entity[datastore.KEY];
@@ -12,13 +12,13 @@ const datastoreEntityToDataset = entity => {
 
 module.exports = {
   fullyQualifiedId(id) {
-    const parts = id.split(":");
+    const parts = id.split(':');
 
     if (parts.length === 1) {
-      parts.push("latest");
+      parts.push('latest');
     }
 
-    return parts.join(":");
+    return parts.join(':');
   },
 
   list() {

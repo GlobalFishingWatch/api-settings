@@ -1,36 +1,33 @@
-const express = require("express");
-const helmet = require("helmet");
-const compression = require("compression");
-const log = require("./data/log");
-const swagger = require("./middleware/swagger");
-const cors = require("./middleware/cors");
-const logMiddleware = require("./middleware/log");
-const errors = require("./middleware/errors");
-const config = require("./config");
-const routes = require("./routes");
+const Koa = require('koa');
+const Body = require('koa-body');
+const Logger = require('koa-logger');
+const Helmet = require('koa-helmet');
+const Cors = require('@koa/cors');
+const { koa } = require('auth-middleware');
 
-const start = async () => {
-  try {
-    const swaggerMiddleware = await swagger;
-    const app = express();
+const config = require('./config');
+const log = require('./log');
+const logMiddleware = require('./middleware/log.middleware');
+const errors = require('./middleware/errors.middleware');
 
-    app.enable("trust proxy");
-    app.use(helmet());
-    app.use(logMiddleware.logger());
-    app.use(compression());
-    app.use(cors.simple());
-    app.use(swaggerMiddleware.swaggerMetadata());
-    app.use(swaggerMiddleware.swaggerValidator());
-    routes.forEach(registerRoute => registerRoute(app));
-    app.use(logMiddleware.errorLogger());
-    app.use(errors.handleErrors());
+const datasetRouter = require('./route/dataset.route');
+const platformRouter = require('./route/platform.route');
 
-    app.listen(config.server.port, () => {
-      log.info(`Listening on http://localhost:${config.server.port}`);
-    });
-  } catch (error) {
-    log.error(`Initialization error: ${error}`);
-  }
-};
+const app = new Koa();
+if (process.env.ENV === 'dev') {
+  app.use(Logger());
+}
 
-start();
+app.use(Cors());
+app.use(Body());
+app.use(Helmet());
+app.use(errors.handleErrors);
+app.use(logMiddleware.logger());
+app.use(koa.health());
+
+app.use(datasetRouter.routes()).use(datasetRouter.allowedMethods());
+app.use(platformRouter.routes()).use(platformRouter.allowedMethods());
+
+app.listen(config.server.port, () => {
+  log.info(`Listening on http://localhost:${config.server.port}`);
+});

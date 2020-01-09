@@ -20,6 +20,8 @@ RUN npm --unsafe-perm install --only production
 # Setup the application code
 COPY src /opt/project/src
 
+RUN npm update auth-middleware
+
 ################################################################################
 # Development environment
 ################################################################################
