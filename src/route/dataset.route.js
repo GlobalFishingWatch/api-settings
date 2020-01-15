@@ -1,6 +1,7 @@
 const {
   koa,
-  errors: { NotFoundException }
+  errors: { NotFoundException },
+  utils: { checkExistPermissionInList },
 } = require('auth-middleware');
 const Router = require('koa-router');
 const datasets = require('../service/datasets');
@@ -18,13 +19,25 @@ class DatasetRouter {
         log.debug(`Requesting unexisting dataset in ${ids}`);
         throw new NotFoundException(`Requesting unexisting dataset in ${ids}`);
       }
-      ctx.body = results;
+      ctx.body = results.filter(dataset =>
+        checkExistPermissionInList(ctx.state.permissions, {
+          action: 'read',
+          type: 'dataset',
+          value: dataset.id,
+        }),
+      );
       return;
     }
 
     log.debug('Requesting all datasets');
     const results = await datasets.list();
-    ctx.body = results;
+    ctx.body = results.filter(dataset =>
+      checkExistPermissionInList(ctx.state.permissions, {
+        action: 'read',
+        type: 'dataset',
+        value: dataset.id,
+      }),
+    );
   }
 
   static async getDatasetById(ctx) {
@@ -56,14 +69,26 @@ class DatasetRouter {
 }
 
 const router = new Router({
-  prefix: '/datasets'
+  prefix: '/datasets',
 });
 router.use(koa.obtainUser(true));
 
-router.get('/', DatasetRouter.getAllDatasets);
+router.get('/', koa.obtainPermissions(), DatasetRouter.getAllDatasets);
 
-router.get('/:dataset', DatasetRouter.getDatasetById);
+router.get(
+  '/:dataset',
+  koa.checkPermissionsWithRequestParams([
+    { action: 'read', type: 'dataset', valueParam: 'dataset' },
+  ]),
+  DatasetRouter.getDatasetById,
+);
 
-router.get('/:dataset/config', DatasetRouter.getConfigOfDataset);
+router.get(
+  '/:dataset/config',
+  koa.checkPermissionsWithRequestParams([
+    { action: 'read', type: 'dataset', valueParam: 'dataset' },
+  ]),
+  DatasetRouter.getConfigOfDataset,
+);
 
 module.exports = router;

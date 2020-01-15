@@ -64,5 +64,17 @@
   },
   "eslintIgnore": [
     "src/data/config/*.js"
-  ]
+  ],
+  "prettier": {
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true,
+    "object-curly-newline": [
+      "error",
+      {
+        "multiline": true
+      }
+    ]
+  }
 }
