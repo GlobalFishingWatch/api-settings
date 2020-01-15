@@ -5,6 +5,7 @@ const Helmet = require('koa-helmet');
 const Cors = require('@koa/cors');
 const compress = require('koa-compress');
 const { koa } = require('auth-middleware');
+const zlib = require('zlib');
 
 const config = require('./config');
 const log = require('./log');
@@ -25,8 +26,8 @@ app.use(Helmet());
 app.use(
   compress({
     threshold: 2048,
-    flush: require('zlib').Z_SYNC_FLUSH
-  })
+    flush: zlib.Z_SYNC_FLUSH,
+  }),
 );
 app.use(errors.handleErrors);
 app.use(logMiddleware.logger());

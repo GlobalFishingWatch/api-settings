@@ -1,5 +1,5 @@
 const {
-  errors: { HttpException, UnprocessableEntityException }
+  errors: { HttpException, UnprocessableEntityException },
 } = require('auth-middleware');
 
 const swaggerError2ValidationError = errors => ({
@@ -8,12 +8,12 @@ const swaggerError2ValidationError = errors => ({
     errors: [
       {
         code: 422,
-        message: `${error.message}`
-      }
-    ]
+        message: `${error.message}`,
+      },
+    ],
   })),
 
-  general: []
+  general: [],
 });
 
 async function handleErrors(ctx, next) {
@@ -38,5 +38,5 @@ async function handleErrors(ctx, next) {
 }
 
 module.exports = {
-  handleErrors
+  handleErrors,
 };

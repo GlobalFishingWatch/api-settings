@@ -9,7 +9,7 @@ class PlatformRouter {
 }
 
 const router = new Router({
-  prefix: '/platform'
+  prefix: '/platform',
 });
 router.use(koa.obtainUser(true));
 

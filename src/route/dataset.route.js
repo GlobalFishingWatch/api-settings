@@ -50,7 +50,6 @@ class DatasetRouter {
       throw new NotFoundException(`Dataset ${id} does not exist`);
     }
     ctx.body = result;
-    return;
   }
 
   static async getConfigOfDataset(ctx) {

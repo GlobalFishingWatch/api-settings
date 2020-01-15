@@ -14,13 +14,13 @@ module.exports = {
           requestUrl: url.format({
             protocol: ctx.protocol,
             host: ctx.hostname,
-            pathname: ctx.originalUrl
+            pathname: ctx.originalUrl,
           }),
           requestSize: ctx.socket.bytesRead,
           status: ctx.status,
           userAgent: ctx.get('user-agent'),
           remoteIp: ctx.ip,
-          latency: `${latency}s`
+          latency: `${latency}s`,
         };
 
         log.info(`HTTP ${ctx.method} ${ctx.originalUrl}`, { httpRequest });
@@ -32,5 +32,5 @@ module.exports = {
         throw err;
       }
     };
-  }
+  },
 };
