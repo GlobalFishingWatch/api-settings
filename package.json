@@ -18,7 +18,7 @@
     "start:production": "node src/index.js",
     "start:development": "nodemon --inspect=0.0.0.0 -e js,yaml src/index.js",
     "test:run": "NODE_ENV=test mocha --recursive spec --extension spec.js",
-    "test:lint": "eslint src spec",
+    "test:lint": "eslint src spec --fix",
     "test": "npm run test:lint",
     "test:watch": "NODE_ENV=test mocha --watch --reporter min --recursive spec --extension spec.js"
   },
