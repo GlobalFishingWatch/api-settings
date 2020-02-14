@@ -4,8 +4,8 @@ module.exports = {
     // SELECT mrgid as id, geoname as name, ST_Extent(the_geom) as bbox FROM eez GROUP BY id, name
     return [
       {
-        id: 3293,
-        label: 'Belgian Exclusive Economic Zone',
+        id: '3293',
+        label: 'Belgian EEZ',
         bounds: [
           2.23833333345576,
           51.0893143413842,
@@ -14,8 +14,8 @@ module.exports = {
         ]
       },
       {
-        id: 5668,
-        label: 'Dutch Exclusive Economic Zone',
+        id: '5668',
+        label: 'Dutch EEZ',
         bounds: [
           2.53933305536958,
           51.0397591587585,
@@ -24,8 +24,8 @@ module.exports = {
         ]
       },
       {
-        id: 5669,
-        label: 'German Exclusive Economic Zone',
+        id: '5669',
+        label: 'German EEZ',
         bounds: [
           3.3499999998005,
           52.8711222407994,
@@ -34,8 +34,8 @@ module.exports = {
         ]
       },
       {
-        id: 5670,
-        label: 'Albanian Exclusive Economic Zone',
+        id: '5670',
+        label: 'Albanian EEZ',
         bounds: [
           18.3214930670517,
           39.6403940435504,
@@ -44,8 +44,8 @@ module.exports = {
         ]
       },
       {
-        id: 5672,
-        label: 'Bulgarian Exclusive Economic Zone',
+        id: '5672',
+        label: 'Bulgarian EEZ',
         bounds: [
           27.4437121157218,
           41.9781944444446,
@@ -54,8 +54,8 @@ module.exports = {
         ]
       },
       {
-        id: 5673,
-        label: 'Croatian Exclusive Economic Zone',
+        id: '5673',
+        label: 'Croatian EEZ',
         bounds: [
           13.0083333332171,
           41.629702201196,
@@ -64,8 +64,8 @@ module.exports = {
         ]
       },
       {
-        id: 5674,
-        label: 'Danish Exclusive Economic Zone',
+        id: '5674',
+        label: 'Danish EEZ',
         bounds: [
           3.24999999990058,
           54.3648333333335,
@@ -74,8 +74,8 @@ module.exports = {
         ]
       },
       {
-        id: 5675,
-        label: 'Estonian Exclusive Economic Zone',
+        id: '5675',
+        label: 'Estonian EEZ',
         bounds: [
           20.3713333334669,
           57.5863833333334,
@@ -84,8 +84,8 @@ module.exports = {
         ]
       },
       {
-        id: 5676,
-        label: 'Finnish Exclusive Economic Zone',
+        id: '5676',
+        label: 'Finnish EEZ',
         bounds: [
           19.0832000001802,
           58.844500000275,
@@ -94,8 +94,8 @@ module.exports = {
         ]
       },
       {
-        id: 5677,
-        label: 'French Exclusive Economic Zone',
+        id: '5677',
+        label: 'French EEZ',
         bounds: [
           -9.87728333365868,
           41.2433333332892,
@@ -104,8 +104,8 @@ module.exports = {
         ]
       },
       {
-        id: 5678,
-        label: 'Georgian Exclusive Economic Zone',
+        id: '5678',
+        label: 'Georgian EEZ',
         bounds: [
           38.9758498166159,
           41.5204916004072,
@@ -114,8 +114,8 @@ module.exports = {
         ]
       },
       {
-        id: 5679,
-        label: 'Greek Exclusive Economic Zone',
+        id: '5679',
+        label: 'Greek EEZ',
         bounds: [
           18.2616666670832,
           33.2810304221165,
@@ -124,8 +124,8 @@ module.exports = {
         ]
       },
       {
-        id: 5680,
-        label: 'Icelandic Exclusive Economic Zone',
+        id: '5680',
+        label: 'Icelandic EEZ',
         bounds: [
           -30.8679247252456,
           59.9689407654042,
@@ -134,13 +134,13 @@ module.exports = {
         ]
       },
       {
-        id: 5681,
-        label: 'Irish Exclusive Economic Zone',
+        id: '5681',
+        label: 'Irish EEZ',
         bounds: [-16.0738904300989, 48.1787077796307, -5.27233333333299, 56.7]
       },
       {
-        id: 5682,
-        label: 'Italian Exclusive Economic Zone',
+        id: '5682',
+        label: 'Italian EEZ',
         bounds: [
           5.88972222214312,
           35.0644061492247,
@@ -149,8 +149,8 @@ module.exports = {
         ]
       },
       {
-        id: 5683,
-        label: 'Latvian Exclusive Economic Zone',
+        id: '5683',
+        label: 'Latvian EEZ',
         bounds: [
           19.0975389905324,
           56.0417333333269,
@@ -159,8 +159,8 @@ module.exports = {
         ]
       },
       {
-        id: 5684,
-        label: 'Lithuanian Exclusive Economic Zone',
+        id: '5684',
+        label: 'Lithuanian EEZ',
         bounds: [
           19.0234837087066,
           55.1848775683455,
@@ -169,8 +169,8 @@ module.exports = {
         ]
       },
       {
-        id: 5685,
-        label: 'Maltese Exclusive Economic Zone',
+        id: '5685',
+        label: 'Maltese EEZ',
         bounds: [
           13.4169688673196,
           34.2132886326643,
@@ -179,13 +179,13 @@ module.exports = {
         ]
       },
       {
-        id: 5686,
-        label: 'Norwegian Exclusive Economic Zone',
+        id: '5686',
+        label: 'Norwegian EEZ',
         bounds: [-0.488763889041991, 56.0866666670332, 36.5411120539763, 74.504832]
       },
       {
-        id: 5687,
-        label: 'Polish Exclusive Economic Zone',
+        id: '5687',
+        label: 'Polish EEZ',
         bounds: [
           14.2014024221843,
           52.6535186767458,
@@ -194,8 +194,8 @@ module.exports = {
         ]
       },
       {
-        id: 5688,
-        label: 'Portuguese Exclusive Economic Zone',
+        id: '5688',
+        label: 'Portuguese EEZ',
         bounds: [
           -13.8653499219613,
           34.8775992193285,
@@ -204,8 +204,8 @@ module.exports = {
         ]
       },
       {
-        id: 5689,
-        label: 'Romanian Exclusive economic Zone',
+        id: '5689',
+        label: 'Romanian EEZ',
         bounds: [
           28.5278240445441,
           43.4398005616467,
@@ -214,8 +214,8 @@ module.exports = {
         ]
       },
       {
-        id: 5690,
-        label: 'Russian Exclusive economic Zone',
+        id: '5690',
+        label: 'Russian EEZ',
         bounds: [
           -180.000000002598,
           39.7266865929442,
@@ -224,8 +224,8 @@ module.exports = {
         ]
       },
       {
-        id: 5691,
-        label: 'Montenegrin Exclusive economic Zone',
+        id: '5691',
+        label: 'Montenegrin EEZ',
         bounds: [
           18.0182985939053,
           41.4417513849187,
@@ -234,8 +234,8 @@ module.exports = {
         ]
       },
       {
-        id: 5692,
-        label: 'Slovenian Exclusive Economic Zone',
+        id: '5692',
+        label: 'Slovenian EEZ',
         bounds: [
           13.3870066796605,
           45.4654839038593,
@@ -244,8 +244,8 @@ module.exports = {
         ]
       },
       {
-        id: 5693,
-        label: 'Spanish Exclusive Economic Zone',
+        id: '5693',
+        label: 'Spanish EEZ',
         bounds: [
           -13.8530484824014,
           35.6685912906557,
@@ -254,8 +254,8 @@ module.exports = {
         ]
       },
       {
-        id: 5694,
-        label: 'Swedish Exclusive Economic Zone',
+        id: '5694',
+        label: 'Swedish EEZ',
         bounds: [
           10.0300277776329,
           54.9624444444449,
@@ -264,8 +264,8 @@ module.exports = {
         ]
       },
       {
-        id: 5695,
-        label: 'Overlapping claim Ukrainian Exclusive Economic Zone',
+        id: '5695',
+        label: 'Overlapping claim Ukrainian EEZ',
         bounds: [
           29.6040439601607,
           43.1880555555558,
@@ -274,8 +274,8 @@ module.exports = {
         ]
       },
       {
-        id: 5696,
-        label: 'United Kingdom Exclusive Economic Zone',
+        id: '5696',
+        label: 'United Kingdom EEZ',
         bounds: [
           -14.8973416263148,
           47.4354053752581,
@@ -284,8 +284,8 @@ module.exports = {
         ]
       },
       {
-        id: 5697,
-        label: 'Turkish Exclusive Economic Zone',
+        id: '5697',
+        label: 'Turkish EEZ',
         bounds: [
           25.4417545087639,
           34.2092258769729,
@@ -294,8 +294,8 @@ module.exports = {
         ]
       },
       {
-        id: 8308,
-        label: 'Cocos Islands Exclusive Economic Zone',
+        id: '8308',
+        label: 'Cocos Islands EEZ',
         bounds: [
           93.4115861813574,
           -15.5588400041628,
@@ -304,8 +304,8 @@ module.exports = {
         ]
       },
       {
-        id: 8309,
-        label: 'Christmas Island Exclusive Economic Zone',
+        id: '8309',
+        label: 'Christmas Island EEZ',
         bounds: [
           102.149332213012,
           -13.9188228805714,
@@ -314,8 +314,8 @@ module.exports = {
         ]
       },
       {
-        id: 8310,
-        label: 'Norfolk Island Exclusive Economic Zone',
+        id: '8310',
+        label: 'Norfolk Island EEZ',
         bounds: [
           164.111166418098,
           -32.4775218120818,
@@ -324,8 +324,8 @@ module.exports = {
         ]
       },
       {
-        id: 8311,
-        label: 'Australian Exclusive Economic Zone (Macquarie Island)',
+        id: '8311',
+        label: 'Australian EEZ (Macquarie Island)',
         bounds: [
           152.86255343989,
           -58.4494699458811,
@@ -334,8 +334,8 @@ module.exports = {
         ]
       },
       {
-        id: 8312,
-        label: 'New Caledonian Exclusive Economic Zone',
+        id: '8312',
+        label: 'New Caledonian EEZ',
         bounds: [
           156.255555555545,
           -26.2014382665627,
@@ -344,8 +344,8 @@ module.exports = {
         ]
       },
       {
-        id: 8313,
-        label: 'Vanuatu Exclusive Economic Zone',
+        id: '8313',
+        label: 'Vanuatu EEZ',
         bounds: [
           163.308596536001,
           -21.6428818577114,
@@ -354,8 +354,8 @@ module.exports = {
         ]
       },
       {
-        id: 8314,
-        label: 'Solomon Islands Exclusive Economic Zone',
+        id: '8314',
+        label: 'Solomon Islands EEZ',
         bounds: [
           154.585555555556,
           -16.1269444440307,
@@ -364,8 +364,8 @@ module.exports = {
         ]
       },
       {
-        id: 8315,
-        label: 'Palau Exclusive Economic Zone',
+        id: '8315',
+        label: 'Palau EEZ',
         bounds: [
           129.508804817289,
           1.62140720617771,
@@ -374,8 +374,8 @@ module.exports = {
         ]
       },
       {
-        id: 8316,
-        label: 'Micronesian Exclusive Economic Zone',
+        id: '8316',
+        label: 'Micronesian EEZ',
         bounds: [
           135.312441837621,
           -1.1731109652986,
@@ -384,8 +384,8 @@ module.exports = {
         ]
       },
       {
-        id: 8317,
-        label: 'Nauruan Exclusive Economic Zone',
+        id: '8317',
+        label: 'Nauruan EEZ',
         bounds: [
           163.57879845198,
           -3.90730662260076,
@@ -394,8 +394,8 @@ module.exports = {
         ]
       },
       {
-        id: 8318,
-        label: 'Marshall Islands Exclusive Economic Zone',
+        id: '8318',
+        label: 'Marshall Islands EEZ',
         bounds: [
           157.460543780472,
           1.77731388900088,
@@ -404,8 +404,8 @@ module.exports = {
         ]
       },
       {
-        id: 8319,
-        label: 'Wake Island Exclusive Economic Zone',
+        id: '8319',
+        label: 'Wake Island EEZ',
         bounds: [
           163.069775622148,
           16.047093436513,
@@ -414,8 +414,8 @@ module.exports = {
         ]
       },
       {
-        id: 8321,
-        label: 'Taiwanese Exclusive Economic Zone',
+        id: '8321',
+        label: 'Taiwanese EEZ',
         bounds: [
           114.237362540359,
           17.2638753049073,
@@ -424,8 +424,8 @@ module.exports = {
         ]
       },
       {
-        id: 8322,
-        label: 'Philippines Exclusive Economic Zone',
+        id: '8322',
+        label: 'Philippines EEZ',
         bounds: [
           113.677718693658,
           3.10544949519817,
@@ -434,8 +434,8 @@ module.exports = {
         ]
       },
       {
-        id: 8323,
-        label: 'Australian Exclusive Economic Zone',
+        id: '8323',
+        label: 'Australian EEZ',
         bounds: [
           109.233480028082,
           -47.1936411708032,
@@ -444,8 +444,8 @@ module.exports = {
         ]
       },
       {
-        id: 8324,
-        label: 'Papua New Guinean Exclusive Economic Zone',
+        id: '8324',
+        label: 'Papua New Guinean EEZ',
         bounds: [
           139.201374525434,
           -14.748448665973,
@@ -454,18 +454,18 @@ module.exports = {
         ]
       },
       {
-        id: 8325,
-        label: 'Fijian Exclusive Economic Zone',
+        id: '8325',
+        label: 'Fijian EEZ',
         bounds: [-180, -25.0971098344673, 180.000000000038, -9.78332062105596]
       },
       {
-        id: 8326,
-        label: 'Tuvaluan Exclusive Economic Zone',
+        id: '8326',
+        label: 'Tuvaluan EEZ',
         bounds: [-180, -13.240386111111, 180, -3.96556388888877]
       },
       {
-        id: 8327,
-        label: 'South Korean Exclusive Economic Zone',
+        id: '8327',
+        label: 'South Korean EEZ',
         bounds: [
           122.896335189818,
           30.7700000002999,
@@ -474,8 +474,8 @@ module.exports = {
         ]
       },
       {
-        id: 8328,
-        label: 'North Korean Exclusive Economic Zone',
+        id: '8328',
+        label: 'North Korean EEZ',
         bounds: [
           123.562257461413,
           36.9668294568142,
@@ -484,8 +484,8 @@ module.exports = {
         ]
       },
       {
-        id: 8331,
-        label: 'Cambodian Exclusive Economic Zone',
+        id: '8331',
+        label: 'Cambodian EEZ',
         bounds: [
           101.302599279034,
           8.78188205539396,
@@ -494,8 +494,8 @@ module.exports = {
         ]
       },
       {
-        id: 8332,
-        label: 'Thailand Exclusive Economic Zone',
+        id: '8332',
+        label: 'Thailand EEZ',
         bounds: [
           95.5300000002001,
           5.94999999993368,
@@ -504,8 +504,8 @@ module.exports = {
         ]
       },
       {
-        id: 8333,
-        label: 'Indian Exclusive Economic Zone (Andaman and Nicobar Islands)',
+        id: '8333',
+        label: 'Indian EEZ (Andaman and Nicobar Islands)',
         bounds: [
           88.7987511463488,
           3.84065778732734,
@@ -514,8 +514,8 @@ module.exports = {
         ]
       },
       {
-        id: 8334,
-        label: 'Comoran Exclusive Economic Zone',
+        id: '8334',
+        label: 'Comoran EEZ',
         bounds: [
           41.8351774015431,
           -14.4630573974858,
@@ -524,8 +524,8 @@ module.exports = {
         ]
       },
       {
-        id: 8337,
-        label: 'Seychellois Exclusive Economic Zone',
+        id: '8337',
+        label: 'Seychellois EEZ',
         bounds: [
           43.1760691485187,
           -12.7565010071156,
@@ -534,8 +534,8 @@ module.exports = {
         ]
       },
       {
-        id: 8338,
-        label: 'Réunion Exclusive Economic Zone',
+        id: '8338',
+        label: 'Réunion EEZ',
         bounds: [
           51.8000000000002,
           -24.7368617348811,
@@ -544,8 +544,8 @@ module.exports = {
         ]
       },
       {
-        id: 8339,
-        label: 'Juan de Nova Exclusive Economic Zone',
+        id: '8339',
+        label: 'Juan de Nova EEZ',
         bounds: [
           40.9375657270772,
           -19.2517378680081,
@@ -554,8 +554,8 @@ module.exports = {
         ]
       },
       {
-        id: 8340,
-        label: 'Bassas da India Exclusive Economic Zone',
+        id: '8340',
+        label: 'Bassas da India EEZ',
         bounds: [
           37.5445545768325,
           -23.1854131338262,
@@ -564,8 +564,8 @@ module.exports = {
         ]
       },
       {
-        id: 8341,
-        label: 'Ile Europa Exclusive Economic Zone',
+        id: '8341',
+        label: 'Ile Europa EEZ',
         bounds: [
           38.0124616800285,
           -25.75094443174,
@@ -574,8 +574,8 @@ module.exports = {
         ]
       },
       {
-        id: 8343,
-        label: 'Mauritian Exclusive Economic Zone',
+        id: '8343',
+        label: 'Mauritian EEZ',
         bounds: [
           53.8039809898308,
           -23.8095575459439,
@@ -584,9 +584,9 @@ module.exports = {
         ]
       },
       {
-        id: 8344,
+        id: '8344',
         label:
-          'Overlapping claim Chagos Archipelago Exclusive Economic Zone: UK / Mauritius',
+          'Overlapping claim Chagos Archipelago EEZ: UK / Mauritius',
         bounds: [
           67.8874277774702,
           -10.7946250002435,
@@ -595,8 +595,8 @@ module.exports = {
         ]
       },
       {
-        id: 8345,
-        label: 'Maldives Exclusive Economic Zone',
+        id: '8345',
+        label: 'Maldives EEZ',
         bounds: [
           69.2059302961715,
           -3.46644558409628,
@@ -605,8 +605,8 @@ module.exports = {
         ]
       },
       {
-        id: 8346,
-        label: 'Sri Lankan Exclusive Economic Zone',
+        id: '8346',
+        label: 'Sri Lankan EEZ',
         bounds: [
           77.0233333331672,
           2.56648901165869,
@@ -615,8 +615,8 @@ module.exports = {
         ]
       },
       {
-        id: 8347,
-        label: 'Mozambican Exclusive Economic Zone',
+        id: '8347',
+        label: 'Mozambican EEZ',
         bounds: [
           32.4306230543119,
           -27.7160489038229,
@@ -625,8 +625,8 @@ module.exports = {
         ]
       },
       {
-        id: 8348,
-        label: 'Madagascan Exclusive Economic Zone',
+        id: '8348',
+        label: 'Madagascan EEZ',
         bounds: [
           40.3343714173078,
           -28.9513044968049,
@@ -635,8 +635,8 @@ module.exports = {
         ]
       },
       {
-        id: 8349,
-        label: 'Kenyan Exclusive Economic Zone',
+        id: '8349',
+        label: 'Kenyan EEZ',
         bounds: [
           39.2213044167659,
           -4.90032499999995,
@@ -645,8 +645,8 @@ module.exports = {
         ]
       },
       {
-        id: 8350,
-        label: 'Somali Exclusive Economic Zone',
+        id: '8350',
+        label: 'Somali EEZ',
         bounds: [
           41.566216416655,
           -1.65406805559621,
@@ -655,8 +655,8 @@ module.exports = {
         ]
       },
       {
-        id: 8351,
-        label: 'Eritrean Exclusive Economic Zone',
+        id: '8351',
+        label: 'Eritrean EEZ',
         bounds: [
           38.5669045452092,
           12.7106666563411,
@@ -665,8 +665,8 @@ module.exports = {
         ]
       },
       {
-        id: 8352,
-        label: 'Djiboutian Exclusive Economic Zone',
+        id: '8352',
+        label: 'Djiboutian EEZ',
         bounds: [
           42.5134620665214,
           11.4610139887048,
@@ -675,8 +675,8 @@ module.exports = {
         ]
       },
       {
-        id: 8353,
-        label: 'Yemeni Exclusive Economic Zone',
+        id: '8353',
+        label: 'Yemeni EEZ',
         bounds: [
           41.0819444441814,
           8.9527534599044,
@@ -685,8 +685,8 @@ module.exports = {
         ]
       },
       {
-        id: 8354,
-        label: 'Omani Exclusive Economic Zone',
+        id: '8354',
+        label: 'Omani EEZ',
         bounds: [
           53.109340649257,
           13.7641666666668,
@@ -695,8 +695,8 @@ module.exports = {
         ]
       },
       {
-        id: 8355,
-        label: 'Sudanese Exclusive Economic Zone',
+        id: '8355',
+        label: 'Sudanese EEZ',
         bounds: [
           36.8534996507884,
           18.0231661708822,
@@ -705,8 +705,8 @@ module.exports = {
         ]
       },
       {
-        id: 8356,
-        label: 'Saudi Arabian Exclusive Economic Zone',
+        id: '8356',
+        label: 'Saudi Arabian EEZ',
         bounds: [
           34.4558946967833,
           16.2900000001002,
@@ -715,8 +715,8 @@ module.exports = {
         ]
       },
       {
-        id: 8357,
-        label: 'Kuwaiti Exclusive Economic Zone',
+        id: '8357',
+        label: 'Kuwaiti EEZ',
         bounds: [
           47.7024409768699,
           28.5340241191182,
@@ -725,8 +725,8 @@ module.exports = {
         ]
       },
       {
-        id: 8358,
-        label: 'Bahraini Exclusive Economic Zone',
+        id: '8358',
+        label: 'Bahraini EEZ',
         bounds: [
           50.2696250000003,
           25.5350000000001,
@@ -735,8 +735,8 @@ module.exports = {
         ]
       },
       {
-        id: 8359,
-        label: 'Pakistani Exclusive Economic Zone',
+        id: '8359',
+        label: 'Pakistani EEZ',
         bounds: [
           61.4166666666337,
           20.9803399319425,
@@ -745,8 +745,8 @@ module.exports = {
         ]
       },
       {
-        id: 8360,
-        label: 'United Arab Emirates Exclusive Economic Zone',
+        id: '8360',
+        label: 'United Arab Emirates EEZ',
         bounds: [
           51.5164410493338,
           23.9590138193328,
@@ -755,8 +755,8 @@ module.exports = {
         ]
       },
       {
-        id: 8361,
-        label: 'Portuguese Exclusive Economic Zone (Azores)',
+        id: '8361',
+        label: 'Portuguese EEZ (Azores)',
         bounds: [
           -35.5855811271671,
           33.586358463972,
@@ -765,8 +765,8 @@ module.exports = {
         ]
       },
       {
-        id: 8362,
-        label: 'Cape Verdean Exclusive Economic Zone',
+        id: '8362',
+        label: 'Cape Verdean EEZ',
         bounds: [
           -28.8470930941709,
           11.4513066903516,
@@ -775,8 +775,8 @@ module.exports = {
         ]
       },
       {
-        id: 8363,
-        label: 'Portuguese Exclusive Economic Zone (Madeira)',
+        id: '8363',
+        label: 'Portuguese EEZ (Madeira)',
         bounds: [
           -21.2245004920039,
           29.2478472344624,
@@ -785,8 +785,8 @@ module.exports = {
         ]
       },
       {
-        id: 8364,
-        label: 'Spanish Exclusive Economic Zone (Canary Islands)',
+        id: '8364',
+        label: 'Spanish EEZ (Canary Islands)',
         bounds: [
           -21.9203899206582,
           24.5847383892655,
@@ -795,8 +795,8 @@ module.exports = {
         ]
       },
       {
-        id: 8365,
-        label: 'Overlapping claim Gibraltarian Exclusive Economic Zone',
+        id: '8365',
+        label: 'Overlapping claim Gibraltarian EEZ',
         bounds: [
           -5.39735163676841,
           36.010421983388,
@@ -805,8 +805,8 @@ module.exports = {
         ]
       },
       {
-        id: 8366,
-        label: 'Tunisian Exclusive Economic Zone',
+        id: '8366',
+        label: 'Tunisian EEZ',
         bounds: [
           7.81666666671137,
           33.1614651675837,
@@ -815,8 +815,8 @@ module.exports = {
         ]
       },
       {
-        id: 8367,
-        label: 'Moroccan Exclusive Economic Zone',
+        id: '8367',
+        label: 'Moroccan EEZ',
         bounds: [
           -13.6647513924821,
           27.6718941830273,
@@ -825,8 +825,8 @@ module.exports = {
         ]
       },
       {
-        id: 8368,
-        label: 'Overlapping claim Western Saharan Exclusive Economic Zone',
+        id: '8368',
+        label: 'Overlapping claim Western Saharan EEZ',
         bounds: [
           -20.6669210302812,
           19.3301154078002,
@@ -835,8 +835,8 @@ module.exports = {
         ]
       },
       {
-        id: 8369,
-        label: 'Mauritanian Exclusive Economic Zone',
+        id: '8369',
+        label: 'Mauritanian EEZ',
         bounds: [
           -20.2690123631299,
           16.063754278537,
@@ -845,8 +845,8 @@ module.exports = {
         ]
       },
       {
-        id: 8370,
-        label: 'Gambian Exclusive Economic Zone',
+        id: '8370',
+        label: 'Gambian EEZ',
         bounds: [
           -20.2373083139285,
           13.0558333330404,
@@ -855,8 +855,8 @@ module.exports = {
         ]
       },
       {
-        id: 8371,
-        label: 'Senegalese Exclusive Economic Zone',
+        id: '8371',
+        label: 'Senegalese EEZ',
         bounds: [
           -20.2142278997773,
           10.6452213523326,
@@ -865,8 +865,8 @@ module.exports = {
         ]
       },
       {
-        id: 8372,
-        label: 'Libyan Exclusive Economic Zone',
+        id: '8372',
+        label: 'Libyan EEZ',
         bounds: [
           11.5613888888864,
           30.2670495513958,
@@ -875,8 +875,8 @@ module.exports = {
         ]
       },
       {
-        id: 8373,
-        label: 'Syrian Exclusive Economic Zone',
+        id: '8373',
+        label: 'Syrian EEZ',
         bounds: [
           34.9633416731801,
           34.599250855043,
@@ -885,8 +885,8 @@ module.exports = {
         ]
       },
       {
-        id: 8374,
-        label: 'Lebanese Exclusive Economic Zone',
+        id: '8374',
+        label: 'Lebanese EEZ',
         bounds: [
           33.694652988345,
           33.0950702722754,
@@ -895,8 +895,8 @@ module.exports = {
         ]
       },
       {
-        id: 8375,
-        label: 'Israeli Exclusive Economic Zone',
+        id: '8375',
+        label: 'Israeli EEZ',
         bounds: [
           32.9722222224776,
           29.4499594367981,
@@ -905,8 +905,8 @@ module.exports = {
         ]
       },
       {
-        id: 8376,
-        label: 'Cypriote Exclusive Economic Zone',
+        id: '8376',
+        label: 'Cypriote EEZ',
         bounds: [
           29.8464799984537,
           32.8888888887114,
@@ -915,8 +915,8 @@ module.exports = {
         ]
       },
       {
-        id: 8378,
-        label: 'Algerian Exclusive Economic Zone',
+        id: '8378',
+        label: 'Algerian EEZ',
         bounds: [
           -2.21233255070641,
           35.0706684586824,
@@ -925,8 +925,8 @@ module.exports = {
         ]
       },
       {
-        id: 8379,
-        label: 'Ascension Exclusive Economic Zone',
+        id: '8379',
+        label: 'Ascension EEZ',
         bounds: [
           -17.7827906788466,
           -11.3446941093456,
@@ -935,8 +935,8 @@ module.exports = {
         ]
       },
       {
-        id: 8380,
-        label: 'St. Helena Exclusive Economic Zone',
+        id: '8380',
+        label: 'St. Helena EEZ',
         bounds: [
           -9.25338925191224,
           -19.3797130427227,
@@ -945,8 +945,8 @@ module.exports = {
         ]
       },
       {
-        id: 8381,
-        label: 'Brazilian Exclusive Economic Zone (Trindade)',
+        id: '8381',
+        label: 'Brazilian EEZ (Trindade)',
         bounds: [
           -32.8988899342228,
           -23.8776124890251,
@@ -955,8 +955,8 @@ module.exports = {
         ]
       },
       {
-        id: 8382,
-        label: 'Tristan Da Cunha Exclusive Economic Zone',
+        id: '8382',
+        label: 'Tristan Da Cunha EEZ',
         bounds: [
           -16.8872813980059,
           -43.7077415042035,
@@ -965,9 +965,9 @@ module.exports = {
         ]
       },
       {
-        id: 8383,
+        id: '8383',
         label:
-          'Overlapping claim South Georgia and South Sandwich Exclusive Economic Zone: UK / Argentina',
+          'Overlapping claim South Georgia and South Sandwich EEZ: UK / Argentina',
         bounds: [
           -44.611292564496,
           -62.7894485243178,
@@ -976,8 +976,8 @@ module.exports = {
         ]
       },
       {
-        id: 8384,
-        label: 'South African Exclusive Economic Zone (Prince Edward Islands)',
+        id: '8384',
+        label: 'South African EEZ (Prince Edward Islands)',
         bounds: [
           32.7119387604656,
           -50.3150634770977,
@@ -986,8 +986,8 @@ module.exports = {
         ]
       },
       {
-        id: 8385,
-        label: 'Crozet Islands Exclusive Economic Zone',
+        id: '8385',
+        label: 'Crozet Islands EEZ',
         bounds: [
           45.3688048314783,
           -49.8181214707292,
@@ -996,8 +996,8 @@ module.exports = {
         ]
       },
       {
-        id: 8386,
-        label: 'Amsterdam Island & St. Paul Island Exclusive Economic Zone',
+        id: '8386',
+        label: 'Amsterdam Island & St. Paul Island EEZ',
         bounds: [
           73.2414778285395,
           -42.0780701077491,
@@ -1006,8 +1006,8 @@ module.exports = {
         ]
       },
       {
-        id: 8387,
-        label: 'Kerguelen Exclusive Economic Zone',
+        id: '8387',
+        label: 'Kerguelen EEZ',
         bounds: [
           63.2977519210144,
           -53.1786296815145,
@@ -1016,8 +1016,8 @@ module.exports = {
         ]
       },
       {
-        id: 8388,
-        label: 'Heard and McDonald Islands Exclusive Economic Zone',
+        id: '8388',
+        label: 'Heard and McDonald Islands EEZ',
         bounds: [
           67.0540595640979,
           -56.5245531963729,
@@ -1026,9 +1026,9 @@ module.exports = {
         ]
       },
       {
-        id: 8389,
+        id: '8389',
         label:
-          'Overlapping claim Falkland / Malvinas Islands Exclusive Economic Zone: UK / Argentina',
+          'Overlapping claim Falkland / Malvinas Islands EEZ: UK / Argentina',
         bounds: [
           -65.0151493545588,
           -56.2278161073274,
@@ -1037,8 +1037,8 @@ module.exports = {
         ]
       },
       {
-        id: 8390,
-        label: 'Sierra Leonian Exclusive Economic Zone',
+        id: '8390',
+        label: 'Sierra Leonian EEZ',
         bounds: [
           -16.5537942137317,
           4.18725931156828,
@@ -1047,8 +1047,8 @@ module.exports = {
         ]
       },
       {
-        id: 8391,
-        label: 'Liberian Exclusive Economic Zone',
+        id: '8391',
+        label: 'Liberian EEZ',
         bounds: [
           -13.5669254214708,
           1.00106707068907,
@@ -1057,8 +1057,8 @@ module.exports = {
         ]
       },
       {
-        id: 8392,
-        label: 'Togolese Exclusive Economic Zone',
+        id: '8392',
+        label: 'Togolese EEZ',
         bounds: [
           1.1995075289496,
           2.88400611109324,
@@ -1067,8 +1067,8 @@ module.exports = {
         ]
       },
       {
-        id: 8393,
-        label: 'Beninese Exclusive Economic Zone',
+        id: '8393',
+        label: 'Beninese EEZ',
         bounds: [
           1.63199889001208,
           2.96991666622132,
@@ -1077,8 +1077,8 @@ module.exports = {
         ]
       },
       {
-        id: 8394,
-        label: 'Congolese Exclusive Economic Zone',
+        id: '8394',
+        label: 'Congolese EEZ',
         bounds: [
           8.91135333318994,
           -6.73445447909083,
@@ -1087,8 +1087,8 @@ module.exports = {
         ]
       },
       {
-        id: 8395,
-        label: 'Namibian Exclusive Economic Zone',
+        id: '8395',
+        label: 'Namibian EEZ',
         bounds: [
           8.24328769836887,
           -30.6581384821052,
@@ -1097,8 +1097,8 @@ module.exports = {
         ]
       },
       {
-        id: 8396,
-        label: 'South African Exclusive Economic Zone',
+        id: '8396',
+        label: 'South African EEZ',
         bounds: [
           13.348024994758,
           -38.175217499288,
@@ -1107,8 +1107,8 @@ module.exports = {
         ]
       },
       {
-        id: 8397,
-        label: 'Sao Tome and Principe Exclusive Economic Zone',
+        id: '8397',
+        label: 'Sao Tome and Principe EEZ',
         bounds: [
           3.20263912349697,
           -1.48152096312182,
@@ -1117,8 +1117,8 @@ module.exports = {
         ]
       },
       {
-        id: 8398,
-        label: 'Equatorial Guinean Exclusive Economic Zone',
+        id: '8398',
+        label: 'Equatorial Guinean EEZ',
         bounds: [
           2.28586355495932,
           -4.82015829397002,
@@ -1127,8 +1127,8 @@ module.exports = {
         ]
       },
       {
-        id: 8399,
-        label: 'Bouvet Exclusive Economic Zone',
+        id: '8399',
+        label: 'Bouvet EEZ',
         bounds: [
           -2.42977547875518,
           -57.7848383399174,
@@ -1137,8 +1137,8 @@ module.exports = {
         ]
       },
       {
-        id: 8400,
-        label: 'Ghanaian Exclusive Economic Zone',
+        id: '8400',
+        label: 'Ghanaian EEZ',
         bounds: [
           -3.78807597341347,
           1.38688066930752,
@@ -1147,8 +1147,8 @@ module.exports = {
         ]
       },
       {
-        id: 8401,
-        label: 'Clipperton Exclusive Economic Zone',
+        id: '8401',
+        label: 'Clipperton EEZ',
         bounds: [
           -112.618522884423,
           6.93649068789503,
@@ -1157,8 +1157,8 @@ module.exports = {
         ]
       },
       {
-        id: 8402,
-        label: 'Bermudian Exclusive Economic Zone',
+        id: '8402',
+        label: 'Bermudian EEZ',
         bounds: [
           -68.8227069679521,
           28.9036670251133,
@@ -1167,8 +1167,8 @@ module.exports = {
         ]
       },
       {
-        id: 8403,
-        label: 'Ecuadorian Exclusive Economic Zone (Galapagos)',
+        id: '8403',
+        label: 'Ecuadorian EEZ (Galapagos)',
         bounds: [
           -95.3388321351947,
           -4.76335368082766,
@@ -1177,8 +1177,8 @@ module.exports = {
         ]
       },
       {
-        id: 8404,
-        label: 'Bahamas Exclusive Economic Zone',
+        id: '8404',
+        label: 'Bahamas EEZ',
         bounds: [
           -81.2314780823473,
           20.3735444444289,
@@ -1187,8 +1187,8 @@ module.exports = {
         ]
       },
       {
-        id: 8405,
-        label: 'Turks and Caicos Exclusive Economic Zone',
+        id: '8405',
+        label: 'Turks and Caicos EEZ',
         bounds: [
           -72.6805115323813,
           20.5936615713055,
@@ -1197,8 +1197,8 @@ module.exports = {
         ]
       },
       {
-        id: 8406,
-        label: 'Cuban Exclusive Economic Zone',
+        id: '8406',
+        label: 'Cuban EEZ',
         bounds: [
           -86.9396578294451,
           18.8322375237429,
@@ -1207,8 +1207,8 @@ module.exports = {
         ]
       },
       {
-        id: 8407,
-        label: 'Cayman Islands Exclusive Economic Zone',
+        id: '8407',
+        label: 'Cayman Islands EEZ',
         bounds: [
           -83.5972222218279,
           17.5841666664586,
@@ -1217,8 +1217,8 @@ module.exports = {
         ]
       },
       {
-        id: 8408,
-        label: 'Haitian Exclusive Economic Zone',
+        id: '8408',
+        label: 'Haitian EEZ',
         bounds: [
           -74.9649291608519,
           14.8781559189606,
@@ -1227,8 +1227,8 @@ module.exports = {
         ]
       },
       {
-        id: 8409,
-        label: 'Dominican Republic Exclusive Economic Zone',
+        id: '8409',
+        label: 'Dominican Republic EEZ',
         bounds: [
           -73.4747484691662,
           15.0111111111112,
@@ -1237,8 +1237,8 @@ module.exports = {
         ]
       },
       {
-        id: 8411,
-        label: 'British Virgin Islands Exclusive Economic Zone',
+        id: '8411',
+        label: 'British Virgin Islands EEZ',
         bounds: [
           -65.8420654889309,
           17.964477580576,
@@ -1247,8 +1247,8 @@ module.exports = {
         ]
       },
       {
-        id: 8412,
-        label: 'Anguilla Exclusive Economic Zone',
+        id: '8412',
+        label: 'Anguilla EEZ',
         bounds: [
           -63.8990937854496,
           17.9388247114913,
@@ -1257,8 +1257,8 @@ module.exports = {
         ]
       },
       {
-        id: 8413,
-        label: 'Saint Kitts and Nevis Exclusive Economic Zone',
+        id: '8413',
+        label: 'Saint Kitts and Nevis EEZ',
         bounds: [
           -63.6249244178275,
           16.3415635864905,
@@ -1267,8 +1267,8 @@ module.exports = {
         ]
       },
       {
-        id: 8414,
-        label: 'Antigua and Barbuda Exclusive Economic Zone',
+        id: '8414',
+        label: 'Antigua and Barbuda EEZ',
         bounds: [
           -62.7509598252355,
           16.6116304393935,
@@ -1277,8 +1277,8 @@ module.exports = {
         ]
       },
       {
-        id: 8415,
-        label: 'Montserrat Exclusive Economic Zone',
+        id: '8415',
+        label: 'Montserrat EEZ',
         bounds: [
           -63.0467125244633,
           15.8419444440808,
@@ -1287,8 +1287,8 @@ module.exports = {
         ]
       },
       {
-        id: 8416,
-        label: 'Saint Lucia Exclusive Economic Zone',
+        id: '8416',
+        label: 'Saint Lucia EEZ',
         bounds: [
           -62.8640149342416,
           13.2432376303125,
@@ -1297,8 +1297,8 @@ module.exports = {
         ]
       },
       {
-        id: 8417,
-        label: 'Dominican Exclusive Economic Zone',
+        id: '8417',
+        label: 'Dominican EEZ',
         bounds: [
           -62.8138888889608,
           14.4886111114137,
@@ -1307,8 +1307,8 @@ module.exports = {
         ]
       },
       {
-        id: 8418,
-        label: 'Barbados Exclusive Economic Zone',
+        id: '8418',
+        label: 'Barbados EEZ',
         bounds: [
           -60.3815780980505,
           10.6933493182685,
@@ -1317,8 +1317,8 @@ module.exports = {
         ]
       },
       {
-        id: 8419,
-        label: 'Grenadian Exclusive Economic Zone',
+        id: '8419',
+        label: 'Grenadian EEZ',
         bounds: [
           -63.2670873458042,
           11.3668039510417,
@@ -1327,8 +1327,8 @@ module.exports = {
         ]
       },
       {
-        id: 8420,
-        label: 'Trinidad and Tobago Exclusive Economic Zone',
+        id: '8420',
+        label: 'Trinidad and Tobago EEZ',
         bounds: [
           -62.083055555769,
           9.83194444458069,
@@ -1337,8 +1337,8 @@ module.exports = {
         ]
       },
       {
-        id: 8421,
-        label: 'Saint Vincent and the Grenadines Exclusive Economic Zone',
+        id: '8421',
+        label: 'Saint Vincent and the Grenadines EEZ',
         bounds: [
           -63.369079340339,
           12.0620330066181,
@@ -1347,8 +1347,8 @@ module.exports = {
         ]
       },
       {
-        id: 8423,
-        label: 'Panamanian Exclusive Economic Zone',
+        id: '8423',
+        label: 'Panamanian EEZ',
         bounds: [
           -84.3166666665334,
           5.00000000000023,
@@ -1357,8 +1357,8 @@ module.exports = {
         ]
       },
       {
-        id: 8424,
-        label: 'Costa Rican Exclusive Economic Zone',
+        id: '8424',
+        label: 'Costa Rican EEZ',
         bounds: [
           -90.4395670268964,
           2.147619162095,
@@ -1367,8 +1367,8 @@ module.exports = {
         ]
       },
       {
-        id: 8425,
-        label: 'Nicaraguan Exclusive Economic Zone',
+        id: '8425',
+        label: 'Nicaraguan EEZ',
         bounds: [
           -89.424199883218,
           9.72309784276371,
@@ -1377,8 +1377,8 @@ module.exports = {
         ]
       },
       {
-        id: 8426,
-        label: 'Colombian Exclusive Economic Zone',
+        id: '8426',
+        label: 'Colombian EEZ',
         bounds: [
           -84.809802151148,
           1.37680935866535,
@@ -1387,8 +1387,8 @@ module.exports = {
         ]
       },
       {
-        id: 8427,
-        label: 'Honduran Exclusive Economic Zone',
+        id: '8427',
+        label: 'Honduran EEZ',
         bounds: [
           -88.2377966645842,
           12.9839884498073,
@@ -1397,8 +1397,8 @@ module.exports = {
         ]
       },
       {
-        id: 8428,
-        label: 'El Salvador Exclusive Economic Zone',
+        id: '8428',
+        label: 'El Salvador EEZ',
         bounds: [
           -91.4401024038835,
           9.9448777467108,
@@ -1407,8 +1407,8 @@ module.exports = {
         ]
       },
       {
-        id: 8429,
-        label: 'Mexican Exclusive Economic Zone',
+        id: '8429',
+        label: 'Mexican EEZ',
         bounds: [
           -122.179103878441,
           11.8732868281247,
@@ -1417,8 +1417,8 @@ module.exports = {
         ]
       },
       {
-        id: 8430,
-        label: 'Guatemalan Exclusive Economic Zone',
+        id: '8430',
+        label: 'Guatemalan EEZ',
         bounds: [
           -94.3088080971157,
           10.5841491941915,
@@ -1427,8 +1427,8 @@ module.exports = {
         ]
       },
       {
-        id: 8431,
-        label: 'Ecuadorian Exclusive Economic Zone',
+        id: '8431',
+        label: 'Ecuadorian EEZ',
         bounds: [
           -84.4890000000499,
           -3.44414162663463,
@@ -1437,8 +1437,8 @@ module.exports = {
         ]
       },
       {
-        id: 8432,
-        label: 'Peruvian Exclusive Economic Zone',
+        id: '8432',
+        label: 'Peruvian EEZ',
         bounds: [
           -84.6707068650556,
           -20.2081420878378,
@@ -1447,8 +1447,8 @@ module.exports = {
         ]
       },
       {
-        id: 8433,
-        label: 'Venezuelan Exclusive Economic Zone',
+        id: '8433',
+        label: 'Venezuelan EEZ',
         bounds: [
           -72.7609532831674,
           8.30483072425862,
@@ -1457,8 +1457,8 @@ module.exports = {
         ]
       },
       {
-        id: 8435,
-        label: 'Faeroe Exclusive Economic Zone',
+        id: '8435',
+        label: 'Faeroe EEZ',
         bounds: [
           -14.0008853976427,
           59.9930555555545,
@@ -1467,8 +1467,8 @@ module.exports = {
         ]
       },
       {
-        id: 8437,
-        label: 'Jan Mayen Exclusive Economic Zone',
+        id: '8437',
+        label: 'Jan Mayen EEZ',
         bounds: [
           -13.6295555558468,
           67.611868531008,
@@ -1477,8 +1477,8 @@ module.exports = {
         ]
       },
       {
-        id: 8438,
-        label: 'Greenlandic Exclusive Economic Zone',
+        id: '8438',
+        label: 'Greenlandic EEZ',
         bounds: [
           -75.0000000001997,
           56.3870698657817,
@@ -1487,8 +1487,8 @@ module.exports = {
         ]
       },
       {
-        id: 8439,
-        label: 'Pitcairn Islands Exclusive Economic Zone',
+        id: '8439',
+        label: 'Pitcairn Islands EEZ',
         bounds: [
           -133.432693484616,
           -28.4247039195501,
@@ -1497,8 +1497,8 @@ module.exports = {
         ]
       },
       {
-        id: 8440,
-        label: 'French Polynesian Exclusive Economic Zone',
+        id: '8440',
+        label: 'French Polynesian EEZ',
         bounds: [
           -158.131064039074,
           -31.2444742878579,
@@ -1507,8 +1507,8 @@ module.exports = {
         ]
       },
       {
-        id: 8441,
-        label: 'Kiribati Exclusive Economic Zone (Line Islands)',
+        id: '8441',
+        label: 'Kiribati EEZ (Line Islands)',
         bounds: [
           -163.064722222552,
           -13.8383333335163,
@@ -1517,8 +1517,8 @@ module.exports = {
         ]
       },
       {
-        id: 8442,
-        label: 'Jarvis Island Exclusive Economic Zone',
+        id: '8442',
+        label: 'Jarvis Island EEZ',
         bounds: [
           -163.345238666131,
           -3.73480883775748,
@@ -1527,8 +1527,8 @@ module.exports = {
         ]
       },
       {
-        id: 8443,
-        label: 'Palmyra Atoll Exclusive Economic Zone',
+        id: '8443',
+        label: 'Palmyra Atoll EEZ',
         bounds: [
           -165.740718971803,
           2.66115992579014,
@@ -1537,8 +1537,8 @@ module.exports = {
         ]
       },
       {
-        id: 8444,
-        label: 'American Samoa Exclusive Economic Zone',
+        id: '8444',
+        label: 'American Samoa EEZ',
         bounds: [
           -173.774690650053,
           -17.5552687528616,
@@ -1547,8 +1547,8 @@ module.exports = {
         ]
       },
       {
-        id: 8445,
-        label: 'Samoan Exclusive Economic Zone',
+        id: '8445',
+        label: 'Samoan EEZ',
         bounds: [
           -174.511394471578,
           -15.8783835918292,
@@ -1557,8 +1557,8 @@ module.exports = {
         ]
       },
       {
-        id: 8446,
-        label: 'Cook Islands Exclusive Economic Zone',
+        id: '8446',
+        label: 'Cook Islands EEZ',
         bounds: [
           -168.523591182904,
           -25.3059602376746,
@@ -1567,8 +1567,8 @@ module.exports = {
         ]
       },
       {
-        id: 8447,
-        label: 'Niue Exclusive Economic Zone',
+        id: '8447',
+        label: 'Niue EEZ',
         bounds: [
           -172.027019776241,
           -22.5036961982209,
@@ -1577,8 +1577,8 @@ module.exports = {
         ]
       },
       {
-        id: 8448,
-        label: 'Tongan Exclusive Economic Zone',
+        id: '8448',
+        label: 'Tongan EEZ',
         bounds: [
           -179.088248833087,
           -25.6960574564863,
@@ -1587,8 +1587,8 @@ module.exports = {
         ]
       },
       {
-        id: 8449,
-        label: 'Tokelau Exclusive Economic Zone',
+        id: '8449',
+        label: 'Tokelau EEZ',
         bounds: [
           -175.888131333094,
           -11.0481316641448,
@@ -1597,8 +1597,8 @@ module.exports = {
         ]
       },
       {
-        id: 8450,
-        label: 'Kiribati Exclusive Economic Zone (Phoenix Islands)',
+        id: '8450',
+        label: 'Kiribati EEZ (Phoenix Islands)',
         bounds: [
           -177.884322221793,
           -7.78488333309917,
@@ -1607,8 +1607,8 @@ module.exports = {
         ]
       },
       {
-        id: 8451,
-        label: 'Howland and Baker Islands Exclusive Economic Zone',
+        id: '8451',
+        label: 'Howland and Baker Islands EEZ',
         bounds: [
           -179.951947914,
           -3.01483055552043,
@@ -1617,28 +1617,28 @@ module.exports = {
         ]
       },
       {
-        id: 8452,
-        label: 'Johnston Atoll Exclusive Economic Zone',
+        id: '8452',
+        label: 'Johnston Atoll EEZ',
         bounds: [-173.032890418, 13.358221665, -165.9845179, 20.1321194380001]
       },
       {
-        id: 8453,
-        label: 'United States Exclusive Economic Zone (Hawaii)',
+        id: '8453',
+        label: 'United States EEZ (Hawaii)',
         bounds: [-180, 15.56312417, 180, 31.7978661719999]
       },
       {
-        id: 8454,
-        label: 'Wallis and Futuna Exclusive Economic Zone',
+        id: '8454',
+        label: 'Wallis and Futuna EEZ',
         bounds: [-180, -15.9193064582264, 180, -9.8296408277666]
       },
       {
-        id: 8455,
-        label: 'New Zealand Exclusive Economic Zone',
+        id: '8455',
+        label: 'New Zealand EEZ',
         bounds: [-180, -55.949295362, 180, -25.8882586939999]
       },
       {
-        id: 8456,
-        label: 'United States Exclusive Economic Zone',
+        id: '8456',
+        label: 'United States EEZ',
         bounds: [
           -129.234826650591,
           23.8333333331674,
@@ -1647,8 +1647,8 @@ module.exports = {
         ]
       },
       {
-        id: 8457,
-        label: 'Belizean Exclusive Economic Zone',
+        id: '8457',
+        label: 'Belizean EEZ',
         bounds: [
           -88.945369839746,
           15.8874561021176,
@@ -1657,8 +1657,8 @@ module.exports = {
         ]
       },
       {
-        id: 8459,
-        label: 'Jamaican Exclusive Economic Zone',
+        id: '8459',
+        label: 'Jamaican EEZ',
         bounds: [
           -80.8330555551696,
           14.0833333337664,
@@ -1667,8 +1667,8 @@ module.exports = {
         ]
       },
       {
-        id: 8460,
-        label: 'Guyanese Exclusive Economic Zone',
+        id: '8460',
+        label: 'Guyanese EEZ',
         bounds: [
           -59.8448919900729,
           5.99614622766484,
@@ -1677,8 +1677,8 @@ module.exports = {
         ]
       },
       {
-        id: 8461,
-        label: 'Surinamese Exclusive Economic Zone',
+        id: '8461',
+        label: 'Surinamese EEZ',
         bounds: [
           -57.3407429458301,
           5.09765624963643,
@@ -1687,8 +1687,8 @@ module.exports = {
         ]
       },
       {
-        id: 8462,
-        label: 'French Guiana Exclusive Economic Zone',
+        id: '8462',
+        label: 'French Guiana EEZ',
         bounds: [
           -54.3886945245325,
           3.85019302378919,
@@ -1697,13 +1697,13 @@ module.exports = {
         ]
       },
       {
-        id: 8463,
-        label: 'United States Exclusive Economic Zone (Alaska)',
+        id: '8463',
+        label: 'United States EEZ (Alaska)',
         bounds: [-180, 47.8764414340004, 180.000000000001, 74.7088400040004]
       },
       {
-        id: 8464,
-        label: 'Brazilian Exclusive Economic Zone',
+        id: '8464',
+        label: 'Brazilian EEZ',
         bounds: [
           -54.5832126139707,
           -35.7877868848412,
@@ -1712,8 +1712,8 @@ module.exports = {
         ]
       },
       {
-        id: 8465,
-        label: 'Chilean Exclusive Economic Zone',
+        id: '8465',
+        label: 'Chilean EEZ',
         bounds: [
           -84.8413699638522,
           -59.8526818384957,
@@ -1722,8 +1722,8 @@ module.exports = {
         ]
       },
       {
-        id: 8466,
-        label: 'Argentinean Exclusive Economic Zone',
+        id: '8466',
+        label: 'Argentinean EEZ',
         bounds: [
           -69.6008367537131,
           -58.3919172146076,
@@ -1732,8 +1732,8 @@ module.exports = {
         ]
       },
       {
-        id: 8467,
-        label: 'Uruguayan Exclusive Economic Zone',
+        id: '8467',
+        label: 'Uruguayan EEZ',
         bounds: [
           -58.4943505820135,
           -37.8599110422606,
@@ -1742,8 +1742,8 @@ module.exports = {
         ]
       },
       {
-        id: 8468,
-        label: 'Qatari Exclusive Economic Zone',
+        id: '8468',
+        label: 'Qatari EEZ',
         bounds: [
           50.5645263746931,
           24.506384968592,
@@ -1752,8 +1752,8 @@ module.exports = {
         ]
       },
       {
-        id: 8469,
-        label: 'Iranian Exclusive Economic Zone',
+        id: '8469',
+        label: 'Iranian EEZ',
         bounds: [
           48.1021678168915,
           23.3466666666336,
@@ -1762,8 +1762,8 @@ module.exports = {
         ]
       },
       {
-        id: 8470,
-        label: 'Iraqi Exclusive Economic Zone',
+        id: '8470',
+        label: 'Iraqi EEZ',
         bounds: [
           47.834923148085,
           29.478132852749,
@@ -1772,8 +1772,8 @@ module.exports = {
         ]
       },
       {
-        id: 8471,
-        label: 'Guinea Bissau Exclusive Economic Zone',
+        id: '8471',
+        label: 'Guinea Bissau EEZ',
         bounds: [
           -19.8041683333095,
           8.63918329157582,
@@ -1782,8 +1782,8 @@ module.exports = {
         ]
       },
       {
-        id: 8472,
-        label: 'Guinean Exclusive Economic Zone',
+        id: '8472',
+        label: 'Guinean EEZ',
         bounds: [
           -17.9346999996143,
           7.47841011363613,
@@ -1792,8 +1792,8 @@ module.exports = {
         ]
       },
       {
-        id: 8473,
-        label: 'Ivory Coast Exclusive Economic Zone',
+        id: '8473',
+        label: 'Ivory Coast EEZ',
         bounds: [
           -7.5944895273696,
           1.01343446293015,
@@ -1802,8 +1802,8 @@ module.exports = {
         ]
       },
       {
-        id: 8474,
-        label: 'Nigerian Exclusive Economic Zone',
+        id: '8474',
+        label: 'Nigerian EEZ',
         bounds: [
           2.68486360786966,
           1.92166666628367,
@@ -1812,8 +1812,8 @@ module.exports = {
         ]
       },
       {
-        id: 8475,
-        label: 'Cameroonian Exclusive Economic Zone',
+        id: '8475',
+        label: 'Cameroonian EEZ',
         bounds: [
           8.32607699985368,
           2.23236525075572,
@@ -1822,8 +1822,8 @@ module.exports = {
         ]
       },
       {
-        id: 8476,
-        label: 'Gabonese Exclusive Economic Zone',
+        id: '8476',
+        label: 'Gabonese EEZ',
         bounds: [
           6.92244599528667,
           -6.44726385004648,
@@ -1832,8 +1832,8 @@ module.exports = {
         ]
       },
       {
-        id: 8477,
-        label: 'Democratic Republic of the Congo Exclusive Economic Zone',
+        id: '8477',
+        label: 'Democratic Republic of the Congo EEZ',
         bounds: [
           9.0073242641038,
           -7.06505067265037,
@@ -1842,8 +1842,8 @@ module.exports = {
         ]
       },
       {
-        id: 8478,
-        label: 'Angolan Exclusive Economic Zone',
+        id: '8478',
+        label: 'Angolan EEZ',
         bounds: [
           8.1958566226852,
           -17.2721445558265,
@@ -1852,8 +1852,8 @@ module.exports = {
         ]
       },
       {
-        id: 8479,
-        label: 'Tanzanian Exclusive Economic Zone',
+        id: '8479',
+        label: 'Tanzanian EEZ',
         bounds: [
           38.5376342539184,
           -10.9098516194565,
@@ -1862,8 +1862,8 @@ module.exports = {
         ]
       },
       {
-        id: 8480,
-        label: 'Indian Exclusive Economic Zone',
+        id: '8480',
+        label: 'Indian EEZ',
         bounds: [
           65.6391495007489,
           4.7899999997003,
@@ -1872,8 +1872,8 @@ module.exports = {
         ]
       },
       {
-        id: 8481,
-        label: 'Bangladeshi Exclusive Economic Zone',
+        id: '8481',
+        label: 'Bangladeshi EEZ',
         bounds: [
           88.9267789215108,
           17.8633846000778,
@@ -1882,8 +1882,8 @@ module.exports = {
         ]
       },
       {
-        id: 8482,
-        label: 'Myanmar Exclusive Economic Zone',
+        id: '8482',
+        label: 'Myanmar EEZ',
         bounds: [
           90.1445825251641,
           9.42939011176435,
@@ -1892,8 +1892,8 @@ module.exports = {
         ]
       },
       {
-        id: 8483,
-        label: 'Malaysian Exclusive Economic Zone',
+        id: '8483',
+        label: 'Malaysian EEZ',
         bounds: [
           98.0250000001668,
           1.21230097770831,
@@ -1902,8 +1902,8 @@ module.exports = {
         ]
       },
       {
-        id: 8484,
-        label: 'Vietnamese Exclusive Economic Zone',
+        id: '8484',
+        label: 'Vietnamese EEZ',
         bounds: [
           102.203237277845,
           6.09666666693352,
@@ -1912,8 +1912,8 @@ module.exports = {
         ]
       },
       {
-        id: 8485,
-        label: 'Singaporean Exclusive Economic Zone',
+        id: '8485',
+        label: 'Singaporean EEZ',
         bounds: [
           103.547384832644,
           1.13036111107658,
@@ -1922,8 +1922,8 @@ module.exports = {
         ]
       },
       {
-        id: 8486,
-        label: 'Chinese Exclusive Economic Zone',
+        id: '8486',
+        label: 'Chinese EEZ',
         bounds: [
           107.159444444506,
           15.979308293203,
@@ -1932,8 +1932,8 @@ module.exports = {
         ]
       },
       {
-        id: 8487,
-        label: 'Japanese Exclusive Economic Zone',
+        id: '8487',
+        label: 'Japanese EEZ',
         bounds: [
           122.386387501882,
           17.065081592242,
@@ -1942,18 +1942,18 @@ module.exports = {
         ]
       },
       {
-        id: 8488,
-        label: 'Kiribati Exclusive Economic Zone (Gilbert Islands)',
+        id: '8488',
+        label: 'Kiribati EEZ (Gilbert Islands)',
         bounds: [-180, -4.36169722222212, 180, 5.61710277767469]
       },
       {
-        id: 8489,
+        id: '8489',
         label: 'Antarctic 200NM zone beyond the coastline',
         bounds: [-180, -85.5624999997748, 180, -57.188654502703]
       },
       {
-        id: 8490,
-        label: 'Egyptian Exclusive Economic Zone',
+        id: '8490',
+        label: 'Egyptian EEZ',
         bounds: [
           25.1446120341184,
           23.0930827069017,
@@ -1962,8 +1962,8 @@ module.exports = {
         ]
       },
       {
-        id: 8491,
-        label: 'Jordanian Exclusive Economic Zone',
+        id: '8491',
+        label: 'Jordanian EEZ',
         bounds: [
           34.8853521589317,
           29.3573559524155,
@@ -1972,8 +1972,8 @@ module.exports = {
         ]
       },
       {
-        id: 8492,
-        label: 'Indonesian Exclusive Economic Zone',
+        id: '8492',
+        label: 'Indonesian EEZ',
         bounds: [
           92.0506046219061,
           -13.9421388891982,
@@ -1982,8 +1982,8 @@ module.exports = {
         ]
       },
       {
-        id: 8493,
-        label: 'Canadian Exclusive Economic Zone',
+        id: '8493',
+        label: 'Canadian EEZ',
         bounds: [
           -141.00000000326,
           40.0511489973287,
@@ -1992,8 +1992,8 @@ module.exports = {
         ]
       },
       {
-        id: 8494,
-        label: 'Saint-Pierre and Miquelon Exclusive Economic Zone',
+        id: '8494',
+        label: 'Saint-Pierre and Miquelon EEZ',
         bounds: [
           -57.0967777776721,
           43.4161111113388,
@@ -2002,8 +2002,8 @@ module.exports = {
         ]
       },
       {
-        id: 8495,
-        label: 'Saint-Martin Exclusive Economic Zone',
+        id: '8495',
+        label: 'Saint-Martin EEZ',
         bounds: [
           -63.6340437574133,
           17.8736981507492,
@@ -2012,8 +2012,8 @@ module.exports = {
         ]
       },
       {
-        id: 8758,
-        label: 'East Timorian Exclusive Economic Zone',
+        id: '8758',
+        label: 'East Timorian EEZ',
         bounds: [
           124.94133478877,
           -11.3341388888353,
@@ -2022,8 +2022,8 @@ module.exports = {
         ]
       },
       {
-        id: 21787,
-        label: 'Chilean Exclusive Economic Zone (Easter Island)',
+        id: '21787',
+        label: 'Chilean EEZ (Easter Island)',
         bounds: [
           -113.196552235265,
           -30.5468447905411,
@@ -2032,8 +2032,8 @@ module.exports = {
         ]
       },
       {
-        id: 21788,
-        label: 'Guernsey Exclusive Economic Zone',
+        id: '21788',
+        label: 'Guernsey EEZ',
         bounds: [
           -3.67436238581465,
           49.2153181800398,
@@ -2042,8 +2042,8 @@ module.exports = {
         ]
       },
       {
-        id: 21789,
-        label: 'Jersey Exclusive Economic Zone',
+        id: '21789',
+        label: 'Jersey EEZ',
         bounds: [
           -2.55801007991602,
           48.8721666665586,
@@ -2052,8 +2052,8 @@ module.exports = {
         ]
       },
       {
-        id: 21790,
-        label: 'Monégasque Exclusive Economic Zone',
+        id: '21790',
+        label: 'Monégasque EEZ',
         bounds: [
           7.41978981790348,
           42.9463888889364,
@@ -2062,8 +2062,8 @@ module.exports = {
         ]
       },
       {
-        id: 21791,
-        label: 'Oecussi Ambeno Exclusive Economic Zone',
+        id: '21791',
+        label: 'Oecussi Ambeno EEZ',
         bounds: [
           124.031751600456,
           -9.33559024299507,
@@ -2072,7 +2072,7 @@ module.exports = {
         ]
       },
       {
-        id: 21792,
+        id: '21792',
         label: 'Joint regime area Colombia / Jamaica',
         bounds: [
           -80.0181944443179,
@@ -2082,7 +2082,7 @@ module.exports = {
         ]
       },
       {
-        id: 21795,
+        id: '21795',
         label: 'Joint regime area Australia / East Timor',
         bounds: [
           126.001223517786,
@@ -2092,7 +2092,7 @@ module.exports = {
         ]
       },
       {
-        id: 21796,
+        id: '21796',
         label: 'Joint regime area Japan / Korea',
         bounds: [
           125.92500000025,
@@ -2102,7 +2102,7 @@ module.exports = {
         ]
       },
       {
-        id: 21797,
+        id: '21797',
         label: 'Joint regime area Nigeria / Sao Tome and Principe',
         bounds: [
           3.57583333354154,
@@ -2112,13 +2112,13 @@ module.exports = {
         ]
       },
       {
-        id: 21798,
+        id: '21798',
         label: 'Protected Zone established under the Torres Strait Treaty',
         bounds: [142.059442453, -9.75517416277785, 142.851967567, -9.18795310277935]
       },
       {
-        id: 21803,
-        label: 'Sint-Maarten Exclusive Economic Zone',
+        id: '21803',
+        label: 'Sint-Maarten EEZ',
         bounds: [
           -63.2863527710633,
           17.8149491925513,
@@ -2127,8 +2127,8 @@ module.exports = {
         ]
       },
       {
-        id: 22491,
-        label: 'Bosnian and Herzegovinian Exclusive Economic Zone',
+        id: '22491',
+        label: 'Bosnian and Herzegovinian EEZ',
         bounds: [
           17.5419980870422,
           42.8834237947724,
@@ -2137,9 +2137,9 @@ module.exports = {
         ]
       },
       {
-        id: 22756,
+        id: '22756',
         label:
-          'Chilean Exclusive Economic Zone (San Felix and San Ambrosio islands)',
+          'Chilean EEZ (San Felix and San Ambrosio islands)',
         bounds: [
           -83.8278031323647,
           -29.6983584043638,
@@ -2148,8 +2148,8 @@ module.exports = {
         ]
       },
       {
-        id: 26517,
-        label: 'Curaçaoan Exclusive Economic Zone',
+        id: '26517',
+        label: 'Curaçaoan EEZ',
         bounds: [
           -69.5459957212254,
           11.6666666662338,
@@ -2158,8 +2158,8 @@ module.exports = {
         ]
       },
       {
-        id: 26518,
-        label: 'Saba Exclusive Economic Zone',
+        id: '26518',
+        label: 'Saba EEZ',
         bounds: [
           -64.0150172677326,
           16.678716050905,
@@ -2168,8 +2168,8 @@ module.exports = {
         ]
       },
       {
-        id: 26519,
-        label: 'Aruban Exclusive Economic Zone',
+        id: '26519',
+        label: 'Aruban EEZ',
         bounds: [
           -70.4166666664334,
           12.1505012309471,
@@ -2178,8 +2178,8 @@ module.exports = {
         ]
       },
       {
-        id: 26520,
-        label: 'Bonaire Exclusive Economic Zone',
+        id: '26520',
+        label: 'Bonaire EEZ',
         bounds: [
           -68.7201921813239,
           11.6666666662338,
@@ -2188,8 +2188,8 @@ module.exports = {
         ]
       },
       {
-        id: 26521,
-        label: 'Bruneian Exclusive Economic Zone',
+        id: '26521',
+        label: 'Bruneian EEZ',
         bounds: [
           111.72595735521,
           4.55212414291537,
@@ -2198,8 +2198,8 @@ module.exports = {
         ]
       },
       {
-        id: 26522,
-        label: 'Kazakh Exclusive Economic Zone',
+        id: '26522',
+        label: 'Kazakh EEZ',
         bounds: [
           49.0000000002003,
           41.2227667436904,
@@ -2208,8 +2208,8 @@ module.exports = {
         ]
       },
       {
-        id: 26523,
-        label: 'Turkmen Exclusive Economic Zone',
+        id: '26523',
+        label: 'Turkmen EEZ',
         bounds: [
           51.3765341849053,
           37.3188942923381,
@@ -2218,8 +2218,8 @@ module.exports = {
         ]
       },
       {
-        id: 26524,
-        label: 'Azerbaijanis Exclusive Economic Zone',
+        id: '26524',
+        label: 'Azerbaijanis EEZ',
         bounds: [
           48.59387135418,
           38.2852921014496,
@@ -2228,8 +2228,8 @@ module.exports = {
         ]
       },
       {
-        id: 26526,
-        label: 'Sint-Eustatius Exclusive Economic Zone',
+        id: '26526',
+        label: 'Sint-Eustatius EEZ',
         bounds: [
           -63.623050316119,
           16.6812985503878,
@@ -2238,7 +2238,7 @@ module.exports = {
         ]
       },
       {
-        id: 26582,
+        id: '26582',
         label: 'Overlapping claim: Sudan / Egypt',
         bounds: [
           35.6135107282381,
@@ -2248,7 +2248,7 @@ module.exports = {
         ]
       },
       {
-        id: 33176,
+        id: '33176',
         label: 'Overlapping claim: Kenya / Somalia',
         bounds: [
           41.5662163709227,
@@ -2258,8 +2258,8 @@ module.exports = {
         ]
       },
       {
-        id: 33177,
-        label: 'Guadeloupean Exclusive Economic Zone',
+        id: '33177',
+        label: 'Guadeloupean EEZ',
         bounds: [
           -62.8138888889608,
           15.0649999998503,
@@ -2268,8 +2268,8 @@ module.exports = {
         ]
       },
       {
-        id: 33178,
-        label: 'Martinican Exclusive Economic Zone',
+        id: '33178',
+        label: 'Martinican EEZ',
         bounds: [
           -62.8138888889608,
           14.0805555554947,
@@ -2278,8 +2278,8 @@ module.exports = {
         ]
       },
       {
-        id: 33179,
-        label: 'Puerto Rican Exclusive Economic Zone',
+        id: '33179',
+        label: 'Puerto Rican EEZ',
         bounds: [
           -68.4965172383797,
           14.9300000002998,
@@ -2288,8 +2288,8 @@ module.exports = {
         ]
       },
       {
-        id: 33180,
-        label: 'Virgin Islander Exclusive Economic Zone',
+        id: '33180',
+        label: 'Virgin Islander EEZ',
         bounds: [
           -65.9814032622506,
           15.6549141360788,
@@ -2298,8 +2298,8 @@ module.exports = {
         ]
       },
       {
-        id: 33181,
-        label: 'Svalvard Exclusive Economic Zone',
+        id: '33181',
+        label: 'Svalvard EEZ',
         bounds: [
           -3.3438750003308,
           72.1730895277447,
@@ -2308,8 +2308,8 @@ module.exports = {
         ]
       },
       {
-        id: 33183,
-        label: 'Colombian Exclusive Economic Zone (Quitasueño)',
+        id: '33183',
+        label: 'Colombian EEZ (Quitasueño)',
         bounds: [
           -80.5774573546339,
           14.0807467483933,
@@ -2318,8 +2318,8 @@ module.exports = {
         ]
       },
       {
-        id: 33184,
-        label: 'Colombian Exclusive Economic Zone (Serrana)',
+        id: '33184',
+        label: 'Colombian EEZ (Serrana)',
         bounds: [
           -81.4465156561179,
           13.9134639291688,
@@ -2328,7 +2328,7 @@ module.exports = {
         ]
       },
       {
-        id: 33185,
+        id: '33185',
         label: 'Overlapping claim: Trinidad and Tobago / Venezuela / Guyana',
         bounds: [
           -58.8199999997998,
@@ -2338,7 +2338,7 @@ module.exports = {
         ]
       },
       {
-        id: 48943,
+        id: '48943',
         label: 'Overlapping claim: Canada / USA',
         bounds: [
           -141.000000001085,
@@ -2348,7 +2348,7 @@ module.exports = {
         ]
       },
       {
-        id: 48944,
+        id: '48944',
         label: 'Overlapping claim Mayotte: France / Comoros',
         bounds: [
           43.484963946377,
@@ -2358,7 +2358,7 @@ module.exports = {
         ]
       },
       {
-        id: 48945,
+        id: '48945',
         label: 'Overlapping claim Glorioso Islands: France / Madagascar',
         bounds: [
           45.7675000000001,
@@ -2368,7 +2368,7 @@ module.exports = {
         ]
       },
       {
-        id: 48946,
+        id: '48946',
         label: 'Overlapping claim Ile Tromelin: Reunion / Mauritus',
         bounds: [
           52.3906106332744,
@@ -2378,7 +2378,7 @@ module.exports = {
         ]
       },
       {
-        id: 48947,
+        id: '48947',
         label: 'Overlapping claim: Iran / United Arab Emirates',
         bounds: [
           54.7527319788983,
@@ -2388,7 +2388,7 @@ module.exports = {
         ]
       },
       {
-        id: 48948,
+        id: '48948',
         label:
           'Overlapping claim Matthew and Hunter Islands: New Caledonia / Vanuatu',
         bounds: [
@@ -2399,7 +2399,7 @@ module.exports = {
         ]
       },
       {
-        id: 48950,
+        id: '48950',
         label: 'Overlapping claim Kuril Islands: Japan / Russia',
         bounds: [
           145.231133794889,
@@ -2409,7 +2409,7 @@ module.exports = {
         ]
       },
       {
-        id: 48951,
+        id: '48951',
         label: 'Overlapping claim Navassa Island: USA / Haiti',
         bounds: [
           -75.8324362326459,
@@ -2419,8 +2419,8 @@ module.exports = {
         ]
       },
       {
-        id: 48952,
-        label: 'Saint-Barthélemy Exclusive Economic Zone',
+        id: '48952',
+        label: 'Saint-Barthélemy EEZ',
         bounds: [
           -63.1065757264884,
           17.6417167878995,
@@ -2429,8 +2429,8 @@ module.exports = {
         ]
       },
       {
-        id: 48953,
-        label: 'Palestinian Exclusive Economic Zone',
+        id: '48953',
+        label: 'Palestinian EEZ',
         bounds: [
           34.0089688523806,
           31.3359759445117,
@@ -2439,7 +2439,7 @@ module.exports = {
         ]
       },
       {
-        id: 48954,
+        id: '48954',
         label: 'Overlapping claim Senkaku Islands: Japan / China / Taiwan',
         bounds: [
           122.610685858466,
@@ -2449,7 +2449,7 @@ module.exports = {
         ]
       },
       {
-        id: 48955,
+        id: '48955',
         label: 'Overlapping claim Liancourt Rocks: Japan / South Korea',
         bounds: [
           131.610440934961,
@@ -2459,7 +2459,7 @@ module.exports = {
         ]
       },
       {
-        id: 48956,
+        id: '48956',
         label: 'Overlapping claim Doumeira Islands: Djibouti / Eritrea',
         bounds: [
           43.1290278559509,
@@ -2469,8 +2469,8 @@ module.exports = {
         ]
       },
       {
-        id: 48957,
-        label: 'Guam Exclusive Economic Zone',
+        id: '48957',
+        label: 'Guam EEZ',
         bounds: [
           141.195406767808,
           10.9539722225401,
@@ -2479,7 +2479,7 @@ module.exports = {
         ]
       },
       {
-        id: 48961,
+        id: '48961',
         label: 'Joint regime area Argentina / Uruguay',
         bounds: [
           -56.7833333333333,
@@ -2489,7 +2489,7 @@ module.exports = {
         ]
       },
       {
-        id: 48962,
+        id: '48962',
         label: 'Joint regime area Peru / Ecuador',
         bounds: [
           -84.5158333336414,
@@ -2499,7 +2499,7 @@ module.exports = {
         ]
       },
       {
-        id: 48964,
+        id: '48964',
         label: 'Joint regime area Senegal / Guinea Bissau',
         bounds: [
           -20.1891666668079,
@@ -2509,7 +2509,7 @@ module.exports = {
         ]
       },
       {
-        id: 48965,
+        id: '48965',
         label: 'Overlapping claim: Venezuela / Aruba / Dominican Republic',
         bounds: [
           -70.4176804038274,
@@ -2519,7 +2519,7 @@ module.exports = {
         ]
       },
       {
-        id: 48966,
+        id: '48966',
         label: 'Joint regime area Spain / France',
         bounds: [
           -5.66666666638309,
@@ -2529,7 +2529,7 @@ module.exports = {
         ]
       },
       {
-        id: 48967,
+        id: '48967',
         label: 'Joint regime area United Kingdom / Denmark (Faeroe Islands)',
         bounds: [
           -11.2659276300558,
@@ -2539,7 +2539,7 @@ module.exports = {
         ]
       },
       {
-        id: 48968,
+        id: '48968',
         label: 'Joint regime area Costa Rica / Ecuador (Galapagos)',
         bounds: [
           -90.4711111109886,
@@ -2549,12 +2549,12 @@ module.exports = {
         ]
       },
       {
-        id: 48969,
+        id: '48969',
         label: 'Joint regime area Guyana / Barbados',
         bounds: [-57.1738888888889, 10.6044444444444, -57.0774999999999, 10.745]
       },
       {
-        id: 48970,
+        id: '48970',
         label: 'Joint regime area Colombia / Dominican Republic',
         bounds: [
           -73.341666666883,
@@ -2564,22 +2564,22 @@ module.exports = {
         ]
       },
       {
-        id: 48971,
+        id: '48971',
         label: 'Overlapping claim: Venezuela / Colombia / Dominican Republic',
         bounds: [-71.675, 14.9644444447554, -70.4176804038274, 15.1774740092183]
       },
       {
-        id: 48972,
+        id: '48972',
         label: 'Joint regime area Honduras / Cayman Islands',
         bounds: [-84.1999999998, 18.4166666662339, -83.6333333330668, 18.95]
       },
       {
-        id: 48973,
+        id: '48973',
         label: 'Joint regime area Iceland / Denmark (Faeroe Islands)',
         bounds: [-12.1453944439981, 62.5393222226426, -10.0932333331515, 63.5]
       },
       {
-        id: 48974,
+        id: '48974',
         label: 'Joint regime area Ecuador / Colombia',
         bounds: [
           -83.9758333333331,
@@ -2589,7 +2589,7 @@ module.exports = {
         ]
       },
       {
-        id: 48975,
+        id: '48975',
         label: 'Joint regime area Iceland / Norway (Jan Mayen)',
         bounds: [
           -10.4999999997073,
@@ -2599,7 +2599,7 @@ module.exports = {
         ]
       },
       {
-        id: 48976,
+        id: '48976',
         label: 'Joint regime area Italy / France',
         bounds: [
           8.99888888861165,
@@ -2609,7 +2609,7 @@ module.exports = {
         ]
       },
       {
-        id: 48977,
+        id: '48977',
         label: 'Joint regime area Sweden / Norway',
         bounds: [
           10.2681388888988,
@@ -2619,13 +2619,13 @@ module.exports = {
         ]
       },
       {
-        id: 48978,
+        id: '48978',
         label: 'Joint regime area United States / Russia',
         bounds: [-180, 51.1700648212511, 180.000000000001, 73.3560218927556]
       },
       {
-        id: 48980,
-        label: 'Northern Mariana Exclusive Economic Zone',
+        id: '48980',
+        label: 'Northern Mariana EEZ',
         bounds: [
           141.331091398749,
           12.2278801210709,
@@ -2634,7 +2634,7 @@ module.exports = {
         ]
       },
       {
-        id: 48982,
+        id: '48982',
         label: 'Overlapping claim: Puerto Rico / Dominican Republic',
         bounds: [
           -67.7828867398964,
@@ -2644,8 +2644,8 @@ module.exports = {
         ]
       },
       {
-        id: 48984,
-        label: 'Colombian Exclusive Economic Zone (Serranilla)',
+        id: '48984',
+        label: 'Colombian EEZ (Serranilla)',
         bounds: [
           -80.0630555552694,
           15.5963888887363,
@@ -2654,8 +2654,8 @@ module.exports = {
         ]
       },
       {
-        id: 48985,
-        label: 'Colombian Exclusive Economic Zone (Bajo Nuevo)',
+        id: '48985',
+        label: 'Colombian EEZ (Bajo Nuevo)',
         bounds: [
           -78.8408333332915,
           15.6491666669082,
@@ -2664,7 +2664,7 @@ module.exports = {
         ]
       },
       {
-        id: 48997,
+        id: '48997',
         label: 'Overlapping claim Chafarinas Islands: Spain / Morocco',
         bounds: [
           -2.52455518247069,
@@ -2674,7 +2674,7 @@ module.exports = {
         ]
       },
       {
-        id: 48998,
+        id: '48998',
         label: 'Overlapping claim Perejil Island: Spain / Morocco',
         bounds: [
           -5.42918921192302,
@@ -2684,7 +2684,7 @@ module.exports = {
         ]
       },
       {
-        id: 48999,
+        id: '48999',
         label: 'Overlapping claim Peñón de Vélez de la Gomera: Spain / Morocco',
         bounds: [
           -4.31910695003256,
@@ -2694,7 +2694,7 @@ module.exports = {
         ]
       },
       {
-        id: 49000,
+        id: '49000',
         label: 'Overlapping claim Melilla: Spain / Morocco',
         bounds: [
           -2.95220494280352,
@@ -2704,7 +2704,7 @@ module.exports = {
         ]
       },
       {
-        id: 49001,
+        id: '49001',
         label: 'Overlapping claim Alhucemas Islands: Spain / Morocco',
         bounds: [
           -3.90510090448305,
@@ -2714,7 +2714,7 @@ module.exports = {
         ]
       },
       {
-        id: 49002,
+        id: '49002',
         label: 'Overlapping claim Ceuta: Spain / Morocco',
         bounds: [
           -5.38584086145954,
@@ -2724,7 +2724,7 @@ module.exports = {
         ]
       },
       {
-        id: 49003,
+        id: '49003',
         label: 'Overlapping claim South China Sea',
         bounds: [
           109.572031787987,
@@ -2734,7 +2734,7 @@ module.exports = {
         ]
       },
       {
-        id: 50167,
+        id: '50167',
         label: 'Joint regime area Croatia / Slovenia',
         bounds: [
           13.2116666666666,
@@ -2744,7 +2744,7 @@ module.exports = {
         ]
       },
       {
-        id: 50170,
+        id: '50170',
         label: 'Overlapping claim Qatar / Saudi Arabia / United Arab Emirates',
         bounds: [
           51.4355555555555,
