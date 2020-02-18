@@ -271,7 +271,7 @@ module.exports = {
       },
       {
         id: '5695',
-        label: 'Overlapping claim Ukrainian EEZ',
+        label: 'Ukrainian EEZ (Overlapping claim)',
         bounds: [
           29.6040439601607,
           43.1880555555558,
@@ -591,7 +591,7 @@ module.exports = {
       },
       {
         id: '8344',
-        label: 'Overlapping claim Chagos Archipelago EEZ: UK / Mauritius',
+        label: 'British / Mauritian EEZ (Overlapping claim Chagos Archipelago)',
         bounds: [
           67.8874277774702,
           -10.7946250002435,
@@ -801,7 +801,7 @@ module.exports = {
       },
       {
         id: '8365',
-        label: 'Overlapping claim Gibraltarian EEZ',
+        label: 'Gibraltarian EEZ (Overlapping claim)',
         bounds: [
           -5.39735163676841,
           36.010421983388,
@@ -831,7 +831,7 @@ module.exports = {
       },
       {
         id: '8368',
-        label: 'Overlapping claim Western Saharan EEZ',
+        label: 'Western Saharan EEZ (Overlapping claim)',
         bounds: [
           -20.6669210302812,
           19.3301154078002,
@@ -972,7 +972,7 @@ module.exports = {
       {
         id: '8383',
         label:
-          'Overlapping claim South Georgia and South Sandwich EEZ: UK / Argentina',
+          'British / Argentinean EEZ (Overlapping claim South Georgia and South Sandwich)',
         bounds: [
           -44.611292564496,
           -62.7894485243178,
@@ -1033,7 +1033,7 @@ module.exports = {
       {
         id: '8389',
         label:
-          'Overlapping claim Falkland / Malvinas Islands EEZ: UK / Argentina',
+          'British / Argentinean EEZ (Overlapping claim Falkland / Malvinas Islands)',
         bounds: [
           -65.0151493545588,
           -56.2278161073274,
@@ -2078,7 +2078,7 @@ module.exports = {
       },
       {
         id: '21792',
-        label: 'Joint regime area Colombia / Jamaica',
+        label: 'Colombia / Jamaica (Joint regime area)',
         bounds: [
           -80.0181944443179,
           14.4936111108641,
@@ -2088,7 +2088,7 @@ module.exports = {
       },
       {
         id: '21795',
-        label: 'Joint regime area Australia / East Timor',
+        label: 'Australia / East Timor (Joint regime area)',
         bounds: [
           126.001223517786,
           -11.3341388888353,
@@ -2098,7 +2098,7 @@ module.exports = {
       },
       {
         id: '21796',
-        label: 'Joint regime area Japan / Korea',
+        label: 'Japan / Korea (Joint regime area)',
         bounds: [
           125.92500000025,
           28.5999999996003,
@@ -2108,7 +2108,7 @@ module.exports = {
       },
       {
         id: '21797',
-        label: 'Joint regime area Nigeria / Sao Tome and Principe',
+        label: 'Nigeria / Sao Tome and Principe (Joint regime area)',
         bounds: [
           3.57583333354154,
           1.15472222185312,
@@ -2248,7 +2248,7 @@ module.exports = {
       },
       {
         id: '26582',
-        label: 'Overlapping claim: Sudan / Egypt',
+        label: 'Sudan / Egypt (Overlapping claim)',
         bounds: [
           35.6135107282381,
           21.8896734594302,
@@ -2258,7 +2258,7 @@ module.exports = {
       },
       {
         id: '33176',
-        label: 'Overlapping claim: Kenya / Somalia',
+        label: 'Kenya / Somalia (Overlapping claim)',
         bounds: [
           41.5662163709227,
           -3.55475448633041,
@@ -2338,7 +2338,7 @@ module.exports = {
       },
       {
         id: '33185',
-        label: 'Overlapping claim: Trinidad and Tobago / Venezuela / Guyana',
+        label: 'Trinidad and Tobago / Venezuela / Guyana ',
         bounds: [
           -58.8199999997998,
           10.1663888893108,
@@ -2348,7 +2348,7 @@ module.exports = {
       },
       {
         id: '48943',
-        label: 'Overlapping claim: Canada / USA',
+        label: 'Canada / USA',
         bounds: [
           -141.000000001085,
           69.6477705673681,
@@ -2358,7 +2358,7 @@ module.exports = {
       },
       {
         id: '48944',
-        label: 'Overlapping claim Mayotte: France / Comoros',
+        label: 'French / Comoran EEZ (Overlapping claim Mayotte)',
         bounds: [
           43.484963946377,
           -14.5306505965476,
@@ -2368,7 +2368,7 @@ module.exports = {
       },
       {
         id: '48945',
-        label: 'Overlapping claim Glorioso Islands: France / Madagascar',
+        label: 'French / Madagascan (Overlapping claim Glorioso Islands)',
         bounds: [
           45.7675000000001,
           -12.8093917766043,
@@ -2378,7 +2378,7 @@ module.exports = {
       },
       {
         id: '48946',
-        label: 'Overlapping claim Ile Tromelin: Reunion / Mauritus',
+        label: 'Reunion / Mauritian (Overlapping claim Ile Tromelin)',
         bounds: [
           52.3906106332744,
           -18.8000000000999,
@@ -2388,7 +2388,7 @@ module.exports = {
       },
       {
         id: '48947',
-        label: 'Overlapping claim: Iran / United Arab Emirates',
+        label: 'Iranian / United Arab Emirates EEZ (Overlapping claim)',
         bounds: [
           54.7527319788983,
           25.495889125583,
@@ -2399,7 +2399,7 @@ module.exports = {
       {
         id: '48948',
         label:
-          'Overlapping claim Matthew and Hunter Islands: New Caledonia / Vanuatu',
+          'New Caledonian / Vanuatu EEZ (Overlapping claim Matthew and Hunter Islands)',
         bounds: [
           170.05927827779,
           -25.7467121187692,
@@ -2409,7 +2409,7 @@ module.exports = {
       },
       {
         id: '48950',
-        label: 'Overlapping claim Kuril Islands: Japan / Russia',
+        label: 'Japanese / Russian EEZ (Overlapping claim Kuril Islands)',
         bounds: [
           145.231133794889,
           40.3210150837793,
@@ -2419,7 +2419,7 @@ module.exports = {
       },
       {
         id: '48951',
-        label: 'Overlapping claim Navassa Island: USA / Haiti',
+        label: 'USA / Haitian EEZ (Overlapping claim Navassa Island)',
         bounds: [
           -75.8324362326459,
           17.333679761412,
@@ -2449,7 +2449,8 @@ module.exports = {
       },
       {
         id: '48954',
-        label: 'Overlapping claim Senkaku Islands: Japan / China / Taiwan',
+        label:
+          'Japanese / Chinese / Taiwanese EEZ (Overlapping claim Senkaku Islands)',
         bounds: [
           122.610685858466,
           25.0534202264624,
@@ -2459,7 +2460,8 @@ module.exports = {
       },
       {
         id: '48955',
-        label: 'Overlapping claim Liancourt Rocks: Japan / South Korea',
+        label:
+          'Japanese / South Korean EEZ (Overlapping claim Liancourt Rocks)',
         bounds: [
           131.610440934961,
           37.0370980870898,
@@ -2469,7 +2471,7 @@ module.exports = {
       },
       {
         id: '48956',
-        label: 'Overlapping claim Doumeira Islands: Djibouti / Eritrea',
+        label: 'Djiboutian / Eritrean EEZ (Overlapping claim Doumeira Islands)',
         bounds: [
           43.1290278559509,
           12.6800570415994,
@@ -2489,7 +2491,7 @@ module.exports = {
       },
       {
         id: '48961',
-        label: 'Joint regime area Argentina / Uruguay',
+        label: 'Argentinean / Uruguayan EEZ (Joint regime area)',
         bounds: [
           -56.7833333333333,
           -37.5333333333334,
@@ -2499,7 +2501,7 @@ module.exports = {
       },
       {
         id: '48962',
-        label: 'Joint regime area Peru / Ecuador',
+        label: 'Peruvian / Ecuadorian EEZ (Joint regime area)',
         bounds: [
           -84.5158333336414,
           -3.56055555599409,
@@ -2509,7 +2511,7 @@ module.exports = {
       },
       {
         id: '48964',
-        label: 'Joint regime area Senegal / Guinea Bissau',
+        label: 'Senegalese / Guinea Bissau EEZ (Joint regime area)',
         bounds: [
           -20.1891666668079,
           9.33944444430591,
@@ -2519,7 +2521,8 @@ module.exports = {
       },
       {
         id: '48965',
-        label: 'Overlapping claim: Venezuela / Aruba / Dominican Republic',
+        label:
+          'Venezuelan / Aruban / Dominican Republic EEZ (Overlapping claim)',
         bounds: [
           -70.4176804038274,
           15.1774740092182,
@@ -2529,7 +2532,7 @@ module.exports = {
       },
       {
         id: '48966',
-        label: 'Joint regime area Spain / France',
+        label: 'Spanese / French EEZ (Joint regime area)',
         bounds: [
           -5.66666666638309,
           45.0083333331169,
@@ -2539,7 +2542,8 @@ module.exports = {
       },
       {
         id: '48967',
-        label: 'Joint regime area United Kingdom / Denmark (Faeroe Islands)',
+        label:
+          'United Kingdom / Danish (Faeroe Islands) EEZ (Joint regime area)',
         bounds: [
           -11.2659276300558,
           59.8305555557944,
@@ -2549,7 +2553,7 @@ module.exports = {
       },
       {
         id: '48968',
-        label: 'Joint regime area Costa Rica / Ecuador (Galapagos)',
+        label: 'Costa Rican / Ecuadorian (Galapagos) EEZ (Joint regime area)',
         bounds: [
           -90.4711111109886,
           1.98305555556954,
@@ -2559,7 +2563,7 @@ module.exports = {
       },
       {
         id: '48969',
-        label: 'Joint regime area Guyana / Barbados',
+        label: 'Guyanese / Barbados EEZ (Joint regime area)',
         bounds: [
           -57.1738888888889,
           10.6044444444444,
@@ -2569,7 +2573,7 @@ module.exports = {
       },
       {
         id: '48970',
-        label: 'Joint regime area Colombia / Dominican Republic',
+        label: 'Colombian / Dominican Republic EEZ (Joint regime area)',
         bounds: [
           -73.341666666883,
           14.6749999995506,
@@ -2579,7 +2583,8 @@ module.exports = {
       },
       {
         id: '48971',
-        label: 'Overlapping claim: Venezuela / Colombia / Dominican Republic',
+        label:
+          'Venezuelan / Colombian / Dominican Republic EEZ (Overlapping claim)',
         bounds: [
           -71.675,
           14.9644444447554,
@@ -2589,17 +2594,17 @@ module.exports = {
       },
       {
         id: '48972',
-        label: 'Joint regime area Honduras / Cayman Islands',
+        label: 'Hondurean / Cayman Islands EEZ (Joint regime area)',
         bounds: [-84.1999999998, 18.4166666662339, -83.6333333330668, 18.95],
       },
       {
         id: '48973',
-        label: 'Joint regime area Iceland / Denmark (Faeroe Islands)',
+        label: 'Icelandic / Danish (Faeroe Islands) EEZ (Joint regime area)',
         bounds: [-12.1453944439981, 62.5393222226426, -10.0932333331515, 63.5],
       },
       {
         id: '48974',
-        label: 'Joint regime area Ecuador / Colombia',
+        label: 'Ecuadorian / Colombian EEZ (Joint regime area)',
         bounds: [
           -83.9758333333331,
           1.28916666682403,
@@ -2609,7 +2614,7 @@ module.exports = {
       },
       {
         id: '48975',
-        label: 'Joint regime area Iceland / Norway (Jan Mayen)',
+        label: 'Icelandic / Norwegian (Jan Mayen) EEZ (Joint regime area)',
         bounds: [
           -10.4999999997073,
           68.0000000000001,
@@ -2619,7 +2624,7 @@ module.exports = {
       },
       {
         id: '48976',
-        label: 'Joint regime area Italy / France',
+        label: 'Italian / French EEZ (Joint regime area)',
         bounds: [
           8.99888888861165,
           41.2711111114889,
@@ -2629,7 +2634,7 @@ module.exports = {
       },
       {
         id: '48977',
-        label: 'Joint regime area Sweden / Norway',
+        label: 'Sweden / Norwegian EEZ (Joint regime area)',
         bounds: [
           10.2681388888988,
           58.7614722219656,
@@ -2639,7 +2644,7 @@ module.exports = {
       },
       {
         id: '48978',
-        label: 'Joint regime area United States / Russia',
+        label: 'United States / Russian EEZ (Joint regime area)',
         bounds: [-180, 51.1700648212511, 180.000000000001, 73.3560218927556],
       },
       {
@@ -2654,7 +2659,7 @@ module.exports = {
       },
       {
         id: '48982',
-        label: 'Overlapping claim: Puerto Rico / Dominican Republic',
+        label: 'Puerto Rican / Dominican Republic EEZ (Overlapping claim)',
         bounds: [
           -67.7828867398964,
           18.875358498707,
@@ -2684,7 +2689,7 @@ module.exports = {
       },
       {
         id: '48997',
-        label: 'Overlapping claim Chafarinas Islands: Spain / Morocco',
+        label: 'Spanish / Moroccan EEZ (Overlapping claim Chafarinas Islands)',
         bounds: [
           -2.52455518247069,
           35.1543849935728,
@@ -2694,7 +2699,7 @@ module.exports = {
       },
       {
         id: '48998',
-        label: 'Overlapping claim Perejil Island: Spain / Morocco',
+        label: 'Spanish / Moroccan EEZ (Overlapping claim Perejil Island)',
         bounds: [
           -5.42918921192302,
           35.9107761383058,
@@ -2704,7 +2709,8 @@ module.exports = {
       },
       {
         id: '48999',
-        label: 'Overlapping claim Peñón de Vélez de la Gomera: Spain / Morocco',
+        label:
+          'Spanish / Moroccan EEZ (Overlapping claim Peñón de Vélez de la Gomera)',
         bounds: [
           -4.31910695003256,
           35.1694523556418,
@@ -2714,7 +2720,7 @@ module.exports = {
       },
       {
         id: '49000',
-        label: 'Overlapping claim Melilla: Spain / Morocco',
+        label: 'Spanish / Moroccan EEZ (Overlapping claim Melilla)',
         bounds: [
           -2.95220494280352,
           35.2716231893589,
@@ -2724,7 +2730,7 @@ module.exports = {
       },
       {
         id: '49001',
-        label: 'Overlapping claim Alhucemas Islands: Spain / Morocco',
+        label: 'Spanish / Moroccan EEZ (Overlapping claim Alhucemas Islands)',
         bounds: [
           -3.90510090448305,
           35.2094684518079,
@@ -2734,7 +2740,7 @@ module.exports = {
       },
       {
         id: '49002',
-        label: 'Overlapping claim Ceuta: Spain / Morocco',
+        label: 'Spanish / Moroccan EEZ (Overlapping claim Ceuta)',
         bounds: [
           -5.38584086145954,
           35.8155912167014,
@@ -2754,7 +2760,7 @@ module.exports = {
       },
       {
         id: '50167',
-        label: 'Joint regime area Croatia / Slovenia',
+        label: 'Croatian / Slovenian EEZ (Joint regime area)',
         bounds: [
           13.2116666666666,
           45.3990555600001,
@@ -2764,7 +2770,8 @@ module.exports = {
       },
       {
         id: '50170',
-        label: 'Overlapping claim Qatar / Saudi Arabia / United Arab Emirates',
+        label:
+          'Qatari / Saudi Arabian / United Arab Emirates EEZ (Overlapping claim)',
         bounds: [
           51.4355555555555,
           24.6380555555555,
