@@ -2532,7 +2532,7 @@ module.exports = {
       },
       {
         id: '48966',
-        label: 'Spanese / French EEZ (Joint regime area)',
+        label: 'Spanish / French EEZ (Joint regime area)',
         bounds: [
           -5.66666666638309,
           45.0083333331169,
