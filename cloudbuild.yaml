@@ -1,21 +1,55 @@
 steps:
   # Run tests
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '--target', 'development', '-t', 'gfw/api-settings:development', '.']
+    args:
+      [
+        'build',
+        '--target',
+        'development',
+        '-t',
+        'gfw/api-settings:development',
+        '.',
+      ]
   - name: 'gcr.io/cloud-builders/docker'
     args: ['run', 'gfw/api-settings:development', 'npm', 'test']
 
   # Push production image to GCR
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '--target', 'production', '-t', 'gcr.io/world-fishing-827/github.com/globalfishingwatch/api-settings:$COMMIT_SHA', '.']
+    args:
+      [
+        'build',
+        '--target',
+        'production',
+        '-t',
+        'gcr.io/world-fishing-827/github.com/globalfishingwatch/api-settings:$COMMIT_SHA',
+        '.',
+      ]
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/world-fishing-827/github.com/globalfishingwatch/api-settings:$COMMIT_SHA' ]
+    args:
+      [
+        'push',
+        'gcr.io/world-fishing-827/github.com/globalfishingwatch/api-settings:$COMMIT_SHA',
+      ]
 
   # Deploy to the appropriate environment
   - name: 'gcr.io/cloud-builders/gcloud'
-    args: ['beta', 'run', 'deploy', '$_RUN_SERVICE_NAME', '--project', '$_RUN_PROJECT', '--image', 'gcr.io/world-fishing-827/github.com/globalfishingwatch/api-settings:$COMMIT_SHA', '--region', '$_RUN_REGION', '--platform', 'managed']
+    args:
+      [
+        'beta',
+        'run',
+        'deploy',
+        '$_RUN_SERVICE_NAME',
+        '--project',
+        '$_RUN_PROJECT',
+        '--image',
+        'gcr.io/world-fishing-827/github.com/globalfishingwatch/api-settings:$COMMIT_SHA',
+        '--region',
+        '$_RUN_REGION',
+        '--platform',
+        'managed',
+        '--set-env-vars',
+        'GFW_APP_TOKEN=$_GFW_APP_TOKEN,HOST=$_HOST,GCLOUD_DATASTORE_NAMESPACE=$_GCLOUD_DATASTORE_NAMESPACE,GCLOUD_DATASTORE_PROJECTID=$_GCLOUD_DATASTORE_PROJECTID,API_PELAGOS_SERVER=$_API_PELAGOS_SERVER,API_PELAGOS_OPENAPI=$_API_PELAGOS_OPENAPI,API_VESSELS_SERVER=$_API_VESSELS_SERVER,API_VESSELS_OPENAPI=$_API_VESSELS_OPENAPI,API_EVENTS_SERVER=$_API_EVENTS_SERVER,API_EVENTS_OPENAPI=$_API_EVENTS_OPENAPI,API_AUTH_SERVER=$_API_AUTH_SERVER,API_AUTH_OPENAPI=$_API_AUTH_OPENAPI,API_SETTINGS_SERVER=$_API_SETTINGS_SERVER,API_SETTINGS_OPENAPI=$_API_SETTINGS_OPENAPI',
+      ]
 
 images:
   - 'gcr.io/world-fishing-827/github.com/globalfishingwatch/api-settings:$COMMIT_SHA'
-
-

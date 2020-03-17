@@ -2,52 +2,52 @@ module.exports = {
   async get() {
     return [
       {
-        id: "ICCAT",
-        label: "ICCAT",
+        id: 'ICCAT',
+        label: 'ICCAT',
         alias: [
-          "CICAA",
-          "CICTA",
-          "International Commission for the Conservation of Atlantic Tunas",
-          "Comisión Internacional para la Conservación del Atún Atlántico",
-          "Commission internationale pour la conservation des thonidés de l’Atlantique"
+          'CICAA',
+          'CICTA',
+          'International Commission for the Conservation of Atlantic Tunas',
+          'Comisión Internacional para la Conservación del Atún Atlántico',
+          'Commission internationale pour la conservation des thonidés de l’Atlantique',
         ],
-        bounds: [[86.1509, -98.0859], [-82.9834, 68.2031]]
+        bounds: [-98.0859, -82.9834, 68.2031, 86.1509],
       },
       {
-        id: "IOTC",
-        label: "IOTC",
+        id: 'IOTC',
+        label: 'IOTC',
         alias: [
-          "CTOI",
-          "Indian Ocean Tuna Commission",
-          "Commission des Thons de l’Océan Indien"
+          'CTOI',
+          'Indian Ocean Tuna Commission',
+          'Commission des Thons de l’Océan Indien',
         ],
-        bounds: [[30.6001, 19.8633], [-54.7753, 149.7656]]
+        bounds: [19.8633, -54.7753, 149.7656, 30.6001],
       },
       {
-        id: "WCPFC",
-        label: "WCPFC",
-        alias: "Western & Central Pacific Fisheries Commission",
-        bounds: [[85, -180], [-60, 180]]
+        id: 'WCPFC',
+        label: 'WCPFC',
+        alias: 'Western & Central Pacific Fisheries Commission',
+        bounds: [-180, -60, 180, 85],
       },
       {
-        id: "IATTC",
-        label: "IATTC",
+        id: 'IATTC',
+        label: 'IATTC',
         alias: [
-          "CIAT",
-          "AIDCP",
-          "IDCP",
-          "Inter-American Tropical Tuna Commission",
-          "Comisión Interamericana del Atún Tropical",
-          "International Dolphin Conservation Program"
+          'CIAT',
+          'AIDCP',
+          'IDCP',
+          'Inter-American Tropical Tuna Commission',
+          'Comisión Interamericana del Atún Tropical',
+          'International Dolphin Conservation Program',
         ],
-        bounds: [[50.0642, -150.1172], [-50.2893, -71.7188]]
+        bounds: [-150.1172, -50.2893, -71.7188, 50.0642],
       },
       {
-        id: "CCSBT",
-        label: "CCSBT",
-        alias: "Commission for the Conservation of Southern Bluefin Tuna",
-        bounds: [[-30.1451, -20.3906], [-50.0642, 184.5703]]
-      }
+        id: 'CCSBT',
+        label: 'CCSBT',
+        alias: 'Commission for the Conservation of Southern Bluefin Tuna',
+        bounds: [-20.3906, -50.0642, 184.5703, -30.1451],
+      },
     ];
-  }
+  },
 };
