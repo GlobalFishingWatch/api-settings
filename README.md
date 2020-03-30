@@ -1,3 +1,6 @@
+# Deprecated Repository
+The Dataset features and platform features have been replaced with api-dataset microservice and api-gateway.
+
 # GFW API: Vessel Events
 
 REST API microservice to global GFW platform settings, such as datasets, dataset capabilities, API endpoints and such.
